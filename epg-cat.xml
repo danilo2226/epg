@@ -2,7 +2,7 @@
 <channel id="MULTICANAL_CYO">
 <display-name>MULTICANAL</display-name>
 </channel>
-<programme channel="MULTICANAL_CYO" start="20230821000000 -0500" stop="20230904020000 -0500">
+<programme channel="MULTICANAL_CYO" start="20230903210000 -0500" stop="20230904020000 -0500">
 <title>CINE NOCTURNO</title>
 <desc>Disfruta de las mejores Peliculas.</desc>
 <icon src="https://www.imdb.com/title/tt1612716/mediaviewer/rm3707021825/?ref_=ext_shr_lnk"/>

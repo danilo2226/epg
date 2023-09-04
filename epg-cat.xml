@@ -2,757 +2,757 @@
 <channel id="MULTICANAL_CYO">
 <display-name>MULTICANAL</display-name>
 </channel>
-<programme channel="MULTICANAL_CYO" start="20230904000000 +0000" stop="20230904020000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230821000000 -0500" stop="20230904020000 -0500">
 <title>CINE NOCTURNO</title>
 <desc>Disfruta de las mejores Peliculas.</desc>
 <icon src="https://www.imdb.com/title/tt1612716/mediaviewer/rm3707021825/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230904020000 +0000" stop="20230904030000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230904020000 -0500" stop="20230904030000 -0500">
 <title>Reprisse – ROSARIO TIJERAS</title>
 <desc>Una hermosa mujer que proviene de un barrio pobre se ve involucrada en un triángulo amoroso con dos mejores amigos que provienen de familias prominentes de la ciudad.</desc>
 <icon src="https://www.imdb.com/title/tt1612716/mediaviewer/rm3707021825/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230904030000 +0000" stop="20230904050000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230904030000 -0500" stop="20230904050000 -0500">
 <title>PADRE DE FAMILIA</title>
 <desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
 <icon src="https://www.imdb.com/title/tt5641510/mediaviewer/rm282712833/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230904050000 +0000" stop="20230904060000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230904050000 -0500" stop="20230904060000 -0500">
 <title>ARMONÍA MUSICAL</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3101535"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230904060000 +0000" stop="20230904070000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230904060000 -0500" stop="20230904070000 -0500">
 <title>REPRISSE NOTICIERO VISIÓN</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230904070000 +0000" stop="20230904080000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230904070000 -0500" stop="20230904080000 -0500">
 <title>SABRINA LA BRUJA ADOLESCENTE</title>
 <desc>Cuando una estudiante de 16 años descubre que es una bruja, sus dos tías le ofrecen orientación sobre cómo controlar sus recién descubiertos poderes mágicos.</desc>
 <icon src="https://www.imdb.com/title/tt0115341/mediaviewer/rm3226620416/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230904080000 +0000" stop="20230904100000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230904080000 -0500" stop="20230904100000 -0500">
 <title>DOCUMENTALES</title>
 <desc>Espacio diario que presume de documentales mundiales.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106835"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230904100000 +0000" stop="20230904110000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230904100000 -0500" stop="20230904110000 -0500">
 <title>CHAVO ANIMADO</title>
 <desc>El espectáculo animado basado en El Chavo del Ocho.</desc>
 <icon src="https://www.imdb.com/title/tt0883625/mediaviewer/rm2566005504/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230904110000 +0000" stop="20230904120000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230904110000 -0500" stop="20230904120000 -0500">
 <title>UNA FAMILIA DE 10</title>
 <desc>Las desventuras y problemas de una gran familia de diez que viven en un apartamento.</desc>
 <icon src="https://www.imdb.com/title/tt0996011/mediaviewer/rm1931871233/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230904120000 +0000" stop="20230904125000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230904120000 -0500" stop="20230904125000 -0500">
 <title>EDUCA TV</title>
 <desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Informativo</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230904125000 +0000" stop="20230904130000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230904125000 -0500" stop="20230904130000 -0500">
 <title>INFORMATIVO VISIÓN</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
 <category>Informativo</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230904130000 +0000" stop="20230904140000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230904130000 -0500" stop="20230904140000 -0500">
 <title>SMALLVILLE</title>
 <desc>Un joven Clark Kent lucha por encontrar su lugar en el mundo mientras aprende a aprovechar sus poderes para el bien y se enfrenta a los problemas típicos de la vida adolescente en Smallville, Kansas.</desc>
 <icon src="https://www.imdb.com/title/tt0279600/mediaviewer/rm1689082368/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230904140000 +0000" stop="20230904150000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230904140000 -0500" stop="20230904150000 -0500">
 <title>PASIÓN DE GAVILANES</title>
 <desc>La historia de tres hermanos, honestos y de buen caracter, hasta que un día una tragedia les llena de deseos de venganza.</desc>
 <icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230904150000 +0000" stop="20230904160000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230904150000 -0500" stop="20230904160000 -0500">
 <title>FUTURAMA/LOS SIMPSONS</title>
 <desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
 <icon src="https://www.imdb.com/title/tt0149460/mediaviewer/rm2724603649/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230904160000 +0000" stop="20230904170000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230904160000 -0500" stop="20230904170000 -0500">
 <title>MUSIC SHOW</title>
 <desc>Espacio dedicado para exponer los mejores temas musicales.</desc>
 <icon src="https://www.imdb.com/title/tt0149460/mediaviewer/rm2724603649/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230904170000 +0000" stop="20230904180000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230904170000 -0500" stop="20230904180000 -0500">
 <title>DRAGON BALL Z</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
 <icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230904180000 +0000" stop="20230904190000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230904180000 -0500" stop="20230904190000 -0500">
 <title>EL CHAVO DEL 8</title>
 <desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
 <icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230904190000 +0000" stop="20230904200000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230904190000 -0500" stop="20230904200000 -0500">
 <title>INFORMATIVO VISIÓN</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
 <category>Informativo</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230904200000 +0000" stop="20230904210000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230904200000 -0500" stop="20230904210000 -0500">
 <title>PADRE DE FAMILIA</title>
 <desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230904210000 +0000" stop="20230904220000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230904210000 -0500" stop="20230904220000 -0500">
 <title>Novela – MI PECADO</title>
 <desc>Lucrecia y Julián son niños cuando ocurre una tragedia en la familia de Lucrecia: su hermano menor se ahoga en el río cerca de su casa. Cuando Lucrecia regresa al pueblo años después, se enamora de Julián e intenta luchar por un amor que sus padres intentan restringir a la fuerza.</desc>
 <icon src="https://www.imdb.com/title/tt1445556/mediaviewer/rm2220038656/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230904220000 +0000" stop="20230904230000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230904220000 -0500" stop="20230904230000 -0500">
 <title>PASIÓN DE GAVILANES</title>
 <desc>La historia de tres hermanos, honestos y de buen caracter, hasta que un día una tragedia les llena de deseos de venganza.</desc>
 <icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230904230000 +0000" stop="20230905000000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230904230000 -0500" stop="20230905000000 -0500">
 <title>UNA FAMILIA DE 10</title>
 <desc>Las desventuras y problemas de una gran familia de diez que viven en un apartamento.</desc>
 <icon src="https://www.imdb.com/title/tt0996011/mediaviewer/rm1931871233/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230905000000 +0000" stop="20230905020000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230905000000 -0500" stop="20230905020000 -0500">
 <title>CINE NOCTURNO</title>
 <desc>Disfruta de las mejores Peliculas.</desc>
 <icon src="https://www.imdb.com/title/tt1612716/mediaviewer/rm3707021825/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230905020000 +0000" stop="20230905030000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230905020000 -0500" stop="20230905030000 -0500">
 <title>Reprisse – ROSARIO TIJERAS</title>
 <desc>Una hermosa mujer que proviene de un barrio pobre se ve involucrada en un triángulo amoroso con dos mejores amigos que provienen de familias prominentes de la ciudad.</desc>
 <icon src="https://www.imdb.com/title/tt1612716/mediaviewer/rm3707021825/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230905030000 +0000" stop="20230905050000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230905030000 -0500" stop="20230905050000 -0500">
 <title>PADRE DE FAMILIA</title>
 <desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
 <icon src="https://www.imdb.com/title/tt5641510/mediaviewer/rm282712833/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230905050000 +0000" stop="20230905060000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230905050000 -0500" stop="20230905060000 -0500">
 <title>ARMONÍA MUSICAL</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3101535"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230905060000 +0000" stop="20230905070000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230905060000 -0500" stop="20230905070000 -0500">
 <title>REPRISSE NOTICIERO VISIÓN</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230905070000 +0000" stop="20230905080000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230905070000 -0500" stop="20230905080000 -0500">
 <title>SABRINA LA BRUJA ADOLESCENTE</title>
 <desc>Cuando una estudiante de 16 años descubre que es una bruja, sus dos tías le ofrecen orientación sobre cómo controlar sus recién descubiertos poderes mágicos.</desc>
 <icon src="https://www.imdb.com/title/tt0115341/mediaviewer/rm3226620416/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230905080000 +0000" stop="20230905100000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230905080000 -0500" stop="20230905100000 -0500">
 <title>DOCUMENTALES</title>
 <desc>Espacio diario que presume de documentales mundiales.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106835"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230905100000 +0000" stop="20230905110000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230905100000 -0500" stop="20230905110000 -0500">
 <title>CHAVO ANIMADO</title>
 <desc>El espectáculo animado basado en El Chavo del Ocho.</desc>
 <icon src="https://www.imdb.com/title/tt0883625/mediaviewer/rm2566005504/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230905110000 +0000" stop="20230905120000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230905110000 -0500" stop="20230905120000 -0500">
 <title>UNA FAMILIA DE 10</title>
 <desc>Las desventuras y problemas de una gran familia de diez que viven en un apartamento.</desc>
 <icon src="https://www.imdb.com/title/tt0996011/mediaviewer/rm1931871233/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230905120000 +0000" stop="20230905125000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230905120000 -0500" stop="20230905125000 -0500">
 <title>EDUCA TV</title>
 <desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Informativo</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230905125000 +0000" stop="20230905130000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230905125000 -0500" stop="20230905130000 -0500">
 <title>INFORMATIVO VISIÓN</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
 <category>Informativo</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230905130000 +0000" stop="20230905140000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230905130000 -0500" stop="20230905140000 -0500">
 <title>SMALLVILLE</title>
 <desc>Un joven Clark Kent lucha por encontrar su lugar en el mundo mientras aprende a aprovechar sus poderes para el bien y se enfrenta a los problemas típicos de la vida adolescente en Smallville, Kansas.</desc>
 <icon src="https://www.imdb.com/title/tt0279600/mediaviewer/rm1689082368/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230905140000 +0000" stop="20230905150000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230905140000 -0500" stop="20230905150000 -0500">
 <title>PASIÓN DE GAVILANES</title>
 <desc>La historia de tres hermanos, honestos y de buen caracter, hasta que un día una tragedia les llena de deseos de venganza.</desc>
 <icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230905150000 +0000" stop="20230905160000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230905150000 -0500" stop="20230905160000 -0500">
 <title>FUTURAMA/LOS SIMPSONS</title>
 <desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
 <icon src="https://www.imdb.com/title/tt0149460/mediaviewer/rm2724603649/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230905160000 +0000" stop="20230905170000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230905160000 -0500" stop="20230905170000 -0500">
 <title>MUSIC SHOW</title>
 <desc>Espacio dedicado para exponer los mejores temas musicales.</desc>
 <icon src="https://www.imdb.com/title/tt0149460/mediaviewer/rm2724603649/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230905170000 +0000" stop="20230905180000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230905170000 -0500" stop="20230905180000 -0500">
 <title>DRAGON BALL Z</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
 <icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230905180000 +0000" stop="20230905190000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230905180000 -0500" stop="20230905190000 -0500">
 <title>EL CHAVO DEL 8</title>
 <desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
 <icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230905190000 +0000" stop="20230905200000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230905190000 -0500" stop="20230905200000 -0500">
 <title>INFORMATIVO VISIÓN</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
 <category>Informativo</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230905200000 +0000" stop="20230905210000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230905200000 -0500" stop="20230905210000 -0500">
 <title>PADRE DE FAMILIA</title>
 <desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230905210000 +0000" stop="20230905220000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230905210000 -0500" stop="20230905220000 -0500">
 <title>Novela – MI PECADO</title>
 <desc>Lucrecia y Julián son niños cuando ocurre una tragedia en la familia de Lucrecia: su hermano menor se ahoga en el río cerca de su casa. Cuando Lucrecia regresa al pueblo años después, se enamora de Julián e intenta luchar por un amor que sus padres intentan restringir a la fuerza.</desc>
 <icon src="https://www.imdb.com/title/tt1445556/mediaviewer/rm2220038656/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230905220000 +0000" stop="20230905230000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230905220000 -0500" stop="20230905230000 -0500">
 <title>PASIÓN DE GAVILANES</title>
 <desc>La historia de tres hermanos, honestos y de buen caracter, hasta que un día una tragedia les llena de deseos de venganza.</desc>
 <icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230905230000 +0000" stop="20230906000000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230905230000 -0500" stop="20230906000000 -0500">
 <title>UNA FAMILIA DE 10</title>
 <desc>Las desventuras y problemas de una gran familia de diez que viven en un apartamento.</desc>
 <icon src="https://www.imdb.com/title/tt0996011/mediaviewer/rm1931871233/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230906000000 +0000" stop="20230906020000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230906000000 -0500" stop="20230906020000 -0500">
 <title>CINE NOCTURNO</title>
 <desc>Disfruta de las mejores Peliculas.</desc>
 <icon src="https://www.imdb.com/title/tt1612716/mediaviewer/rm3707021825/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230906020000 +0000" stop="20230906030000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230906020000 -0500" stop="20230906030000 -0500">
 <title>Reprisse – ROSARIO TIJERAS</title>
 <desc>Una hermosa mujer que proviene de un barrio pobre se ve involucrada en un triángulo amoroso con dos mejores amigos que provienen de familias prominentes de la ciudad.</desc>
 <icon src="https://www.imdb.com/title/tt1612716/mediaviewer/rm3707021825/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230906030000 +0000" stop="20230906050000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230906030000 -0500" stop="20230906050000 -0500">
 <title>PADRE DE FAMILIA</title>
 <desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
 <icon src="https://www.imdb.com/title/tt5641510/mediaviewer/rm282712833/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230906050000 +0000" stop="20230906060000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230906050000 -0500" stop="20230906060000 -0500">
 <title>ARMONÍA MUSICAL</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3101535"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230906060000 +0000" stop="20230906070000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230906060000 -0500" stop="20230906070000 -0500">
 <title>REPRISSE NOTICIERO VISIÓN</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230906070000 +0000" stop="20230906080000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230906070000 -0500" stop="20230906080000 -0500">
 <title>SABRINA LA BRUJA ADOLESCENTE</title>
 <desc>Cuando una estudiante de 16 años descubre que es una bruja, sus dos tías le ofrecen orientación sobre cómo controlar sus recién descubiertos poderes mágicos.</desc>
 <icon src="https://www.imdb.com/title/tt0115341/mediaviewer/rm3226620416/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230906080000 +0000" stop="20230906100000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230906080000 -0500" stop="20230906100000 -0500">
 <title>DOCUMENTALES</title>
 <desc>Espacio diario que presume de documentales mundiales.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106835"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230906100000 +0000" stop="20230906110000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230906100000 -0500" stop="20230906110000 -0500">
 <title>CHAVO ANIMADO</title>
 <desc>El espectáculo animado basado en El Chavo del Ocho.</desc>
 <icon src="https://www.imdb.com/title/tt0883625/mediaviewer/rm2566005504/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230906110000 +0000" stop="20230906120000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230906110000 -0500" stop="20230906120000 -0500">
 <title>UNA FAMILIA DE 10</title>
 <desc>Las desventuras y problemas de una gran familia de diez que viven en un apartamento.</desc>
 <icon src="https://www.imdb.com/title/tt0996011/mediaviewer/rm1931871233/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230906120000 +0000" stop="20230906125000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230906120000 -0500" stop="20230906125000 -0500">
 <title>EDUCA TV</title>
 <desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Informativo</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230906125000 +0000" stop="20230906130000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230906125000 -0500" stop="20230906130000 -0500">
 <title>INFORMATIVO VISIÓN</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
 <category>Informativo</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230906130000 +0000" stop="20230906140000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230906130000 -0500" stop="20230906140000 -0500">
 <title>SMALLVILLE</title>
 <desc>Un joven Clark Kent lucha por encontrar su lugar en el mundo mientras aprende a aprovechar sus poderes para el bien y se enfrenta a los problemas típicos de la vida adolescente en Smallville, Kansas.</desc>
 <icon src="https://www.imdb.com/title/tt0279600/mediaviewer/rm1689082368/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230906140000 +0000" stop="20230906150000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230906140000 -0500" stop="20230906150000 -0500">
 <title>PASIÓN DE GAVILANES</title>
 <desc>La historia de tres hermanos, honestos y de buen caracter, hasta que un día una tragedia les llena de deseos de venganza.</desc>
 <icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230906150000 +0000" stop="20230906160000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230906150000 -0500" stop="20230906160000 -0500">
 <title>FUTURAMA/LOS SIMPSONS</title>
 <desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
 <icon src="https://www.imdb.com/title/tt0149460/mediaviewer/rm2724603649/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230906160000 +0000" stop="20230906170000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230906160000 -0500" stop="20230906170000 -0500">
 <title>MUSIC SHOW</title>
 <desc>Espacio dedicado para exponer los mejores temas musicales.</desc>
 <icon src="https://www.imdb.com/title/tt0149460/mediaviewer/rm2724603649/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230906170000 +0000" stop="20230906180000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230906170000 -0500" stop="20230906180000 -0500">
 <title>DRAGON BALL Z</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
 <icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230906180000 +0000" stop="20230906190000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230906180000 -0500" stop="20230906190000 -0500">
 <title>EL CHAVO DEL 8</title>
 <desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
 <icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230906190000 +0000" stop="20230906200000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230906190000 -0500" stop="20230906200000 -0500">
 <title>INFORMATIVO VISIÓN</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
 <category>Informativo</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230906200000 +0000" stop="20230906210000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230906200000 -0500" stop="20230906210000 -0500">
 <title>PADRE DE FAMILIA</title>
 <desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230906210000 +0000" stop="20230906220000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230906210000 -0500" stop="20230906220000 -0500">
 <title>Novela – MI PECADO</title>
 <desc>Lucrecia y Julián son niños cuando ocurre una tragedia en la familia de Lucrecia: su hermano menor se ahoga en el río cerca de su casa. Cuando Lucrecia regresa al pueblo años después, se enamora de Julián e intenta luchar por un amor que sus padres intentan restringir a la fuerza.</desc>
 <icon src="https://www.imdb.com/title/tt1445556/mediaviewer/rm2220038656/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230906220000 +0000" stop="20230906230000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230906220000 -0500" stop="20230906230000 -0500">
 <title>PASIÓN DE GAVILANES</title>
 <desc>La historia de tres hermanos, honestos y de buen caracter, hasta que un día una tragedia les llena de deseos de venganza.</desc>
 <icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230906230000 +0000" stop="20230907000000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230906230000 -0500" stop="20230907000000 -0500">
 <title>UNA FAMILIA DE 10</title>
 <desc>Las desventuras y problemas de una gran familia de diez que viven en un apartamento.</desc>
 <icon src="https://www.imdb.com/title/tt0996011/mediaviewer/rm1931871233/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230907000000 +0000" stop="20230907020000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230907000000 -0500" stop="20230907020000 -0500">
 <title>CINE NOCTURNO</title>
 <desc>Disfruta de las mejores Peliculas.</desc>
 <icon src="https://www.imdb.com/title/tt1612716/mediaviewer/rm3707021825/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230907020000 +0000" stop="20230907030000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230907020000 -0500" stop="20230907030000 -0500">
 <title>Reprisse – ROSARIO TIJERAS</title>
 <desc>Una hermosa mujer que proviene de un barrio pobre se ve involucrada en un triángulo amoroso con dos mejores amigos que provienen de familias prominentes de la ciudad.</desc>
 <icon src="https://www.imdb.com/title/tt1612716/mediaviewer/rm3707021825/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230907030000 +0000" stop="20230907050000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230907030000 -0500" stop="20230907050000 -0500">
 <title>PADRE DE FAMILIA</title>
 <desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
 <icon src="https://www.imdb.com/title/tt5641510/mediaviewer/rm282712833/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230907050000 +0000" stop="20230907060000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230907050000 -0500" stop="20230907060000 -0500">
 <title>ARMONÍA MUSICAL</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3101535"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230907060000 +0000" stop="20230907070000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230907060000 -0500" stop="20230907070000 -0500">
 <title>REPRISSE NOTICIERO VISIÓN</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230907070000 +0000" stop="20230907080000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230907070000 -0500" stop="20230907080000 -0500">
 <title>SABRINA LA BRUJA ADOLESCENTE</title>
 <desc>Cuando una estudiante de 16 años descubre que es una bruja, sus dos tías le ofrecen orientación sobre cómo controlar sus recién descubiertos poderes mágicos.</desc>
 <icon src="https://www.imdb.com/title/tt0115341/mediaviewer/rm3226620416/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230907080000 +0000" stop="20230907100000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230907080000 -0500" stop="20230907100000 -0500">
 <title>DOCUMENTALES</title>
 <desc>Espacio diario que presume de documentales mundiales.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106835"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230907100000 +0000" stop="20230907110000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230907100000 -0500" stop="20230907110000 -0500">
 <title>CHAVO ANIMADO</title>
 <desc>El espectáculo animado basado en El Chavo del Ocho.</desc>
 <icon src="https://www.imdb.com/title/tt0883625/mediaviewer/rm2566005504/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230907110000 +0000" stop="20230907120000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230907110000 -0500" stop="20230907120000 -0500">
 <title>UNA FAMILIA DE 10</title>
 <desc>Las desventuras y problemas de una gran familia de diez que viven en un apartamento.</desc>
 <icon src="https://www.imdb.com/title/tt0996011/mediaviewer/rm1931871233/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230907120000 +0000" stop="20230907125000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230907120000 -0500" stop="20230907125000 -0500">
 <title>EDUCA TV</title>
 <desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Informativo</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230907125000 +0000" stop="20230907130000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230907125000 -0500" stop="20230907130000 -0500">
 <title>INFORMATIVO VISIÓN</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
 <category>Informativo</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230907130000 +0000" stop="20230907140000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230907130000 -0500" stop="20230907140000 -0500">
 <title>SMALLVILLE</title>
 <desc>Un joven Clark Kent lucha por encontrar su lugar en el mundo mientras aprende a aprovechar sus poderes para el bien y se enfrenta a los problemas típicos de la vida adolescente en Smallville, Kansas.</desc>
 <icon src="https://www.imdb.com/title/tt0279600/mediaviewer/rm1689082368/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230907140000 +0000" stop="20230907150000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230907140000 -0500" stop="20230907150000 -0500">
 <title>PASIÓN DE GAVILANES</title>
 <desc>La historia de tres hermanos, honestos y de buen caracter, hasta que un día una tragedia les llena de deseos de venganza.</desc>
 <icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230907150000 +0000" stop="20230907160000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230907150000 -0500" stop="20230907160000 -0500">
 <title>FUTURAMA/LOS SIMPSONS</title>
 <desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
 <icon src="https://www.imdb.com/title/tt0149460/mediaviewer/rm2724603649/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230907160000 +0000" stop="20230907170000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230907160000 -0500" stop="20230907170000 -0500">
 <title>MUSIC SHOW</title>
 <desc>Espacio dedicado para exponer los mejores temas musicales.</desc>
 <icon src="https://www.imdb.com/title/tt0149460/mediaviewer/rm2724603649/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230907170000 +0000" stop="20230907180000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230907170000 -0500" stop="20230907180000 -0500">
 <title>DRAGON BALL Z</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
 <icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230907180000 +0000" stop="20230907190000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230907180000 -0500" stop="20230907190000 -0500">
 <title>EL CHAVO DEL 8</title>
 <desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
 <icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230907190000 +0000" stop="20230907200000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230907190000 -0500" stop="20230907200000 -0500">
 <title>INFORMATIVO VISIÓN</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
 <category>Informativo</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230907200000 +0000" stop="20230907210000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230907200000 -0500" stop="20230907210000 -0500">
 <title>PADRE DE FAMILIA</title>
 <desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230907210000 +0000" stop="20230907220000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230907210000 -0500" stop="20230907220000 -0500">
 <title>Novela – MI PECADO</title>
 <desc>Lucrecia y Julián son niños cuando ocurre una tragedia en la familia de Lucrecia: su hermano menor se ahoga en el río cerca de su casa. Cuando Lucrecia regresa al pueblo años después, se enamora de Julián e intenta luchar por un amor que sus padres intentan restringir a la fuerza.</desc>
 <icon src="https://www.imdb.com/title/tt1445556/mediaviewer/rm2220038656/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230907220000 +0000" stop="20230907230000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230907220000 -0500" stop="20230907230000 -0500">
 <title>PASIÓN DE GAVILANES</title>
 <desc>La historia de tres hermanos, honestos y de buen caracter, hasta que un día una tragedia les llena de deseos de venganza.</desc>
 <icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230907230000 +0000" stop="20230908000000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230907230000 -0500" stop="20230908000000 -0500">
 <title>UNA FAMILIA DE 10</title>
 <desc>Las desventuras y problemas de una gran familia de diez que viven en un apartamento.</desc>
 <icon src="https://www.imdb.com/title/tt0996011/mediaviewer/rm1931871233/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230908000000 +0000" stop="20230908020000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230908000000 -0500" stop="20230908020000 -0500">
 <title>CINE NOCTURNO</title>
 <desc>Disfruta de las mejores Peliculas.</desc>
 <icon src="https://www.imdb.com/title/tt1612716/mediaviewer/rm3707021825/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230908020000 +0000" stop="20230908030000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230908020000 -0500" stop="20230908030000 -0500">
 <title>Reprisse – ROSARIO TIJERAS</title>
 <desc>Una hermosa mujer que proviene de un barrio pobre se ve involucrada en un triángulo amoroso con dos mejores amigos que provienen de familias prominentes de la ciudad.</desc>
 <icon src="https://www.imdb.com/title/tt1612716/mediaviewer/rm3707021825/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230908030000 +0000" stop="20230908050000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230908030000 -0500" stop="20230908050000 -0500">
 <title>PADRE DE FAMILIA</title>
 <desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
 <icon src="https://www.imdb.com/title/tt5641510/mediaviewer/rm282712833/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230908050000 +0000" stop="20230908060000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230908050000 -0500" stop="20230908060000 -0500">
 <title>ARMONÍA MUSICAL</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3101535"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230908060000 +0000" stop="20230908070000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230908060000 -0500" stop="20230908070000 -0500">
 <title>REPRISSE NOTICIERO VISIÓN</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230908070000 +0000" stop="20230908080000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230908070000 -0500" stop="20230908080000 -0500">
 <title>SABRINA LA BRUJA ADOLESCENTE</title>
 <desc>Cuando una estudiante de 16 años descubre que es una bruja, sus dos tías le ofrecen orientación sobre cómo controlar sus recién descubiertos poderes mágicos.</desc>
 <icon src="https://www.imdb.com/title/tt0115341/mediaviewer/rm3226620416/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230908080000 +0000" stop="20230908100000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230908080000 -0500" stop="20230908100000 -0500">
 <title>DOCUMENTALES</title>
 <desc>Espacio diario que presume de documentales mundiales.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106835"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230908100000 +0000" stop="20230908110000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230908100000 -0500" stop="20230908110000 -0500">
 <title>CHAVO ANIMADO</title>
 <desc>El espectáculo animado basado en El Chavo del Ocho.</desc>
 <icon src="https://www.imdb.com/title/tt0883625/mediaviewer/rm2566005504/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230908110000 +0000" stop="20230908120000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230908110000 -0500" stop="20230908120000 -0500">
 <title>UNA FAMILIA DE 10</title>
 <desc>Las desventuras y problemas de una gran familia de diez que viven en un apartamento.</desc>
 <icon src="https://www.imdb.com/title/tt0996011/mediaviewer/rm1931871233/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230908120000 +0000" stop="20230908125000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230908120000 -0500" stop="20230908125000 -0500">
 <title>EDUCA TV</title>
 <desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Informativo</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230908125000 +0000" stop="20230908130000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230908125000 -0500" stop="20230908130000 -0500">
 <title>INFORMATIVO VISIÓN</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
 <category>Informativo</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230908130000 +0000" stop="20230908140000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230908130000 -0500" stop="20230908140000 -0500">
 <title>SMALLVILLE</title>
 <desc>Un joven Clark Kent lucha por encontrar su lugar en el mundo mientras aprende a aprovechar sus poderes para el bien y se enfrenta a los problemas típicos de la vida adolescente en Smallville, Kansas.</desc>
 <icon src="https://www.imdb.com/title/tt0279600/mediaviewer/rm1689082368/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230908140000 +0000" stop="20230908150000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230908140000 -0500" stop="20230908150000 -0500">
 <title>PASIÓN DE GAVILANES</title>
 <desc>La historia de tres hermanos, honestos y de buen caracter, hasta que un día una tragedia les llena de deseos de venganza.</desc>
 <icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230908150000 +0000" stop="20230908160000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230908150000 -0500" stop="20230908160000 -0500">
 <title>FUTURAMA/LOS SIMPSONS</title>
 <desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
 <icon src="https://www.imdb.com/title/tt0149460/mediaviewer/rm2724603649/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230908160000 +0000" stop="20230908170000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230908160000 -0500" stop="20230908170000 -0500">
 <title>MUSIC SHOW</title>
 <desc>Espacio dedicado para exponer los mejores temas musicales.</desc>
 <icon src="https://www.imdb.com/title/tt0149460/mediaviewer/rm2724603649/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230908170000 +0000" stop="20230908180000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230908170000 -0500" stop="20230908180000 -0500">
 <title>DRAGON BALL Z</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
 <icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230908180000 +0000" stop="20230908190000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230908180000 -0500" stop="20230908190000 -0500">
 <title>EL CHAVO DEL 8</title>
 <desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
 <icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230908190000 +0000" stop="20230908200000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230908190000 -0500" stop="20230908200000 -0500">
 <title>INFORMATIVO VISIÓN</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
 <category>Informativo</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230908200000 +0000" stop="20230908210000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230908200000 -0500" stop="20230908210000 -0500">
 <title>PADRE DE FAMILIA</title>
 <desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230908210000 +0000" stop="20230908220000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230908210000 -0500" stop="20230908220000 -0500">
 <title>Novela – MI PECADO</title>
 <desc>Lucrecia y Julián son niños cuando ocurre una tragedia en la familia de Lucrecia: su hermano menor se ahoga en el río cerca de su casa. Cuando Lucrecia regresa al pueblo años después, se enamora de Julián e intenta luchar por un amor que sus padres intentan restringir a la fuerza.</desc>
 <icon src="https://www.imdb.com/title/tt1445556/mediaviewer/rm2220038656/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230908220000 +0000" stop="20230908230000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230908220000 -0500" stop="20230908230000 -0500">
 <title>PASIÓN DE GAVILANES</title>
 <desc>La historia de tres hermanos, honestos y de buen caracter, hasta que un día una tragedia les llena de deseos de venganza.</desc>
 <icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230908230000 +0000" stop="20230909000000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230908230000 -0500" stop="20230909000000 -0500">
 <title>UNA FAMILIA DE 10</title>
 <desc>Las desventuras y problemas de una gran familia de diez que viven en un apartamento.</desc>
 <icon src="https://www.imdb.com/title/tt0996011/mediaviewer/rm1931871233/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230909000000 +0000" stop="20230909050000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230909000000 -0500" stop="20230909050000 -0500">
 <title>OFF-AIR</title>
 <desc>OFF-AIR.</desc>
 <icon src="https://www.imdb.com/title/tt0996011/mediaviewer/rm1931871233/?ref_=ext_shr_lnk"/>
 <category>Informativo</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230909050000 +0000" stop="20230909070000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230909050000 -0500" stop="20230909070000 -0500">
 <title>ARMONÍA MUSICAL</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3101535"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230909070000 +0000" stop="20230909090000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230909070000 -0500" stop="20230909090000 -0500">
 <title>PELICULAS DE ESTRENO</title>
 <desc>Disfruta de las mejores Peliculas.</desc>
 <icon src="https://www.imdb.com/title/tt1612716/mediaviewer/rm3707021825/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230909090000 +0000" stop="20230909130000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230909090000 -0500" stop="20230909130000 -0500">
 <title>UNA FAMILIA DE 10</title>
 <desc>Las desventuras y problemas de una gran familia de diez que viven en un apartamento.</desc>
 <icon src="https://www.imdb.com/title/tt0996011/mediaviewer/rm1931871233/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230909130000 +0000" stop="20230909140000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230909130000 -0500" stop="20230909140000 -0500">
 <title>PINKY Y CEREBRO</title>
 <desc>Un ratón genio y su estúpido compañero intentan conquistar el mundo cada noche.</desc>
 <icon src="https://www.imdb.com/title/tt0112123/mediaviewer/rm2550913793/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230909140000 +0000" stop="20230909190000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230909140000 -0500" stop="20230909190000 -0500">
 <title>MARATHON – ROSARIO TIJERAS</title>
 <desc>Una hermosa mujer que proviene de un barrio pobre se ve involucrada en un triángulo amoroso con dos mejores amigos que provienen de familias prominentes de la ciudad.</desc>
 <icon src="https://www.imdb.com/title/tt0112123/mediaviewer/rm2550913793/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230909190000 +0000" stop="20230909210000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230909190000 -0500" stop="20230909210000 -0500">
 <title>INFO-RESUMEN</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
 <category>Informativo</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230909210000 +0000" stop="20230910000000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230909210000 -0500" stop="20230910000000 -0500">
 <title>MULTICINE</title>
 <desc>Disfruta de las mejores Peliculas.</desc>
 <icon src="https://www.imdb.com/title/tt1612716/mediaviewer/rm3707021825/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230910000000 +0000" stop="20230910050000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230910000000 -0500" stop="20230910050000 -0500">
 <title>OFF-AIR</title>
 <desc>OFF-AIR.</desc>
 <icon src="https://www.imdb.com/title/tt0996011/mediaviewer/rm1931871233/?ref_=ext_shr_lnk"/>
 <category>Informativo</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230910050000 +0000" stop="20230910070000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230910050000 -0500" stop="20230910070000 -0500">
 <title>REPRISE-INFORESUMEN</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3101535"/>
 <category>Informativo</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230910070000 +0000" stop="20230910080000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230910070000 -0500" stop="20230910080000 -0500">
 <title>MISA DOMINICAL</title>
 <desc>La Eucaristía dominical convoca a la asamblea cristiana para dar gracias a Dios, escuchar la Palabra de Dios y alimentarse de la Eucaristía.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3101535"/>
 <category>Informativo</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230910080000 +0000" stop="20230910090000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230910080000 -0500" stop="20230910090000 -0500">
 <title>SABRINA LA BRUJA ADOLESCENTE</title>
 <desc>Cuando una estudiante de 16 años descubre que es una bruja, sus dos tías le ofrecen orientación sobre cómo controlar sus recién descubiertos poderes mágicos.</desc>
 <icon src="https://www.imdb.com/title/tt0115341/mediaviewer/rm3226620416/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230910090000 +0000" stop="20230910100000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230910090000 -0500" stop="20230910100000 -0500">
 <title>SABRINA LA BRUJA ADOLESCENTE</title>
 <desc>Cuando una estudiante de 16 años descubre que es una bruja, sus dos tías le ofrecen orientación sobre cómo controlar sus recién descubiertos poderes mágicos.</desc>
 <icon src="https://www.imdb.com/title/tt0115341/mediaviewer/rm3226620416/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230910100000 +0000" stop="20230910140000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230910100000 -0500" stop="20230910140000 -0500">
 <title>MARATHON-SMALLVILLE</title>
 <desc>Un joven Clark Kent lucha por encontrar su lugar en el mundo mientras aprende a aprovechar sus poderes para el bien y se enfrenta a los problemas típicos de la vida adolescente en Smallville, Kansas.</desc>
 <icon src="https://www.imdb.com/title/tt0279600/mediaviewer/rm1689082368/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230910140000 +0000" stop="20230910210000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230910140000 -0500" stop="20230910210000 -0500">
 <title>MARATHON-REINA DEL SUR</title>
 <desc>Teresa Mendoza regresa a México tras 8 años para luchar con los capos mexicanos.</desc>
 <icon src="https://www.imdb.com/title/tt1704637/mediaviewer/rm3303708929/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230910210000 +0000" stop="20230911000000 +0000">
+<programme channel="MULTICANAL_CYO" start="20230910210000 -0500" stop="20230912050000 -0500">
 <title>MULTICINE</title>
 <desc>Disfruta de las mejores Peliculas.</desc>
 <icon src="https://www.imdb.com/title/tt1612716/mediaviewer/rm3707021825/?ref_=ext_shr_lnk"/>

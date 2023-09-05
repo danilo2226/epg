@@ -5,6 +5,7 @@
 <channel id="UNSION_TV">
 <display-name>UNSION_TV</display-name>
 </channel>
+</tv>
 <programme channel="MULTICANAL_CYO" start="20230903210000 -0500" stop="20230904020000 -0500">
 <title>CINE NOCTURNO</title>
 <desc>Disfruta de las mejores Peliculas.</desc>

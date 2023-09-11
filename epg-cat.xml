@@ -2,10 +2,6 @@
 <channel id="MULTICANAL_CYO">
 <display-name>MULTICANAL</display-name>
 </channel>
-<channel id="UNSION_TV">
-<display-name>UNSION_TV</display-name>
-</channel>
-</tv>
 <programme channel="MULTICANAL_CYO" start="20230903210000 -0500" stop="20230904020000 -0500">
 <title>CINE NOCTURNO</title>
 <desc>Disfruta de las mejores Peliculas.</desc>
@@ -1512,45 +1508,9 @@
 <icon src="https://www.imdb.com/title/tt1704637/mediaviewer/rm3303708929/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="MULTICANAL_CYO" start="20230917210000 -0500" stop="20230911050000 -0500">
+<programme channel="MULTICANAL_CYO" start="20230917210000 -0500" stop="20230918050000 -0500">
 <title>MULTICINE</title>
 <desc>Disfruta de las mejores Peliculas.</desc>
 <icon src="https://www.imdb.com/title/tt1612716/mediaviewer/rm3707021825/?ref_=ext_shr_lnk"/>
-<category>Entretenimiento</category>
-</programme>
-<programme channel="UNSION_TV" start="20230905163000 -0500" stop="20230905170000 -0500">
-<title>Plaza Sésamo</title>
-<desc>La contraparte en español de "Barrio Sésamo". Utiliza partes dobladas del original, pero también incluye segmentos producidos por separado con su propio elenco de Muppets y personajes humanos.</desc>
-<icon src="https://www.imdb.com/title/tt0174418/mediaviewer/rm3700852992/?ref_=ext_shr_lnk"/>
-<category>Entretenimiento</category>
-</programme>
-<programme channel="UNSION_TV" start="20230905170000 -0500" stop="20230905173000 -0500">
-<title>Made In Ecuador</title>
-<desc>Es un Programa Digital que busca darte una Nueva Experiencia, con interpretaciones de los mejores artistas de todos los tiempos.</desc>
-<icon src="https://www.imdb.com/title/tt0174418/mediaviewer/rm3700852992/?ref_=ext_shr_lnk"/>
-<category>Entretenimiento</category>
-</programme>
-<programme channel="UNSION_TV" start="20230905173000 -0500" stop="20230905180000 -0500">
-<title>Vida Dura</title>
-<desc>Juliana Córtez de Colombia, vivió una infancia llena de dolor y maltratos. En su búsqueda del amor verdadero, encontró a un hombre que consideró como su “príncipe azul”, pero era un agresor.</desc>
-<icon src="https://www.imdb.com/title/tt0174418/mediaviewer/rm3700852992/?ref_=ext_shr_lnk"/>
-<category>Entretenimiento</category>
-</programme>
-<programme channel="UNSION_TV" start="20230905180000 -0500" stop="20230905183000 -0500">
-<title>En forma</title>
-<desc>¿Cómo podemos llevar una vida sana? ¿Qué es bueno para nuestro cuerpo? ¿Qué tipo de ejercicio nos ayuda a estar en forma? En forma, el magacín de salud de UNSION TV, les da las pautas para una vida mejor.</desc>
-<icon src="https://www.themoviedb.org/t/p/original/iiHnMAl5WFjGgSNw4ZHmbJBry4e.jpg"/>
-<category>Entretenimiento</category>
-</programme>
-<programme channel="UNSION_TV" start="20230905183000 -0500" stop="20230905190000 -0500">
-<title>Cocinemos</title>
-<desc>Es directo, sincero y el terror de los hosteleros descuidados. Alberto Chicote recorre en Pesadilla en la cocina la geografía española para salvar restaurantes al borde de la quiebra en un proceso que puede ser complicado, tenso y hasta doloroso. En unos pocos días el cocinero debe detectar los problemas que amenazan el negocio y encontrar una solución. Si alguien puede devolverle la chispa a un restaurante ese alguien es Alberto Chicote, que consigue renovar por completo los locales que visita gracias a su experiencia como hostelero y a sus infalibles recetas.</desc>
-<icon src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fUC5LKaSqe7eZtzAm2PdP0kxj6O.jpg"/>
-<category>Entretenimiento</category>
-</programme>
-<programme channel="UNSION_TV" start="20230905190000 -0500" stop="20230905190000 -0500">
-<title>Cocinemos</title>
-<desc>Es directo, sincero y el terror de los hosteleros descuidados. Alberto Chicote recorre en Pesadilla en la cocina la geografía española para salvar restaurantes al borde de la quiebra en un proceso que puede ser complicado, tenso y hasta doloroso. En unos pocos días el cocinero debe detectar los problemas que amenazan el negocio y encontrar una solución. Si alguien puede devolverle la chispa a un restaurante ese alguien es Alberto Chicote, que consigue renovar por completo los locales que visita gracias a su experiencia como hostelero y a sus infalibles recetas.</desc>
-<icon src="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fUC5LKaSqe7eZtzAm2PdP0kxj6O.jpg"/>
 <category>Entretenimiento</category>
 </programme>

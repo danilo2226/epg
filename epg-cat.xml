@@ -9,7 +9,7 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240527060000 -0500" stop="20240527070000 -0500">
-<title>REPRISSE NOTICIERO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL - REPRISE</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
@@ -45,9 +45,9 @@
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240527123000 -0500" stop="20240527130000 -0500">
-<title>INFORMATIVO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240527130000 -0500" stop="20240527140000 -0500">
@@ -87,15 +87,15 @@
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240527190000 -0500" stop="20240527200000 -0500">
-<title>INFORMATIVO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240527200000 -0500" stop="20240527210000 -0500">
 <title>PADRE DE FAMILIA</title>
 <desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240527210000 -0500" stop="20240527220000 -0500">
@@ -141,7 +141,7 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240528060000 -0500" stop="20240528070000 -0500">
-<title>REPRISSE NOTICIERO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL - REPRISE</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
@@ -177,9 +177,9 @@
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240528125000 -0500" stop="20240528130000 -0500">
-<title>INFORMATIVO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240528130000 -0500" stop="20240528140000 -0500">
@@ -219,15 +219,15 @@
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240528190000 -0500" stop="20240528200000 -0500">
-<title>INFORMATIVO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240528200000 -0500" stop="20240528210000 -0500">
 <title>PADRE DE FAMILIA</title>
 <desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240528210000 -0500" stop="20240528220000 -0500">
@@ -273,7 +273,7 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240529060000 -0500" stop="20240529070000 -0500">
-<title>REPRISSE NOTICIERO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL - REPRISE</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
@@ -309,9 +309,9 @@
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240529125000 -0500" stop="20240529130000 -0500">
-<title>INFORMATIVO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240529130000 -0500" stop="20240529140000 -0500">
@@ -351,15 +351,15 @@
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240529190000 -0500" stop="20240529200000 -0500">
-<title>INFORMATIVO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240529200000 -0500" stop="20240529210000 -0500">
 <title>PADRE DE FAMILIA</title>
 <desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240529210000 -0500" stop="20240529220000 -0500">
@@ -405,7 +405,7 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240530060000 -0500" stop="20240530070000 -0500">
-<title>REPRISSE NOTICIERO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL - REPRISE</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
@@ -441,9 +441,9 @@
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240530125000 -0500" stop="20240530130000 -0500">
-<title>INFORMATIVO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240530130000 -0500" stop="20240530140000 -0500">
@@ -483,15 +483,15 @@
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240530190000 -0500" stop="20240530200000 -0500">
-<title>INFORMATIVO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240530200000 -0500" stop="20240530210000 -0500">
 <title>PADRE DE FAMILIA</title>
 <desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240530210000 -0500" stop="20240530220000 -0500">
@@ -537,7 +537,7 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240531060000 -0500" stop="20240531070000 -0500">
-<title>REPRISSE NOTICIERO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL - REPRISE</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
@@ -573,9 +573,9 @@
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240531125000 -0500" stop="20240531130000 -0500">
-<title>INFORMATIVO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240531130000 -0500" stop="20240531140000 -0500">
@@ -615,15 +615,15 @@
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240531190000 -0500" stop="20240531200000 -0500">
-<title>INFORMATIVO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240531200000 -0500" stop="20240531210000 -0500">
 <title>PADRE DE FAMILIA</title>
 <desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240531210000 -0500" stop="20240531220000 -0500">
@@ -683,7 +683,7 @@
 <programme channel="12001" start="20240601190000 -0500" stop="20240601210000 -0500">
 <title>INFO-RESUMEN</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240601210000 -0500" stop="20240602000000 -0500">
@@ -765,7 +765,7 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240603060000 -0500" stop="20240603070000 -0500">
-<title>REPRISSE NOTICIERO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL - REPRISE</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
@@ -801,9 +801,9 @@
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240603123000 -0500" stop="20240603130000 -0500">
-<title>INFORMATIVO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240603130000 -0500" stop="20240603140000 -0500">
@@ -843,15 +843,15 @@
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240603190000 -0500" stop="20240603200000 -0500">
-<title>INFORMATIVO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240603200000 -0500" stop="20240603210000 -0500">
 <title>PADRE DE FAMILIA</title>
 <desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240603210000 -0500" stop="20240603220000 -0500">
@@ -897,7 +897,7 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240604060000 -0500" stop="20240604070000 -0500">
-<title>REPRISSE NOTICIERO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL - REPRISE</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
@@ -933,9 +933,9 @@
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240604125000 -0500" stop="20240604130000 -0500">
-<title>INFORMATIVO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240604130000 -0500" stop="20240604140000 -0500">
@@ -975,15 +975,15 @@
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240604190000 -0500" stop="20240604200000 -0500">
-<title>INFORMATIVO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240604200000 -0500" stop="20240604210000 -0500">
 <title>PADRE DE FAMILIA</title>
 <desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240604210000 -0500" stop="20240604220000 -0500">
@@ -1029,7 +1029,7 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240605060000 -0500" stop="20240605070000 -0500">
-<title>REPRISSE NOTICIERO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL - REPRISE</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
@@ -1065,9 +1065,9 @@
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240605125000 -0500" stop="20240605130000 -0500">
-<title>INFORMATIVO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240605130000 -0500" stop="20240605140000 -0500">
@@ -1107,15 +1107,15 @@
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240605190000 -0500" stop="20240605200000 -0500">
-<title>INFORMATIVO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240605200000 -0500" stop="20240605210000 -0500">
 <title>PADRE DE FAMILIA</title>
 <desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240605210000 -0500" stop="20240605220000 -0500">
@@ -1161,7 +1161,7 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240606060000 -0500" stop="20240606070000 -0500">
-<title>REPRISSE NOTICIERO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL - REPRISE</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
@@ -1197,9 +1197,9 @@
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240606125000 -0500" stop="20240606130000 -0500">
-<title>INFORMATIVO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240606130000 -0500" stop="20240606140000 -0500">
@@ -1239,15 +1239,15 @@
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240606190000 -0500" stop="20240606200000 -0500">
-<title>INFORMATIVO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240606200000 -0500" stop="20240606210000 -0500">
 <title>PADRE DE FAMILIA</title>
 <desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240606210000 -0500" stop="20240606220000 -0500">
@@ -1293,7 +1293,7 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240607060000 -0500" stop="20240607070000 -0500">
-<title>REPRISSE NOTICIERO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL - REPRISE</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
@@ -1329,9 +1329,9 @@
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240607125000 -0500" stop="20240607130000 -0500">
-<title>INFORMATIVO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240607130000 -0500" stop="20240607140000 -0500">
@@ -1371,15 +1371,15 @@
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240607190000 -0500" stop="20240607200000 -0500">
-<title>INFORMATIVO VISIÓN</title>
+<title>NOTICIERO DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240607200000 -0500" stop="20240607210000 -0500">
 <title>PADRE DE FAMILIA</title>
 <desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240607210000 -0500" stop="20240607220000 -0500">
@@ -1439,7 +1439,7 @@
 <programme channel="12001" start="20240608190000 -0500" stop="20240608210000 -0500">
 <title>INFO-RESUMEN</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3102410"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240608210000 -0500" stop="20240609000000 -0500">

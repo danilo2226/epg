@@ -9,7 +9,7 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240527060000 -0500" stop="20240527070000 -0500">
-<title>NOTICIERO DE MULTICANAL - REPRISE</title>
+<title>NOTICIEROS DE MULTICANAL - REPRISE</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
@@ -45,43 +45,43 @@
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240527123000 -0500" stop="20240527131500 -0500">
-<title>NOTICIERO DE MULTICANAL</title>
+<title>NOTICIEROS DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
-<programme channel="12001" start="20240527131500 -0500" stop="20240527150000 -0500">
-<title>PELICULAS MULTICANAL</title>
+<programme channel="12001" start="20240527131500 -0500" stop="20240527140000 -0500">
+<title>AL BORDE DE LA MUERTE - SERIE</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
-<icon src="https://www.imdb.com/title/tt13322740/mediaviewer/rm2173229825/?ref_=tt_ov_i"/>
+<icon src="https://www.imdb.com/title/tt22444780/mediaviewer/rm3315938817/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240527150000 -0500" stop="20240527160000 -0500">
-<title>LOS SIMPSONS</title>
+<programme channel="12001" start="20240527140000 -0500" stop="20240527154500 -0500">
+<title>PELICULAS MULTICANAL</title>
 <desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
-<icon src="https://www.imdb.com/title/tt0096697/mediaviewer/rm1730745600/?ref_=tt_ov_i"/>
+<icon src=""/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240527160000 -0500" stop="20240527170000 -0500">
-<title>MUSIC SHOW</title>
-<desc>Espacio dedicado para exponer los mejores temas musicales.</desc>
-<icon src="https://www.imdb.com/title/tt0096697/mediaviewer/rm1730745600/?ref_=tt_ov_i"/>
+<programme channel="12001" start="20240527154500 -0500" stop="20240527170000 -0500">
+<title>EDUCA TV</title>
+<desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240527170000 -0500" stop="20240527180000 -0500">
-<title>DRAGON BALL Z</title>
+<title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
-<icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
+<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240527180000 -0500" stop="20240527190000 -0500">
 <title>EL CHAVO DEL 8</title>
 <desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
+<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240527190000 -0500" stop="20240527200000 -0500">
-<title>NOTICIERO DE MULTICANAL</title>
+<title>NOTICIEROS DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
@@ -135,7 +135,7 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240528060000 -0500" stop="20240528070000 -0500">
-<title>NOTICIERO DE MULTICANAL - REPRISE</title>
+<title>NOTICIEROS DE MULTICANAL - REPRISE</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
@@ -171,43 +171,43 @@
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240528123000 -0500" stop="20240528131500 -0500">
-<title>NOTICIERO DE MULTICANAL</title>
+<title>NOTICIEROS DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
-<programme channel="12001" start="20240528131500 -0500" stop="20240528150000 -0500">
-<title>PELICULAS MULTICANAL</title>
+<programme channel="12001" start="20240528131500 -0500" stop="20240528140000 -0500">
+<title>AL BORDE DE LA MUERTE - SERIE</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
-<icon src="https://www.imdb.com/title/tt13322740/mediaviewer/rm2173229825/?ref_=tt_ov_i"/>
+<icon src="https://www.imdb.com/title/tt22444780/mediaviewer/rm3315938817/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240528150000 -0500" stop="20240528160000 -0500">
-<title>LOS SIMPSONS</title>
+<programme channel="12001" start="20240528140000 -0500" stop="20240528154500 -0500">
+<title>PELICULAS MULTICANAL</title>
 <desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
-<icon src="https://www.imdb.com/title/tt0096697/mediaviewer/rm1730745600/?ref_=tt_ov_i"/>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240528160000 -0500" stop="20240528170000 -0500">
-<title>MUSIC SHOW</title>
-<desc>Espacio dedicado para exponer los mejores temas musicales.</desc>
-<icon src="https://www.imdb.com/title/tt0096697/mediaviewer/rm1730745600/?ref_=tt_ov_i"/>
+<programme channel="12001" start="20240528154500 -0500" stop="20240528170000 -0500">
+<title>EDUCA TV</title>
+<desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240528170000 -0500" stop="20240528180000 -0500">
-<title>DRAGON BALL Z</title>
+<title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
-<icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
+<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240528180000 -0500" stop="20240528190000 -0500">
 <title>EL CHAVO DEL 8</title>
 <desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
+<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240528190000 -0500" stop="20240528200000 -0500">
-<title>NOTICIERO DE MULTICANAL</title>
+<title>NOTICIEROS DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
@@ -261,7 +261,7 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240529060000 -0500" stop="20240529070000 -0500">
-<title>NOTICIERO DE MULTICANAL - REPRISE</title>
+<title>NOTICIEROS DE MULTICANAL - REPRISE</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
@@ -297,49 +297,49 @@
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240529125000 -0500" stop="20240529131500 -0500">
-<title>NOTICIERO DE MULTICANAL</title>
+<title>NOTICIEROS DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
-<programme channel="12001" start="20240529131500 -0500" stop="20240529150000 -0500">
-<title>PELICULAS MULTICANAL</title>
+<programme channel="12001" start="20240529131500 -0500" stop="20240529140000 -0500">
+<title>AL BORDE DE LA MUERTE - SERIE</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
-<icon src="https://www.imdb.com/title/tt13322740/mediaviewer/rm2173229825/?ref_=tt_ov_i"/>
+<icon src="https://www.imdb.com/title/tt22444780/mediaviewer/rm3315938817/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240529150000 -0500" stop="20240529150000 -0500">
+<programme channel="12001" start="20240529140000 -0500" stop="20240529140000 -0500">
 <title>PASIÓN DE GAVILANES</title>
 <desc>La historia de tres hermanos, honestos y de buen caracter, hasta que un día una tragedia les llena de deseos de venganza.</desc>
 <icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240529150000 -0500" stop="20240529160000 -0500">
-<title>LOS SIMPSONS</title>
+<programme channel="12001" start="20240529140000 -0500" stop="20240529154500 -0500">
+<title>PELICULAS MULTICANAL</title>
 <desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
-<icon src="https://www.imdb.com/title/tt0096697/mediaviewer/rm1730745600/?ref_=tt_ov_i"/>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240529160000 -0500" stop="20240529170000 -0500">
-<title>MUSIC SHOW</title>
-<desc>Espacio dedicado para exponer los mejores temas musicales.</desc>
-<icon src="https://www.imdb.com/title/tt0096697/mediaviewer/rm1730745600/?ref_=tt_ov_i"/>
+<programme channel="12001" start="20240529154500 -0500" stop="20240529170000 -0500">
+<title>EDUCA TV</title>
+<desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240529170000 -0500" stop="20240529180000 -0500">
-<title>DRAGON BALL Z</title>
+<title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
-<icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
+<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240529180000 -0500" stop="20240529190000 -0500">
 <title>EL CHAVO DEL 8</title>
 <desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
+<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240529190000 -0500" stop="20240529200000 -0500">
-<title>NOTICIERO DE MULTICANAL</title>
+<title>NOTICIEROS DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
@@ -393,7 +393,7 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240530060000 -0500" stop="20240530070000 -0500">
-<title>NOTICIERO DE MULTICANAL - REPRISE</title>
+<title>NOTICIEROS DE MULTICANAL - REPRISE</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
@@ -429,49 +429,49 @@
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240530125000 -0500" stop="20240530131500 -0500">
-<title>NOTICIERO DE MULTICANAL</title>
+<title>NOTICIEROS DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
-<programme channel="12001" start="20240530131500 -0500" stop="20240530150000 -0500">
-<title>PELICULAS MULTICANAL</title>
+<programme channel="12001" start="20240530131500 -0500" stop="20240530140000 -0500">
+<title>AL BORDE DE LA MUERTE - SERIE</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
-<icon src="https://www.imdb.com/title/tt13322740/mediaviewer/rm2173229825/?ref_=tt_ov_i"/>
+<icon src="https://www.imdb.com/title/tt22444780/mediaviewer/rm3315938817/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240530150000 -0500" stop="20240530150000 -0500">
+<programme channel="12001" start="20240530140000 -0500" stop="20240530140000 -0500">
 <title>PASIÓN DE GAVILANES</title>
 <desc>La historia de tres hermanos, honestos y de buen caracter, hasta que un día una tragedia les llena de deseos de venganza.</desc>
 <icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240530150000 -0500" stop="20240530160000 -0500">
-<title>LOS SIMPSONS</title>
+<programme channel="12001" start="20240530140000 -0500" stop="20240530154500 -0500">
+<title>PELICULAS MULTICANAL</title>
 <desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
-<icon src="https://www.imdb.com/title/tt0096697/mediaviewer/rm1730745600/?ref_=tt_ov_i"/>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240530160000 -0500" stop="20240530170000 -0500">
-<title>MUSIC SHOW</title>
-<desc>Espacio dedicado para exponer los mejores temas musicales.</desc>
-<icon src="https://www.imdb.com/title/tt0096697/mediaviewer/rm1730745600/?ref_=tt_ov_i"/>
+<programme channel="12001" start="20240530154500 -0500" stop="20240530170000 -0500">
+<title>EDUCA TV</title>
+<desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240530170000 -0500" stop="20240530180000 -0500">
-<title>DRAGON BALL Z</title>
+<title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
-<icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
+<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240530180000 -0500" stop="20240530190000 -0500">
 <title>EL CHAVO DEL 8</title>
 <desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
+<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240530190000 -0500" stop="20240530200000 -0500">
-<title>NOTICIERO DE MULTICANAL</title>
+<title>NOTICIEROS DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
@@ -525,7 +525,7 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240531060000 -0500" stop="20240531070000 -0500">
-<title>NOTICIERO DE MULTICANAL - REPRISE</title>
+<title>NOTICIEROS DE MULTICANAL - REPRISE</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
@@ -561,49 +561,49 @@
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240531125000 -0500" stop="20240531131500 -0500">
-<title>NOTICIERO DE MULTICANAL</title>
+<title>NOTICIEROS DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
-<programme channel="12001" start="20240531131500 -0500" stop="20240531150000 -0500">
-<title>PELICULAS MULTICANAL</title>
+<programme channel="12001" start="20240531131500 -0500" stop="20240531140000 -0500">
+<title>AL BORDE DE LA MUERTE - SERIE</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
-<icon src="https://www.imdb.com/title/tt13322740/mediaviewer/rm2173229825/?ref_=tt_ov_i"/>
+<icon src="https://www.imdb.com/title/tt22444780/mediaviewer/rm3315938817/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240531150000 -0500" stop="20240531150000 -0500">
+<programme channel="12001" start="20240531140000 -0500" stop="20240531140000 -0500">
 <title>PASIÓN DE GAVILANES</title>
 <desc>La historia de tres hermanos, honestos y de buen caracter, hasta que un día una tragedia les llena de deseos de venganza.</desc>
 <icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240531150000 -0500" stop="20240531160000 -0500">
-<title>LOS SIMPSONS</title>
+<programme channel="12001" start="20240531140000 -0500" stop="20240531154500 -0500">
+<title>PELICULAS MULTICANAL</title>
 <desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
-<icon src="https://www.imdb.com/title/tt0096697/mediaviewer/rm1730745600/?ref_=tt_ov_i"/>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240531160000 -0500" stop="20240531170000 -0500">
-<title>MUSIC SHOW</title>
-<desc>Espacio dedicado para exponer los mejores temas musicales.</desc>
-<icon src="https://www.imdb.com/title/tt0096697/mediaviewer/rm1730745600/?ref_=tt_ov_i"/>
+<programme channel="12001" start="20240531154500 -0500" stop="20240531170000 -0500">
+<title>EDUCA TV</title>
+<desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240531170000 -0500" stop="20240531180000 -0500">
-<title>DRAGON BALL Z</title>
+<title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
-<icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
+<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240531180000 -0500" stop="20240531190000 -0500">
 <title>EL CHAVO DEL 8</title>
 <desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
+<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240531190000 -0500" stop="20240531200000 -0500">
-<title>NOTICIERO DE MULTICANAL</title>
+<title>NOTICIEROS DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
@@ -656,13 +656,13 @@
 <icon src="https://www.imdb.com/title/tt0996011/mediaviewer/rm1931871233/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240601131500 -0500" stop="20240601150000 -0500">
+<programme channel="12001" start="20240601131500 -0500" stop="20240601140000 -0500">
 <title>PINKY Y CEREBRO</title>
 <desc>Un ratón genio y su estúpido compañero intentan conquistar el mundo cada noche.</desc>
 <icon src="https://www.imdb.com/title/tt0112123/mediaviewer/rm2550913793/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240601150000 -0500" stop="20240601190000 -0500">
+<programme channel="12001" start="20240601140000 -0500" stop="20240601190000 -0500">
 <title>MARATHON – ROSARIO TIJERAS</title>
 <desc>Una hermosa mujer que proviene de un barrio pobre se ve involucrada en un triángulo amoroso con dos mejores amigos que provienen de familias prominentes de la ciudad.</desc>
 <icon src="https://www.imdb.com/title/tt0112123/mediaviewer/rm2550913793/?ref_=ext_shr_lnk"/>
@@ -710,13 +710,13 @@
 <icon src="https://www.imdb.com/title/tt0115341/mediaviewer/rm3226620416/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240602100000 -0500" stop="20240602150000 -0500">
-<title>MARATHON-PELICULAS MULTICANAL</title>
+<programme channel="12001" start="20240602100000 -0500" stop="20240602140000 -0500">
+<title>MARATHON-AL BORDE DE LA MUERTE - SERIE</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
-<icon src="https://www.imdb.com/title/tt13322740/mediaviewer/rm2173229825/?ref_=tt_ov_i"/>
+<icon src="https://www.imdb.com/title/tt22444780/mediaviewer/rm3315938817/?ref_=tt_ov_i"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240602150000 -0500" stop="20240602210000 -0500">
+<programme channel="12001" start="20240602140000 -0500" stop="20240602210000 -0500">
 <title>MARATHON-REINA DEL SUR</title>
 <desc>Teresa Mendoza regresa a México tras 8 años para luchar con los capos mexicanos.</desc>
 <icon src="https://www.imdb.com/title/tt1704637/mediaviewer/rm3303708929/?ref_=ext_shr_lnk"/>
@@ -753,7 +753,7 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240603060000 -0500" stop="20240603070000 -0500">
-<title>NOTICIERO DE MULTICANAL - REPRISE</title>
+<title>NOTICIEROS DE MULTICANAL - REPRISE</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
@@ -789,49 +789,49 @@
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240603123000 -0500" stop="20240603131500 -0500">
-<title>NOTICIERO DE MULTICANAL</title>
+<title>NOTICIEROS DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
-<programme channel="12001" start="20240603131500 -0500" stop="20240603150000 -0500">
-<title>PELICULAS MULTICANAL</title>
+<programme channel="12001" start="20240603131500 -0500" stop="20240603140000 -0500">
+<title>AL BORDE DE LA MUERTE - SERIE</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
-<icon src="https://www.imdb.com/title/tt13322740/mediaviewer/rm2173229825/?ref_=tt_ov_i"/>
+<icon src="https://www.imdb.com/title/tt22444780/mediaviewer/rm3315938817/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240603150000 -0500" stop="20240603150000 -0500">
+<programme channel="12001" start="20240603140000 -0500" stop="20240603140000 -0500">
 <title>PASIÓN DE GAVILANES</title>
 <desc>La historia de tres hermanos, honestos y de buen caracter, hasta que un día una tragedia les llena de deseos de venganza.</desc>
 <icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240603150000 -0500" stop="20240603160000 -0500">
-<title>LOS SIMPSONS</title>
+<programme channel="12001" start="20240603140000 -0500" stop="20240603154500 -0500">
+<title>PELICULAS MULTICANAL</title>
 <desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
-<icon src="https://www.imdb.com/title/tt0096697/mediaviewer/rm1730745600/?ref_=tt_ov_i"/>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240603160000 -0500" stop="20240603170000 -0500">
-<title>MUSIC SHOW</title>
-<desc>Espacio dedicado para exponer los mejores temas musicales.</desc>
-<icon src="https://www.imdb.com/title/tt0096697/mediaviewer/rm1730745600/?ref_=tt_ov_i"/>
+<programme channel="12001" start="20240603154500 -0500" stop="20240603170000 -0500">
+<title>EDUCA TV</title>
+<desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240603170000 -0500" stop="20240603180000 -0500">
-<title>DRAGON BALL Z</title>
+<title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
-<icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
+<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240603180000 -0500" stop="20240603190000 -0500">
 <title>EL CHAVO DEL 8</title>
 <desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
+<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240603190000 -0500" stop="20240603200000 -0500">
-<title>NOTICIERO DE MULTICANAL</title>
+<title>NOTICIEROS DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
@@ -885,7 +885,7 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240604060000 -0500" stop="20240604070000 -0500">
-<title>NOTICIERO DE MULTICANAL - REPRISE</title>
+<title>NOTICIEROS DE MULTICANAL - REPRISE</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
@@ -921,49 +921,49 @@
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240604125000 -0500" stop="20240604131500 -0500">
-<title>NOTICIERO DE MULTICANAL</title>
+<title>NOTICIEROS DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
-<programme channel="12001" start="20240604131500 -0500" stop="20240604150000 -0500">
-<title>PELICULAS MULTICANAL</title>
+<programme channel="12001" start="20240604131500 -0500" stop="20240604140000 -0500">
+<title>AL BORDE DE LA MUERTE - SERIE</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
-<icon src="https://www.imdb.com/title/tt13322740/mediaviewer/rm2173229825/?ref_=tt_ov_i"/>
+<icon src="https://www.imdb.com/title/tt22444780/mediaviewer/rm3315938817/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240604150000 -0500" stop="20240604150000 -0500">
+<programme channel="12001" start="20240604140000 -0500" stop="20240604140000 -0500">
 <title>PASIÓN DE GAVILANES</title>
 <desc>La historia de tres hermanos, honestos y de buen caracter, hasta que un día una tragedia les llena de deseos de venganza.</desc>
 <icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240604150000 -0500" stop="20240604160000 -0500">
-<title>LOS SIMPSONS</title>
+<programme channel="12001" start="20240604140000 -0500" stop="20240604154500 -0500">
+<title>PELICULAS MULTICANAL</title>
 <desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
-<icon src="https://www.imdb.com/title/tt0096697/mediaviewer/rm1730745600/?ref_=tt_ov_i"/>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240604160000 -0500" stop="20240604170000 -0500">
-<title>MUSIC SHOW</title>
-<desc>Espacio dedicado para exponer los mejores temas musicales.</desc>
-<icon src="https://www.imdb.com/title/tt0096697/mediaviewer/rm1730745600/?ref_=tt_ov_i"/>
+<programme channel="12001" start="20240604154500 -0500" stop="20240604170000 -0500">
+<title>EDUCA TV</title>
+<desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240604170000 -0500" stop="20240604180000 -0500">
-<title>DRAGON BALL Z</title>
+<title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
-<icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
+<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240604180000 -0500" stop="20240604190000 -0500">
 <title>EL CHAVO DEL 8</title>
 <desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
+<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240604190000 -0500" stop="20240604200000 -0500">
-<title>NOTICIERO DE MULTICANAL</title>
+<title>NOTICIEROS DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
@@ -1017,7 +1017,7 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240605060000 -0500" stop="20240605070000 -0500">
-<title>NOTICIERO DE MULTICANAL - REPRISE</title>
+<title>NOTICIEROS DE MULTICANAL - REPRISE</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
@@ -1053,49 +1053,49 @@
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240605125000 -0500" stop="20240605131500 -0500">
-<title>NOTICIERO DE MULTICANAL</title>
+<title>NOTICIEROS DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
-<programme channel="12001" start="20240605131500 -0500" stop="20240605150000 -0500">
-<title>PELICULAS MULTICANAL</title>
+<programme channel="12001" start="20240605131500 -0500" stop="20240605140000 -0500">
+<title>AL BORDE DE LA MUERTE - SERIE</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
-<icon src="https://www.imdb.com/title/tt13322740/mediaviewer/rm2173229825/?ref_=tt_ov_i"/>
+<icon src="https://www.imdb.com/title/tt22444780/mediaviewer/rm3315938817/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240605150000 -0500" stop="20240605150000 -0500">
+<programme channel="12001" start="20240605140000 -0500" stop="20240605140000 -0500">
 <title>PASIÓN DE GAVILANES</title>
 <desc>La historia de tres hermanos, honestos y de buen caracter, hasta que un día una tragedia les llena de deseos de venganza.</desc>
 <icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240605150000 -0500" stop="20240605160000 -0500">
-<title>LOS SIMPSONS</title>
+<programme channel="12001" start="20240605140000 -0500" stop="20240605154500 -0500">
+<title>PELICULAS MULTICANAL</title>
 <desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
-<icon src="https://www.imdb.com/title/tt0096697/mediaviewer/rm1730745600/?ref_=tt_ov_i"/>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240605160000 -0500" stop="20240605170000 -0500">
-<title>MUSIC SHOW</title>
-<desc>Espacio dedicado para exponer los mejores temas musicales.</desc>
-<icon src="https://www.imdb.com/title/tt0096697/mediaviewer/rm1730745600/?ref_=tt_ov_i"/>
+<programme channel="12001" start="20240605154500 -0500" stop="20240605170000 -0500">
+<title>EDUCA TV</title>
+<desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240605170000 -0500" stop="20240605180000 -0500">
-<title>DRAGON BALL Z</title>
+<title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
-<icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
+<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240605180000 -0500" stop="20240605190000 -0500">
 <title>EL CHAVO DEL 8</title>
 <desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
+<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240605190000 -0500" stop="20240605200000 -0500">
-<title>NOTICIERO DE MULTICANAL</title>
+<title>NOTICIEROS DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
@@ -1149,7 +1149,7 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240606060000 -0500" stop="20240606070000 -0500">
-<title>NOTICIERO DE MULTICANAL - REPRISE</title>
+<title>NOTICIEROS DE MULTICANAL - REPRISE</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
@@ -1185,49 +1185,49 @@
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240606125000 -0500" stop="20240606131500 -0500">
-<title>NOTICIERO DE MULTICANAL</title>
+<title>NOTICIEROS DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
-<programme channel="12001" start="20240606131500 -0500" stop="20240606150000 -0500">
-<title>PELICULAS MULTICANAL</title>
+<programme channel="12001" start="20240606131500 -0500" stop="20240606140000 -0500">
+<title>AL BORDE DE LA MUERTE - SERIE</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
-<icon src="https://www.imdb.com/title/tt13322740/mediaviewer/rm2173229825/?ref_=tt_ov_i"/>
+<icon src="https://www.imdb.com/title/tt22444780/mediaviewer/rm3315938817/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240606150000 -0500" stop="20240606150000 -0500">
+<programme channel="12001" start="20240606140000 -0500" stop="20240606140000 -0500">
 <title>PASIÓN DE GAVILANES</title>
 <desc>La historia de tres hermanos, honestos y de buen caracter, hasta que un día una tragedia les llena de deseos de venganza.</desc>
 <icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240606150000 -0500" stop="20240606160000 -0500">
-<title>LOS SIMPSONS</title>
+<programme channel="12001" start="20240606140000 -0500" stop="20240606154500 -0500">
+<title>PELICULAS MULTICANAL</title>
 <desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
-<icon src="https://www.imdb.com/title/tt0096697/mediaviewer/rm1730745600/?ref_=tt_ov_i"/>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240606160000 -0500" stop="20240606170000 -0500">
-<title>MUSIC SHOW</title>
-<desc>Espacio dedicado para exponer los mejores temas musicales.</desc>
-<icon src="https://www.imdb.com/title/tt0096697/mediaviewer/rm1730745600/?ref_=tt_ov_i"/>
+<programme channel="12001" start="20240606154500 -0500" stop="20240606170000 -0500">
+<title>EDUCA TV</title>
+<desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240606170000 -0500" stop="20240606180000 -0500">
-<title>DRAGON BALL Z</title>
+<title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
-<icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
+<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240606180000 -0500" stop="20240606190000 -0500">
 <title>EL CHAVO DEL 8</title>
 <desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
+<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240606190000 -0500" stop="20240606200000 -0500">
-<title>NOTICIERO DE MULTICANAL</title>
+<title>NOTICIEROS DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
@@ -1281,7 +1281,7 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240607060000 -0500" stop="20240607070000 -0500">
-<title>NOTICIERO DE MULTICANAL - REPRISE</title>
+<title>NOTICIEROS DE MULTICANAL - REPRISE</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
@@ -1317,49 +1317,49 @@
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240607125000 -0500" stop="20240607131500 -0500">
-<title>NOTICIERO DE MULTICANAL</title>
+<title>NOTICIEROS DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
-<programme channel="12001" start="20240607131500 -0500" stop="20240607150000 -0500">
-<title>PELICULAS MULTICANAL</title>
+<programme channel="12001" start="20240607131500 -0500" stop="20240607140000 -0500">
+<title>AL BORDE DE LA MUERTE - SERIE</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
-<icon src="https://www.imdb.com/title/tt13322740/mediaviewer/rm2173229825/?ref_=tt_ov_i"/>
+<icon src="https://www.imdb.com/title/tt22444780/mediaviewer/rm3315938817/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240607150000 -0500" stop="20240607150000 -0500">
+<programme channel="12001" start="20240607140000 -0500" stop="20240607140000 -0500">
 <title>PASIÓN DE GAVILANES</title>
 <desc>La historia de tres hermanos, honestos y de buen caracter, hasta que un día una tragedia les llena de deseos de venganza.</desc>
 <icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240607150000 -0500" stop="20240607160000 -0500">
-<title>LOS SIMPSONS</title>
+<programme channel="12001" start="20240607140000 -0500" stop="20240607154500 -0500">
+<title>PELICULAS MULTICANAL</title>
 <desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
-<icon src="https://www.imdb.com/title/tt0096697/mediaviewer/rm1730745600/?ref_=tt_ov_i"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasMulticanal.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240607160000 -0500" stop="20240607170000 -0500">
-<title>MUSIC SHOW</title>
-<desc>Espacio dedicado para exponer los mejores temas musicales.</desc>
-<icon src="https://www.imdb.com/title/tt0096697/mediaviewer/rm1730745600/?ref_=tt_ov_i"/>
+<programme channel="12001" start="20240607154500 -0500" stop="20240607170000 -0500">
+<title>EDUCA TV</title>
+<desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
+<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240607170000 -0500" stop="20240607180000 -0500">
-<title>DRAGON BALL Z</title>
+<title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
-<icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
+<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240607180000 -0500" stop="20240607190000 -0500">
 <title>EL CHAVO DEL 8</title>
 <desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://www.imdb.com/title/tt0229889/mediaviewer/rm2040307969/?ref_=ext_shr_lnk"/>
+<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240607190000 -0500" stop="20240607200000 -0500">
-<title>NOTICIERO DE MULTICANAL</title>
+<title>NOTICIEROS DE MULTICANAL</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
@@ -1412,13 +1412,13 @@
 <icon src="https://www.imdb.com/title/tt0996011/mediaviewer/rm1931871233/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240608131500 -0500" stop="20240608150000 -0500">
+<programme channel="12001" start="20240608131500 -0500" stop="20240608140000 -0500">
 <title>PINKY Y CEREBRO</title>
 <desc>Un ratón genio y su estúpido compañero intentan conquistar el mundo cada noche.</desc>
 <icon src="https://www.imdb.com/title/tt0112123/mediaviewer/rm2550913793/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240608150000 -0500" stop="20240608190000 -0500">
+<programme channel="12001" start="20240608140000 -0500" stop="20240608190000 -0500">
 <title>MARATHON – ROSARIO TIJERAS</title>
 <desc>Una hermosa mujer que proviene de un barrio pobre se ve involucrada en un triángulo amoroso con dos mejores amigos que provienen de familias prominentes de la ciudad.</desc>
 <icon src="https://www.imdb.com/title/tt0112123/mediaviewer/rm2550913793/?ref_=ext_shr_lnk"/>
@@ -1466,13 +1466,13 @@
 <icon src="https://www.imdb.com/title/tt0115341/mediaviewer/rm3226620416/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240609100000 -0500" stop="20240609150000 -0500">
-<title>MARATHON-PELICULAS MULTICANAL</title>
+<programme channel="12001" start="20240609100000 -0500" stop="20240609140000 -0500">
+<title>MARATHON-AL BORDE DE LA MUERTE - SERIE</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
-<icon src="https://www.imdb.com/title/tt13322740/mediaviewer/rm2173229825/?ref_=tt_ov_i"/>
+<icon src="https://www.imdb.com/title/tt22444780/mediaviewer/rm3315938817/?ref_=tt_ov_i"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240609150000 -0500" stop="20240609210000 -0500">
+<programme channel="12001" start="20240609140000 -0500" stop="20240609210000 -0500">
 <title>MARATHON-REINA DEL SUR</title>
 <desc>Teresa Mendoza regresa a México tras 8 años para luchar con los capos mexicanos.</desc>
 <icon src="https://www.imdb.com/title/tt1704637/mediaviewer/rm3303708929/?ref_=ext_shr_lnk"/>

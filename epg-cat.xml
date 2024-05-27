@@ -53,13 +53,13 @@
 <programme channel="12001" start="20240527131500 -0500" stop="20240527140000 -0500">
 <title>AL BORDE DE LA MUERTE - SERIE</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
-<icon src="https://www.imdb.com/title/tt22444780/mediaviewer/rm3315938817/?ref_=tt_ov_i"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240527140000 -0500" stop="20240527154500 -0500">
 <title>PELICULAS MULTICANAL</title>
 <desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
-<icon src=""/>
+<icon src="https://raw.github.com/danilo2226/epg/main/PeliculasMulticanal.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240527154500 -0500" stop="20240527170000 -0500">
@@ -179,13 +179,13 @@
 <programme channel="12001" start="20240528131500 -0500" stop="20240528140000 -0500">
 <title>AL BORDE DE LA MUERTE - SERIE</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
-<icon src="https://www.imdb.com/title/tt22444780/mediaviewer/rm3315938817/?ref_=tt_ov_i"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240528140000 -0500" stop="20240528154500 -0500">
 <title>PELICULAS MULTICANAL</title>
 <desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
+<icon src="https://raw.github.com/danilo2226/epg/main/PeliculasMulticanal.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240528154500 -0500" stop="20240528170000 -0500">
@@ -305,19 +305,13 @@
 <programme channel="12001" start="20240529131500 -0500" stop="20240529140000 -0500">
 <title>AL BORDE DE LA MUERTE - SERIE</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
-<icon src="https://www.imdb.com/title/tt22444780/mediaviewer/rm3315938817/?ref_=tt_ov_i"/>
-<category>Series</category>
-</programme>
-<programme channel="12001" start="20240529140000 -0500" stop="20240529140000 -0500">
-<title>PASIÓN DE GAVILANES</title>
-<desc>La historia de tres hermanos, honestos y de buen caracter, hasta que un día una tragedia les llena de deseos de venganza.</desc>
-<icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240529140000 -0500" stop="20240529154500 -0500">
 <title>PELICULAS MULTICANAL</title>
 <desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
+<icon src="https://raw.github.com/danilo2226/epg/main/PeliculasMulticanal.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240529154500 -0500" stop="20240529170000 -0500">
@@ -437,19 +431,13 @@
 <programme channel="12001" start="20240530131500 -0500" stop="20240530140000 -0500">
 <title>AL BORDE DE LA MUERTE - SERIE</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
-<icon src="https://www.imdb.com/title/tt22444780/mediaviewer/rm3315938817/?ref_=tt_ov_i"/>
-<category>Series</category>
-</programme>
-<programme channel="12001" start="20240530140000 -0500" stop="20240530140000 -0500">
-<title>PASIÓN DE GAVILANES</title>
-<desc>La historia de tres hermanos, honestos y de buen caracter, hasta que un día una tragedia les llena de deseos de venganza.</desc>
-<icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240530140000 -0500" stop="20240530154500 -0500">
 <title>PELICULAS MULTICANAL</title>
 <desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
+<icon src="https://raw.github.com/danilo2226/epg/main/PeliculasMulticanal.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240530154500 -0500" stop="20240530170000 -0500">
@@ -569,19 +557,13 @@
 <programme channel="12001" start="20240531131500 -0500" stop="20240531140000 -0500">
 <title>AL BORDE DE LA MUERTE - SERIE</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
-<icon src="https://www.imdb.com/title/tt22444780/mediaviewer/rm3315938817/?ref_=tt_ov_i"/>
-<category>Series</category>
-</programme>
-<programme channel="12001" start="20240531140000 -0500" stop="20240531140000 -0500">
-<title>PASIÓN DE GAVILANES</title>
-<desc>La historia de tres hermanos, honestos y de buen caracter, hasta que un día una tragedia les llena de deseos de venganza.</desc>
-<icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240531140000 -0500" stop="20240531154500 -0500">
 <title>PELICULAS MULTICANAL</title>
 <desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
+<icon src="https://raw.github.com/danilo2226/epg/main/PeliculasMulticanal.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240531154500 -0500" stop="20240531170000 -0500">
@@ -713,7 +695,7 @@
 <programme channel="12001" start="20240602100000 -0500" stop="20240602140000 -0500">
 <title>MARATHON-AL BORDE DE LA MUERTE - SERIE</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
-<icon src="https://www.imdb.com/title/tt22444780/mediaviewer/rm3315938817/?ref_=tt_ov_i"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png"/>
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240602140000 -0500" stop="20240602210000 -0500">
@@ -755,7 +737,7 @@
 <programme channel="12001" start="20240603060000 -0500" stop="20240603070000 -0500">
 <title>NOTICIEROS DE MULTICANAL - REPRISE</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240603070000 -0500" stop="20240603080000 -0500">
@@ -797,7 +779,7 @@
 <programme channel="12001" start="20240603131500 -0500" stop="20240603140000 -0500">
 <title>AL BORDE DE LA MUERTE - SERIE</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
-<icon src="https://www.imdb.com/title/tt22444780/mediaviewer/rm3315938817/?ref_=tt_ov_i"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240603140000 -0500" stop="20240603140000 -0500">
@@ -929,19 +911,13 @@
 <programme channel="12001" start="20240604131500 -0500" stop="20240604140000 -0500">
 <title>AL BORDE DE LA MUERTE - SERIE</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
-<icon src="https://www.imdb.com/title/tt22444780/mediaviewer/rm3315938817/?ref_=tt_ov_i"/>
-<category>Series</category>
-</programme>
-<programme channel="12001" start="20240604140000 -0500" stop="20240604140000 -0500">
-<title>PASIÓN DE GAVILANES</title>
-<desc>La historia de tres hermanos, honestos y de buen caracter, hasta que un día una tragedia les llena de deseos de venganza.</desc>
-<icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240604140000 -0500" stop="20240604154500 -0500">
 <title>PELICULAS MULTICANAL</title>
 <desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasMulticanal.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240604154500 -0500" stop="20240604170000 -0500">
@@ -1061,19 +1037,13 @@
 <programme channel="12001" start="20240605131500 -0500" stop="20240605140000 -0500">
 <title>AL BORDE DE LA MUERTE - SERIE</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
-<icon src="https://www.imdb.com/title/tt22444780/mediaviewer/rm3315938817/?ref_=tt_ov_i"/>
-<category>Series</category>
-</programme>
-<programme channel="12001" start="20240605140000 -0500" stop="20240605140000 -0500">
-<title>PASIÓN DE GAVILANES</title>
-<desc>La historia de tres hermanos, honestos y de buen caracter, hasta que un día una tragedia les llena de deseos de venganza.</desc>
-<icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240605140000 -0500" stop="20240605154500 -0500">
 <title>PELICULAS MULTICANAL</title>
 <desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasMulticanal.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240605154500 -0500" stop="20240605170000 -0500">
@@ -1193,19 +1163,13 @@
 <programme channel="12001" start="20240606131500 -0500" stop="20240606140000 -0500">
 <title>AL BORDE DE LA MUERTE - SERIE</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
-<icon src="https://www.imdb.com/title/tt22444780/mediaviewer/rm3315938817/?ref_=tt_ov_i"/>
-<category>Series</category>
-</programme>
-<programme channel="12001" start="20240606140000 -0500" stop="20240606140000 -0500">
-<title>PASIÓN DE GAVILANES</title>
-<desc>La historia de tres hermanos, honestos y de buen caracter, hasta que un día una tragedia les llena de deseos de venganza.</desc>
-<icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240606140000 -0500" stop="20240606154500 -0500">
 <title>PELICULAS MULTICANAL</title>
 <desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
-<icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasMulticanal.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240606154500 -0500" stop="20240606170000 -0500">
@@ -1325,13 +1289,7 @@
 <programme channel="12001" start="20240607131500 -0500" stop="20240607140000 -0500">
 <title>AL BORDE DE LA MUERTE - SERIE</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
-<icon src="https://www.imdb.com/title/tt22444780/mediaviewer/rm3315938817/?ref_=tt_ov_i"/>
-<category>Series</category>
-</programme>
-<programme channel="12001" start="20240607140000 -0500" stop="20240607140000 -0500">
-<title>PASIÓN DE GAVILANES</title>
-<desc>La historia de tres hermanos, honestos y de buen caracter, hasta que un día una tragedia les llena de deseos de venganza.</desc>
-<icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240607140000 -0500" stop="20240607154500 -0500">
@@ -1469,7 +1427,7 @@
 <programme channel="12001" start="20240609100000 -0500" stop="20240609140000 -0500">
 <title>MARATHON-AL BORDE DE LA MUERTE - SERIE</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
-<icon src="https://www.imdb.com/title/tt22444780/mediaviewer/rm3315938817/?ref_=tt_ov_i"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png"/>
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240609140000 -0500" stop="20240609210000 -0500">
@@ -1481,6 +1439,6 @@
 <programme channel="12001" start="20240609210000 -0500" stop="20240610050000 -0500">
 <title>MULTICINE</title>
 <desc>Disfruta de las mejores Peliculas.</desc>
-<icon src="https://www.imdb.com/title/tt1612716/mediaviewer/rm3707021825/?ref_=ext_shr_lnk"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasMulticanal.png"/>
 <category>Entretenimiento</category>
 </programme>

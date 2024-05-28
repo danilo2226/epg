@@ -52,15 +52,13 @@
 </programme>
 <programme channel="12001" start="20240527131500 -0500" stop="20240527140000 -0500">
 <title>AL BORDE DE LA MUERTE - SERIE</title>
-<desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240527140000 -0500" stop="20240527154500 -0500">
 <title>PELICULAS MULTICANAL</title>
-<desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
-<icon src="https://raw.github.com/danilo2226/epg/main/PeliculasMulticanal.png"/>
-<category>Series</category>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png"/>
+<category>PELICULAS</category>
 </programme>
 <programme channel="12001" start="20240527154500 -0500" stop="20240527170000 -0500">
 <title>EDUCA TV</title>
@@ -71,13 +69,13 @@
 <programme channel="12001" start="20240527170000 -0500" stop="20240527180000 -0500">
 <title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
-<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240527180000 -0500" stop="20240527190000 -0500">
 <title>EL CHAVO DEL 8</title>
 <desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240527190000 -0500" stop="20240527200000 -0500">
@@ -184,8 +182,8 @@
 </programme>
 <programme channel="12001" start="20240528140000 -0500" stop="20240528154500 -0500">
 <title>PELICULAS MULTICANAL</title>
-<desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
-<icon src="https://raw.github.com/danilo2226/epg/main/PeliculasMulticanal.png"/>
+
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240528154500 -0500" stop="20240528170000 -0500">
@@ -197,13 +195,13 @@
 <programme channel="12001" start="20240528170000 -0500" stop="20240528180000 -0500">
 <title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
-<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240528180000 -0500" stop="20240528190000 -0500">
 <title>EL CHAVO DEL 8</title>
 <desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240528190000 -0500" stop="20240528200000 -0500">
@@ -310,8 +308,8 @@
 </programme>
 <programme channel="12001" start="20240529140000 -0500" stop="20240529154500 -0500">
 <title>PELICULAS MULTICANAL</title>
-<desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
-<icon src="https://raw.github.com/danilo2226/epg/main/PeliculasMulticanal.png"/>
+
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240529154500 -0500" stop="20240529170000 -0500">
@@ -323,13 +321,13 @@
 <programme channel="12001" start="20240529170000 -0500" stop="20240529180000 -0500">
 <title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
-<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240529180000 -0500" stop="20240529190000 -0500">
 <title>EL CHAVO DEL 8</title>
 <desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240529190000 -0500" stop="20240529200000 -0500">
@@ -436,8 +434,8 @@
 </programme>
 <programme channel="12001" start="20240530140000 -0500" stop="20240530154500 -0500">
 <title>PELICULAS MULTICANAL</title>
-<desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
-<icon src="https://raw.github.com/danilo2226/epg/main/PeliculasMulticanal.png"/>
+
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240530154500 -0500" stop="20240530170000 -0500">
@@ -449,13 +447,13 @@
 <programme channel="12001" start="20240530170000 -0500" stop="20240530180000 -0500">
 <title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
-<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240530180000 -0500" stop="20240530190000 -0500">
 <title>EL CHAVO DEL 8</title>
 <desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240530190000 -0500" stop="20240530200000 -0500">
@@ -562,8 +560,8 @@
 </programme>
 <programme channel="12001" start="20240531140000 -0500" stop="20240531154500 -0500">
 <title>PELICULAS MULTICANAL</title>
-<desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
-<icon src="https://raw.github.com/danilo2226/epg/main/PeliculasMulticanal.png"/>
+
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240531154500 -0500" stop="20240531170000 -0500">
@@ -575,13 +573,13 @@
 <programme channel="12001" start="20240531170000 -0500" stop="20240531180000 -0500">
 <title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
-<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240531180000 -0500" stop="20240531190000 -0500">
 <title>EL CHAVO DEL 8</title>
 <desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240531190000 -0500" stop="20240531200000 -0500">
@@ -790,7 +788,7 @@
 </programme>
 <programme channel="12001" start="20240603140000 -0500" stop="20240603154500 -0500">
 <title>PELICULAS MULTICANAL</title>
-<desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
+
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
@@ -803,13 +801,13 @@
 <programme channel="12001" start="20240603170000 -0500" stop="20240603180000 -0500">
 <title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
-<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240603180000 -0500" stop="20240603190000 -0500">
 <title>EL CHAVO DEL 8</title>
 <desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240603190000 -0500" stop="20240603200000 -0500">
@@ -916,7 +914,7 @@
 </programme>
 <programme channel="12001" start="20240604140000 -0500" stop="20240604154500 -0500">
 <title>PELICULAS MULTICANAL</title>
-<desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
+
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasMulticanal.png"/>
 <category>Series</category>
 </programme>
@@ -929,13 +927,13 @@
 <programme channel="12001" start="20240604170000 -0500" stop="20240604180000 -0500">
 <title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
-<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240604180000 -0500" stop="20240604190000 -0500">
 <title>EL CHAVO DEL 8</title>
 <desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240604190000 -0500" stop="20240604200000 -0500">
@@ -1042,7 +1040,7 @@
 </programme>
 <programme channel="12001" start="20240605140000 -0500" stop="20240605154500 -0500">
 <title>PELICULAS MULTICANAL</title>
-<desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
+
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasMulticanal.png"/>
 <category>Series</category>
 </programme>
@@ -1055,13 +1053,13 @@
 <programme channel="12001" start="20240605170000 -0500" stop="20240605180000 -0500">
 <title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
-<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240605180000 -0500" stop="20240605190000 -0500">
 <title>EL CHAVO DEL 8</title>
 <desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240605190000 -0500" stop="20240605200000 -0500">
@@ -1168,7 +1166,7 @@
 </programme>
 <programme channel="12001" start="20240606140000 -0500" stop="20240606154500 -0500">
 <title>PELICULAS MULTICANAL</title>
-<desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
+
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasMulticanal.png"/>
 <category>Series</category>
 </programme>
@@ -1181,13 +1179,13 @@
 <programme channel="12001" start="20240606170000 -0500" stop="20240606180000 -0500">
 <title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
-<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240606180000 -0500" stop="20240606190000 -0500">
 <title>EL CHAVO DEL 8</title>
 <desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240606190000 -0500" stop="20240606200000 -0500">
@@ -1294,7 +1292,7 @@
 </programme>
 <programme channel="12001" start="20240607140000 -0500" stop="20240607154500 -0500">
 <title>PELICULAS MULTICANAL</title>
-<desc>Philip J. Fry, un repartidor de pizzas, se congeló accidentalmente en 1999 y se descongeló en la víspera de Nochevieja de 2999.</desc>
+
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasMulticanal.png"/>
 <category>Series</category>
 </programme>
@@ -1307,13 +1305,13 @@
 <programme channel="12001" start="20240607170000 -0500" stop="20240607180000 -0500">
 <title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
-<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240607180000 -0500" stop="20240607190000 -0500">
 <title>EL CHAVO DEL 8</title>
 <desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://www.imdb.com/title/tt19853698/mediaviewer/rm662652417/?ref_=tt_ov_i"/>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240607190000 -0500" stop="20240607200000 -0500">

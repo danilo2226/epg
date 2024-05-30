@@ -655,13 +655,13 @@
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
-<programme channel="12001" start="20240601210000 -0500" stop="20240601900000 -0500">
+<programme channel="12001" start="20240601210000 -0500" stop="20240602010000 -0500">
 <title>MULTICINE</title>
 <desc>Disfruta de las mejores Peliculas.</desc>
 <icon src="https://www.imdb.com/title/tt1612716/mediaviewer/rm3707021825/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240601900000 -0500" stop="20240602050000 -0500">
+<programme channel="12001" start="20240602010000 -0500" stop="20240602050000 -0500">
 <title>OFF-AIR</title>
 <desc>OFF-AIR.</desc>
 <icon src="https://www.imdb.com/title/tt0996011/mediaviewer/rm1931871233/?ref_=ext_shr_lnk"/>
@@ -1087,28 +1087,10 @@
 <icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240605230000 -0500" stop="20240605450000 -0500">
+<programme channel="12001" start="20240605230000 -0500" stop="20240606050000 -0500">
 <title>UNA FAMILIA DE 10</title>
 <desc>Las desventuras y problemas de una gran familia de diez que viven en un apartamento.</desc>
 <icon src="https://www.imdb.com/title/tt0996011/mediaviewer/rm1931871233/?ref_=ext_shr_lnk"/>
-<category>Entretenimiento</category>
-</programme>
-<programme channel="12001" start="20240605450000 -0500" stop="20240606020000 -0500">
-<title>CINE NOCTURNO</title>
-<desc>Disfruta de las mejores Peliculas.</desc>
-<icon src="https://www.imdb.com/title/tt1612716/mediaviewer/rm3707021825/?ref_=ext_shr_lnk"/>
-<category>Entretenimiento</category>
-</programme>
-<programme channel="12001" start="20240606020000 -0500" stop="20240606030000 -0500">
-<title>Reprisse – ROSARIO TIJERAS</title>
-<desc>Una hermosa mujer que proviene de un barrio pobre se ve involucrada en un triángulo amoroso con dos mejores amigos que provienen de familias prominentes de la ciudad.</desc>
-<icon src="https://www.imdb.com/title/tt1612716/mediaviewer/rm3707021825/?ref_=ext_shr_lnk"/>
-<category>Entretenimiento</category>
-</programme>
-<programme channel="12001" start="20240606030000 -0500" stop="20240606050000 -0500">
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://www.imdb.com/title/tt5641510/mediaviewer/rm282712833/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240606050000 -0500" stop="20240606054500 -0500">
@@ -1213,13 +1195,13 @@
 <icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240606230000 -0500" stop="20240607300000 -0500">
+<programme channel="12001" start="20240606230000 -0500" stop="20240607000000 -0500">
 <title>UNA FAMILIA DE 10</title>
 <desc>Las desventuras y problemas de una gran familia de diez que viven en un apartamento.</desc>
 <icon src="https://www.imdb.com/title/tt0996011/mediaviewer/rm1931871233/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240607300000 -0500" stop="20240607020000 -0500">
+<programme channel="12001" start="20240607000000 -0500" stop="20240607020000 -0500">
 <title>CINE NOCTURNO</title>
 <desc>Disfruta de las mejores Peliculas.</desc>
 <icon src="https://www.imdb.com/title/tt1612716/mediaviewer/rm3707021825/?ref_=ext_shr_lnk"/>

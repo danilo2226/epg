@@ -2,21 +2,21 @@
 <channel id="12001">
 <display-name>MULTICANAL</display-name>
 </channel>
-<programme channel="12001" start="20240527050000 -0500" stop="20240527060000 -0500">
-<title>ARMONÍA MUSICAL</title>
+<programme channel="12001" start="20240527050000 -0500" stop="20240527054500 -0500">
+<title>Armonia Musical</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3101535"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240527060000 -0500" stop="20240527070000 -0500">
-<title>NOTICIEROS DE MULTICANAL - REPRISE</title>
+<programme channel="12001" start="20240527054500 -0500" stop="20240527073000 -0500">
+<title>Noticieros de Multicanal</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
 </programme>
-<programme channel="12001" start="20240527070000 -0500" stop="20240527080000 -0500">
-<title>SABRINA LA BRUJA ADOLESCENTE</title>
-<desc>Cuando una estudiante de 16 años descubre que es una bruja, sus dos tías le ofrecen orientación sobre cómo controlar sus recién descubiertos poderes mágicos.</desc>
+<programme channel="12001" start="20240527073000 -0500" stop="20240527080000 -0500">
+<title>Pelicula Infantil</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <icon src="https://www.imdb.com/title/tt0115341/mediaviewer/rm3226620416/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
@@ -39,56 +39,57 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240527120000 -0500" stop="20240527123000 -0500">
-<title>EDUCA TV</title>
+<title>Educa TV</title>
 <desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240527123000 -0500" stop="20240527131500 -0500">
-<title>NOTICIEROS DE MULTICANAL</title>
+<title>Noticieros de Multicanal</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240527131500 -0500" stop="20240527140000 -0500">
-<title>AL BORDE DE LA MUERTE - SERIE</title>
+<title>Serie-Al Borde de la Muerte 99%</title>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240527140000 -0500" stop="20240527154500 -0500">
-<title>PELICULAS MULTICANAL</title>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Peliculas.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png"/>
 <category>PELICULAS</category>
 </programme>
-<programme channel="12001" start="20240527154500 -0500" stop="20240527170000 -0500">
-<title>EDUCA TV</title>
+<programme channel="12001" start="20240527154500 -0500" stop="20240527171500 -0500">
+<title>Educa TV</title>
 <desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240527170000 -0500" stop="20240527180000 -0500">
+<programme channel="12001" start="20240527171500 -0500" stop="20240527180000 -0500">
 <title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240527180000 -0500" stop="20240527190000 -0500">
-<title>EL CHAVO DEL 8</title>
-<desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
+<programme channel="12001" start="20240527180000 -0500" stop="20240527183000 -0500">
+<title>Santa Misa</title>
+<desc>Espacio dedicado a la transmisión de la Santa Misa.</desc>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240527190000 -0500" stop="20240527200000 -0500">
-<title>NOTICIEROS DE MULTICANAL</title>
+<programme channel="12001" start="20240527183000 -0500" stop="20240527190000 -0500">
+<title>The Rain</title>
+<desc>Un brutal virus mata a la mayor parte de la población. Dos hermanos se embarcan en un peligro viaje hacia un lugar seguro.</desc>
+<icon src="https://www.imdb.com/title/tt6656238/mediaviewer/rm3070775040/?ref_=tt_ov_i"/>
+<category>Series</category>
+</programme>
+<programme channel="12001" start="20240527190000 -0500" stop="20240527210000 -0500">
+<title>Noticieros de Multicanal</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
-<category>Informativo</category>
-</programme>
-<programme channel="12001" start="20240527200000 -0500" stop="20240527210000 -0500">
-<title>PADRE DE FAMILIA</title>
-<desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
-<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
-<category>Entretenimiento</category>
+<category>Noticias</category>
 </programme>
 <programme channel="12001" start="20240527210000 -0500" stop="20240527220000 -0500">
 <title>Novela – MI PECADO</title>
@@ -121,26 +122,26 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240528030000 -0500" stop="20240528050000 -0500">
-<title>PADRE DE FAMILIA</title>
-<desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://www.imdb.com/title/tt5641510/mediaviewer/rm282712833/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240528050000 -0500" stop="20240528060000 -0500">
-<title>ARMONÍA MUSICAL</title>
+<programme channel="12001" start="20240528050000 -0500" stop="20240528054500 -0500">
+<title>Armonia Musical</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3101535"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240528060000 -0500" stop="20240528070000 -0500">
-<title>NOTICIEROS DE MULTICANAL - REPRISE</title>
+<programme channel="12001" start="20240528054500 -0500" stop="20240528073000 -0500">
+<title>Noticieros de Multicanal</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
 </programme>
-<programme channel="12001" start="20240528070000 -0500" stop="20240528080000 -0500">
+<programme channel="12001" start="20240528073000 -0500" stop="20240528080000 -0500">
 <title>SABRINA LA BRUJA ADOLESCENTE</title>
-<desc>Cuando una estudiante de 16 años descubre que es una bruja, sus dos tías le ofrecen orientación sobre cómo controlar sus recién descubiertos poderes mágicos.</desc>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <icon src="https://www.imdb.com/title/tt0115341/mediaviewer/rm3226620416/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
@@ -163,56 +164,56 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240528120000 -0500" stop="20240528123000 -0500">
-<title>EDUCA TV</title>
+<title>Educa TV</title>
 <desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240528123000 -0500" stop="20240528131500 -0500">
-<title>NOTICIEROS DE MULTICANAL</title>
+<title>Noticieros de Multicanal</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240528131500 -0500" stop="20240528140000 -0500">
-<title>AL BORDE DE LA MUERTE - SERIE</title>
+<title>Serie-Al Borde de la Muerte 99%</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240528140000 -0500" stop="20240528154500 -0500">
-<title>PELICULAS MULTICANAL</title>
-
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Peliculas.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240528154500 -0500" stop="20240528170000 -0500">
-<title>EDUCA TV</title>
+<programme channel="12001" start="20240528154500 -0500" stop="20240528171500 -0500">
+<title>Educa TV</title>
 <desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240528170000 -0500" stop="20240528180000 -0500">
+<programme channel="12001" start="20240528171500 -0500" stop="20240528180000 -0500">
 <title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240528180000 -0500" stop="20240528190000 -0500">
-<title>EL CHAVO DEL 8</title>
-<desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
+<programme channel="12001" start="20240527180000 -0500" stop="20240527183000 -0500">
+<title>Santa Misa</title>
+<desc>Espacio dedicado a la transmisión de la Santa Misa.</desc>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240528190000 -0500" stop="20240528200000 -0500">
-<title>NOTICIEROS DE MULTICANAL</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
-<category>Informativo</category>
+<programme channel="12001" start="20240527183000 -0500" stop="20240527190000 -0500">
+<title>The Rain</title>
+<desc>Un brutal virus mata a la mayor parte de la población. Dos hermanos se embarcan en un peligro viaje hacia un lugar seguro.</desc>
+<icon src="https://www.imdb.com/title/tt6656238/mediaviewer/rm3070775040/?ref_=tt_ov_i"/>
+<category>Series</category>
 </programme>
-<programme channel="12001" start="20240528200000 -0500" stop="20240528210000 -0500">
-<title>PADRE DE FAMILIA</title>
-<desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
+<programme channel="12001" start="20240528190000 -0500" stop="20240528210000 -0500">
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Entretenimiento</category>
 </programme>
@@ -247,26 +248,26 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240529030000 -0500" stop="20240529050000 -0500">
-<title>PADRE DE FAMILIA</title>
-<desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://www.imdb.com/title/tt5641510/mediaviewer/rm282712833/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240529050000 -0500" stop="20240529060000 -0500">
-<title>ARMONÍA MUSICAL</title>
+<programme channel="12001" start="20240529050000 -0500" stop="20240529054500 -0500">
+<title>Armonia Musical</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3101535"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240529060000 -0500" stop="20240529070000 -0500">
-<title>NOTICIEROS DE MULTICANAL - REPRISE</title>
+<programme channel="12001" start="20240529054500 -0500" stop="20240529073000 -0500">
+<title>Noticieros de Multicanal</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
 </programme>
-<programme channel="12001" start="20240529070000 -0500" stop="20240529080000 -0500">
+<programme channel="12001" start="20240529073000 -0500" stop="20240529080000 -0500">
 <title>SABRINA LA BRUJA ADOLESCENTE</title>
-<desc>Cuando una estudiante de 16 años descubre que es una bruja, sus dos tías le ofrecen orientación sobre cómo controlar sus recién descubiertos poderes mágicos.</desc>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <icon src="https://www.imdb.com/title/tt0115341/mediaviewer/rm3226620416/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
@@ -289,56 +290,56 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240529120000 -0500" stop="20240529125000 -0500">
-<title>EDUCA TV</title>
+<title>Educa TV</title>
 <desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240529125000 -0500" stop="20240529131500 -0500">
-<title>NOTICIEROS DE MULTICANAL</title>
+<title>Noticieros de Multicanal</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240529131500 -0500" stop="20240529140000 -0500">
-<title>AL BORDE DE LA MUERTE - SERIE</title>
+<title>Serie-Al Borde de la Muerte 99%</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240529140000 -0500" stop="20240529154500 -0500">
-<title>PELICULAS MULTICANAL</title>
-
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Peliculas.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240529154500 -0500" stop="20240529170000 -0500">
-<title>EDUCA TV</title>
+<programme channel="12001" start="20240529154500 -0500" stop="20240529171500 -0500">
+<title>Educa TV</title>
 <desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240529170000 -0500" stop="20240529180000 -0500">
+<programme channel="12001" start="20240529171500 -0500" stop="20240529180000 -0500">
 <title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240529180000 -0500" stop="20240529190000 -0500">
-<title>EL CHAVO DEL 8</title>
-<desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
+<programme channel="12001" start="20240527180000 -0500" stop="20240527183000 -0500">
+<title>Santa Misa</title>
+<desc>Espacio dedicado a la transmisión de la Santa Misa.</desc>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240529190000 -0500" stop="20240529200000 -0500">
-<title>NOTICIEROS DE MULTICANAL</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
-<category>Informativo</category>
+<programme channel="12001" start="20240527183000 -0500" stop="20240527190000 -0500">
+<title>The Rain</title>
+<desc>Un brutal virus mata a la mayor parte de la población. Dos hermanos se embarcan en un peligro viaje hacia un lugar seguro.</desc>
+<icon src="https://www.imdb.com/title/tt6656238/mediaviewer/rm3070775040/?ref_=tt_ov_i"/>
+<category>Series</category>
 </programme>
-<programme channel="12001" start="20240529200000 -0500" stop="20240529210000 -0500">
-<title>PADRE DE FAMILIA</title>
-<desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
+<programme channel="12001" start="20240529190000 -0500" stop="20240529210000 -0500">
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Entretenimiento</category>
 </programme>
@@ -373,26 +374,26 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240530030000 -0500" stop="20240530050000 -0500">
-<title>PADRE DE FAMILIA</title>
-<desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://www.imdb.com/title/tt5641510/mediaviewer/rm282712833/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240530050000 -0500" stop="20240530060000 -0500">
-<title>ARMONÍA MUSICAL</title>
+<programme channel="12001" start="20240530050000 -0500" stop="20240530054500 -0500">
+<title>Armonia Musical</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3101535"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240530060000 -0500" stop="20240530070000 -0500">
-<title>NOTICIEROS DE MULTICANAL - REPRISE</title>
+<programme channel="12001" start="20240530054500 -0500" stop="20240530073000 -0500">
+<title>Noticieros de Multicanal</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
 </programme>
-<programme channel="12001" start="20240530070000 -0500" stop="20240530080000 -0500">
+<programme channel="12001" start="20240530073000 -0500" stop="20240530080000 -0500">
 <title>SABRINA LA BRUJA ADOLESCENTE</title>
-<desc>Cuando una estudiante de 16 años descubre que es una bruja, sus dos tías le ofrecen orientación sobre cómo controlar sus recién descubiertos poderes mágicos.</desc>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <icon src="https://www.imdb.com/title/tt0115341/mediaviewer/rm3226620416/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
@@ -415,56 +416,56 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240530120000 -0500" stop="20240530125000 -0500">
-<title>EDUCA TV</title>
+<title>Educa TV</title>
 <desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240530125000 -0500" stop="20240530131500 -0500">
-<title>NOTICIEROS DE MULTICANAL</title>
+<title>Noticieros de Multicanal</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240530131500 -0500" stop="20240530140000 -0500">
-<title>AL BORDE DE LA MUERTE - SERIE</title>
+<title>Serie-Al Borde de la Muerte 99%</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240530140000 -0500" stop="20240530154500 -0500">
-<title>PELICULAS MULTICANAL</title>
+<title>Peliculas</title>
 
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240530154500 -0500" stop="20240530170000 -0500">
-<title>EDUCA TV</title>
+<programme channel="12001" start="20240530154500 -0500" stop="20240530171500 -0500">
+<title>Educa TV</title>
 <desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240530170000 -0500" stop="20240530180000 -0500">
+<programme channel="12001" start="20240530171500 -0500" stop="20240530180000 -0500">
 <title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240530180000 -0500" stop="20240530190000 -0500">
-<title>EL CHAVO DEL 8</title>
-<desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
+<programme channel="12001" start="20240527180000 -0500" stop="20240527183000 -0500">
+<title>Santa Misa</title>
+<desc>Espacio dedicado a la transmisión de la Santa Misa.</desc>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240530190000 -0500" stop="20240530200000 -0500">
-<title>NOTICIEROS DE MULTICANAL</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
-<category>Informativo</category>
+<programme channel="12001" start="20240527183000 -0500" stop="20240527190000 -0500">
+<title>The Rain</title>
+<desc>Un brutal virus mata a la mayor parte de la población. Dos hermanos se embarcan en un peligro viaje hacia un lugar seguro.</desc>
+<icon src="https://www.imdb.com/title/tt6656238/mediaviewer/rm3070775040/?ref_=tt_ov_i"/>
+<category>Series</category>
 </programme>
-<programme channel="12001" start="20240530200000 -0500" stop="20240530210000 -0500">
-<title>PADRE DE FAMILIA</title>
-<desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
+<programme channel="12001" start="20240530190000 -0500" stop="20240530210000 -0500">
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Entretenimiento</category>
 </programme>
@@ -499,26 +500,26 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240531030000 -0500" stop="20240531050000 -0500">
-<title>PADRE DE FAMILIA</title>
-<desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://www.imdb.com/title/tt5641510/mediaviewer/rm282712833/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240531050000 -0500" stop="20240531060000 -0500">
-<title>ARMONÍA MUSICAL</title>
+<programme channel="12001" start="20240531050000 -0500" stop="20240531054500 -0500">
+<title>Armonia Musical</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3101535"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240531060000 -0500" stop="20240531070000 -0500">
-<title>NOTICIEROS DE MULTICANAL - REPRISE</title>
+<programme channel="12001" start="20240531054500 -0500" stop="20240531073000 -0500">
+<title>Noticieros de Multicanal</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
 </programme>
-<programme channel="12001" start="20240531070000 -0500" stop="20240531080000 -0500">
+<programme channel="12001" start="20240531073000 -0500" stop="20240531080000 -0500">
 <title>SABRINA LA BRUJA ADOLESCENTE</title>
-<desc>Cuando una estudiante de 16 años descubre que es una bruja, sus dos tías le ofrecen orientación sobre cómo controlar sus recién descubiertos poderes mágicos.</desc>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <icon src="https://www.imdb.com/title/tt0115341/mediaviewer/rm3226620416/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
@@ -541,56 +542,56 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240531120000 -0500" stop="20240531125000 -0500">
-<title>EDUCA TV</title>
+<title>Educa TV</title>
 <desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240531125000 -0500" stop="20240531131500 -0500">
-<title>NOTICIEROS DE MULTICANAL</title>
+<title>Noticieros de Multicanal</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240531131500 -0500" stop="20240531140000 -0500">
-<title>AL BORDE DE LA MUERTE - SERIE</title>
+<title>Serie-Al Borde de la Muerte 99%</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240531140000 -0500" stop="20240531154500 -0500">
-<title>PELICULAS MULTICANAL</title>
+<title>Peliculas</title>
 
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240531154500 -0500" stop="20240531170000 -0500">
-<title>EDUCA TV</title>
+<programme channel="12001" start="20240531154500 -0500" stop="20240531171500 -0500">
+<title>Educa TV</title>
 <desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240531170000 -0500" stop="20240531180000 -0500">
+<programme channel="12001" start="20240531171500 -0500" stop="20240531180000 -0500">
 <title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240531180000 -0500" stop="20240531190000 -0500">
-<title>EL CHAVO DEL 8</title>
-<desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
+<programme channel="12001" start="20240527180000 -0500" stop="20240527183000 -0500">
+<title>Santa Misa</title>
+<desc>Espacio dedicado a la transmisión de la Santa Misa.</desc>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240531190000 -0500" stop="20240531200000 -0500">
-<title>NOTICIEROS DE MULTICANAL</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
-<category>Informativo</category>
+<programme channel="12001" start="20240527183000 -0500" stop="20240527190000 -0500">
+<title>The Rain</title>
+<desc>Un brutal virus mata a la mayor parte de la población. Dos hermanos se embarcan en un peligro viaje hacia un lugar seguro.</desc>
+<icon src="https://www.imdb.com/title/tt6656238/mediaviewer/rm3070775040/?ref_=tt_ov_i"/>
+<category>Series</category>
 </programme>
-<programme channel="12001" start="20240531200000 -0500" stop="20240531210000 -0500">
-<title>PADRE DE FAMILIA</title>
-<desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
+<programme channel="12001" start="20240531190000 -0500" stop="20240531210000 -0500">
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Entretenimiento</category>
 </programme>
@@ -618,13 +619,13 @@
 <icon src="https://www.imdb.com/title/tt0996011/mediaviewer/rm1931871233/?ref_=ext_shr_lnk"/>
 <category>Informativo</category>
 </programme>
-<programme channel="12001" start="20240601050000 -0500" stop="20240601070000 -0500">
-<title>ARMONÍA MUSICAL</title>
+<programme channel="12001" start="20240601050000 -0500" stop="20240601073000 -0500">
+<title>Armonia Musical</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3101535"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240601070000 -0500" stop="20240601090000 -0500">
+<programme channel="12001" start="20240601073000 -0500" stop="20240601090000 -0500">
 <title>PELICULAS DE ESTRENO</title>
 <desc>Disfruta de las mejores Peliculas.</desc>
 <icon src="https://www.imdb.com/title/tt1612716/mediaviewer/rm3707021825/?ref_=ext_shr_lnk"/>
@@ -642,37 +643,37 @@
 <icon src="https://www.imdb.com/title/tt0112123/mediaviewer/rm2550913793/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240601140000 -0500" stop="20240601190000 -0500">
+<programme channel="12001" start="20240601140000 -0500" stop="20240601183000 -0500">
 <title>MARATHON – ROSARIO TIJERAS</title>
 <desc>Una hermosa mujer que proviene de un barrio pobre se ve involucrada en un triángulo amoroso con dos mejores amigos que provienen de familias prominentes de la ciudad.</desc>
 <icon src="https://www.imdb.com/title/tt0112123/mediaviewer/rm2550913793/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240601190000 -0500" stop="20240601210000 -0500">
+<programme channel="12001" start="20240601183000 -0500" stop="20240601210000 -0500">
 <title>INFO-RESUMEN</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
-<programme channel="12001" start="20240601210000 -0500" stop="20240602000000 -0500">
+<programme channel="12001" start="20240601210000 -0500" stop="20240601900000 -0500">
 <title>MULTICINE</title>
 <desc>Disfruta de las mejores Peliculas.</desc>
 <icon src="https://www.imdb.com/title/tt1612716/mediaviewer/rm3707021825/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240602000000 -0500" stop="20240602050000 -0500">
+<programme channel="12001" start="20240601900000 -0500" stop="20240602050000 -0500">
 <title>OFF-AIR</title>
 <desc>OFF-AIR.</desc>
 <icon src="https://www.imdb.com/title/tt0996011/mediaviewer/rm1931871233/?ref_=ext_shr_lnk"/>
 <category>Informativo</category>
 </programme>
-<programme channel="12001" start="20240602050000 -0500" stop="20240602070000 -0500">
+<programme channel="12001" start="20240602050000 -0500" stop="20240602073000 -0500">
 <title>REPRISE-INFORESUMEN</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3101535"/>
 <category>Informativo</category>
 </programme>
-<programme channel="12001" start="20240602070000 -0500" stop="20240602080000 -0500">
+<programme channel="12001" start="20240602073000 -0500" stop="20240602080000 -0500">
 <title>MISA DOMINICAL</title>
 <desc>La Eucaristía dominical convoca a la asamblea cristiana para dar gracias a Dios, escuchar la Palabra de Dios y alimentarse de la Eucaristía.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3101535"/>
@@ -680,18 +681,18 @@
 </programme>
 <programme channel="12001" start="20240602080000 -0500" stop="20240602090000 -0500">
 <title>SABRINA LA BRUJA ADOLESCENTE</title>
-<desc>Cuando una estudiante de 16 años descubre que es una bruja, sus dos tías le ofrecen orientación sobre cómo controlar sus recién descubiertos poderes mágicos.</desc>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <icon src="https://www.imdb.com/title/tt0115341/mediaviewer/rm3226620416/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240602090000 -0500" stop="20240602100000 -0500">
 <title>SABRINA LA BRUJA ADOLESCENTE</title>
-<desc>Cuando una estudiante de 16 años descubre que es una bruja, sus dos tías le ofrecen orientación sobre cómo controlar sus recién descubiertos poderes mágicos.</desc>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <icon src="https://www.imdb.com/title/tt0115341/mediaviewer/rm3226620416/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240602100000 -0500" stop="20240602140000 -0500">
-<title>MARATHON-AL BORDE DE LA MUERTE - SERIE</title>
+<title>Serie-Al Borde de la Muerte 99%</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png"/>
 <category>Entretenimiento</category>
@@ -721,26 +722,26 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240603030000 -0500" stop="20240603050000 -0500">
-<title>PADRE DE FAMILIA</title>
-<desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://www.imdb.com/title/tt5641510/mediaviewer/rm282712833/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240603050000 -0500" stop="20240603060000 -0500">
-<title>ARMONÍA MUSICAL</title>
+<programme channel="12001" start="20240603050000 -0500" stop="20240603054500 -0500">
+<title>Armonia Musical</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3101535"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240603060000 -0500" stop="20240603070000 -0500">
-<title>NOTICIEROS DE MULTICANAL - REPRISE</title>
+<programme channel="12001" start="20240603054500 -0500" stop="20240603073000 -0500">
+<title>Noticieros de Multicanal</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
-<programme channel="12001" start="20240603070000 -0500" stop="20240603080000 -0500">
+<programme channel="12001" start="20240603073000 -0500" stop="20240603080000 -0500">
 <title>SABRINA LA BRUJA ADOLESCENTE</title>
-<desc>Cuando una estudiante de 16 años descubre que es una bruja, sus dos tías le ofrecen orientación sobre cómo controlar sus recién descubiertos poderes mágicos.</desc>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <icon src="https://www.imdb.com/title/tt0115341/mediaviewer/rm3226620416/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
@@ -763,19 +764,19 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240603120000 -0500" stop="20240603123000 -0500">
-<title>EDUCA TV</title>
+<title>Educa TV</title>
 <desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240603123000 -0500" stop="20240603131500 -0500">
-<title>NOTICIEROS DE MULTICANAL</title>
+<title>Noticieros de Multicanal</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240603131500 -0500" stop="20240603140000 -0500">
-<title>AL BORDE DE LA MUERTE - SERIE</title>
+<title>Serie-Al Borde de la Muerte 99%</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png"/>
 <category>Series</category>
@@ -787,38 +788,38 @@
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240603140000 -0500" stop="20240603154500 -0500">
-<title>PELICULAS MULTICANAL</title>
+<title>Peliculas</title>
 
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240603154500 -0500" stop="20240603170000 -0500">
-<title>EDUCA TV</title>
+<programme channel="12001" start="20240603154500 -0500" stop="20240603171500 -0500">
+<title>Educa TV</title>
 <desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240603170000 -0500" stop="20240603180000 -0500">
+<programme channel="12001" start="20240603171500 -0500" stop="20240603180000 -0500">
 <title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240603180000 -0500" stop="20240603190000 -0500">
-<title>EL CHAVO DEL 8</title>
-<desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
+<programme channel="12001" start="20240527180000 -0500" stop="20240527183000 -0500">
+<title>Santa Misa</title>
+<desc>Espacio dedicado a la transmisión de la Santa Misa.</desc>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240603190000 -0500" stop="20240603200000 -0500">
-<title>NOTICIEROS DE MULTICANAL</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
-<category>Informativo</category>
+<programme channel="12001" start="20240527183000 -0500" stop="20240527190000 -0500">
+<title>The Rain</title>
+<desc>Un brutal virus mata a la mayor parte de la población. Dos hermanos se embarcan en un peligro viaje hacia un lugar seguro.</desc>
+<icon src="https://www.imdb.com/title/tt6656238/mediaviewer/rm3070775040/?ref_=tt_ov_i"/>
+<category>Series</category>
 </programme>
-<programme channel="12001" start="20240603200000 -0500" stop="20240603210000 -0500">
-<title>PADRE DE FAMILIA</title>
-<desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
+<programme channel="12001" start="20240603190000 -0500" stop="20240603210000 -0500">
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Entretenimiento</category>
 </programme>
@@ -853,26 +854,26 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240604030000 -0500" stop="20240604050000 -0500">
-<title>PADRE DE FAMILIA</title>
-<desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://www.imdb.com/title/tt5641510/mediaviewer/rm282712833/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240604050000 -0500" stop="20240604060000 -0500">
-<title>ARMONÍA MUSICAL</title>
+<programme channel="12001" start="20240604050000 -0500" stop="20240604054500 -0500">
+<title>Armonia Musical</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3101535"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240604060000 -0500" stop="20240604070000 -0500">
-<title>NOTICIEROS DE MULTICANAL - REPRISE</title>
+<programme channel="12001" start="20240604054500 -0500" stop="20240604073000 -0500">
+<title>Noticieros de Multicanal</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
 </programme>
-<programme channel="12001" start="20240604070000 -0500" stop="20240604080000 -0500">
+<programme channel="12001" start="20240604073000 -0500" stop="20240604080000 -0500">
 <title>SABRINA LA BRUJA ADOLESCENTE</title>
-<desc>Cuando una estudiante de 16 años descubre que es una bruja, sus dos tías le ofrecen orientación sobre cómo controlar sus recién descubiertos poderes mágicos.</desc>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <icon src="https://www.imdb.com/title/tt0115341/mediaviewer/rm3226620416/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
@@ -895,56 +896,56 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240604120000 -0500" stop="20240604125000 -0500">
-<title>EDUCA TV</title>
+<title>Educa TV</title>
 <desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240604125000 -0500" stop="20240604131500 -0500">
-<title>NOTICIEROS DE MULTICANAL</title>
+<title>Noticieros de Multicanal</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240604131500 -0500" stop="20240604140000 -0500">
-<title>AL BORDE DE LA MUERTE - SERIE</title>
+<title>Serie-Al Borde de la Muerte 99%</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240604140000 -0500" stop="20240604154500 -0500">
-<title>PELICULAS MULTICANAL</title>
+<title>Peliculas</title>
 
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasMulticanal.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240604154500 -0500" stop="20240604170000 -0500">
-<title>EDUCA TV</title>
+<programme channel="12001" start="20240604154500 -0500" stop="20240604171500 -0500">
+<title>Educa TV</title>
 <desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240604170000 -0500" stop="20240604180000 -0500">
+<programme channel="12001" start="20240604171500 -0500" stop="20240604180000 -0500">
 <title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240604180000 -0500" stop="20240604190000 -0500">
-<title>EL CHAVO DEL 8</title>
-<desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
+<programme channel="12001" start="20240527180000 -0500" stop="20240527183000 -0500">
+<title>Santa Misa</title>
+<desc>Espacio dedicado a la transmisión de la Santa Misa.</desc>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240604190000 -0500" stop="20240604200000 -0500">
-<title>NOTICIEROS DE MULTICANAL</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
-<category>Informativo</category>
+<programme channel="12001" start="20240527183000 -0500" stop="20240527190000 -0500">
+<title>The Rain</title>
+<desc>Un brutal virus mata a la mayor parte de la población. Dos hermanos se embarcan en un peligro viaje hacia un lugar seguro.</desc>
+<icon src="https://www.imdb.com/title/tt6656238/mediaviewer/rm3070775040/?ref_=tt_ov_i"/>
+<category>Series</category>
 </programme>
-<programme channel="12001" start="20240604200000 -0500" stop="20240604210000 -0500">
-<title>PADRE DE FAMILIA</title>
-<desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
+<programme channel="12001" start="20240604190000 -0500" stop="20240604210000 -0500">
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Entretenimiento</category>
 </programme>
@@ -979,26 +980,26 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240605030000 -0500" stop="20240605050000 -0500">
-<title>PADRE DE FAMILIA</title>
-<desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://www.imdb.com/title/tt5641510/mediaviewer/rm282712833/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240605050000 -0500" stop="20240605060000 -0500">
-<title>ARMONÍA MUSICAL</title>
+<programme channel="12001" start="20240605050000 -0500" stop="20240605054500 -0500">
+<title>Armonia Musical</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3101535"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240605060000 -0500" stop="20240605070000 -0500">
-<title>NOTICIEROS DE MULTICANAL - REPRISE</title>
+<programme channel="12001" start="20240605054500 -0500" stop="20240605073000 -0500">
+<title>Noticieros de Multicanal</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
 </programme>
-<programme channel="12001" start="20240605070000 -0500" stop="20240605080000 -0500">
+<programme channel="12001" start="20240605073000 -0500" stop="20240605080000 -0500">
 <title>SABRINA LA BRUJA ADOLESCENTE</title>
-<desc>Cuando una estudiante de 16 años descubre que es una bruja, sus dos tías le ofrecen orientación sobre cómo controlar sus recién descubiertos poderes mágicos.</desc>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <icon src="https://www.imdb.com/title/tt0115341/mediaviewer/rm3226620416/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
@@ -1021,56 +1022,56 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240605120000 -0500" stop="20240605125000 -0500">
-<title>EDUCA TV</title>
+<title>Educa TV</title>
 <desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240605125000 -0500" stop="20240605131500 -0500">
-<title>NOTICIEROS DE MULTICANAL</title>
+<title>Noticieros de Multicanal</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240605131500 -0500" stop="20240605140000 -0500">
-<title>AL BORDE DE LA MUERTE - SERIE</title>
+<title>Serie-Al Borde de la Muerte 99%</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240605140000 -0500" stop="20240605154500 -0500">
-<title>PELICULAS MULTICANAL</title>
+<title>Peliculas</title>
 
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasMulticanal.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240605154500 -0500" stop="20240605170000 -0500">
-<title>EDUCA TV</title>
+<programme channel="12001" start="20240605154500 -0500" stop="20240605171500 -0500">
+<title>Educa TV</title>
 <desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240605170000 -0500" stop="20240605180000 -0500">
+<programme channel="12001" start="20240605171500 -0500" stop="20240605180000 -0500">
 <title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240605180000 -0500" stop="20240605190000 -0500">
-<title>EL CHAVO DEL 8</title>
-<desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
+<programme channel="12001" start="20240605180000 -0500" stop="20240605183000 -0500">
+<title>Santa Misa</title>
+<desc>Espacio dedicado a la transmisión de la Santa Misa.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240605190000 -0500" stop="20240605200000 -0500">
-<title>NOTICIEROS DE MULTICANAL</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
-<category>Informativo</category>
+<programme channel="12001" start="20240527183000 -0500" stop="20240527190000 -0500">
+<title>The Rain</title>
+<desc>Un brutal virus mata a la mayor parte de la población. Dos hermanos se embarcan en un peligro viaje hacia un lugar seguro.</desc>
+<icon src="https://www.imdb.com/title/tt6656238/mediaviewer/rm3070775040/?ref_=tt_ov_i"/>
+<category>Series</category>
 </programme>
-<programme channel="12001" start="20240605200000 -0500" stop="20240605210000 -0500">
-<title>PADRE DE FAMILIA</title>
-<desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
+<programme channel="12001" start="20240605190000 -0500" stop="20240605210000 -0500">
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Entretenimiento</category>
 </programme>
@@ -1086,13 +1087,13 @@
 <icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240605230000 -0500" stop="20240606000000 -0500">
+<programme channel="12001" start="20240605230000 -0500" stop="20240605450000 -0500">
 <title>UNA FAMILIA DE 10</title>
 <desc>Las desventuras y problemas de una gran familia de diez que viven en un apartamento.</desc>
 <icon src="https://www.imdb.com/title/tt0996011/mediaviewer/rm1931871233/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240606000000 -0500" stop="20240606020000 -0500">
+<programme channel="12001" start="20240605450000 -0500" stop="20240606020000 -0500">
 <title>CINE NOCTURNO</title>
 <desc>Disfruta de las mejores Peliculas.</desc>
 <icon src="https://www.imdb.com/title/tt1612716/mediaviewer/rm3707021825/?ref_=ext_shr_lnk"/>
@@ -1105,26 +1106,26 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240606030000 -0500" stop="20240606050000 -0500">
-<title>PADRE DE FAMILIA</title>
-<desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://www.imdb.com/title/tt5641510/mediaviewer/rm282712833/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240606050000 -0500" stop="20240606060000 -0500">
-<title>ARMONÍA MUSICAL</title>
+<programme channel="12001" start="20240606050000 -0500" stop="20240606054500 -0500">
+<title>Armonia Musical</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3101535"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240606060000 -0500" stop="20240606070000 -0500">
-<title>NOTICIEROS DE MULTICANAL - REPRISE</title>
+<programme channel="12001" start="20240606054500 -0500" stop="20240606073000 -0500">
+<title>Noticieros de Multicanal</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
 </programme>
-<programme channel="12001" start="20240606070000 -0500" stop="20240606080000 -0500">
+<programme channel="12001" start="20240606073000 -0500" stop="20240606080000 -0500">
 <title>SABRINA LA BRUJA ADOLESCENTE</title>
-<desc>Cuando una estudiante de 16 años descubre que es una bruja, sus dos tías le ofrecen orientación sobre cómo controlar sus recién descubiertos poderes mágicos.</desc>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <icon src="https://www.imdb.com/title/tt0115341/mediaviewer/rm3226620416/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
@@ -1147,56 +1148,56 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240606120000 -0500" stop="20240606125000 -0500">
-<title>EDUCA TV</title>
+<title>Educa TV</title>
 <desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240606125000 -0500" stop="20240606131500 -0500">
-<title>NOTICIEROS DE MULTICANAL</title>
+<title>Noticieros de Multicanal</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240606131500 -0500" stop="20240606140000 -0500">
-<title>AL BORDE DE LA MUERTE - SERIE</title>
+<title>Serie-Al Borde de la Muerte 99%</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240606140000 -0500" stop="20240606154500 -0500">
-<title>PELICULAS MULTICANAL</title>
+<title>Peliculas</title>
 
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasMulticanal.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240606154500 -0500" stop="20240606170000 -0500">
-<title>EDUCA TV</title>
+<programme channel="12001" start="20240606154500 -0500" stop="20240606171500 -0500">
+<title>Educa TV</title>
 <desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240606170000 -0500" stop="20240606180000 -0500">
+<programme channel="12001" start="20240606171500 -0500" stop="20240606180000 -0500">
 <title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240606180000 -0500" stop="20240606190000 -0500">
-<title>EL CHAVO DEL 8</title>
-<desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
+<programme channel="12001" start="20240527180000 -0500" stop="20240527183000 -0500">
+<title>Santa Misa</title>
+<desc>Espacio dedicado a la transmisión de la Santa Misa.</desc>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240606190000 -0500" stop="20240606200000 -0500">
-<title>NOTICIEROS DE MULTICANAL</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
-<category>Informativo</category>
+<programme channel="12001" start="20240527183000 -0500" stop="20240527190000 -0500">
+<title>The Rain</title>
+<desc>Un brutal virus mata a la mayor parte de la población. Dos hermanos se embarcan en un peligro viaje hacia un lugar seguro.</desc>
+<icon src="https://www.imdb.com/title/tt6656238/mediaviewer/rm3070775040/?ref_=tt_ov_i"/>
+<category>Series</category>
 </programme>
-<programme channel="12001" start="20240606200000 -0500" stop="20240606210000 -0500">
-<title>PADRE DE FAMILIA</title>
-<desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
+<programme channel="12001" start="20240606190000 -0500" stop="20240606210000 -0500">
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Entretenimiento</category>
 </programme>
@@ -1212,13 +1213,13 @@
 <icon src="https://www.imdb.com/title/tt0387763/mediaviewer/rm4213119489/?ref_=ext_shr_lnk"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240606230000 -0500" stop="20240607000000 -0500">
+<programme channel="12001" start="20240606230000 -0500" stop="20240607300000 -0500">
 <title>UNA FAMILIA DE 10</title>
 <desc>Las desventuras y problemas de una gran familia de diez que viven en un apartamento.</desc>
 <icon src="https://www.imdb.com/title/tt0996011/mediaviewer/rm1931871233/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240607000000 -0500" stop="20240607020000 -0500">
+<programme channel="12001" start="20240607300000 -0500" stop="20240607020000 -0500">
 <title>CINE NOCTURNO</title>
 <desc>Disfruta de las mejores Peliculas.</desc>
 <icon src="https://www.imdb.com/title/tt1612716/mediaviewer/rm3707021825/?ref_=ext_shr_lnk"/>
@@ -1231,26 +1232,26 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240607030000 -0500" stop="20240607050000 -0500">
-<title>PADRE DE FAMILIA</title>
-<desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://www.imdb.com/title/tt5641510/mediaviewer/rm282712833/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240607050000 -0500" stop="20240607060000 -0500">
-<title>ARMONÍA MUSICAL</title>
+<programme channel="12001" start="20240607050000 -0500" stop="20240607054500 -0500">
+<title>Armonia Musical</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3101535"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240607060000 -0500" stop="20240607070000 -0500">
-<title>NOTICIEROS DE MULTICANAL - REPRISE</title>
+<programme channel="12001" start="20240607054500 -0500" stop="20240607073000 -0500">
+<title>Noticieros de Multicanal</title>
 <desc>Reprise de noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3106899"/>
 <category>Informativo</category>
 </programme>
-<programme channel="12001" start="20240607070000 -0500" stop="20240607080000 -0500">
+<programme channel="12001" start="20240607073000 -0500" stop="20240607080000 -0500">
 <title>SABRINA LA BRUJA ADOLESCENTE</title>
-<desc>Cuando una estudiante de 16 años descubre que es una bruja, sus dos tías le ofrecen orientación sobre cómo controlar sus recién descubiertos poderes mágicos.</desc>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <icon src="https://www.imdb.com/title/tt0115341/mediaviewer/rm3226620416/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
@@ -1273,56 +1274,56 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240607120000 -0500" stop="20240607125000 -0500">
-<title>EDUCA TV</title>
+<title>Educa TV</title>
 <desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240607125000 -0500" stop="20240607131500 -0500">
-<title>NOTICIEROS DE MULTICANAL</title>
+<title>Noticieros de Multicanal</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Informativo</category>
 </programme>
 <programme channel="12001" start="20240607131500 -0500" stop="20240607140000 -0500">
-<title>AL BORDE DE LA MUERTE - SERIE</title>
+<title>Serie-Al Borde de la Muerte 99%</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png"/>
 <category>Series</category>
 </programme>
 <programme channel="12001" start="20240607140000 -0500" stop="20240607154500 -0500">
-<title>PELICULAS MULTICANAL</title>
+<title>Peliculas</title>
 
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasMulticanal.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240607154500 -0500" stop="20240607170000 -0500">
-<title>EDUCA TV</title>
+<programme channel="12001" start="20240607154500 -0500" stop="20240607171500 -0500">
+<title>Educa TV</title>
 <desc>Educa es un canal de televisión pública de Ecuador, fundado en el 2012 como un programa y en el 2013 como un canal independiente. Su programación se basa en espacios educativos. Es propiedad del Estado ecuatoriano a través del Ministerio de Educación. Es operado por Medios Públicos.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP332735"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240607170000 -0500" stop="20240607180000 -0500">
+<programme channel="12001" start="20240607171500 -0500" stop="20240607180000 -0500">
 <title>MUSIC SHOW</title>
 <desc>Tras descubrir que es de otro planeta, Goku y sus amigos se ven obligados a defenderlo de un ataque de enemigos extraterrestres.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240607180000 -0500" stop="20240607190000 -0500">
-<title>EL CHAVO DEL 8</title>
-<desc>Las desventuras de un chico pobre, sin hogar y torpe, y sus amigos en el humilde vecindario en el que viven.</desc>
-<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/Music.png"/>
+<programme channel="12001" start="20240527180000 -0500" stop="20240527183000 -0500">
+<title>Santa Misa</title>
+<desc>Espacio dedicado a la transmisión de la Santa Misa.</desc>
+<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png"/>
 <category>Series</category>
 </programme>
-<programme channel="12001" start="20240607190000 -0500" stop="20240607200000 -0500">
-<title>NOTICIEROS DE MULTICANAL</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
-<category>Informativo</category>
+<programme channel="12001" start="20240527183000 -0500" stop="20240527190000 -0500">
+<title>The Rain</title>
+<desc>Un brutal virus mata a la mayor parte de la población. Dos hermanos se embarcan en un peligro viaje hacia un lugar seguro.</desc>
+<icon src="https://www.imdb.com/title/tt6656238/mediaviewer/rm3070775040/?ref_=tt_ov_i"/>
+<category>Series</category>
 </programme>
-<programme channel="12001" start="20240607200000 -0500" stop="20240607210000 -0500">
-<title>PADRE DE FAMILIA</title>
-<desc>Un joven se ve obligado a convertirse en el sostén de su familia cuando su padre desaparece.</desc>
+<programme channel="12001" start="20240607190000 -0500" stop="20240607210000 -0500">
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
 <category>Entretenimiento</category>
 </programme>
@@ -1350,13 +1351,13 @@
 <icon src="https://www.imdb.com/title/tt0996011/mediaviewer/rm1931871233/?ref_=ext_shr_lnk"/>
 <category>Informativo</category>
 </programme>
-<programme channel="12001" start="20240608050000 -0500" stop="20240608070000 -0500">
-<title>ARMONÍA MUSICAL</title>
+<programme channel="12001" start="20240608050000 -0500" stop="20240608073000 -0500">
+<title>Armonia Musical</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3101535"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240608070000 -0500" stop="20240608090000 -0500">
+<programme channel="12001" start="20240608073000 -0500" stop="20240608090000 -0500">
 <title>PELICULAS DE ESTRENO</title>
 <desc>Disfruta de las mejores Peliculas.</desc>
 <icon src="https://www.imdb.com/title/tt1612716/mediaviewer/rm3707021825/?ref_=ext_shr_lnk"/>
@@ -1374,13 +1375,13 @@
 <icon src="https://www.imdb.com/title/tt0112123/mediaviewer/rm2550913793/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240608140000 -0500" stop="20240608190000 -0500">
+<programme channel="12001" start="20240608140000 -0500" stop="20240608183000 -0500">
 <title>MARATHON – ROSARIO TIJERAS</title>
 <desc>Una hermosa mujer que proviene de un barrio pobre se ve involucrada en un triángulo amoroso con dos mejores amigos que provienen de familias prominentes de la ciudad.</desc>
 <icon src="https://www.imdb.com/title/tt0112123/mediaviewer/rm2550913793/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel="12001" start="20240608190000 -0500" stop="20240608210000 -0500">
+<programme channel="12001" start="20240608183000 -0500" stop="20240608210000 -0500">
 <title>INFO-RESUMEN</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png"/>
@@ -1398,13 +1399,13 @@
 <icon src="https://www.imdb.com/title/tt0996011/mediaviewer/rm1931871233/?ref_=ext_shr_lnk"/>
 <category>Informativo</category>
 </programme>
-<programme channel="12001" start="20240609050000 -0500" stop="20240609070000 -0500">
+<programme channel="12001" start="20240609050000 -0500" stop="20240609073000 -0500">
 <title>REPRISE-INFORESUMEN</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3101535"/>
 <category>Informativo</category>
 </programme>
-<programme channel="12001" start="20240609070000 -0500" stop="20240609080000 -0500">
+<programme channel="12001" start="20240609073000 -0500" stop="20240609080000 -0500">
 <title>MISA DOMINICAL</title>
 <desc>La Eucaristía dominical convoca a la asamblea cristiana para dar gracias a Dios, escuchar la Palabra de Dios y alimentarse de la Eucaristía.</desc>
 <icon src="https://www.movistarplus.es/recorte/n/caratula4/MTVEP3101535"/>
@@ -1412,18 +1413,18 @@
 </programme>
 <programme channel="12001" start="20240609080000 -0500" stop="20240609090000 -0500">
 <title>SABRINA LA BRUJA ADOLESCENTE</title>
-<desc>Cuando una estudiante de 16 años descubre que es una bruja, sus dos tías le ofrecen orientación sobre cómo controlar sus recién descubiertos poderes mágicos.</desc>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <icon src="https://www.imdb.com/title/tt0115341/mediaviewer/rm3226620416/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240609090000 -0500" stop="20240609100000 -0500">
 <title>SABRINA LA BRUJA ADOLESCENTE</title>
-<desc>Cuando una estudiante de 16 años descubre que es una bruja, sus dos tías le ofrecen orientación sobre cómo controlar sus recién descubiertos poderes mágicos.</desc>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <icon src="https://www.imdb.com/title/tt0115341/mediaviewer/rm3226620416/?ref_=ext_shr_lnk"/>
 <category>Entretenimiento</category>
 </programme>
 <programme channel="12001" start="20240609100000 -0500" stop="20240609140000 -0500">
-<title>MARATHON-AL BORDE DE LA MUERTE - SERIE</title>
+<title>MARATHON-Serie-Al Borde de la Muerte 99%</title>
 <desc>Espacio dedicado a transmisión de las mejores peliculas.</desc>
 <icon src="https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png"/>
 <category>Entretenimiento</category>

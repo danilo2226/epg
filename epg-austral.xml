@@ -2,3 +2,1053 @@
 <channel id="12002">
 <display-name>AUSTRAL_TV</display-name>
 </channel>
+<programme channel='12002' start='20241209020000 -0500' stop='20241209040000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241209040000 -0500' stop='20241209060000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241209060000 -0500' stop='20241209063000 -0500'>
+<title>Música Concierto</title>
+<desc>Música ConciertoEspacio dedicado para que disfrutes de los mejores conciertos que se vivieron en nueustra provincia.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241209063000 -0500' stop='20241209070000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio ContratadoEspacio que promueve la producción independiente.</desc>
+<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241209070000 -0500' stop='20241209084500 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241209084500 -0500' stop='20241209090000 -0500'>
+<title>Animaciones Varias</title>
+<desc>Animaciones VariasPrograma infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pDQfZMJq95hckoaez9ou93Hmqy.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241209090000 -0500' stop='20241209091500 -0500'>
+<title>TV Tienda</title>
+<desc>TV TiendaTV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/TV-Tienda.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241209091500 -0500' stop='20241209101500 -0500'>
+<title>Bones</title>
+<desc>BonesUna antropóloga forense y un engreído agente del FBI forman equipo para investigar las causas de los homicidios que investigan.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241209101500 -0500' stop='20241209120000 -0500'>
+<title>Cine General</title>
+<desc>Cine GeneralEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241209120000 -0500' stop='20241209123000 -0500'>
+<title>Austral Clips</title>
+<desc>Austral ClipsEspacio dedicado para que disfrutes de música de todos los tiempos.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241209123000 -0500' stop='20241209130000 -0500'>
+<title>Noticiero Telenoticias</title>
+<desc>Noticiero TelenoticiasNuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
+<icon src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReKC5ydSXvhITuiYvjsHYjCCRGf-voMFdS0w&s'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241209130000 -0500' stop='20241209134500 -0500'>
+<title>Teresa</title>
+<desc>TeresaTeresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Thydptu5Ym3mq0XTGJXpdl624Y.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241209134500 -0500' stop='20241209151500 -0500'>
+<title>Música Nacional</title>
+<desc>Música NacionalEspacio dedicado para que disfrutes de musica local y nacional.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241209151500 -0500' stop='20241209160000 -0500'>
+<title>MacGyver</title>
+<desc>MacGyverLa serie gira en torno a las misiones que realiza el personaje principal Angus MacGyver para distintas instituciones, sobre todo para la Fundación Phoenix. En la serie, MacGyver resuelve todos los problemas que se le plantean haciendo uso de su gran inteligencia, su conocimiento académico en ciencias e ingeniería y su habilidad para la construcción de herramientas con elementos cotidianos de su entorno.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/7q4u6lXXQR2wcP2FnvH9PpZ7Qir.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241209160000 -0500' stop='20241209163000 -0500'>
+<title>Dos hombres y medio</title>
+<desc>Dos hombres y medioCharlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él.</desc>
+<icon src='https://image.tmdb.org/t/p/original/43MTX2x5QpHr1j54ySqss2c2yzG.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241209163000 -0500' stop='20241209170000 -0500'>
+<title>La Rosa de Guadalupe</title>
+<desc>La Rosa de GuadalupeLa rosa de Guadalupe es una serie de televisión mexicana creado por Carlos Mercado Orduña, alusiva a la religión católica en específico a la Virgen de Guadalupe.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdKDNIGDKyWVn7m36s9bGkvM1ai.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241209170000 -0500' stop='20241209174500 -0500'>
+<title>Porque el Amor Manda</title>
+<desc>Porque el Amor MandaJesús García es un hombre honrado que deja su natal Monterrey para buscar un mejor futuro en Chicago. Después de vivir seis años como inmigrante, decide volver a México para encontrar a Valentina, su hija.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sDrTKOllfCnGrchEQQDGtO0dgp.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241209174500 -0500' stop='20241209180000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio ContratadoEspacio que promueve la producción independiente.</desc>
+<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241209180000 -0500' stop='20241209193000 -0500'>
+<title>Visas Americanas USA</title>
+<desc>Visas Americanas USAPrograma dedicado a brindar información sobre como realizar los tramites para poder emigrar legalmente a cualquier país del Mundo.</desc>
+<icon src='https://scontent.fmch2-1.fna.fbcdn.net/v/t39.30808-6/293308899_782844342821985_8689092743562561843_n.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241209193000 -0500' stop='20241209200000 -0500'>
+<title>Full Deportes</title>
+<desc>Full DeportesDisfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
+<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241209200000 -0500' stop='20241209210000 -0500'>
+<title>Noticiero Telenoticias</title>
+<desc>Noticiero TelenoticiasNuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
+<icon src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReKC5ydSXvhITuiYvjsHYjCCRGf-voMFdS0w&s'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241209210000 -0500' stop='20241209220000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio ContratadoEspacio que promueve la producción independiente.</desc>
+<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241209220000 -0500' stop='20241209221500 -0500'>
+<title>TV Tienda</title>
+<desc>TV TiendaTV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/TV-Tienda.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241209221500 -0500' stop='20241210001500 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241210001500 -0500' stop='20241210020000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241210020000 -0500' stop='20241210040000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241210040000 -0500' stop='20241210060000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241210060000 -0500' stop='20241210063000 -0500'>
+<title>Música Concierto</title>
+<desc>Música ConciertoEspacio dedicado para que disfrutes de los mejores conciertos que se vivieron en nueustra provincia.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241210063000 -0500' stop='20241210070000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio ContratadoEspacio que promueve la producción independiente.</desc>
+<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241210070000 -0500' stop='20241210084500 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241210084500 -0500' stop='20241210090000 -0500'>
+<title>Animaciones Varias</title>
+<desc>Animaciones VariasPrograma infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pDQfZMJq95hckoaez9ou93Hmqy.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241210090000 -0500' stop='20241210091500 -0500'>
+<title>TV Tienda</title>
+<desc>TV TiendaTV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/TV-Tienda.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241210091500 -0500' stop='20241210101500 -0500'>
+<title>Bones</title>
+<desc>BonesUna antropóloga forense y un engreído agente del FBI forman equipo para investigar las causas de los homicidios que investigan.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241210101500 -0500' stop='20241210120000 -0500'>
+<title>Cine General</title>
+<desc>Cine GeneralEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241210120000 -0500' stop='20241210123000 -0500'>
+<title>Austral Clips</title>
+<desc>Austral ClipsEspacio dedicado para que disfrutes de música de todos los tiempos.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241210123000 -0500' stop='20241210130000 -0500'>
+<title>Noticiero Telenoticias</title>
+<desc>Noticiero TelenoticiasNuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
+<icon src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReKC5ydSXvhITuiYvjsHYjCCRGf-voMFdS0w&s'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241210130000 -0500' stop='20241210134500 -0500'>
+<title>Teresa</title>
+<desc>TeresaTeresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Thydptu5Ym3mq0XTGJXpdl624Y.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241210134500 -0500' stop='20241210151500 -0500'>
+<title>Música Nacional</title>
+<desc>Música NacionalEspacio dedicado para que disfrutes de musica local y nacional.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241210151500 -0500' stop='20241210160000 -0500'>
+<title>MacGyver</title>
+<desc>MacGyverLa serie gira en torno a las misiones que realiza el personaje principal Angus MacGyver para distintas instituciones, sobre todo para la Fundación Phoenix. En la serie, MacGyver resuelve todos los problemas que se le plantean haciendo uso de su gran inteligencia, su conocimiento académico en ciencias e ingeniería y su habilidad para la construcción de herramientas con elementos cotidianos de su entorno.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/7q4u6lXXQR2wcP2FnvH9PpZ7Qir.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241210160000 -0500' stop='20241210163000 -0500'>
+<title>Dos hombres y medio</title>
+<desc>Dos hombres y medioCharlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él.</desc>
+<icon src='https://image.tmdb.org/t/p/original/43MTX2x5QpHr1j54ySqss2c2yzG.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241210163000 -0500' stop='20241210170000 -0500'>
+<title>La Rosa de Guadalupe</title>
+<desc>La Rosa de GuadalupeLa rosa de Guadalupe es una serie de televisión mexicana creado por Carlos Mercado Orduña, alusiva a la religión católica en específico a la Virgen de Guadalupe.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdKDNIGDKyWVn7m36s9bGkvM1ai.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241210170000 -0500' stop='20241210174500 -0500'>
+<title>Porque el Amor Manda</title>
+<desc>Porque el Amor MandaJesús García es un hombre honrado que deja su natal Monterrey para buscar un mejor futuro en Chicago. Después de vivir seis años como inmigrante, decide volver a México para encontrar a Valentina, su hija.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sDrTKOllfCnGrchEQQDGtO0dgp.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241210174500 -0500' stop='20241210180000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio ContratadoEspacio que promueve la producción independiente.</desc>
+<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241210180000 -0500' stop='20241210193000 -0500'>
+<title>Visas Americanas USA</title>
+<desc>Visas Americanas USAPrograma dedicado a brindar información sobre como realizar los tramites para poder emigrar legalmente a cualquier país del Mundo.</desc>
+<icon src='https://scontent.fmch2-1.fna.fbcdn.net/v/t39.30808-6/293308899_782844342821985_8689092743562561843_n.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241210193000 -0500' stop='20241210200000 -0500'>
+<title>Full Deportes</title>
+<desc>Full DeportesDisfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
+<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241210200000 -0500' stop='20241210210000 -0500'>
+<title>Noticiero Telenoticias</title>
+<desc>Noticiero TelenoticiasNuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
+<icon src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReKC5ydSXvhITuiYvjsHYjCCRGf-voMFdS0w&s'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241210210000 -0500' stop='20241210220000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio ContratadoEspacio que promueve la producción independiente.</desc>
+<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241210220000 -0500' stop='20241210221500 -0500'>
+<title>TV Tienda</title>
+<desc>TV TiendaTV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/TV-Tienda.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241210221500 -0500' stop='20241211001500 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241211001500 -0500' stop='20241211020000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241211020000 -0500' stop='20241211040000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241211040000 -0500' stop='20241211060000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241211060000 -0500' stop='20241211063000 -0500'>
+<title>Música Concierto</title>
+<desc>Música ConciertoEspacio dedicado para que disfrutes de los mejores conciertos que se vivieron en nueustra provincia.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241211063000 -0500' stop='20241211070000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio ContratadoEspacio que promueve la producción independiente.</desc>
+<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241211070000 -0500' stop='20241211084500 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241211084500 -0500' stop='20241211090000 -0500'>
+<title>Animaciones Varias</title>
+<desc>Animaciones VariasPrograma infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pDQfZMJq95hckoaez9ou93Hmqy.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241211090000 -0500' stop='20241211091500 -0500'>
+<title>TV Tienda</title>
+<desc>TV TiendaTV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/TV-Tienda.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241211091500 -0500' stop='20241211101500 -0500'>
+<title>Bones</title>
+<desc>BonesUna antropóloga forense y un engreído agente del FBI forman equipo para investigar las causas de los homicidios que investigan.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241211101500 -0500' stop='20241211120000 -0500'>
+<title>Cine General</title>
+<desc>Cine GeneralEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241211120000 -0500' stop='20241211123000 -0500'>
+<title>Austral Clips</title>
+<desc>Austral ClipsEspacio dedicado para que disfrutes de música de todos los tiempos.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241211123000 -0500' stop='20241211130000 -0500'>
+<title>Noticiero Telenoticias</title>
+<desc>Noticiero TelenoticiasNuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
+<icon src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReKC5ydSXvhITuiYvjsHYjCCRGf-voMFdS0w&s'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241211130000 -0500' stop='20241211134500 -0500'>
+<title>Teresa</title>
+<desc>TeresaTeresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Thydptu5Ym3mq0XTGJXpdl624Y.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241211134500 -0500' stop='20241211151500 -0500'>
+<title>Música Nacional</title>
+<desc>Música NacionalEspacio dedicado para que disfrutes de musica local y nacional.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241211151500 -0500' stop='20241211160000 -0500'>
+<title>MacGyver</title>
+<desc>MacGyverLa serie gira en torno a las misiones que realiza el personaje principal Angus MacGyver para distintas instituciones, sobre todo para la Fundación Phoenix. En la serie, MacGyver resuelve todos los problemas que se le plantean haciendo uso de su gran inteligencia, su conocimiento académico en ciencias e ingeniería y su habilidad para la construcción de herramientas con elementos cotidianos de su entorno.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/7q4u6lXXQR2wcP2FnvH9PpZ7Qir.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241211160000 -0500' stop='20241211163000 -0500'>
+<title>Dos hombres y medio</title>
+<desc>Dos hombres y medioCharlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él.</desc>
+<icon src='https://image.tmdb.org/t/p/original/43MTX2x5QpHr1j54ySqss2c2yzG.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241211163000 -0500' stop='20241211170000 -0500'>
+<title>La Rosa de Guadalupe</title>
+<desc>La Rosa de GuadalupeLa rosa de Guadalupe es una serie de televisión mexicana creado por Carlos Mercado Orduña, alusiva a la religión católica en específico a la Virgen de Guadalupe.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdKDNIGDKyWVn7m36s9bGkvM1ai.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241211170000 -0500' stop='20241211174500 -0500'>
+<title>Porque el Amor Manda</title>
+<desc>Porque el Amor MandaJesús García es un hombre honrado que deja su natal Monterrey para buscar un mejor futuro en Chicago. Después de vivir seis años como inmigrante, decide volver a México para encontrar a Valentina, su hija.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sDrTKOllfCnGrchEQQDGtO0dgp.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241211174500 -0500' stop='20241211180000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio ContratadoEspacio que promueve la producción independiente.</desc>
+<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241211180000 -0500' stop='20241211193000 -0500'>
+<title>Visas Americanas USA</title>
+<desc>Visas Americanas USAPrograma dedicado a brindar información sobre como realizar los tramites para poder emigrar legalmente a cualquier país del Mundo.</desc>
+<icon src='https://scontent.fmch2-1.fna.fbcdn.net/v/t39.30808-6/293308899_782844342821985_8689092743562561843_n.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241211193000 -0500' stop='20241211200000 -0500'>
+<title>Full Deportes</title>
+<desc>Full DeportesDisfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
+<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241211200000 -0500' stop='20241211210000 -0500'>
+<title>Noticiero Telenoticias</title>
+<desc>Noticiero TelenoticiasNuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
+<icon src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReKC5ydSXvhITuiYvjsHYjCCRGf-voMFdS0w&s'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241211210000 -0500' stop='20241211220000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio ContratadoEspacio que promueve la producción independiente.</desc>
+<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241211220000 -0500' stop='20241211221500 -0500'>
+<title>TV Tienda</title>
+<desc>TV TiendaTV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/TV-Tienda.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241211221500 -0500' stop='20241212002500 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241212002500 -0500' stop='20241212020000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241212020000 -0500' stop='20241212040000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241212040000 -0500' stop='20241212060000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241212060000 -0500' stop='20241212063000 -0500'>
+<title>Música Concierto</title>
+<desc>Música ConciertoEspacio dedicado para que disfrutes de los mejores conciertos que se vivieron en nueustra provincia.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241212063000 -0500' stop='20241212070000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio ContratadoEspacio que promueve la producción independiente.</desc>
+<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241212070000 -0500' stop='20241212084500 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241212084500 -0500' stop='20241212090000 -0500'>
+<title>Animaciones Varias</title>
+<desc>Animaciones VariasPrograma infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pDQfZMJq95hckoaez9ou93Hmqy.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241212090000 -0500' stop='20241212091500 -0500'>
+<title>TV Tienda</title>
+<desc>TV TiendaTV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/TV-Tienda.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241212091500 -0500' stop='20241212101500 -0500'>
+<title>Bones</title>
+<desc>BonesUna antropóloga forense y un engreído agente del FBI forman equipo para investigar las causas de los homicidios que investigan.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241212101500 -0500' stop='20241212120000 -0500'>
+<title>Cine General</title>
+<desc>Cine GeneralEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241212120000 -0500' stop='20241212123000 -0500'>
+<title>Austral Clips</title>
+<desc>Austral ClipsEspacio dedicado para que disfrutes de música de todos los tiempos.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241212123000 -0500' stop='20241212130000 -0500'>
+<title>Noticiero Telenoticias</title>
+<desc>Noticiero TelenoticiasNuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
+<icon src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReKC5ydSXvhITuiYvjsHYjCCRGf-voMFdS0w&s'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241212130000 -0500' stop='20241212134500 -0500'>
+<title>Teresa</title>
+<desc>TeresaTeresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Thydptu5Ym3mq0XTGJXpdl624Y.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241212134500 -0500' stop='20241212151500 -0500'>
+<title>Música Nacional</title>
+<desc>Música NacionalEspacio dedicado para que disfrutes de musica local y nacional.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241212151500 -0500' stop='20241212160000 -0500'>
+<title>MacGyver</title>
+<desc>MacGyverLa serie gira en torno a las misiones que realiza el personaje principal Angus MacGyver para distintas instituciones, sobre todo para la Fundación Phoenix. En la serie, MacGyver resuelve todos los problemas que se le plantean haciendo uso de su gran inteligencia, su conocimiento académico en ciencias e ingeniería y su habilidad para la construcción de herramientas con elementos cotidianos de su entorno.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/7q4u6lXXQR2wcP2FnvH9PpZ7Qir.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241212160000 -0500' stop='20241212163000 -0500'>
+<title>Dos hombres y medio</title>
+<desc>Dos hombres y medioCharlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él.</desc>
+<icon src='https://image.tmdb.org/t/p/original/43MTX2x5QpHr1j54ySqss2c2yzG.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241212163000 -0500' stop='20241212170000 -0500'>
+<title>La Rosa de Guadalupe</title>
+<desc>La Rosa de GuadalupeLa rosa de Guadalupe es una serie de televisión mexicana creado por Carlos Mercado Orduña, alusiva a la religión católica en específico a la Virgen de Guadalupe.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdKDNIGDKyWVn7m36s9bGkvM1ai.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241212170000 -0500' stop='20241212174500 -0500'>
+<title>Porque el Amor Manda</title>
+<desc>Porque el Amor MandaJesús García es un hombre honrado que deja su natal Monterrey para buscar un mejor futuro en Chicago. Después de vivir seis años como inmigrante, decide volver a México para encontrar a Valentina, su hija.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sDrTKOllfCnGrchEQQDGtO0dgp.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241212174500 -0500' stop='20241212180000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio ContratadoEspacio que promueve la producción independiente.</desc>
+<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241212180000 -0500' stop='20241212193000 -0500'>
+<title>Visas Americanas USA</title>
+<desc>Visas Americanas USAPrograma dedicado a brindar información sobre como realizar los tramites para poder emigrar legalmente a cualquier país del Mundo.</desc>
+<icon src='https://scontent.fmch2-1.fna.fbcdn.net/v/t39.30808-6/293308899_782844342821985_8689092743562561843_n.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241212193000 -0500' stop='20241212200000 -0500'>
+<title>Full Deportes</title>
+<desc>Full DeportesDisfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
+<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241212200000 -0500' stop='20241212210000 -0500'>
+<title>Noticiero Telenoticias</title>
+<desc>Noticiero TelenoticiasNuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
+<icon src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReKC5ydSXvhITuiYvjsHYjCCRGf-voMFdS0w&s'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241212210000 -0500' stop='20241212220000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio ContratadoEspacio que promueve la producción independiente.</desc>
+<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241212220000 -0500' stop='20241212221500 -0500'>
+<title>TV Tienda</title>
+<desc>TV TiendaTV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/TV-Tienda.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241212221500 -0500' stop='20241213001500 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241213001500 -0500' stop='20241213020000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241213020000 -0500' stop='20241213040000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241213040000 -0500' stop='20241213060000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241213060000 -0500' stop='20241213063000 -0500'>
+<title>Música Concierto</title>
+<desc>Música ConciertoEspacio dedicado para que disfrutes de los mejores conciertos que se vivieron en nueustra provincia.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241213063000 -0500' stop='20241213070000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio ContratadoEspacio que promueve la producción independiente.</desc>
+<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241213070000 -0500' stop='20241213084500 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241213084500 -0500' stop='20241213090000 -0500'>
+<title>Animaciones Varias</title>
+<desc>Animaciones VariasPrograma infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pDQfZMJq95hckoaez9ou93Hmqy.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241213090000 -0500' stop='20241213091500 -0500'>
+<title>TV Tienda</title>
+<desc>TV TiendaTV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/TV-Tienda.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241213091500 -0500' stop='20241213101500 -0500'>
+<title>Bones</title>
+<desc>BonesUna antropóloga forense y un engreído agente del FBI forman equipo para investigar las causas de los homicidios que investigan.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241213101500 -0500' stop='20241213120000 -0500'>
+<title>Cine General</title>
+<desc>Cine GeneralEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241213120000 -0500' stop='20241213123000 -0500'>
+<title>Austral Clips</title>
+<desc>Austral ClipsEspacio dedicado para que disfrutes de música de todos los tiempos.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241213123000 -0500' stop='20241213130000 -0500'>
+<title>Noticiero Telenoticias</title>
+<desc>Noticiero TelenoticiasNuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
+<icon src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReKC5ydSXvhITuiYvjsHYjCCRGf-voMFdS0w&s'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241213130000 -0500' stop='20241213134500 -0500'>
+<title>Teresa</title>
+<desc>TeresaTeresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Thydptu5Ym3mq0XTGJXpdl624Y.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241213134500 -0500' stop='20241213151500 -0500'>
+<title>Música Nacional</title>
+<desc>Música NacionalEspacio dedicado para que disfrutes de musica local y nacional.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241213151500 -0500' stop='20241213160000 -0500'>
+<title>MacGyver</title>
+<desc>MacGyverLa serie gira en torno a las misiones que realiza el personaje principal Angus MacGyver para distintas instituciones, sobre todo para la Fundación Phoenix. En la serie, MacGyver resuelve todos los problemas que se le plantean haciendo uso de su gran inteligencia, su conocimiento académico en ciencias e ingeniería y su habilidad para la construcción de herramientas con elementos cotidianos de su entorno.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/7q4u6lXXQR2wcP2FnvH9PpZ7Qir.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241213160000 -0500' stop='20241213163000 -0500'>
+<title>Dos hombres y medio</title>
+<desc>Dos hombres y medioCharlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él.</desc>
+<icon src='https://image.tmdb.org/t/p/original/43MTX2x5QpHr1j54ySqss2c2yzG.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241213163000 -0500' stop='20241213170000 -0500'>
+<title>La Rosa de Guadalupe</title>
+<desc>La Rosa de GuadalupeLa rosa de Guadalupe es una serie de televisión mexicana creado por Carlos Mercado Orduña, alusiva a la religión católica en específico a la Virgen de Guadalupe.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdKDNIGDKyWVn7m36s9bGkvM1ai.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241213170000 -0500' stop='20241213174500 -0500'>
+<title>Porque el Amor Manda</title>
+<desc>Porque el Amor MandaJesús García es un hombre honrado que deja su natal Monterrey para buscar un mejor futuro en Chicago. Después de vivir seis años como inmigrante, decide volver a México para encontrar a Valentina, su hija.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sDrTKOllfCnGrchEQQDGtO0dgp.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241213174500 -0500' stop='20241213180000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio ContratadoEspacio que promueve la producción independiente.</desc>
+<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241213180000 -0500' stop='20241213193000 -0500'>
+<title>Visas Americanas USA</title>
+<desc>Visas Americanas USAPrograma dedicado a brindar información sobre como realizar los tramites para poder emigrar legalmente a cualquier país del Mundo.</desc>
+<icon src='https://scontent.fmch2-1.fna.fbcdn.net/v/t39.30808-6/293308899_782844342821985_8689092743562561843_n.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241213193000 -0500' stop='20241213200000 -0500'>
+<title>Full Deportes</title>
+<desc>Full DeportesDisfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
+<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241213200000 -0500' stop='20241213210000 -0500'>
+<title>Noticiero Telenoticias</title>
+<desc>Noticiero TelenoticiasNuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
+<icon src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReKC5ydSXvhITuiYvjsHYjCCRGf-voMFdS0w&s'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241213210000 -0500' stop='20241213220000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio ContratadoEspacio que promueve la producción independiente.</desc>
+<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241213220000 -0500' stop='20241213221500 -0500'>
+<title>TV Tienda</title>
+<desc>TV TiendaTV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/TV-Tienda.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241213221500 -0500' stop='20241214001500 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241214001500 -0500' stop='20241214020000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241214020000 -0500' stop='20241214040000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241214040000 -0500' stop='20241214060000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241214060000 -0500' stop='20241214063000 -0500'>
+<title>Música Concierto</title>
+<desc>Música ConciertoEspacio dedicado para que disfrutes de los mejores conciertos que se vivieron en nueustra provincia.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241214063000 -0500' stop='20241214070000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio ContratadoEspacio que promueve la producción independiente.</desc>
+<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241214070000 -0500' stop='20241214084500 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241214084500 -0500' stop='20241214090000 -0500'>
+<title>Animaciones Varias</title>
+<desc>Animaciones VariasPrograma infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pDQfZMJq95hckoaez9ou93Hmqy.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241214090000 -0500' stop='20241214091500 -0500'>
+<title>TV Tienda</title>
+<desc>TV TiendaTV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/TV-Tienda.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241214091500 -0500' stop='20241214101500 -0500'>
+<title>Bones</title>
+<desc>BonesUna antropóloga forense y un engreído agente del FBI forman equipo para investigar las causas de los homicidios que investigan.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241214101500 -0500' stop='20241214120000 -0500'>
+<title>Cine General</title>
+<desc>Cine GeneralEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241214120000 -0500' stop='20241214123000 -0500'>
+<title>Austral Clips</title>
+<desc>Austral ClipsEspacio dedicado para que disfrutes de música de todos los tiempos.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241214123000 -0500' stop='20241214130000 -0500'>
+<title>Noticiero Telenoticias</title>
+<desc>Noticiero TelenoticiasNuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
+<icon src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReKC5ydSXvhITuiYvjsHYjCCRGf-voMFdS0w&s'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241214130000 -0500' stop='20241214134500 -0500'>
+<title>Teresa</title>
+<desc>TeresaTeresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Thydptu5Ym3mq0XTGJXpdl624Y.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241214134500 -0500' stop='20241214151500 -0500'>
+<title>Música Nacional</title>
+<desc>Música NacionalEspacio dedicado para que disfrutes de musica local y nacional.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241214151500 -0500' stop='20241214160000 -0500'>
+<title>MacGyver</title>
+<desc>MacGyverLa serie gira en torno a las misiones que realiza el personaje principal Angus MacGyver para distintas instituciones, sobre todo para la Fundación Phoenix. En la serie, MacGyver resuelve todos los problemas que se le plantean haciendo uso de su gran inteligencia, su conocimiento académico en ciencias e ingeniería y su habilidad para la construcción de herramientas con elementos cotidianos de su entorno.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/7q4u6lXXQR2wcP2FnvH9PpZ7Qir.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241214160000 -0500' stop='20241214163000 -0500'>
+<title>Dos hombres y medio</title>
+<desc>Dos hombres y medioCharlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él.</desc>
+<icon src='https://image.tmdb.org/t/p/original/43MTX2x5QpHr1j54ySqss2c2yzG.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241214163000 -0500' stop='20241214170000 -0500'>
+<title>La Rosa de Guadalupe</title>
+<desc>La Rosa de GuadalupeLa rosa de Guadalupe es una serie de televisión mexicana creado por Carlos Mercado Orduña, alusiva a la religión católica en específico a la Virgen de Guadalupe.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdKDNIGDKyWVn7m36s9bGkvM1ai.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241214170000 -0500' stop='20241214174500 -0500'>
+<title>Porque el Amor Manda</title>
+<desc>Porque el Amor MandaJesús García es un hombre honrado que deja su natal Monterrey para buscar un mejor futuro en Chicago. Después de vivir seis años como inmigrante, decide volver a México para encontrar a Valentina, su hija.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sDrTKOllfCnGrchEQQDGtO0dgp.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241214174500 -0500' stop='20241214180000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio ContratadoEspacio que promueve la producción independiente.</desc>
+<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241214180000 -0500' stop='20241214193000 -0500'>
+<title>Visas Americanas USA</title>
+<desc>Visas Americanas USAPrograma dedicado a brindar información sobre como realizar los tramites para poder emigrar legalmente a cualquier país del Mundo.</desc>
+<icon src='https://scontent.fmch2-1.fna.fbcdn.net/v/t39.30808-6/293308899_782844342821985_8689092743562561843_n.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241214193000 -0500' stop='20241214200000 -0500'>
+<title>Full Deportes</title>
+<desc>Full DeportesDisfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
+<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241214200000 -0500' stop='20241214210000 -0500'>
+<title>Noticiero Telenoticias</title>
+<desc>Noticiero TelenoticiasNuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
+<icon src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReKC5ydSXvhITuiYvjsHYjCCRGf-voMFdS0w&s'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241214210000 -0500' stop='20241214220000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio ContratadoEspacio que promueve la producción independiente.</desc>
+<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241214220000 -0500' stop='20241214221500 -0500'>
+<title>TV Tienda</title>
+<desc>TV TiendaTV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/TV-Tienda.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241214221500 -0500' stop='20241215001500 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241215001500 -0500' stop='20241215020000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241215020000 -0500' stop='20241215040000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241215040000 -0500' stop='20241215060000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241215060000 -0500' stop='20241215063000 -0500'>
+<title>Música Concierto</title>
+<desc>Música ConciertoEspacio dedicado para que disfrutes de los mejores conciertos que se vivieron en nueustra provincia.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241215063000 -0500' stop='20241215070000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio ContratadoEspacio que promueve la producción independiente.</desc>
+<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241215070000 -0500' stop='20241215084500 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241215084500 -0500' stop='20241215090000 -0500'>
+<title>Animaciones Varias</title>
+<desc>Animaciones VariasPrograma infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pDQfZMJq95hckoaez9ou93Hmqy.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241215090000 -0500' stop='20241215091500 -0500'>
+<title>TV Tienda</title>
+<desc>TV TiendaTV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/TV-Tienda.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241215091500 -0500' stop='20241215101500 -0500'>
+<title>Bones</title>
+<desc>BonesUna antropóloga forense y un engreído agente del FBI forman equipo para investigar las causas de los homicidios que investigan.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/eyTu5c8LniVciRZIOSHTvvkkgJa.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241215101500 -0500' stop='20241215120000 -0500'>
+<title>Cine General</title>
+<desc>Cine GeneralEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241215120000 -0500' stop='20241215123000 -0500'>
+<title>Austral Clips</title>
+<desc>Austral ClipsEspacio dedicado para que disfrutes de música de todos los tiempos.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241215123000 -0500' stop='20241215130000 -0500'>
+<title>Noticiero Telenoticias</title>
+<desc>Noticiero TelenoticiasNuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
+<icon src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReKC5ydSXvhITuiYvjsHYjCCRGf-voMFdS0w&s'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241215130000 -0500' stop='20241215134500 -0500'>
+<title>Teresa</title>
+<desc>TeresaTeresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Thydptu5Ym3mq0XTGJXpdl624Y.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241215134500 -0500' stop='20241215151500 -0500'>
+<title>Música Nacional</title>
+<desc>Música NacionalEspacio dedicado para que disfrutes de musica local y nacional.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241215151500 -0500' stop='20241215160000 -0500'>
+<title>MacGyver</title>
+<desc>MacGyverLa serie gira en torno a las misiones que realiza el personaje principal Angus MacGyver para distintas instituciones, sobre todo para la Fundación Phoenix. En la serie, MacGyver resuelve todos los problemas que se le plantean haciendo uso de su gran inteligencia, su conocimiento académico en ciencias e ingeniería y su habilidad para la construcción de herramientas con elementos cotidianos de su entorno.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/7q4u6lXXQR2wcP2FnvH9PpZ7Qir.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241215160000 -0500' stop='20241215163000 -0500'>
+<title>Dos hombres y medio</title>
+<desc>Dos hombres y medioCharlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él.</desc>
+<icon src='https://image.tmdb.org/t/p/original/43MTX2x5QpHr1j54ySqss2c2yzG.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241215163000 -0500' stop='20241215170000 -0500'>
+<title>La Rosa de Guadalupe</title>
+<desc>La Rosa de GuadalupeLa rosa de Guadalupe es una serie de televisión mexicana creado por Carlos Mercado Orduña, alusiva a la religión católica en específico a la Virgen de Guadalupe.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdKDNIGDKyWVn7m36s9bGkvM1ai.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241215170000 -0500' stop='20241215174500 -0500'>
+<title>Porque el Amor Manda</title>
+<desc>Porque el Amor MandaJesús García es un hombre honrado que deja su natal Monterrey para buscar un mejor futuro en Chicago. Después de vivir seis años como inmigrante, decide volver a México para encontrar a Valentina, su hija.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/1sDrTKOllfCnGrchEQQDGtO0dgp.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241215174500 -0500' stop='20241215180000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio ContratadoEspacio que promueve la producción independiente.</desc>
+<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241215180000 -0500' stop='20241215193000 -0500'>
+<title>Visas Americanas USA</title>
+<desc>Visas Americanas USAPrograma dedicado a brindar información sobre como realizar los tramites para poder emigrar legalmente a cualquier país del Mundo.</desc>
+<icon src='https://scontent.fmch2-1.fna.fbcdn.net/v/t39.30808-6/293308899_782844342821985_8689092743562561843_n.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241215193000 -0500' stop='20241215200000 -0500'>
+<title>Full Deportes</title>
+<desc>Full DeportesDisfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
+<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241215200000 -0500' stop='20241215210000 -0500'>
+<title>Noticiero Telenoticias</title>
+<desc>Noticiero TelenoticiasNuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
+<icon src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReKC5ydSXvhITuiYvjsHYjCCRGf-voMFdS0w&s'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241215210000 -0500' stop='20241215220000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio ContratadoEspacio que promueve la producción independiente.</desc>
+<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241215220000 -0500' stop='20241215221500 -0500'>
+<title>TV Tienda</title>
+<desc>TV TiendaTV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/TV-Tienda.jpg'/>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20241215221500 -0500' stop='20241216001500 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241216001500 -0500' stop='20241216020000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Peliculas VariasEspacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jI2vEHJReAx8iFDmhC2O3yW37w.jpg'/>
+<category>Entretenimiento</category>
+</programme>

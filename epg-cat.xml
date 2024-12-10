@@ -914,3 +914,801 @@
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
 <category>Entretenimiento</category>
 </programme>
+<programme channel='12001' start='20241211010000 -0500' stop='20241211023000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241211023000 -0500' stop='20241211040000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241211040000 -0500' stop='20241211060000 -0500'>
+<title>Armonia Musical</title>
+<desc>Armonia MusicalEspacio dedicado para que disfrutes de musica local y nacional.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241211060000 -0500' stop='20241211070000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Noticieros de MulticanalPrograma informativo noticiero Multivision Catamayo.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241211070000 -0500' stop='20241211074500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Peliculas InfantilesEspacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasInfantiles.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241211074500 -0500' stop='20241211091500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Peliculas InfantilesEspacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasInfantiles.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241211091500 -0500' stop='20241211113000 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Peliculas InfantilesEspacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasInfantiles.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241211113000 -0500' stop='20241211123000 -0500'>
+<title>Educa TV</title>
+<desc>Educa TVEDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241211123000 -0500' stop='20241211131500 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Noticieros de MulticanalPrograma informativo noticiero Multivision Catamayo.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241211131500 -0500' stop='20241211140000 -0500'>
+<title>Serie-Al Borde de la Muerte 99%</title>
+<desc>Serie-Al Borde de la Muerte 99%La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241211140000 -0500' stop='20241211154500 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241211154500 -0500' stop='20241211171500 -0500'>
+<title>Educa TV</title>
+<desc>Educa TVEDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241211171500 -0500' stop='20241211180000 -0500'>
+<title>Música</title>
+<desc>MúsicaEspacio dedicado para que disfrutes de musica local y nacional.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241211180000 -0500' stop='20241211183000 -0500'>
+<title>Santa Misa</title>
+<desc>Santa MisaLa misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png'/>
+<category>Religion</category>
+</programme>
+<programme channel='12001' start='20241211183000 -0500' stop='20241211190000 -0500'>
+<title>The Rain</title>
+<desc>The RainSeis años después de que un virus aniquilara a casi toda la población escandinava, dos hermanos se unen a un grupo de supervivientes en busca de protección y respuestas.</desc>
+<icon src='https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rxAR6MSGSa0oaFiiNofbMOkyUKV.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241211190000 -0500' stop='20241211200000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Noticieros de MulticanalPrograma informativo noticiero Multivision Catamayo.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241211200000 -0500' stop='20241211210000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241211210000 -0500' stop='20241211223000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241211223000 -0500' stop='20241212010000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241212010000 -0500' stop='20241212023000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241212023000 -0500' stop='20241212040000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241212040000 -0500' stop='20241212060000 -0500'>
+<title>Armonia Musical</title>
+<desc>Armonia MusicalEspacio dedicado para que disfrutes de musica local y nacional.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241212060000 -0500' stop='20241212070000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Noticieros de MulticanalPrograma informativo noticiero Multivision Catamayo.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241212070000 -0500' stop='20241212074500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Peliculas InfantilesEspacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasInfantiles.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241212074500 -0500' stop='20241212091500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Peliculas InfantilesEspacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasInfantiles.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241212091500 -0500' stop='20241212113000 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Peliculas InfantilesEspacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasInfantiles.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241212113000 -0500' stop='20241212123000 -0500'>
+<title>Educa TV</title>
+<desc>Educa TVEDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241212123000 -0500' stop='20241212131500 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Noticieros de MulticanalPrograma informativo noticiero Multivision Catamayo.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241212131500 -0500' stop='20241212140000 -0500'>
+<title>Serie-Al Borde de la Muerte 99%</title>
+<desc>Serie-Al Borde de la Muerte 99%La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241212140000 -0500' stop='20241212154500 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241212154500 -0500' stop='20241212171500 -0500'>
+<title>Educa TV</title>
+<desc>Educa TVEDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241212171500 -0500' stop='20241212180000 -0500'>
+<title>Música</title>
+<desc>MúsicaEspacio dedicado para que disfrutes de musica local y nacional.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241212180000 -0500' stop='20241212183000 -0500'>
+<title>Santa Misa</title>
+<desc>Santa MisaLa misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png'/>
+<category>Religion</category>
+</programme>
+<programme channel='12001' start='20241212183000 -0500' stop='20241212190000 -0500'>
+<title>The Rain</title>
+<desc>The RainSeis años después de que un virus aniquilara a casi toda la población escandinava, dos hermanos se unen a un grupo de supervivientes en busca de protección y respuestas.</desc>
+<icon src='https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rxAR6MSGSa0oaFiiNofbMOkyUKV.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241212190000 -0500' stop='20241212200000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Noticieros de MulticanalPrograma informativo noticiero Multivision Catamayo.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241212200000 -0500' stop='20241212210000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241212210000 -0500' stop='20241212223000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241212223000 -0500' stop='20241213010000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241213010000 -0500' stop='20241213023000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241213023000 -0500' stop='20241213040000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241213040000 -0500' stop='20241213060000 -0500'>
+<title>Armonia Musical</title>
+<desc>Armonia MusicalEspacio dedicado para que disfrutes de musica local y nacional.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241213060000 -0500' stop='20241213070000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Noticieros de MulticanalPrograma informativo noticiero Multivision Catamayo.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241213070000 -0500' stop='20241213074500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Peliculas InfantilesEspacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasInfantiles.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241213074500 -0500' stop='20241213091500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Peliculas InfantilesEspacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasInfantiles.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241213091500 -0500' stop='20241213113000 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Peliculas InfantilesEspacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasInfantiles.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241213113000 -0500' stop='20241213123000 -0500'>
+<title>Educa TV</title>
+<desc>Educa TVEDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241213123000 -0500' stop='20241213131500 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Noticieros de MulticanalPrograma informativo noticiero Multivision Catamayo.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241213131500 -0500' stop='20241213140000 -0500'>
+<title>Serie-Al Borde de la Muerte 99%</title>
+<desc>Serie-Al Borde de la Muerte 99%La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241213140000 -0500' stop='20241213154500 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241213154500 -0500' stop='20241213171500 -0500'>
+<title>Educa TV</title>
+<desc>Educa TVEDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241213171500 -0500' stop='20241213180000 -0500'>
+<title>Música</title>
+<desc>MúsicaEspacio dedicado para que disfrutes de musica local y nacional.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241213180000 -0500' stop='20241213183000 -0500'>
+<title>Santa Misa</title>
+<desc>Santa MisaLa misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png'/>
+<category>Religion</category>
+</programme>
+<programme channel='12001' start='20241213183000 -0500' stop='20241213190000 -0500'>
+<title>The Rain</title>
+<desc>The RainSeis años después de que un virus aniquilara a casi toda la población escandinava, dos hermanos se unen a un grupo de supervivientes en busca de protección y respuestas.</desc>
+<icon src='https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rxAR6MSGSa0oaFiiNofbMOkyUKV.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241213190000 -0500' stop='20241213200000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Noticieros de MulticanalPrograma informativo noticiero Multivision Catamayo.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241213200000 -0500' stop='20241213210000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241213210000 -0500' stop='20241213223000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241213223000 -0500' stop='20241214010000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241214010000 -0500' stop='20241214023000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241214023000 -0500' stop='20241214040000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241214040000 -0500' stop='20241214060000 -0500'>
+<title>Armonia Musical</title>
+<desc>Armonia MusicalEspacio dedicado para que disfrutes de musica local y nacional.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241214060000 -0500' stop='20241214070000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Noticieros de MulticanalPrograma informativo noticiero Multivision Catamayo.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241214070000 -0500' stop='20241214074500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Peliculas InfantilesEspacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasInfantiles.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241214074500 -0500' stop='20241214091500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Peliculas InfantilesEspacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasInfantiles.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241214091500 -0500' stop='20241214113000 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Peliculas InfantilesEspacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasInfantiles.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241214113000 -0500' stop='20241214123000 -0500'>
+<title>Educa TV</title>
+<desc>Educa TVEDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241214123000 -0500' stop='20241214131500 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Noticieros de MulticanalPrograma informativo noticiero Multivision Catamayo.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241214131500 -0500' stop='20241214140000 -0500'>
+<title>Serie-Al Borde de la Muerte 99%</title>
+<desc>Serie-Al Borde de la Muerte 99%La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241214140000 -0500' stop='20241214154500 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241214154500 -0500' stop='20241214171500 -0500'>
+<title>Educa TV</title>
+<desc>Educa TVEDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241214171500 -0500' stop='20241214180000 -0500'>
+<title>Música</title>
+<desc>MúsicaEspacio dedicado para que disfrutes de musica local y nacional.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241214180000 -0500' stop='20241214183000 -0500'>
+<title>Santa Misa</title>
+<desc>Santa MisaLa misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png'/>
+<category>Religion</category>
+</programme>
+<programme channel='12001' start='20241214183000 -0500' stop='20241214190000 -0500'>
+<title>The Rain</title>
+<desc>The RainSeis años después de que un virus aniquilara a casi toda la población escandinava, dos hermanos se unen a un grupo de supervivientes en busca de protección y respuestas.</desc>
+<icon src='https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rxAR6MSGSa0oaFiiNofbMOkyUKV.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241214190000 -0500' stop='20241214200000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Noticieros de MulticanalPrograma informativo noticiero Multivision Catamayo.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241214200000 -0500' stop='20241214210000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241214210000 -0500' stop='20241214223000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241214223000 -0500' stop='20241215010000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241215010000 -0500' stop='20241215023000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241215023000 -0500' stop='20241215040000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241215040000 -0500' stop='20241215060000 -0500'>
+<title>Armonia Musical</title>
+<desc>Armonia MusicalEspacio dedicado para que disfrutes de musica local y nacional.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241215060000 -0500' stop='20241215070000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Noticieros de MulticanalPrograma informativo noticiero Multivision Catamayo.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241215070000 -0500' stop='20241215074500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Peliculas InfantilesEspacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasInfantiles.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241215074500 -0500' stop='20241215091500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Peliculas InfantilesEspacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasInfantiles.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241215091500 -0500' stop='20241215113000 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Peliculas InfantilesEspacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasInfantiles.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241215113000 -0500' stop='20241215123000 -0500'>
+<title>Educa TV</title>
+<desc>Educa TVEDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241215123000 -0500' stop='20241215131500 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Noticieros de MulticanalPrograma informativo noticiero Multivision Catamayo.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241215131500 -0500' stop='20241215140000 -0500'>
+<title>Serie-Al Borde de la Muerte 99%</title>
+<desc>Serie-Al Borde de la Muerte 99%La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241215140000 -0500' stop='20241215154500 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241215154500 -0500' stop='20241215171500 -0500'>
+<title>Educa TV</title>
+<desc>Educa TVEDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241215171500 -0500' stop='20241215180000 -0500'>
+<title>Música</title>
+<desc>MúsicaEspacio dedicado para que disfrutes de musica local y nacional.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241215180000 -0500' stop='20241215183000 -0500'>
+<title>Santa Misa</title>
+<desc>Santa MisaLa misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png'/>
+<category>Religion</category>
+</programme>
+<programme channel='12001' start='20241215183000 -0500' stop='20241215190000 -0500'>
+<title>The Rain</title>
+<desc>The RainSeis años después de que un virus aniquilara a casi toda la población escandinava, dos hermanos se unen a un grupo de supervivientes en busca de protección y respuestas.</desc>
+<icon src='https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rxAR6MSGSa0oaFiiNofbMOkyUKV.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241215190000 -0500' stop='20241215200000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Noticieros de MulticanalPrograma informativo noticiero Multivision Catamayo.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241215200000 -0500' stop='20241215210000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241215210000 -0500' stop='20241215223000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241215223000 -0500' stop='20241216010000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241216010000 -0500' stop='20241216023000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241216023000 -0500' stop='20241216040000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241216040000 -0500' stop='20241216060000 -0500'>
+<title>Armonia Musical</title>
+<desc>Armonia MusicalEspacio dedicado para que disfrutes de musica local y nacional.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241216060000 -0500' stop='20241216070000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Noticieros de MulticanalPrograma informativo noticiero Multivision Catamayo.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241216070000 -0500' stop='20241216074500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Peliculas InfantilesEspacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasInfantiles.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241216074500 -0500' stop='20241216091500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Peliculas InfantilesEspacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasInfantiles.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241216091500 -0500' stop='20241216113000 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Peliculas InfantilesEspacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasInfantiles.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241216113000 -0500' stop='20241216123000 -0500'>
+<title>Educa TV</title>
+<desc>Educa TVEDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241216123000 -0500' stop='20241216131500 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Noticieros de MulticanalPrograma informativo noticiero Multivision Catamayo.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241216131500 -0500' stop='20241216140000 -0500'>
+<title>Serie-Al Borde de la Muerte 99%</title>
+<desc>Serie-Al Borde de la Muerte 99%La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241216140000 -0500' stop='20241216154500 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241216154500 -0500' stop='20241216171500 -0500'>
+<title>Educa TV</title>
+<desc>Educa TVEDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241216171500 -0500' stop='20241216180000 -0500'>
+<title>Música</title>
+<desc>MúsicaEspacio dedicado para que disfrutes de musica local y nacional.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241216180000 -0500' stop='20241216183000 -0500'>
+<title>Santa Misa</title>
+<desc>Santa MisaLa misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png'/>
+<category>Religion</category>
+</programme>
+<programme channel='12001' start='20241216183000 -0500' stop='20241216190000 -0500'>
+<title>The Rain</title>
+<desc>The RainSeis años después de que un virus aniquilara a casi toda la población escandinava, dos hermanos se unen a un grupo de supervivientes en busca de protección y respuestas.</desc>
+<icon src='https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rxAR6MSGSa0oaFiiNofbMOkyUKV.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241216190000 -0500' stop='20241216200000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Noticieros de MulticanalPrograma informativo noticiero Multivision Catamayo.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241216200000 -0500' stop='20241216210000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241216210000 -0500' stop='20241216223000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241216223000 -0500' stop='20241217010000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241217010000 -0500' stop='20241217023000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241217023000 -0500' stop='20241217040000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241217040000 -0500' stop='20241217060000 -0500'>
+<title>Armonia Musical</title>
+<desc>Armonia MusicalEspacio dedicado para que disfrutes de musica local y nacional.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241217060000 -0500' stop='20241217070000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Noticieros de MulticanalPrograma informativo noticiero Multivision Catamayo.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241217070000 -0500' stop='20241217074500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Peliculas InfantilesEspacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasInfantiles.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241217074500 -0500' stop='20241217091500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Peliculas InfantilesEspacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasInfantiles.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241217091500 -0500' stop='20241217113000 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Peliculas InfantilesEspacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/PeliculasInfantiles.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241217113000 -0500' stop='20241217123000 -0500'>
+<title>Educa TV</title>
+<desc>Educa TVEDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241217123000 -0500' stop='20241217131500 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Noticieros de MulticanalPrograma informativo noticiero Multivision Catamayo.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241217131500 -0500' stop='20241217140000 -0500'>
+<title>Serie-Al Borde de la Muerte 99%</title>
+<desc>Serie-Al Borde de la Muerte 99%La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/AlBordeDelaMuerte.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241217140000 -0500' stop='20241217154500 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241217154500 -0500' stop='20241217171500 -0500'>
+<title>Educa TV</title>
+<desc>Educa TVEDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241217171500 -0500' stop='20241217180000 -0500'>
+<title>Música</title>
+<desc>MúsicaEspacio dedicado para que disfrutes de musica local y nacional.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241217180000 -0500' stop='20241217183000 -0500'>
+<title>Santa Misa</title>
+<desc>Santa MisaLa misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png'/>
+<category>Religion</category>
+</programme>
+<programme channel='12001' start='20241217183000 -0500' stop='20241217190000 -0500'>
+<title>The Rain</title>
+<desc>The RainSeis años después de que un virus aniquilara a casi toda la población escandinava, dos hermanos se unen a un grupo de supervivientes en busca de protección y respuestas.</desc>
+<icon src='https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rxAR6MSGSa0oaFiiNofbMOkyUKV.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241217190000 -0500' stop='20241217200000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Noticieros de MulticanalPrograma informativo noticiero Multivision Catamayo.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/NoticieroMulticanal.png'/>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20241217200000 -0500' stop='20241217210000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241217210000 -0500' stop='20241217223000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20241217223000 -0500' stop='20241218010000 -0500'>
+<title>Peliculas</title>
+<desc>PeliculasEspacio dedicado para la transmisión de las mejores Películas.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Pelicula.png'/>
+<category>Entretenimiento</category>
+</programme>

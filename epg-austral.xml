@@ -191,7 +191,7 @@
 <programme channel='12002' start='20241216121500 -0500' stop='20241216130000 -0500'>
 <title>Noticiero Telenoticias</title>
 <desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-tv.png'/>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-Noticiero.jpg'/>
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20241216130000 -0500' stop='20241216134500 -0500'>
@@ -203,7 +203,7 @@
 <programme channel='12002' start='20241216134500 -0500' stop='20241216151500 -0500'>
 <title>Música Nacional</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-Musica-Nacional.png'/>
 <category>Entretenimiento</category>
 </programme>
 <programme channel='12002' start='20241216151500 -0500' stop='20241216160000 -0500'>
@@ -236,22 +236,28 @@
 <icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20241216180000 -0500' stop='20241216193000 -0500'>
-<title>Visas Americanas USA</title>
-<desc>Programa dedicado a brindar información sobre como realizar los tramites para poder emigrar legalmente a cualquier país del Mundo.</desc>
-<icon src='https://scontent.fmch2-1.fna.fbcdn.net/v/t39.30808-6/293308899_782844342821985_8689092743562561843_n.jpg'/>
+<programme channel='12002' start='20241216180000 -0500' stop='20241216184500 -0500'>
+<title>La ciencia de lo absurdo</title>
+<desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/zntNe9rpcNlIzXlxXRVy4T761j.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241216184500 -0500' stop='20241216193000 -0500'>
+<title>Sin Rodeos con Eloy Calle</title>
+<desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-SinRodeos.jpg'/>
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20241216193000 -0500' stop='20241216200000 -0500'>
 <title>Full Deportes</title>
 <desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
-<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-Full-Deportes.png'/>
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20241216200000 -0500' stop='20241216210000 -0500'>
 <title>Noticiero Telenoticias</title>
 <desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-tv.png'/>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-Noticiero.jpg'/>
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20241216210000 -0500' stop='20241216220000 -0500'>
@@ -347,7 +353,7 @@
 <programme channel='12002' start='20241217121500 -0500' stop='20241217130000 -0500'>
 <title>Noticiero Telenoticias</title>
 <desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-tv.png'/>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-Noticiero.jpg'/>
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20241217130000 -0500' stop='20241217134500 -0500'>
@@ -359,7 +365,7 @@
 <programme channel='12002' start='20241217134500 -0500' stop='20241217151500 -0500'>
 <title>Música Nacional</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-Musica-Nacional.png'/>
 <category>Entretenimiento</category>
 </programme>
 <programme channel='12002' start='20241217151500 -0500' stop='20241217160000 -0500'>
@@ -392,22 +398,28 @@
 <icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20241217180000 -0500' stop='20241217193000 -0500'>
-<title>Visas Americanas USA</title>
-<desc>Programa dedicado a brindar información sobre como realizar los tramites para poder emigrar legalmente a cualquier país del Mundo.</desc>
-<icon src='https://scontent.fmch2-1.fna.fbcdn.net/v/t39.30808-6/293308899_782844342821985_8689092743562561843_n.jpg'/>
+<programme channel='12002' start='20241217180000 -0500' stop='20241217184500 -0500'>
+<title>La ciencia de lo absurdo</title>
+<desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/zntNe9rpcNlIzXlxXRVy4T761j.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241217184500 -0500' stop='20241217193000 -0500'>
+<title>Sin Rodeos con Eloy Calle</title>
+<desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-SinRodeos.jpg'/>
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20241217193000 -0500' stop='20241217200000 -0500'>
 <title>Full Deportes</title>
 <desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
-<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-Full-Deportes.png'/>
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20241217200000 -0500' stop='20241217210000 -0500'>
 <title>Noticiero Telenoticias</title>
 <desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-tv.png'/>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-Noticiero.jpg'/>
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20241217210000 -0500' stop='20241217220000 -0500'>
@@ -503,7 +515,7 @@
 <programme channel='12002' start='20241218121500 -0500' stop='20241218130000 -0500'>
 <title>Noticiero Telenoticias</title>
 <desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-tv.png'/>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-Noticiero.jpg'/>
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20241218130000 -0500' stop='20241218134500 -0500'>
@@ -515,7 +527,7 @@
 <programme channel='12002' start='20241218134500 -0500' stop='20241218151500 -0500'>
 <title>Música Nacional</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-Musica-Nacional.png'/>
 <category>Entretenimiento</category>
 </programme>
 <programme channel='12002' start='20241218151500 -0500' stop='20241218160000 -0500'>
@@ -548,22 +560,28 @@
 <icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20241218180000 -0500' stop='20241218193000 -0500'>
-<title>Visas Americanas USA</title>
-<desc>Programa dedicado a brindar información sobre como realizar los tramites para poder emigrar legalmente a cualquier país del Mundo.</desc>
-<icon src='https://scontent.fmch2-1.fna.fbcdn.net/v/t39.30808-6/293308899_782844342821985_8689092743562561843_n.jpg'/>
+<programme channel='12002' start='20241218180000 -0500' stop='20241218184500 -0500'>
+<title>La ciencia de lo absurdo</title>
+<desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/zntNe9rpcNlIzXlxXRVy4T761j.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241218184500 -0500' stop='20241218193000 -0500'>
+<title>Sin Rodeos con Eloy Calle</title>
+<desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-SinRodeos.jpg'/>
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20241218193000 -0500' stop='20241218200000 -0500'>
 <title>Full Deportes</title>
 <desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
-<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-Full-Deportes.png'/>
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20241218200000 -0500' stop='20241218210000 -0500'>
 <title>Noticiero Telenoticias</title>
 <desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-tv.png'/>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-Noticiero.jpg'/>
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20241218210000 -0500' stop='20241218220000 -0500'>
@@ -659,7 +677,7 @@
 <programme channel='12002' start='20241219121500 -0500' stop='20241219130000 -0500'>
 <title>Noticiero Telenoticias</title>
 <desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-tv.png'/>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-Noticiero.jpg'/>
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20241219130000 -0500' stop='20241219134500 -0500'>
@@ -671,7 +689,7 @@
 <programme channel='12002' start='20241219134500 -0500' stop='20241219151500 -0500'>
 <title>Música Nacional</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-Musica-Nacional.png'/>
 <category>Entretenimiento</category>
 </programme>
 <programme channel='12002' start='20241219151500 -0500' stop='20241219160000 -0500'>
@@ -704,22 +722,28 @@
 <icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20241219180000 -0500' stop='20241219193000 -0500'>
-<title>Visas Americanas USA</title>
-<desc>Programa dedicado a brindar información sobre como realizar los tramites para poder emigrar legalmente a cualquier país del Mundo.</desc>
-<icon src='https://scontent.fmch2-1.fna.fbcdn.net/v/t39.30808-6/293308899_782844342821985_8689092743562561843_n.jpg'/>
+<programme channel='12002' start='20241219180000 -0500' stop='20241219184500 -0500'>
+<title>La ciencia de lo absurdo</title>
+<desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/zntNe9rpcNlIzXlxXRVy4T761j.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241219184500 -0500' stop='20241219193000 -0500'>
+<title>Sin Rodeos con Eloy Calle</title>
+<desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-SinRodeos.jpg'/>
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20241219193000 -0500' stop='20241219200000 -0500'>
 <title>Full Deportes</title>
 <desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
-<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-Full-Deportes.png'/>
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20241219200000 -0500' stop='20241219210000 -0500'>
 <title>Noticiero Telenoticias</title>
 <desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-tv.png'/>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-Noticiero.jpg'/>
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20241219210000 -0500' stop='20241219220000 -0500'>
@@ -815,7 +839,7 @@
 <programme channel='12002' start='20241220121500 -0500' stop='20241220130000 -0500'>
 <title>Noticiero Telenoticias</title>
 <desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-tv.png'/>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-Noticiero.jpg'/>
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20241220130000 -0500' stop='20241220134500 -0500'>
@@ -827,7 +851,7 @@
 <programme channel='12002' start='20241220134500 -0500' stop='20241220151500 -0500'>
 <title>Música Nacional</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-Musica-Nacional.png'/>
 <category>Entretenimiento</category>
 </programme>
 <programme channel='12002' start='20241220151500 -0500' stop='20241220160000 -0500'>
@@ -860,22 +884,28 @@
 <icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20241220180000 -0500' stop='20241220193000 -0500'>
-<title>Visas Americanas USA</title>
-<desc>Programa dedicado a brindar información sobre como realizar los tramites para poder emigrar legalmente a cualquier país del Mundo.</desc>
-<icon src='https://scontent.fmch2-1.fna.fbcdn.net/v/t39.30808-6/293308899_782844342821985_8689092743562561843_n.jpg'/>
+<programme channel='12002' start='20241220180000 -0500' stop='20241220184500 -0500'>
+<title>La ciencia de lo absurdo</title>
+<desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/zntNe9rpcNlIzXlxXRVy4T761j.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241220184500 -0500' stop='20241220193000 -0500'>
+<title>Sin Rodeos con Eloy Calle</title>
+<desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-SinRodeos.jpg'/>
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20241220193000 -0500' stop='20241220200000 -0500'>
 <title>Full Deportes</title>
 <desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
-<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-Full-Deportes.png'/>
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20241220200000 -0500' stop='20241220210000 -0500'>
 <title>Noticiero Telenoticias</title>
 <desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-tv.png'/>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-Noticiero.jpg'/>
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20241220210000 -0500' stop='20241220220000 -0500'>
@@ -971,7 +1001,7 @@
 <programme channel='12002' start='20241221121500 -0500' stop='20241221130000 -0500'>
 <title>Noticiero Telenoticias</title>
 <desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-tv.png'/>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-Noticiero.jpg'/>
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20241221130000 -0500' stop='20241221134500 -0500'>
@@ -983,7 +1013,7 @@
 <programme channel='12002' start='20241221134500 -0500' stop='20241221151500 -0500'>
 <title>Música Nacional</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-Musica-Nacional.png'/>
 <category>Entretenimiento</category>
 </programme>
 <programme channel='12002' start='20241221151500 -0500' stop='20241221160000 -0500'>
@@ -1016,22 +1046,28 @@
 <icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20241221180000 -0500' stop='20241221193000 -0500'>
-<title>Visas Americanas USA</title>
-<desc>Programa dedicado a brindar información sobre como realizar los tramites para poder emigrar legalmente a cualquier país del Mundo.</desc>
-<icon src='https://scontent.fmch2-1.fna.fbcdn.net/v/t39.30808-6/293308899_782844342821985_8689092743562561843_n.jpg'/>
+<programme channel='12002' start='20241221180000 -0500' stop='20241221184500 -0500'>
+<title>La ciencia de lo absurdo</title>
+<desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/zntNe9rpcNlIzXlxXRVy4T761j.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241221184500 -0500' stop='20241221193000 -0500'>
+<title>Sin Rodeos con Eloy Calle</title>
+<desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-SinRodeos.jpg'/>
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20241221193000 -0500' stop='20241221200000 -0500'>
 <title>Full Deportes</title>
 <desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
-<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-Full-Deportes.png'/>
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20241221200000 -0500' stop='20241221210000 -0500'>
 <title>Noticiero Telenoticias</title>
 <desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-tv.png'/>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-Noticiero.jpg'/>
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20241221210000 -0500' stop='20241221220000 -0500'>
@@ -1127,7 +1163,7 @@
 <programme channel='12002' start='20241222121500 -0500' stop='20241222130000 -0500'>
 <title>Noticiero Telenoticias</title>
 <desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-tv.png'/>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-Noticiero.jpg'/>
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20241222130000 -0500' stop='20241222134500 -0500'>
@@ -1139,7 +1175,7 @@
 <programme channel='12002' start='20241222134500 -0500' stop='20241222151500 -0500'>
 <title>Música Nacional</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/Music.png'/>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-Musica-Nacional.png'/>
 <category>Entretenimiento</category>
 </programme>
 <programme channel='12002' start='20241222151500 -0500' stop='20241222160000 -0500'>
@@ -1172,22 +1208,28 @@
 <icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20241222180000 -0500' stop='20241222193000 -0500'>
-<title>Visas Americanas USA</title>
-<desc>Programa dedicado a brindar información sobre como realizar los tramites para poder emigrar legalmente a cualquier país del Mundo.</desc>
-<icon src='https://scontent.fmch2-1.fna.fbcdn.net/v/t39.30808-6/293308899_782844342821985_8689092743562561843_n.jpg'/>
+<programme channel='12002' start='20241222180000 -0500' stop='20241222184500 -0500'>
+<title>La ciencia de lo absurdo</title>
+<desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
+<icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/zntNe9rpcNlIzXlxXRVy4T761j.jpg'/>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20241222184500 -0500' stop='20241222193000 -0500'>
+<title>Sin Rodeos con Eloy Calle</title>
+<desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-SinRodeos.jpg'/>
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20241222193000 -0500' stop='20241222200000 -0500'>
 <title>Full Deportes</title>
 <desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
-<icon src='https://gomax.com.ec/static/posters/677/29677_150.jpg'/>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-Full-Deportes.png'/>
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20241222200000 -0500' stop='20241222210000 -0500'>
 <title>Noticiero Telenoticias</title>
 <desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-tv.png'/>
+<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Austral-Noticiero.jpg'/>
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20241222210000 -0500' stop='20241222220000 -0500'>

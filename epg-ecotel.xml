@@ -2,2095 +2,2017 @@
 <channel id="12003">
 <display-name>ECOTEL TV</display-name>
 </channel>
-<programme channel='12003' start='20250216231000 -0500' stop='20250217010000 -0500'>
-<title>Peliculas.</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12003' start='20250217010000 -0500' stop='20250217020000 -0500'>
-<title>Musica.</title>
-<desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12003' start='20250217020000 -0500' stop='20250217040000 -0500'>
-<title>Peliculas.</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12003' start='20250217040000 -0500' stop='20250217050000 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
-<category>Informarivo</category>
-</programme>
-<programme channel='12003' start='20250217050000 -0500' stop='20250217051500 -0500'>
-<title>Musica.</title>
-<desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12003' start='20250217051500 -0500' stop='20250217061500 -0500'>
-<title>Santa Misa</title>
-<desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png'/>
-<category>Religion</category>
-</programme>
-<programme channel='12003' start='20250217061500 -0500' stop='20250217063000 -0500'>
-<title>Musica.</title>
-<desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12003' start='20250217063000 -0500' stop='20250217081000 -0500'>
+<programme channel='12003' start='20250303123000 -0500' stop='20250303133000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250217081000 -0500' stop='20250217084000 -0500'>
+<programme channel='12003' start='20250303133000 -0500' stop='20250303140000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250217084000 -0500' stop='20250217100000 -0500'>
-<title>Magazine</title>
-<desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Magazine.png'/>
-<category>Informativo</category>
-</programme>
-<programme channel='12003' start='20250217100000 -0500' stop='20250217113000 -0500'>
-<title>Peliculas Infantiles.</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/PeliculasInfantiles-Ecotel.png'/>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12003' start='20250217113000 -0500' stop='20250217122000 -0500'>
-<title>Documentales DW</title>
-<desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
-<icon src='https://static.dw.com/image/37199915_605.webp'/>
-<category>Informativo</category>
-</programme>
-<programme channel='12003' start='20250217122000 -0500' stop='20250217123000 -0500'>
-<title>Musica.</title>
-<desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12003' start='20250217123000 -0500' stop='20250217133000 -0500'>
-<title>Noticiero Mundovisión</title>
-<desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
-<category>Informativo</category>
-</programme>
-<programme channel='12003' start='20250217133000 -0500' stop='20250217140000 -0500'>
-<title>Eco Deportivo</title>
-<desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
-<icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
-<category>Informativo</category>
-</programme>
-<programme channel='12003' start='20250217140000 -0500' stop='20250217150000 -0500'>
+<programme channel='12003' start='20250303140000 -0500' stop='20250303150000 -0500'>
 <title>Ríos del mundo</title>
 <desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
 <icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/KOioJxdE6dvD9BZulDtpRnQiB1.jpg'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250217150000 -0500' stop='20250217160000 -0500'>
+<programme channel='12003' start='20250303150000 -0500' stop='20250303160000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250217160000 -0500' stop='20250217180000 -0500'>
+<programme channel='12003' start='20250303160000 -0500' stop='20250303180000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250217180000 -0500' stop='20250217184500 -0500'>
+<programme channel='12003' start='20250303180000 -0500' stop='20250303184500 -0500'>
 <title>Dueños de la calle</title>
 <desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
 <icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaICduHPSZ7OWcN8ADH3ZXBXr38.jpg'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250217184500 -0500' stop='20250217190000 -0500'>
+<programme channel='12003' start='20250303184500 -0500' stop='20250303190000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250217190000 -0500' stop='20250217201000 -0500'>
+<programme channel='12003' start='20250303190000 -0500' stop='20250303201000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250217201000 -0500' stop='20250217203500 -0500'>
+<programme channel='12003' start='20250303201000 -0500' stop='20250303203500 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250217203500 -0500' stop='20250217220000 -0500'>
+<programme channel='12003' start='20250303203500 -0500' stop='20250303220000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250217220000 -0500' stop='20250217231000 -0500'>
+<programme channel='12003' start='20250303220000 -0500' stop='20250303231000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250217231000 -0500' stop='20250218010000 -0500'>
+<programme channel='12003' start='20250303231000 -0500' stop='20250304010000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250218010000 -0500' stop='20250218020000 -0500'>
+<programme channel='12003' start='20250304010000 -0500' stop='20250304020000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250218020000 -0500' stop='20250218040000 -0500'>
+<programme channel='12003' start='20250304020000 -0500' stop='20250304040000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250218040000 -0500' stop='20250218050000 -0500'>
+<programme channel='12003' start='20250304040000 -0500' stop='20250304050000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250218050000 -0500' stop='20250218051500 -0500'>
+<programme channel='12003' start='20250304050000 -0500' stop='20250304051500 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250218051500 -0500' stop='20250218061500 -0500'>
+<programme channel='12003' start='20250304051500 -0500' stop='20250304061500 -0500'>
 <title>Santa Misa</title>
 <desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png'/>
 <category>Religion</category>
 </programme>
-<programme channel='12003' start='20250218061500 -0500' stop='20250218063000 -0500'>
+<programme channel='12003' start='20250304061500 -0500' stop='20250304063000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250218063000 -0500' stop='20250218081000 -0500'>
+<programme channel='12003' start='20250304063000 -0500' stop='20250304081000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250218081000 -0500' stop='20250218084000 -0500'>
+<programme channel='12003' start='20250304081000 -0500' stop='20250304084000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250218084000 -0500' stop='20250218100000 -0500'>
+<programme channel='12003' start='20250304084000 -0500' stop='20250304100000 -0500'>
 <title>Magazine</title>
 <desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Magazine.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250218100000 -0500' stop='20250218113000 -0500'>
+<programme channel='12003' start='20250304100000 -0500' stop='20250304113000 -0500'>
 <title>Peliculas Infantiles.</title>
 <desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/PeliculasInfantiles-Ecotel.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250218113000 -0500' stop='20250218122000 -0500'>
+<programme channel='12003' start='20250304113000 -0500' stop='20250304122000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <icon src='https://static.dw.com/image/37199915_605.webp'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250218122000 -0500' stop='20250218123000 -0500'>
+<programme channel='12003' start='20250304122000 -0500' stop='20250304123000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250218123000 -0500' stop='20250218133000 -0500'>
+<programme channel='12003' start='20250304123000 -0500' stop='20250304133000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250218133000 -0500' stop='20250218140000 -0500'>
+<programme channel='12003' start='20250304133000 -0500' stop='20250304140000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250218140000 -0500' stop='20250218150000 -0500'>
+<programme channel='12003' start='20250304140000 -0500' stop='20250304150000 -0500'>
 <title>Ríos del mundo</title>
 <desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
 <icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/KOioJxdE6dvD9BZulDtpRnQiB1.jpg'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250218150000 -0500' stop='20250218160000 -0500'>
+<programme channel='12003' start='20250304150000 -0500' stop='20250304160000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250218160000 -0500' stop='20250218180000 -0500'>
+<programme channel='12003' start='20250304160000 -0500' stop='20250304180000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250218180000 -0500' stop='20250218184500 -0500'>
+<programme channel='12003' start='20250304180000 -0500' stop='20250304184500 -0500'>
 <title>Dueños de la calle</title>
 <desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
 <icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaICduHPSZ7OWcN8ADH3ZXBXr38.jpg'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250218184500 -0500' stop='20250218190000 -0500'>
+<programme channel='12003' start='20250304184500 -0500' stop='20250304190000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250218190000 -0500' stop='20250218201000 -0500'>
+<programme channel='12003' start='20250304190000 -0500' stop='20250304201000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250218201000 -0500' stop='20250218203500 -0500'>
+<programme channel='12003' start='20250304201000 -0500' stop='20250304203500 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250218203500 -0500' stop='20250218220000 -0500'>
+<programme channel='12003' start='20250304203500 -0500' stop='20250304220000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250218220000 -0500' stop='20250218231000 -0500'>
+<programme channel='12003' start='20250304220000 -0500' stop='20250304231000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250218231000 -0500' stop='20250219010000 -0500'>
+<programme channel='12003' start='20250304231000 -0500' stop='20250305010000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250219010000 -0500' stop='20250219020000 -0500'>
+<programme channel='12003' start='20250305010000 -0500' stop='20250305020000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250219020000 -0500' stop='20250219040000 -0500'>
+<programme channel='12003' start='20250305020000 -0500' stop='20250305040000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250219040000 -0500' stop='20250219050000 -0500'>
+<programme channel='12003' start='20250305040000 -0500' stop='20250305050000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250219050000 -0500' stop='20250219051500 -0500'>
+<programme channel='12003' start='20250305050000 -0500' stop='20250305051500 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250219051500 -0500' stop='20250219061500 -0500'>
+<programme channel='12003' start='20250305051500 -0500' stop='20250305061500 -0500'>
 <title>Santa Misa</title>
 <desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png'/>
 <category>Religion</category>
 </programme>
-<programme channel='12003' start='20250219061500 -0500' stop='20250219063000 -0500'>
+<programme channel='12003' start='20250305061500 -0500' stop='20250305063000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250219063000 -0500' stop='20250219081000 -0500'>
+<programme channel='12003' start='20250305063000 -0500' stop='20250305081000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250219081000 -0500' stop='20250219084000 -0500'>
+<programme channel='12003' start='20250305081000 -0500' stop='20250305084000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250219084000 -0500' stop='20250219100000 -0500'>
+<programme channel='12003' start='20250305084000 -0500' stop='20250305100000 -0500'>
 <title>Magazine</title>
 <desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Magazine.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250219100000 -0500' stop='20250219113000 -0500'>
+<programme channel='12003' start='20250305100000 -0500' stop='20250305113000 -0500'>
 <title>Peliculas Infantiles.</title>
 <desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/PeliculasInfantiles-Ecotel.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250219113000 -0500' stop='20250219122000 -0500'>
+<programme channel='12003' start='20250305113000 -0500' stop='20250305122000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <icon src='https://static.dw.com/image/37199915_605.webp'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250219122000 -0500' stop='20250219123000 -0500'>
+<programme channel='12003' start='20250305122000 -0500' stop='20250305123000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250219123000 -0500' stop='20250219133000 -0500'>
+<programme channel='12003' start='20250305123000 -0500' stop='20250305133000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250219133000 -0500' stop='20250219140000 -0500'>
+<programme channel='12003' start='20250305133000 -0500' stop='20250305140000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250219140000 -0500' stop='20250219150000 -0500'>
+<programme channel='12003' start='20250305140000 -0500' stop='20250305150000 -0500'>
 <title>Ríos del mundo</title>
 <desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
 <icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/KOioJxdE6dvD9BZulDtpRnQiB1.jpg'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250219150000 -0500' stop='20250219160000 -0500'>
+<programme channel='12003' start='20250305150000 -0500' stop='20250305160000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250219160000 -0500' stop='20250219180000 -0500'>
+<programme channel='12003' start='20250305160000 -0500' stop='20250305180000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250219180000 -0500' stop='20250219184500 -0500'>
+<programme channel='12003' start='20250305180000 -0500' stop='20250305184500 -0500'>
 <title>Dueños de la calle</title>
 <desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
 <icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaICduHPSZ7OWcN8ADH3ZXBXr38.jpg'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250219184500 -0500' stop='20250219190000 -0500'>
+<programme channel='12003' start='20250305184500 -0500' stop='20250305190000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250219190000 -0500' stop='20250219201000 -0500'>
+<programme channel='12003' start='20250305190000 -0500' stop='20250305201000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250219201000 -0500' stop='20250219203500 -0500'>
+<programme channel='12003' start='20250305201000 -0500' stop='20250305203500 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250219203500 -0500' stop='20250219220000 -0500'>
+<programme channel='12003' start='20250305203500 -0500' stop='20250305220000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250219220000 -0500' stop='20250219231000 -0500'>
+<programme channel='12003' start='20250305220000 -0500' stop='20250305231000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250219231000 -0500' stop='20250220010000 -0500'>
+<programme channel='12003' start='20250305231000 -0500' stop='20250306010000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250220010000 -0500' stop='20250220020000 -0500'>
+<programme channel='12003' start='20250306010000 -0500' stop='20250306020000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250220020000 -0500' stop='20250220040000 -0500'>
+<programme channel='12003' start='20250306020000 -0500' stop='20250306040000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250220040000 -0500' stop='20250220050000 -0500'>
+<programme channel='12003' start='20250306040000 -0500' stop='20250306050000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250220050000 -0500' stop='20250220051500 -0500'>
+<programme channel='12003' start='20250306050000 -0500' stop='20250306051500 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250220051500 -0500' stop='20250220061500 -0500'>
+<programme channel='12003' start='20250306051500 -0500' stop='20250306061500 -0500'>
 <title>Santa Misa</title>
 <desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png'/>
 <category>Religion</category>
 </programme>
-<programme channel='12003' start='20250220061500 -0500' stop='20250220063000 -0500'>
+<programme channel='12003' start='20250306061500 -0500' stop='20250306063000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250220063000 -0500' stop='20250220081000 -0500'>
+<programme channel='12003' start='20250306063000 -0500' stop='20250306081000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250220081000 -0500' stop='20250220084000 -0500'>
+<programme channel='12003' start='20250306081000 -0500' stop='20250306084000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250220084000 -0500' stop='20250220100000 -0500'>
+<programme channel='12003' start='20250306084000 -0500' stop='20250306100000 -0500'>
 <title>Magazine</title>
 <desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Magazine.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250220100000 -0500' stop='20250220113000 -0500'>
+<programme channel='12003' start='20250306100000 -0500' stop='20250306113000 -0500'>
 <title>Peliculas Infantiles.</title>
 <desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/PeliculasInfantiles-Ecotel.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250220113000 -0500' stop='20250220122000 -0500'>
+<programme channel='12003' start='20250306113000 -0500' stop='20250306122000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <icon src='https://static.dw.com/image/37199915_605.webp'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250220122000 -0500' stop='20250220123000 -0500'>
+<programme channel='12003' start='20250306122000 -0500' stop='20250306123000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250220123000 -0500' stop='20250220133000 -0500'>
+<programme channel='12003' start='20250306123000 -0500' stop='20250306133000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250220133000 -0500' stop='20250220140000 -0500'>
+<programme channel='12003' start='20250306133000 -0500' stop='20250306140000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250220140000 -0500' stop='20250220150000 -0500'>
+<programme channel='12003' start='20250306140000 -0500' stop='20250306150000 -0500'>
 <title>Ríos del mundo</title>
 <desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
 <icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/KOioJxdE6dvD9BZulDtpRnQiB1.jpg'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250220150000 -0500' stop='20250220160000 -0500'>
+<programme channel='12003' start='20250306150000 -0500' stop='20250306160000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250220160000 -0500' stop='20250220180000 -0500'>
+<programme channel='12003' start='20250306160000 -0500' stop='20250306180000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250220180000 -0500' stop='20250220184500 -0500'>
+<programme channel='12003' start='20250306180000 -0500' stop='20250306184500 -0500'>
 <title>Dueños de la calle</title>
 <desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
 <icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaICduHPSZ7OWcN8ADH3ZXBXr38.jpg'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250220184500 -0500' stop='20250220190000 -0500'>
+<programme channel='12003' start='20250306184500 -0500' stop='20250306190000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250220190000 -0500' stop='20250220201000 -0500'>
+<programme channel='12003' start='20250306190000 -0500' stop='20250306201000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250220201000 -0500' stop='20250220203500 -0500'>
+<programme channel='12003' start='20250306201000 -0500' stop='20250306203500 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250220203500 -0500' stop='20250220220000 -0500'>
+<programme channel='12003' start='20250306203500 -0500' stop='20250306220000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250220220000 -0500' stop='20250220231000 -0500'>
+<programme channel='12003' start='20250306220000 -0500' stop='20250306231000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250220231000 -0500' stop='20250221010000 -0500'>
+<programme channel='12003' start='20250306231000 -0500' stop='20250307010000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250221010000 -0500' stop='20250221020000 -0500'>
+<programme channel='12003' start='20250307010000 -0500' stop='20250307020000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250221020000 -0500' stop='20250221040000 -0500'>
+<programme channel='12003' start='20250307020000 -0500' stop='20250307040000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250221040000 -0500' stop='20250221050000 -0500'>
+<programme channel='12003' start='20250307040000 -0500' stop='20250307050000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250221050000 -0500' stop='20250221051500 -0500'>
+<programme channel='12003' start='20250307050000 -0500' stop='20250307051500 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250221051500 -0500' stop='20250221061500 -0500'>
+<programme channel='12003' start='20250307051500 -0500' stop='20250307061500 -0500'>
 <title>Santa Misa</title>
 <desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png'/>
 <category>Religion</category>
 </programme>
-<programme channel='12003' start='20250221061500 -0500' stop='20250221063000 -0500'>
+<programme channel='12003' start='20250307061500 -0500' stop='20250307063000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250221063000 -0500' stop='20250221081000 -0500'>
+<programme channel='12003' start='20250307063000 -0500' stop='20250307081000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250221081000 -0500' stop='20250221084000 -0500'>
+<programme channel='12003' start='20250307081000 -0500' stop='20250307084000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250221084000 -0500' stop='20250221100000 -0500'>
+<programme channel='12003' start='20250307084000 -0500' stop='20250307100000 -0500'>
 <title>Magazine</title>
 <desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Magazine.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250221100000 -0500' stop='20250221113000 -0500'>
+<programme channel='12003' start='20250307100000 -0500' stop='20250307113000 -0500'>
 <title>Peliculas Infantiles.</title>
 <desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/PeliculasInfantiles-Ecotel.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250221113000 -0500' stop='20250221122000 -0500'>
+<programme channel='12003' start='20250307113000 -0500' stop='20250307122000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <icon src='https://static.dw.com/image/37199915_605.webp'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250221122000 -0500' stop='20250221123000 -0500'>
+<programme channel='12003' start='20250307122000 -0500' stop='20250307123000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250221123000 -0500' stop='20250221133000 -0500'>
+<programme channel='12003' start='20250307123000 -0500' stop='20250307133000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250221133000 -0500' stop='20250221140000 -0500'>
+<programme channel='12003' start='20250307133000 -0500' stop='20250307140000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250221140000 -0500' stop='20250221150000 -0500'>
+<programme channel='12003' start='20250307140000 -0500' stop='20250307150000 -0500'>
 <title>Ríos del mundo</title>
 <desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
 <icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/KOioJxdE6dvD9BZulDtpRnQiB1.jpg'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250221150000 -0500' stop='20250221160000 -0500'>
+<programme channel='12003' start='20250307150000 -0500' stop='20250307160000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250221160000 -0500' stop='20250221180000 -0500'>
+<programme channel='12003' start='20250307160000 -0500' stop='20250307180000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250221180000 -0500' stop='20250221184500 -0500'>
+<programme channel='12003' start='20250307180000 -0500' stop='20250307184500 -0500'>
 <title>Dueños de la calle</title>
 <desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
 <icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaICduHPSZ7OWcN8ADH3ZXBXr38.jpg'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250221184500 -0500' stop='20250221190000 -0500'>
+<programme channel='12003' start='20250307184500 -0500' stop='20250307190000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250221190000 -0500' stop='20250221201000 -0500'>
+<programme channel='12003' start='20250307190000 -0500' stop='20250307201000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250221201000 -0500' stop='20250221203500 -0500'>
+<programme channel='12003' start='20250307201000 -0500' stop='20250307203500 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250221203500 -0500' stop='20250221220000 -0500'>
+<programme channel='12003' start='20250307203500 -0500' stop='20250307220000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250221220000 -0500' stop='20250221231000 -0500'>
+<programme channel='12003' start='20250307220000 -0500' stop='20250307231000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250221231000 -0500' stop='20250222010000 -0500'>
+<programme channel='12003' start='20250307231000 -0500' stop='20250308010000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250222010000 -0500' stop='20250222020000 -0500'>
+<programme channel='12003' start='20250308010000 -0500' stop='20250308020000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250222020000 -0500' stop='20250222040000 -0500'>
+<programme channel='12003' start='20250308020000 -0500' stop='20250308040000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250222040000 -0500' stop='20250222050000 -0500'>
+<programme channel='12003' start='20250308040000 -0500' stop='20250308050000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250222050000 -0500' stop='20250222051500 -0500'>
+<programme channel='12003' start='20250308050000 -0500' stop='20250308051500 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250222051500 -0500' stop='20250222061500 -0500'>
+<programme channel='12003' start='20250308051500 -0500' stop='20250308061500 -0500'>
 <title>Santa Misa</title>
 <desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png'/>
 <category>Religion</category>
 </programme>
-<programme channel='12003' start='20250222061500 -0500' stop='20250222063000 -0500'>
+<programme channel='12003' start='20250308061500 -0500' stop='20250308063000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250222063000 -0500' stop='20250222081000 -0500'>
+<programme channel='12003' start='20250308063000 -0500' stop='20250308081000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250222081000 -0500' stop='20250222084000 -0500'>
+<programme channel='12003' start='20250308081000 -0500' stop='20250308084000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250222084000 -0500' stop='20250222100000 -0500'>
+<programme channel='12003' start='20250308084000 -0500' stop='20250308100000 -0500'>
 <title>Magazine</title>
 <desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Magazine.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250222100000 -0500' stop='20250222113000 -0500'>
+<programme channel='12003' start='20250308100000 -0500' stop='20250308113000 -0500'>
 <title>Peliculas Infantiles.</title>
 <desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/PeliculasInfantiles-Ecotel.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250222113000 -0500' stop='20250222122000 -0500'>
+<programme channel='12003' start='20250308113000 -0500' stop='20250308122000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <icon src='https://static.dw.com/image/37199915_605.webp'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250222122000 -0500' stop='20250222123000 -0500'>
+<programme channel='12003' start='20250308122000 -0500' stop='20250308123000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250222123000 -0500' stop='20250222133000 -0500'>
+<programme channel='12003' start='20250308123000 -0500' stop='20250308133000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250222133000 -0500' stop='20250222140000 -0500'>
+<programme channel='12003' start='20250308133000 -0500' stop='20250308140000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250222140000 -0500' stop='20250222150000 -0500'>
+<programme channel='12003' start='20250308140000 -0500' stop='20250308150000 -0500'>
 <title>Ríos del mundo</title>
 <desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
 <icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/KOioJxdE6dvD9BZulDtpRnQiB1.jpg'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250222150000 -0500' stop='20250222160000 -0500'>
+<programme channel='12003' start='20250308150000 -0500' stop='20250308160000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250222160000 -0500' stop='20250222180000 -0500'>
+<programme channel='12003' start='20250308160000 -0500' stop='20250308180000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250222180000 -0500' stop='20250222184500 -0500'>
+<programme channel='12003' start='20250308180000 -0500' stop='20250308184500 -0500'>
 <title>Dueños de la calle</title>
 <desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
 <icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaICduHPSZ7OWcN8ADH3ZXBXr38.jpg'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250222184500 -0500' stop='20250222190000 -0500'>
+<programme channel='12003' start='20250308184500 -0500' stop='20250308190000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250222190000 -0500' stop='20250222201000 -0500'>
+<programme channel='12003' start='20250308190000 -0500' stop='20250308201000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250222201000 -0500' stop='20250222203500 -0500'>
+<programme channel='12003' start='20250308201000 -0500' stop='20250308203500 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250222203500 -0500' stop='20250222220000 -0500'>
+<programme channel='12003' start='20250308203500 -0500' stop='20250308220000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250222220000 -0500' stop='20250222231000 -0500'>
+<programme channel='12003' start='20250308220000 -0500' stop='20250308231000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250222231000 -0500' stop='20250223010000 -0500'>
+<programme channel='12003' start='20250308231000 -0500' stop='20250309010000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250223010000 -0500' stop='20250223020000 -0500'>
+<programme channel='12003' start='20250309010000 -0500' stop='20250309020000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250223020000 -0500' stop='20250223040000 -0500'>
+<programme channel='12003' start='20250309020000 -0500' stop='20250309040000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250223040000 -0500' stop='20250223050000 -0500'>
+<programme channel='12003' start='20250309040000 -0500' stop='20250309050000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250223050000 -0500' stop='20250223051500 -0500'>
+<programme channel='12003' start='20250309050000 -0500' stop='20250309051500 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250223051500 -0500' stop='20250223061500 -0500'>
+<programme channel='12003' start='20250309051500 -0500' stop='20250309061500 -0500'>
 <title>Santa Misa</title>
 <desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png'/>
 <category>Religion</category>
 </programme>
-<programme channel='12003' start='20250223061500 -0500' stop='20250223063000 -0500'>
+<programme channel='12003' start='20250309061500 -0500' stop='20250309063000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250223063000 -0500' stop='20250223081000 -0500'>
+<programme channel='12003' start='20250309063000 -0500' stop='20250309081000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250223081000 -0500' stop='20250223084000 -0500'>
+<programme channel='12003' start='20250309081000 -0500' stop='20250309084000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250223084000 -0500' stop='20250223100000 -0500'>
+<programme channel='12003' start='20250309084000 -0500' stop='20250309100000 -0500'>
 <title>Magazine</title>
 <desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Magazine.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250223100000 -0500' stop='20250223113000 -0500'>
+<programme channel='12003' start='20250309100000 -0500' stop='20250309113000 -0500'>
 <title>Peliculas Infantiles.</title>
 <desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/PeliculasInfantiles-Ecotel.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250223113000 -0500' stop='20250223122000 -0500'>
+<programme channel='12003' start='20250309113000 -0500' stop='20250309122000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <icon src='https://static.dw.com/image/37199915_605.webp'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250223122000 -0500' stop='20250223123000 -0500'>
+<programme channel='12003' start='20250309122000 -0500' stop='20250309123000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250223123000 -0500' stop='20250223133000 -0500'>
+<programme channel='12003' start='20250309123000 -0500' stop='20250309133000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250223133000 -0500' stop='20250223140000 -0500'>
+<programme channel='12003' start='20250309133000 -0500' stop='20250309140000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250223140000 -0500' stop='20250223150000 -0500'>
+<programme channel='12003' start='20250309140000 -0500' stop='20250309150000 -0500'>
 <title>Ríos del mundo</title>
 <desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
 <icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/KOioJxdE6dvD9BZulDtpRnQiB1.jpg'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250223150000 -0500' stop='20250223160000 -0500'>
+<programme channel='12003' start='20250309150000 -0500' stop='20250309160000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250223160000 -0500' stop='20250223180000 -0500'>
+<programme channel='12003' start='20250309160000 -0500' stop='20250309180000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250223180000 -0500' stop='20250223184500 -0500'>
+<programme channel='12003' start='20250309180000 -0500' stop='20250309184500 -0500'>
 <title>Dueños de la calle</title>
 <desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
 <icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaICduHPSZ7OWcN8ADH3ZXBXr38.jpg'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250223184500 -0500' stop='20250223190000 -0500'>
+<programme channel='12003' start='20250309184500 -0500' stop='20250309190000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250223190000 -0500' stop='20250223201000 -0500'>
+<programme channel='12003' start='20250309190000 -0500' stop='20250309201000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250223201000 -0500' stop='20250223203500 -0500'>
+<programme channel='12003' start='20250309201000 -0500' stop='20250309203500 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250223203500 -0500' stop='20250223220000 -0500'>
+<programme channel='12003' start='20250309203500 -0500' stop='20250309220000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250223220000 -0500' stop='20250223231000 -0500'>
+<programme channel='12003' start='20250309220000 -0500' stop='20250309231000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250223231000 -0500' stop='20250224010000 -0500'>
+<programme channel='12003' start='20250309231000 -0500' stop='20250310010000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250224010000 -0500' stop='20250224020000 -0500'>
+<programme channel='12003' start='20250310010000 -0500' stop='20250310020000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250224020000 -0500' stop='20250224040000 -0500'>
+<programme channel='12003' start='20250310020000 -0500' stop='20250310040000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250224040000 -0500' stop='20250224050000 -0500'>
+<programme channel='12003' start='20250310040000 -0500' stop='20250310050000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250224050000 -0500' stop='20250224051500 -0500'>
+<programme channel='12003' start='20250310050000 -0500' stop='20250310051500 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250224051500 -0500' stop='20250224061500 -0500'>
+<programme channel='12003' start='20250310051500 -0500' stop='20250310061500 -0500'>
 <title>Santa Misa</title>
 <desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png'/>
 <category>Religion</category>
 </programme>
-<programme channel='12003' start='20250224061500 -0500' stop='20250224063000 -0500'>
+<programme channel='12003' start='20250310061500 -0500' stop='20250310063000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250224063000 -0500' stop='20250224081000 -0500'>
+<programme channel='12003' start='20250310063000 -0500' stop='20250310081000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250224081000 -0500' stop='20250224084000 -0500'>
+<programme channel='12003' start='20250310081000 -0500' stop='20250310084000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250224084000 -0500' stop='20250224100000 -0500'>
+<programme channel='12003' start='20250310084000 -0500' stop='20250310100000 -0500'>
 <title>Magazine</title>
 <desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Magazine.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250224100000 -0500' stop='20250224113000 -0500'>
+<programme channel='12003' start='20250310100000 -0500' stop='20250310113000 -0500'>
 <title>Peliculas Infantiles.</title>
 <desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/PeliculasInfantiles-Ecotel.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250224113000 -0500' stop='20250224122000 -0500'>
+<programme channel='12003' start='20250310113000 -0500' stop='20250310122000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <icon src='https://static.dw.com/image/37199915_605.webp'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250224122000 -0500' stop='20250224123000 -0500'>
+<programme channel='12003' start='20250310122000 -0500' stop='20250310123000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250224123000 -0500' stop='20250224133000 -0500'>
+<programme channel='12003' start='20250310123000 -0500' stop='20250310133000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250224133000 -0500' stop='20250224140000 -0500'>
+<programme channel='12003' start='20250310133000 -0500' stop='20250310140000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250224140000 -0500' stop='20250224150000 -0500'>
+<programme channel='12003' start='20250310140000 -0500' stop='20250310150000 -0500'>
 <title>Ríos del mundo</title>
 <desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
 <icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/KOioJxdE6dvD9BZulDtpRnQiB1.jpg'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250224150000 -0500' stop='20250224160000 -0500'>
+<programme channel='12003' start='20250310150000 -0500' stop='20250310160000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250224160000 -0500' stop='20250224180000 -0500'>
+<programme channel='12003' start='20250310160000 -0500' stop='20250310180000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250224180000 -0500' stop='20250224184500 -0500'>
+<programme channel='12003' start='20250310180000 -0500' stop='20250310184500 -0500'>
 <title>Dueños de la calle</title>
 <desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
 <icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaICduHPSZ7OWcN8ADH3ZXBXr38.jpg'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250224184500 -0500' stop='20250224190000 -0500'>
+<programme channel='12003' start='20250310184500 -0500' stop='20250310190000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250224190000 -0500' stop='20250224201000 -0500'>
+<programme channel='12003' start='20250310190000 -0500' stop='20250310201000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250224201000 -0500' stop='20250224203500 -0500'>
+<programme channel='12003' start='20250310201000 -0500' stop='20250310203500 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250224203500 -0500' stop='20250224220000 -0500'>
+<programme channel='12003' start='20250310203500 -0500' stop='20250310220000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250224220000 -0500' stop='20250224231000 -0500'>
+<programme channel='12003' start='20250310220000 -0500' stop='20250310231000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250224231000 -0500' stop='20250225010000 -0500'>
+<programme channel='12003' start='20250310231000 -0500' stop='20250311010000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250225010000 -0500' stop='20250225020000 -0500'>
+<programme channel='12003' start='20250311010000 -0500' stop='20250311020000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250225020000 -0500' stop='20250225040000 -0500'>
+<programme channel='12003' start='20250311020000 -0500' stop='20250311040000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250225040000 -0500' stop='20250225050000 -0500'>
+<programme channel='12003' start='20250311040000 -0500' stop='20250311050000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250225050000 -0500' stop='20250225051500 -0500'>
+<programme channel='12003' start='20250311050000 -0500' stop='20250311051500 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250225051500 -0500' stop='20250225061500 -0500'>
+<programme channel='12003' start='20250311051500 -0500' stop='20250311061500 -0500'>
 <title>Santa Misa</title>
 <desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png'/>
 <category>Religion</category>
 </programme>
-<programme channel='12003' start='20250225061500 -0500' stop='20250225063000 -0500'>
+<programme channel='12003' start='20250311061500 -0500' stop='20250311063000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250225063000 -0500' stop='20250225081000 -0500'>
+<programme channel='12003' start='20250311063000 -0500' stop='20250311081000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250225081000 -0500' stop='20250225084000 -0500'>
+<programme channel='12003' start='20250311081000 -0500' stop='20250311084000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250225084000 -0500' stop='20250225100000 -0500'>
+<programme channel='12003' start='20250311084000 -0500' stop='20250311100000 -0500'>
 <title>Magazine</title>
 <desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Magazine.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250225100000 -0500' stop='20250225113000 -0500'>
+<programme channel='12003' start='20250311100000 -0500' stop='20250311113000 -0500'>
 <title>Peliculas Infantiles.</title>
 <desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/PeliculasInfantiles-Ecotel.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250225113000 -0500' stop='20250225122000 -0500'>
+<programme channel='12003' start='20250311113000 -0500' stop='20250311122000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <icon src='https://static.dw.com/image/37199915_605.webp'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250225122000 -0500' stop='20250225123000 -0500'>
+<programme channel='12003' start='20250311122000 -0500' stop='20250311123000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250225123000 -0500' stop='20250225133000 -0500'>
+<programme channel='12003' start='20250311123000 -0500' stop='20250311133000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250225133000 -0500' stop='20250225140000 -0500'>
+<programme channel='12003' start='20250311133000 -0500' stop='20250311140000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250225140000 -0500' stop='20250225150000 -0500'>
+<programme channel='12003' start='20250311140000 -0500' stop='20250311150000 -0500'>
 <title>Ríos del mundo</title>
 <desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
 <icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/KOioJxdE6dvD9BZulDtpRnQiB1.jpg'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250225150000 -0500' stop='20250225160000 -0500'>
+<programme channel='12003' start='20250311150000 -0500' stop='20250311160000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250225160000 -0500' stop='20250225180000 -0500'>
+<programme channel='12003' start='20250311160000 -0500' stop='20250311180000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250225180000 -0500' stop='20250225184500 -0500'>
+<programme channel='12003' start='20250311180000 -0500' stop='20250311184500 -0500'>
 <title>Dueños de la calle</title>
 <desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
 <icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaICduHPSZ7OWcN8ADH3ZXBXr38.jpg'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250225184500 -0500' stop='20250225190000 -0500'>
+<programme channel='12003' start='20250311184500 -0500' stop='20250311190000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250225190000 -0500' stop='20250225201000 -0500'>
+<programme channel='12003' start='20250311190000 -0500' stop='20250311201000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250225201000 -0500' stop='20250225203500 -0500'>
+<programme channel='12003' start='20250311201000 -0500' stop='20250311203500 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250225203500 -0500' stop='20250225220000 -0500'>
+<programme channel='12003' start='20250311203500 -0500' stop='20250311220000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250225220000 -0500' stop='20250225231000 -0500'>
+<programme channel='12003' start='20250311220000 -0500' stop='20250311231000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250225231000 -0500' stop='20250226010000 -0500'>
+<programme channel='12003' start='20250311231000 -0500' stop='20250312010000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250226010000 -0500' stop='20250226020000 -0500'>
+<programme channel='12003' start='20250312010000 -0500' stop='20250312020000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250226020000 -0500' stop='20250226040000 -0500'>
+<programme channel='12003' start='20250312020000 -0500' stop='20250312040000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250226040000 -0500' stop='20250226050000 -0500'>
+<programme channel='12003' start='20250312040000 -0500' stop='20250312050000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250226050000 -0500' stop='20250226051500 -0500'>
+<programme channel='12003' start='20250312050000 -0500' stop='20250312051500 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250226051500 -0500' stop='20250226061500 -0500'>
+<programme channel='12003' start='20250312051500 -0500' stop='20250312061500 -0500'>
 <title>Santa Misa</title>
 <desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png'/>
 <category>Religion</category>
 </programme>
-<programme channel='12003' start='20250226061500 -0500' stop='20250226063000 -0500'>
+<programme channel='12003' start='20250312061500 -0500' stop='20250312063000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250226063000 -0500' stop='20250226081000 -0500'>
+<programme channel='12003' start='20250312063000 -0500' stop='20250312081000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250226081000 -0500' stop='20250226084000 -0500'>
+<programme channel='12003' start='20250312081000 -0500' stop='20250312084000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250226084000 -0500' stop='20250226100000 -0500'>
+<programme channel='12003' start='20250312084000 -0500' stop='20250312100000 -0500'>
 <title>Magazine</title>
 <desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Magazine.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250226100000 -0500' stop='20250226113000 -0500'>
+<programme channel='12003' start='20250312100000 -0500' stop='20250312113000 -0500'>
 <title>Peliculas Infantiles.</title>
 <desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/PeliculasInfantiles-Ecotel.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250226113000 -0500' stop='20250226122000 -0500'>
+<programme channel='12003' start='20250312113000 -0500' stop='20250312122000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <icon src='https://static.dw.com/image/37199915_605.webp'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250226122000 -0500' stop='20250226123000 -0500'>
+<programme channel='12003' start='20250312122000 -0500' stop='20250312123000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250226123000 -0500' stop='20250226133000 -0500'>
+<programme channel='12003' start='20250312123000 -0500' stop='20250312133000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250226133000 -0500' stop='20250226140000 -0500'>
+<programme channel='12003' start='20250312133000 -0500' stop='20250312140000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250226140000 -0500' stop='20250226150000 -0500'>
+<programme channel='12003' start='20250312140000 -0500' stop='20250312150000 -0500'>
 <title>Ríos del mundo</title>
 <desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
 <icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/KOioJxdE6dvD9BZulDtpRnQiB1.jpg'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250226150000 -0500' stop='20250226160000 -0500'>
+<programme channel='12003' start='20250312150000 -0500' stop='20250312160000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250226160000 -0500' stop='20250226180000 -0500'>
+<programme channel='12003' start='20250312160000 -0500' stop='20250312180000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250226180000 -0500' stop='20250226184500 -0500'>
+<programme channel='12003' start='20250312180000 -0500' stop='20250312184500 -0500'>
 <title>Dueños de la calle</title>
 <desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
 <icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaICduHPSZ7OWcN8ADH3ZXBXr38.jpg'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250226184500 -0500' stop='20250226190000 -0500'>
+<programme channel='12003' start='20250312184500 -0500' stop='20250312190000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250226190000 -0500' stop='20250226201000 -0500'>
+<programme channel='12003' start='20250312190000 -0500' stop='20250312201000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250226201000 -0500' stop='20250226203500 -0500'>
+<programme channel='12003' start='20250312201000 -0500' stop='20250312203500 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250226203500 -0500' stop='20250226220000 -0500'>
+<programme channel='12003' start='20250312203500 -0500' stop='20250312220000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250226220000 -0500' stop='20250226231000 -0500'>
+<programme channel='12003' start='20250312220000 -0500' stop='20250312231000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250226231000 -0500' stop='20250227010000 -0500'>
+<programme channel='12003' start='20250312231000 -0500' stop='20250313010000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250227010000 -0500' stop='20250227020000 -0500'>
+<programme channel='12003' start='20250313010000 -0500' stop='20250313020000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250227020000 -0500' stop='20250227040000 -0500'>
+<programme channel='12003' start='20250313020000 -0500' stop='20250313040000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250227040000 -0500' stop='20250227050000 -0500'>
+<programme channel='12003' start='20250313040000 -0500' stop='20250313050000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250227050000 -0500' stop='20250227051500 -0500'>
+<programme channel='12003' start='20250313050000 -0500' stop='20250313051500 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250227051500 -0500' stop='20250227061500 -0500'>
+<programme channel='12003' start='20250313051500 -0500' stop='20250313061500 -0500'>
 <title>Santa Misa</title>
 <desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png'/>
 <category>Religion</category>
 </programme>
-<programme channel='12003' start='20250227061500 -0500' stop='20250227063000 -0500'>
+<programme channel='12003' start='20250313061500 -0500' stop='20250313063000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250227063000 -0500' stop='20250227081000 -0500'>
+<programme channel='12003' start='20250313063000 -0500' stop='20250313081000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250227081000 -0500' stop='20250227084000 -0500'>
+<programme channel='12003' start='20250313081000 -0500' stop='20250313084000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250227084000 -0500' stop='20250227100000 -0500'>
+<programme channel='12003' start='20250313084000 -0500' stop='20250313100000 -0500'>
 <title>Magazine</title>
 <desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Magazine.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250227100000 -0500' stop='20250227113000 -0500'>
+<programme channel='12003' start='20250313100000 -0500' stop='20250313113000 -0500'>
 <title>Peliculas Infantiles.</title>
 <desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/PeliculasInfantiles-Ecotel.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250227113000 -0500' stop='20250227122000 -0500'>
+<programme channel='12003' start='20250313113000 -0500' stop='20250313122000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <icon src='https://static.dw.com/image/37199915_605.webp'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250227122000 -0500' stop='20250227123000 -0500'>
+<programme channel='12003' start='20250313122000 -0500' stop='20250313123000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250227123000 -0500' stop='20250227133000 -0500'>
+<programme channel='12003' start='20250313123000 -0500' stop='20250313133000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250227133000 -0500' stop='20250227140000 -0500'>
+<programme channel='12003' start='20250313133000 -0500' stop='20250313140000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250227140000 -0500' stop='20250227150000 -0500'>
+<programme channel='12003' start='20250313140000 -0500' stop='20250313150000 -0500'>
 <title>Ríos del mundo</title>
 <desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
 <icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/KOioJxdE6dvD9BZulDtpRnQiB1.jpg'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250227150000 -0500' stop='20250227160000 -0500'>
+<programme channel='12003' start='20250313150000 -0500' stop='20250313160000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250227160000 -0500' stop='20250227180000 -0500'>
+<programme channel='12003' start='20250313160000 -0500' stop='20250313180000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250227180000 -0500' stop='20250227184500 -0500'>
+<programme channel='12003' start='20250313180000 -0500' stop='20250313184500 -0500'>
 <title>Dueños de la calle</title>
 <desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
 <icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaICduHPSZ7OWcN8ADH3ZXBXr38.jpg'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250227184500 -0500' stop='20250227190000 -0500'>
+<programme channel='12003' start='20250313184500 -0500' stop='20250313190000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250227190000 -0500' stop='20250227201000 -0500'>
+<programme channel='12003' start='20250313190000 -0500' stop='20250313201000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250227201000 -0500' stop='20250227203500 -0500'>
+<programme channel='12003' start='20250313201000 -0500' stop='20250313203500 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250227203500 -0500' stop='20250227220000 -0500'>
+<programme channel='12003' start='20250313203500 -0500' stop='20250313220000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250227220000 -0500' stop='20250227231000 -0500'>
+<programme channel='12003' start='20250313220000 -0500' stop='20250313231000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250227231000 -0500' stop='20250228010000 -0500'>
+<programme channel='12003' start='20250313231000 -0500' stop='20250314010000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250228010000 -0500' stop='20250228020000 -0500'>
+<programme channel='12003' start='20250314010000 -0500' stop='20250314020000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250228020000 -0500' stop='20250228040000 -0500'>
+<programme channel='12003' start='20250314020000 -0500' stop='20250314040000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250228040000 -0500' stop='20250228050000 -0500'>
+<programme channel='12003' start='20250314040000 -0500' stop='20250314050000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250228050000 -0500' stop='20250228051500 -0500'>
+<programme channel='12003' start='20250314050000 -0500' stop='20250314051500 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250228051500 -0500' stop='20250228061500 -0500'>
+<programme channel='12003' start='20250314051500 -0500' stop='20250314061500 -0500'>
 <title>Santa Misa</title>
 <desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png'/>
 <category>Religion</category>
 </programme>
-<programme channel='12003' start='20250228061500 -0500' stop='20250228063000 -0500'>
+<programme channel='12003' start='20250314061500 -0500' stop='20250314063000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250228063000 -0500' stop='20250228081000 -0500'>
+<programme channel='12003' start='20250314063000 -0500' stop='20250314081000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250228081000 -0500' stop='20250228084000 -0500'>
+<programme channel='12003' start='20250314081000 -0500' stop='20250314084000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250228084000 -0500' stop='20250228100000 -0500'>
+<programme channel='12003' start='20250314084000 -0500' stop='20250314100000 -0500'>
 <title>Magazine</title>
 <desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Magazine.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250228100000 -0500' stop='20250228113000 -0500'>
+<programme channel='12003' start='20250314100000 -0500' stop='20250314113000 -0500'>
 <title>Peliculas Infantiles.</title>
 <desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/PeliculasInfantiles-Ecotel.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250228113000 -0500' stop='20250228122000 -0500'>
+<programme channel='12003' start='20250314113000 -0500' stop='20250314122000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <icon src='https://static.dw.com/image/37199915_605.webp'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250228122000 -0500' stop='20250228123000 -0500'>
+<programme channel='12003' start='20250314122000 -0500' stop='20250314123000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250228123000 -0500' stop='20250228133000 -0500'>
+<programme channel='12003' start='20250314123000 -0500' stop='20250314133000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250228133000 -0500' stop='20250228140000 -0500'>
+<programme channel='12003' start='20250314133000 -0500' stop='20250314140000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250228140000 -0500' stop='20250228150000 -0500'>
+<programme channel='12003' start='20250314140000 -0500' stop='20250314150000 -0500'>
 <title>Ríos del mundo</title>
 <desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
 <icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/KOioJxdE6dvD9BZulDtpRnQiB1.jpg'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250228150000 -0500' stop='20250228160000 -0500'>
+<programme channel='12003' start='20250314150000 -0500' stop='20250314160000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250228160000 -0500' stop='20250228180000 -0500'>
+<programme channel='12003' start='20250314160000 -0500' stop='20250314180000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250228180000 -0500' stop='20250228184500 -0500'>
+<programme channel='12003' start='20250314180000 -0500' stop='20250314184500 -0500'>
 <title>Dueños de la calle</title>
 <desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
 <icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaICduHPSZ7OWcN8ADH3ZXBXr38.jpg'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250228184500 -0500' stop='20250228190000 -0500'>
+<programme channel='12003' start='20250314184500 -0500' stop='20250314190000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250228190000 -0500' stop='20250228201000 -0500'>
+<programme channel='12003' start='20250314190000 -0500' stop='20250314201000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250228201000 -0500' stop='20250228203500 -0500'>
+<programme channel='12003' start='20250314201000 -0500' stop='20250314203500 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250228203500 -0500' stop='20250228220000 -0500'>
+<programme channel='12003' start='20250314203500 -0500' stop='20250314220000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250228220000 -0500' stop='20250228231000 -0500'>
+<programme channel='12003' start='20250314220000 -0500' stop='20250314231000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250228231000 -0500' stop='20250301010000 -0500'>
+<programme channel='12003' start='20250314231000 -0500' stop='20250315010000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250301010000 -0500' stop='20250301020000 -0500'>
+<programme channel='12003' start='20250315010000 -0500' stop='20250315020000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250301020000 -0500' stop='20250301040000 -0500'>
+<programme channel='12003' start='20250315020000 -0500' stop='20250315040000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250301040000 -0500' stop='20250301050000 -0500'>
+<programme channel='12003' start='20250315040000 -0500' stop='20250315050000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250301050000 -0500' stop='20250301051500 -0500'>
+<programme channel='12003' start='20250315050000 -0500' stop='20250315051500 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250301051500 -0500' stop='20250301061500 -0500'>
+<programme channel='12003' start='20250315051500 -0500' stop='20250315061500 -0500'>
 <title>Santa Misa</title>
 <desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png'/>
 <category>Religion</category>
 </programme>
-<programme channel='12003' start='20250301061500 -0500' stop='20250301063000 -0500'>
+<programme channel='12003' start='20250315061500 -0500' stop='20250315063000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250301063000 -0500' stop='20250301081000 -0500'>
+<programme channel='12003' start='20250315063000 -0500' stop='20250315081000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250301081000 -0500' stop='20250301084000 -0500'>
+<programme channel='12003' start='20250315081000 -0500' stop='20250315084000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250301084000 -0500' stop='20250301100000 -0500'>
+<programme channel='12003' start='20250315084000 -0500' stop='20250315100000 -0500'>
 <title>Magazine</title>
 <desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Magazine.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250301100000 -0500' stop='20250301113000 -0500'>
+<programme channel='12003' start='20250315100000 -0500' stop='20250315113000 -0500'>
 <title>Peliculas Infantiles.</title>
 <desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/PeliculasInfantiles-Ecotel.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250301113000 -0500' stop='20250301122000 -0500'>
+<programme channel='12003' start='20250315113000 -0500' stop='20250315122000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <icon src='https://static.dw.com/image/37199915_605.webp'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250301122000 -0500' stop='20250301123000 -0500'>
+<programme channel='12003' start='20250315122000 -0500' stop='20250315123000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250301123000 -0500' stop='20250301133000 -0500'>
+<programme channel='12003' start='20250315123000 -0500' stop='20250315133000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250301133000 -0500' stop='20250301140000 -0500'>
+<programme channel='12003' start='20250315133000 -0500' stop='20250315140000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250301140000 -0500' stop='20250301150000 -0500'>
+<programme channel='12003' start='20250315140000 -0500' stop='20250315150000 -0500'>
 <title>Ríos del mundo</title>
 <desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
 <icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/KOioJxdE6dvD9BZulDtpRnQiB1.jpg'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250301150000 -0500' stop='20250301160000 -0500'>
+<programme channel='12003' start='20250315150000 -0500' stop='20250315160000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250301160000 -0500' stop='20250301180000 -0500'>
+<programme channel='12003' start='20250315160000 -0500' stop='20250315180000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250301180000 -0500' stop='20250301184500 -0500'>
+<programme channel='12003' start='20250315180000 -0500' stop='20250315184500 -0500'>
 <title>Dueños de la calle</title>
 <desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
 <icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaICduHPSZ7OWcN8ADH3ZXBXr38.jpg'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250301184500 -0500' stop='20250301190000 -0500'>
+<programme channel='12003' start='20250315184500 -0500' stop='20250315190000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250301190000 -0500' stop='20250301201000 -0500'>
+<programme channel='12003' start='20250315190000 -0500' stop='20250315201000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250301201000 -0500' stop='20250301203500 -0500'>
+<programme channel='12003' start='20250315201000 -0500' stop='20250315203500 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250301203500 -0500' stop='20250301220000 -0500'>
+<programme channel='12003' start='20250315203500 -0500' stop='20250315220000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250301220000 -0500' stop='20250301231000 -0500'>
+<programme channel='12003' start='20250315220000 -0500' stop='20250315231000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250301231000 -0500' stop='20250302010000 -0500'>
+<programme channel='12003' start='20250315231000 -0500' stop='20250316010000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250302010000 -0500' stop='20250302020000 -0500'>
+<programme channel='12003' start='20250316010000 -0500' stop='20250316020000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250302020000 -0500' stop='20250302040000 -0500'>
+<programme channel='12003' start='20250316020000 -0500' stop='20250316040000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250302040000 -0500' stop='20250302050000 -0500'>
+<programme channel='12003' start='20250316040000 -0500' stop='20250316050000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250302050000 -0500' stop='20250302051500 -0500'>
+<programme channel='12003' start='20250316050000 -0500' stop='20250316051500 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250302051500 -0500' stop='20250302061500 -0500'>
+<programme channel='12003' start='20250316051500 -0500' stop='20250316061500 -0500'>
 <title>Santa Misa</title>
 <desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png'/>
 <category>Religion</category>
 </programme>
-<programme channel='12003' start='20250302061500 -0500' stop='20250302063000 -0500'>
+<programme channel='12003' start='20250316061500 -0500' stop='20250316063000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250302063000 -0500' stop='20250302081000 -0500'>
+<programme channel='12003' start='20250316063000 -0500' stop='20250316081000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250302081000 -0500' stop='20250302084000 -0500'>
+<programme channel='12003' start='20250316081000 -0500' stop='20250316084000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250302084000 -0500' stop='20250302100000 -0500'>
+<programme channel='12003' start='20250316084000 -0500' stop='20250316100000 -0500'>
 <title>Magazine</title>
 <desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Magazine.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250302100000 -0500' stop='20250302113000 -0500'>
+<programme channel='12003' start='20250316100000 -0500' stop='20250316113000 -0500'>
 <title>Peliculas Infantiles.</title>
 <desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/PeliculasInfantiles-Ecotel.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250302113000 -0500' stop='20250302122000 -0500'>
+<programme channel='12003' start='20250316113000 -0500' stop='20250316122000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <icon src='https://static.dw.com/image/37199915_605.webp'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250302122000 -0500' stop='20250302123000 -0500'>
+<programme channel='12003' start='20250316122000 -0500' stop='20250316123000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250302123000 -0500' stop='20250302133000 -0500'>
+<programme channel='12003' start='20250316123000 -0500' stop='20250316133000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250302133000 -0500' stop='20250302140000 -0500'>
+<programme channel='12003' start='20250316133000 -0500' stop='20250316140000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250302140000 -0500' stop='20250302150000 -0500'>
+<programme channel='12003' start='20250316140000 -0500' stop='20250316150000 -0500'>
 <title>Ríos del mundo</title>
 <desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
 <icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/KOioJxdE6dvD9BZulDtpRnQiB1.jpg'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250302150000 -0500' stop='20250302160000 -0500'>
+<programme channel='12003' start='20250316150000 -0500' stop='20250316160000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250302160000 -0500' stop='20250302180000 -0500'>
+<programme channel='12003' start='20250316160000 -0500' stop='20250316180000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250302180000 -0500' stop='20250302184500 -0500'>
+<programme channel='12003' start='20250316180000 -0500' stop='20250316184500 -0500'>
 <title>Dueños de la calle</title>
 <desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
 <icon src='https://image.tmdb.org/t/p/w600_and_h900_bestv2/jaICduHPSZ7OWcN8ADH3ZXBXr38.jpg'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250302184500 -0500' stop='20250302190000 -0500'>
+<programme channel='12003' start='20250316184500 -0500' stop='20250316190000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250302190000 -0500' stop='20250302201000 -0500'>
+<programme channel='12003' start='20250316190000 -0500' stop='20250316201000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250302201000 -0500' stop='20250302203500 -0500'>
+<programme channel='12003' start='20250316201000 -0500' stop='20250316203500 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250302203500 -0500' stop='20250302220000 -0500'>
+<programme channel='12003' start='20250316203500 -0500' stop='20250316220000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250302220000 -0500' stop='20250302231000 -0500'>
+<programme channel='12003' start='20250316220000 -0500' stop='20250316231000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250302231000 -0500' stop='20250303010000 -0500'>
+<programme channel='12003' start='20250316231000 -0500' stop='20250317010000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250303010000 -0500' stop='20250303020000 -0500'>
+<programme channel='12003' start='20250317010000 -0500' stop='20250317020000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250303020000 -0500' stop='20250303040000 -0500'>
+<programme channel='12003' start='20250317020000 -0500' stop='20250317040000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Peliculas.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250303040000 -0500' stop='20250303050000 -0500'>
+<programme channel='12003' start='20250317040000 -0500' stop='20250317050000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <icon src='https://educacion.gob.ec/wp-content/uploads/2012/10/Educa_sinfoto.jpg'/>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250303050000 -0500' stop='20250303051500 -0500'>
+<programme channel='12003' start='20250317050000 -0500' stop='20250317051500 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250303051500 -0500' stop='20250303061500 -0500'>
+<programme channel='12003' start='20250317051500 -0500' stop='20250317061500 -0500'>
 <title>Santa Misa</title>
 <desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/main/SantaMisa.png'/>
 <category>Religion</category>
 </programme>
-<programme channel='12003' start='20250303061500 -0500' stop='20250303063000 -0500'>
+<programme channel='12003' start='20250317061500 -0500' stop='20250317063000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250303063000 -0500' stop='20250303081000 -0500'>
+<programme channel='12003' start='20250317063000 -0500' stop='20250317081000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Noticiero-Mundovision.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250303081000 -0500' stop='20250303084000 -0500'>
+<programme channel='12003' start='20250317081000 -0500' stop='20250317084000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Eco-Deportivo.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250303084000 -0500' stop='20250303100000 -0500'>
+<programme channel='12003' start='20250317084000 -0500' stop='20250317100000 -0500'>
 <title>Magazine</title>
 <desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Magazine.png'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250303100000 -0500' stop='20250303113000 -0500'>
+<programme channel='12003' start='20250317100000 -0500' stop='20250317113000 -0500'>
 <title>Peliculas Infantiles.</title>
 <desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/PeliculasInfantiles-Ecotel.png'/>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250303113000 -0500' stop='20250303122000 -0500'>
+<programme channel='12003' start='20250317113000 -0500' stop='20250317122000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <icon src='https://static.dw.com/image/37199915_605.webp'/>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250303122000 -0500' stop='20250303123000 -0500'>
+<programme channel='12003' start='20250317122000 -0500' stop='20250317123000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <icon src='https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/Ecotel-Musica.png'/>

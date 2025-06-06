@@ -171,14 +171,14 @@
 <category>Deportivo</category>
 </programme>
 <programme channel='12008' start='20250606160000 -0500' stop='20250606180000 -0500'>
-<title>PREVIA D'PUÑETES</title>
-<desc>Disfruta la previa de la transmisión del mejor evento de Box del Azuay en el Coliseo Municipal de Sigsig.</desc>
+<title>D'PUÑETES</title>
+<desc>Canal de transmisión del mejor evento de Box del Azuay en el Coliseo Municipal de Sigsig.</desc>
 <icon src='0'/>
 <category>Deportivo</category>
 </programme>
 <programme channel='12008' start='20250606180000 -0500' stop='20250607000000 -0500'>
-<title>D'PUÑETES EN SIGSIG</title>
-<desc>Disfruta de la transmisión del mejor evento de Box del Azuay en el Coliseo Municipal de Sigsig.</desc>
+<title>D'PUÑETES</title>
+<desc>Canal de transmisión del mejor evento de Box del Azuay en el Coliseo Municipal de Sigsig.</desc>
 <icon src='0'/>
 <category>Deportivo</category>
 </programme>
@@ -206,15 +206,15 @@
 <icon src='0'/>
 <category>Deportivo</category>
 </programme>
-<programme channel='12008' start='20250607160000 -0500' stop='20250607200000 -0500'>
-<title>D'PUÑETES</title>
-<desc>Canal de transmisión del mejor evento de Box del Azuay en el Coliseo Municipal de Sigsig.</desc>
+<programme channel='12008' start='20250607160000 -0500' stop='20250607180000 -0500'>
+<title>PREVIA D'PUÑETES</title>
+<desc>Disfruta la previa de la transmisión del mejor evento de Box del Azuay en el Coliseo Municipal de Sigsig.</desc>
 <icon src='0'/>
 <category>Deportivo</category>
 </programme>
-<programme channel='12008' start='20250607200000 -0500' stop='20250608000000 -0500'>
-<title>D'PUÑETES</title>
-<desc>Canal de transmisión del mejor evento de Box del Azuay en el Coliseo Municipal de Sigsig.</desc>
+<programme channel='12008' start='20250607180000 -0500' stop='20250608000000 -0500'>
+<title>D'PUÑETES EN SIGSIG</title>
+<desc>Disfruta de la transmisión del mejor evento de Box del Azuay en el Coliseo Municipal de Sigsig.</desc>
 <icon src='0'/>
 <category>Deportivo</category>
 </programme>

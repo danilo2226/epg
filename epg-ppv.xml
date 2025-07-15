@@ -369,8 +369,8 @@
 </programme>
 <programme channel='12008' start='20250711190000 -0500' stop='20250711200000 -0500'>
 <title>EVENTO DE INAUGURACIÓN</title>
-<desc>¡El Mundialito de los Pobres, edición de Oro! está por comenzar y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
-<category>Deportivo</category>
+<desc>#N/D</desc>
+<category>#N/D</category>
 </programme>
 <programme channel='12008' start='20250711200000 -0500' stop='20250711211500 -0500'>
 <title>CRISTO SALVADOR vs. CRISTO DEL CONSUELO</title>
@@ -512,9 +512,19 @@
 <desc>Canal de la programación referente al mundialito de los pobres Cueca 2025.</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12008' start='20250715160000 -0500' stop='20250715193000 -0500'>
+<programme channel='12008' start='20250715160000 -0500' stop='20250715190000 -0500'>
 <title>GOMAX SPORTS</title>
 <desc>Canal de la programación referente al mundialito de los pobres Cueca 2025.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12008' start='20250715190000 -0500' stop='20250715192500 -0500'>
+<title>PRE-MUNDIALITO</title>
+<desc>¡El Mundialito de los Pobres, edición de Oro! está por comenzar y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12008' start='20250715192500 -0500' stop='20250715193000 -0500'>
+<title>PREVIA</title>
+<desc>¡El Mundialito de los Pobres, edición de Oro! está por comenzar y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
 <category>Deportivo</category>
 </programme>
 <programme channel='12008' start='20250715193000 -0500' stop='20250715204500 -0500'>
@@ -532,12 +542,17 @@
 <desc>¡El Mundialito de los Pobres, edición de Oro! Vive el emocionante partido entre CDLA. ÁLVAREZ vs. CDLA. J. ROLDÓS.</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12008' start='20250715231500 -0500' stop='20250716001500 -0500'>
+<programme channel='12008' start='20250715231500 -0500' stop='20250715233000 -0500'>
+<title>POST MUNDIALITO</title>
+<desc>¡El Mundialito de los Pobres, edición de Oro! está por comenzar y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12008' start='20250715233000 -0500' stop='20250716003000 -0500'>
 <title>EL SHOW DEL INDOR</title>
 <desc>¡El Mundialito está por llegar y todos estamos en modo indoor activado! ¡EL SHOW DEL INDOOR ESTÁ DE REGRESO, NO TE PIERDAS LA SEGUNDA TEMPORADA!</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12008' start='20250716001500 -0500' stop='20250716040000 -0500'>
+<programme channel='12008' start='20250716003000 -0500' stop='20250716040000 -0500'>
 <title>GOMAX SPORTS</title>
 <desc>Canal de la programación referente al mundialito de los pobres Cueca 2025.</desc>
 <category>Deportivo</category>

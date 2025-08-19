@@ -129,12 +129,12 @@
 </programme>
 <programme channel='12008' start='20250818193000 -0500' stop='20250818204500 -0500'>
 <title>8vos. UCUBAMBA vs. CINCO ESQUINAS</title>
-<desc>¡El Mundialito de los Pobres, edición de Oro! Vive los Octavos de Final entre los equipos de UCUBAMBA vs. CINCO ESQUINAS.</desc>
+<desc>¡El Mundialito de los Pobres, edición de Oro! Vive los Octavos de Final: 8vos. UCUBAMBA vs. CINCO ESQUINAS.</desc>
 <category>Deportivo</category>
 </programme>
 <programme channel='12008' start='20250818204500 -0500' stop='20250818220000 -0500'>
 <title>8vos. MEDIO EJIDO vs. LOS ARUPOS</title>
-<desc>¡El Mundialito de los Pobres, edición de Oro! Vive los Octavos de Final entre los equipos de MEDIO EJIDO vs. LOS ARUPOS.</desc>
+<desc>¡El Mundialito de los Pobres, edición de Oro! Vive los Octavos de Final: 8vos. MEDIO EJIDO vs. LOS ARUPOS.</desc>
 <category>Deportivo</category>
 </programme>
 <programme channel='12008' start='20250818220000 -0500' stop='20250818221500 -0500'>
@@ -172,17 +172,47 @@
 <desc>Canal de la programación referente al mundialito de los pobres Cueca 2025.</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12008' start='20250819160000 -0500' stop='20250819200000 -0500'>
+<programme channel='12008' start='20250819160000 -0500' stop='20250819190000 -0500'>
 <title>GOMAX SPORTS</title>
 <desc>Canal de la programación referente al mundialito de los pobres Cueca 2025.</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12008' start='20250819200000 -0500' stop='20250820000000 -0500'>
+<programme channel='12008' start='20250819190000 -0500' stop='20250819192500 -0500'>
+<title>PRE-MUNDIALITO</title>
+<desc>¡El Mundialito de los Pobres, edición de Oro! está por comenzar y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12008' start='20250819192500 -0500' stop='20250819193000 -0500'>
+<title>PREVIA-MUNDIALITO</title>
+<desc>¡El Mundialito de los Pobres, edición de Oro! está por comenzar y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12008' start='20250819193000 -0500' stop='20250819204500 -0500'>
+<title>8vos. DON BOSCO vs. BARRIO SAN ROQUE</title>
+<desc>¡El Mundialito de los Pobres, edición de Oro! Vive los Octavos de Final: 8vos. DON BOSCO vs. BARRIO SAN ROQUE.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12008' start='20250819204500 -0500' stop='20250819220000 -0500'>
+<title>8vos. CDLA. UNE vs. EL VECINO</title>
+<desc>¡El Mundialito de los Pobres, edición de Oro! Vive los Octavos de Final: 8vos. CDLA. UNE vs. EL VECINO.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12008' start='20250819220000 -0500' stop='20250819221500 -0500'>
+<title>POST MUNDIALITO</title>
+<desc>¡El Mundialito de los Pobres, edición de Oro! está por comenzar y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12008' start='20250819221500 -0500' stop='20250819233000 -0500'>
+<title>EL SHOW DEL INDOR</title>
+<desc>¡El Mundialito está por llegar y todos estamos en modo indoor activado! ¡EL SHOW DEL INDOOR ESTÁ DE REGRESO, NO TE PIERDAS LA SEGUNDA TEMPORADA!</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12008' start='20250819233000 -0500' stop='20250820003000 -0500'>
 <title>GOMAX SPORTS</title>
 <desc>Canal de la programación referente al mundialito de los pobres Cueca 2025.</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12008' start='20250820000000 -0500' stop='20250820040000 -0500'>
+<programme channel='12008' start='20250820003000 -0500' stop='20250820040000 -0500'>
 <title>GOMAX SPORTS</title>
 <desc>Canal de la programación referente al mundialito de los pobres Cueca 2025.</desc>
 <category>Deportivo</category>

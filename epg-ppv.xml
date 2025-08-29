@@ -712,12 +712,12 @@
 <desc>Canal de la programación referente al mundialito de los pobres Cueca 2025.</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12008' start='20250829160000 -0500' stop='20250829170000 -0500'>
+<programme channel='12008' start='20250829160000 -0500' stop='20250829180000 -0500'>
 <title>GOMAX SPORTS</title>
 <desc>Canal de la programación referente al mundialito de los pobres Cueca 2025.</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12008' start='20250829170000 -0500' stop='20250829190000 -0500'>
+<programme channel='12008' start='20250829180000 -0500' stop='20250829190000 -0500'>
 <title>PRE-MUNDIALITO</title>
 <desc>¡El Mundialito de los Pobres, edición de Oro! está por comenzar y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
 <category>Deportivo</category>
@@ -737,22 +737,17 @@
 <desc>¡El Mundialito de los Pobres, edición de Oro! Vive la mas emocionante Final del Mundialito de los Pobres 2025 donde se definirá el Campeón y Vicecampeón entre los equipos de: DON BOSCO vs. SIMÓN BOLÍVAR.</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12008' start='20250829220000 -0500' stop='20250829231500 -0500'>
+<programme channel='12008' start='20250829220000 -0500' stop='20250829230000 -0500'>
 <title>CEREMONIA DE PREMIACIÓN - MUNDIALITO DE LOS POBRES 2025 EDICIÓN DE ORO</title>
 <desc>¡El Mundialito de los Pobres, edición de Oro! Vive la Premiación de los ganadores del Mundialito de los Pobres 2025.</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12008' start='20250829231500 -0500' stop='20250829233000 -0500'>
+<programme channel='12008' start='20250829230000 -0500' stop='20250830003000 -0500'>
 <title>EL SHOW DEL INDOR</title>
 <desc>¡El Mundialito está por llegar y todos estamos en modo indoor activado! ¡EL SHOW DEL INDOOR ESTÁ DE REGRESO, NO TE PIERDAS LA SEGUNDA TEMPORADA!</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12008' start='20250829233000 -0500' stop='20250830001500 -0500'>
-<title>GOMAX SPORTS</title>
-<desc>Canal de la programación referente al mundialito de los pobres Cueca 2025.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20250830001500 -0500' stop='20250830040000 -0500'>
+<programme channel='12008' start='20250830003000 -0500' stop='20250830040000 -0500'>
 <title>GOMAX SPORTS</title>
 <desc>Canal de la programación referente al mundialito de los pobres Cueca 2025.</desc>
 <category>Deportivo</category>
@@ -772,7 +767,12 @@
 <desc>Canal de la programación referente al mundialito de los pobres Cueca 2025.</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12008' start='20250830160000 -0500' stop='20250830190000 -0500'>
+<programme channel='12008' start='20250830160000 -0500' stop='20250830200000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>Canal de la programación referente al mundialito de los pobres Cueca 2025.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12008' start='20250830200000 -0500' stop='20250831000000 -0500'>
 <title>GOMAX SPORTS</title>
 <desc>Canal de la programación referente al mundialito de los pobres Cueca 2025.</desc>
 <category>Deportivo</category>

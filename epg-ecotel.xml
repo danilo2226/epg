@@ -2,1822 +2,1682 @@
 <channel id="12003">
 <display-name>ECOTEL TV</display-name>
 </channel>
-<programme channel='12003' start='20250817084000 -0500' stop='20250817100000 -0500'>
-<title>Magazine</title>
-<desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12003' start='20250817100000 -0500' stop='20250817113000 -0500'>
-<title>Peliculas Infantiles.</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12003' start='20250817113000 -0500' stop='20250817122000 -0500'>
-<title>Documentales DW</title>
-<desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12003' start='20250817122000 -0500' stop='20250817123000 -0500'>
-<title>Musica.</title>
-<desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12003' start='20250817123000 -0500' stop='20250817133000 -0500'>
+<programme channel='12003' start='20250901123000 -0500' stop='20250901133000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250817133000 -0500' stop='20250817140000 -0500'>
+<programme channel='12003' start='20250901133000 -0500' stop='20250901140000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250817140000 -0500' stop='20250817150000 -0500'>
+<programme channel='12003' start='20250901140000 -0500' stop='20250901150000 -0500'>
 <title>Ríos del mundo</title>
 <desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250817150000 -0500' stop='20250817160000 -0500'>
+<programme channel='12003' start='20250901150000 -0500' stop='20250901160000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250817160000 -0500' stop='20250817180000 -0500'>
+<programme channel='12003' start='20250901160000 -0500' stop='20250901180000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250817180000 -0500' stop='20250817184500 -0500'>
+<programme channel='12003' start='20250901180000 -0500' stop='20250901184500 -0500'>
 <title>Dueños de la calle</title>
 <desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250817184500 -0500' stop='20250817190000 -0500'>
+<programme channel='12003' start='20250901184500 -0500' stop='20250901190000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250817190000 -0500' stop='20250817201000 -0500'>
+<programme channel='12003' start='20250901190000 -0500' stop='20250901201000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250817201000 -0500' stop='20250817203500 -0500'>
+<programme channel='12003' start='20250901201000 -0500' stop='20250901203500 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250817203500 -0500' stop='20250817220000 -0500'>
+<programme channel='12003' start='20250901203500 -0500' stop='20250901220000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250817220000 -0500' stop='20250817231000 -0500'>
+<programme channel='12003' start='20250901220000 -0500' stop='20250901231000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250817231000 -0500' stop='20250818010000 -0500'>
+<programme channel='12003' start='20250901231000 -0500' stop='20250902010000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250818010000 -0500' stop='20250818020000 -0500'>
+<programme channel='12003' start='20250902010000 -0500' stop='20250902020000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250818020000 -0500' stop='20250818040000 -0500'>
+<programme channel='12003' start='20250902020000 -0500' stop='20250902040000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250818040000 -0500' stop='20250818050000 -0500'>
+<programme channel='12003' start='20250902040000 -0500' stop='20250902050000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250818050000 -0500' stop='20250818051500 -0500'>
+<programme channel='12003' start='20250902050000 -0500' stop='20250902051500 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250818051500 -0500' stop='20250818061500 -0500'>
+<programme channel='12003' start='20250902051500 -0500' stop='20250902061500 -0500'>
 <title>Santa Misa</title>
 <desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
 <category>Religion</category>
 </programme>
-<programme channel='12003' start='20250818061500 -0500' stop='20250818063000 -0500'>
+<programme channel='12003' start='20250902061500 -0500' stop='20250902063000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250818063000 -0500' stop='20250818081000 -0500'>
+<programme channel='12003' start='20250902063000 -0500' stop='20250902081000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250818081000 -0500' stop='20250818084000 -0500'>
+<programme channel='12003' start='20250902081000 -0500' stop='20250902084000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250818084000 -0500' stop='20250818100000 -0500'>
+<programme channel='12003' start='20250902084000 -0500' stop='20250902100000 -0500'>
 <title>Magazine</title>
 <desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250818100000 -0500' stop='20250818113000 -0500'>
+<programme channel='12003' start='20250902100000 -0500' stop='20250902113000 -0500'>
 <title>Peliculas Infantiles.</title>
 <desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250818113000 -0500' stop='20250818122000 -0500'>
+<programme channel='12003' start='20250902113000 -0500' stop='20250902122000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250818122000 -0500' stop='20250818123000 -0500'>
+<programme channel='12003' start='20250902122000 -0500' stop='20250902123000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250818123000 -0500' stop='20250818133000 -0500'>
+<programme channel='12003' start='20250902123000 -0500' stop='20250902133000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250818133000 -0500' stop='20250818140000 -0500'>
+<programme channel='12003' start='20250902133000 -0500' stop='20250902140000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250818140000 -0500' stop='20250818150000 -0500'>
+<programme channel='12003' start='20250902140000 -0500' stop='20250902150000 -0500'>
 <title>Ríos del mundo</title>
 <desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250818150000 -0500' stop='20250818160000 -0500'>
+<programme channel='12003' start='20250902150000 -0500' stop='20250902160000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250818160000 -0500' stop='20250818180000 -0500'>
+<programme channel='12003' start='20250902160000 -0500' stop='20250902180000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250818180000 -0500' stop='20250818184500 -0500'>
+<programme channel='12003' start='20250902180000 -0500' stop='20250902184500 -0500'>
 <title>Dueños de la calle</title>
 <desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250818184500 -0500' stop='20250818190000 -0500'>
+<programme channel='12003' start='20250902184500 -0500' stop='20250902190000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250818190000 -0500' stop='20250818201000 -0500'>
+<programme channel='12003' start='20250902190000 -0500' stop='20250902201000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250818201000 -0500' stop='20250818203500 -0500'>
+<programme channel='12003' start='20250902201000 -0500' stop='20250902203500 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250818203500 -0500' stop='20250818220000 -0500'>
+<programme channel='12003' start='20250902203500 -0500' stop='20250902220000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250818220000 -0500' stop='20250818231000 -0500'>
+<programme channel='12003' start='20250902220000 -0500' stop='20250902231000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250818231000 -0500' stop='20250819010000 -0500'>
+<programme channel='12003' start='20250902231000 -0500' stop='20250903010000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250819010000 -0500' stop='20250819020000 -0500'>
+<programme channel='12003' start='20250903010000 -0500' stop='20250903020000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250819020000 -0500' stop='20250819040000 -0500'>
+<programme channel='12003' start='20250903020000 -0500' stop='20250903040000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250819040000 -0500' stop='20250819050000 -0500'>
+<programme channel='12003' start='20250903040000 -0500' stop='20250903050000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250819050000 -0500' stop='20250819051500 -0500'>
+<programme channel='12003' start='20250903050000 -0500' stop='20250903051500 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250819051500 -0500' stop='20250819061500 -0500'>
+<programme channel='12003' start='20250903051500 -0500' stop='20250903061500 -0500'>
 <title>Santa Misa</title>
 <desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
 <category>Religion</category>
 </programme>
-<programme channel='12003' start='20250819061500 -0500' stop='20250819063000 -0500'>
+<programme channel='12003' start='20250903061500 -0500' stop='20250903063000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250819063000 -0500' stop='20250819081000 -0500'>
+<programme channel='12003' start='20250903063000 -0500' stop='20250903081000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250819081000 -0500' stop='20250819084000 -0500'>
+<programme channel='12003' start='20250903081000 -0500' stop='20250903084000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250819084000 -0500' stop='20250819100000 -0500'>
+<programme channel='12003' start='20250903084000 -0500' stop='20250903100000 -0500'>
 <title>Magazine</title>
 <desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250819100000 -0500' stop='20250819113000 -0500'>
+<programme channel='12003' start='20250903100000 -0500' stop='20250903113000 -0500'>
 <title>Peliculas Infantiles.</title>
 <desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250819113000 -0500' stop='20250819122000 -0500'>
+<programme channel='12003' start='20250903113000 -0500' stop='20250903122000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250819122000 -0500' stop='20250819123000 -0500'>
+<programme channel='12003' start='20250903122000 -0500' stop='20250903123000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250819123000 -0500' stop='20250819133000 -0500'>
+<programme channel='12003' start='20250903123000 -0500' stop='20250903133000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250819133000 -0500' stop='20250819140000 -0500'>
+<programme channel='12003' start='20250903133000 -0500' stop='20250903140000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250819140000 -0500' stop='20250819150000 -0500'>
+<programme channel='12003' start='20250903140000 -0500' stop='20250903150000 -0500'>
 <title>Ríos del mundo</title>
 <desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250819150000 -0500' stop='20250819160000 -0500'>
+<programme channel='12003' start='20250903150000 -0500' stop='20250903160000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250819160000 -0500' stop='20250819180000 -0500'>
+<programme channel='12003' start='20250903160000 -0500' stop='20250903180000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250819180000 -0500' stop='20250819184500 -0500'>
+<programme channel='12003' start='20250903180000 -0500' stop='20250903184500 -0500'>
 <title>Dueños de la calle</title>
 <desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250819184500 -0500' stop='20250819190000 -0500'>
+<programme channel='12003' start='20250903184500 -0500' stop='20250903190000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250819190000 -0500' stop='20250819201000 -0500'>
+<programme channel='12003' start='20250903190000 -0500' stop='20250903201000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250819201000 -0500' stop='20250819203500 -0500'>
+<programme channel='12003' start='20250903201000 -0500' stop='20250903203500 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250819203500 -0500' stop='20250819220000 -0500'>
+<programme channel='12003' start='20250903203500 -0500' stop='20250903220000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250819220000 -0500' stop='20250819231000 -0500'>
+<programme channel='12003' start='20250903220000 -0500' stop='20250903231000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250819231000 -0500' stop='20250820010000 -0500'>
+<programme channel='12003' start='20250903231000 -0500' stop='20250904010000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250820010000 -0500' stop='20250820020000 -0500'>
+<programme channel='12003' start='20250904010000 -0500' stop='20250904020000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250820020000 -0500' stop='20250820040000 -0500'>
+<programme channel='12003' start='20250904020000 -0500' stop='20250904040000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250820040000 -0500' stop='20250820050000 -0500'>
+<programme channel='12003' start='20250904040000 -0500' stop='20250904050000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250820050000 -0500' stop='20250820051500 -0500'>
+<programme channel='12003' start='20250904050000 -0500' stop='20250904051500 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250820051500 -0500' stop='20250820061500 -0500'>
+<programme channel='12003' start='20250904051500 -0500' stop='20250904061500 -0500'>
 <title>Santa Misa</title>
 <desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
 <category>Religion</category>
 </programme>
-<programme channel='12003' start='20250820061500 -0500' stop='20250820063000 -0500'>
+<programme channel='12003' start='20250904061500 -0500' stop='20250904063000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250820063000 -0500' stop='20250820081000 -0500'>
+<programme channel='12003' start='20250904063000 -0500' stop='20250904081000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250820081000 -0500' stop='20250820084000 -0500'>
+<programme channel='12003' start='20250904081000 -0500' stop='20250904084000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250820084000 -0500' stop='20250820100000 -0500'>
+<programme channel='12003' start='20250904084000 -0500' stop='20250904100000 -0500'>
 <title>Magazine</title>
 <desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250820100000 -0500' stop='20250820113000 -0500'>
+<programme channel='12003' start='20250904100000 -0500' stop='20250904113000 -0500'>
 <title>Peliculas Infantiles.</title>
 <desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250820113000 -0500' stop='20250820122000 -0500'>
+<programme channel='12003' start='20250904113000 -0500' stop='20250904122000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250820122000 -0500' stop='20250820123000 -0500'>
+<programme channel='12003' start='20250904122000 -0500' stop='20250904123000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250820123000 -0500' stop='20250820133000 -0500'>
+<programme channel='12003' start='20250904123000 -0500' stop='20250904133000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250820133000 -0500' stop='20250820140000 -0500'>
+<programme channel='12003' start='20250904133000 -0500' stop='20250904140000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250820140000 -0500' stop='20250820150000 -0500'>
+<programme channel='12003' start='20250904140000 -0500' stop='20250904150000 -0500'>
 <title>Ríos del mundo</title>
 <desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250820150000 -0500' stop='20250820160000 -0500'>
+<programme channel='12003' start='20250904150000 -0500' stop='20250904160000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250820160000 -0500' stop='20250820180000 -0500'>
+<programme channel='12003' start='20250904160000 -0500' stop='20250904180000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250820180000 -0500' stop='20250820184500 -0500'>
+<programme channel='12003' start='20250904180000 -0500' stop='20250904184500 -0500'>
 <title>Dueños de la calle</title>
 <desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250820184500 -0500' stop='20250820190000 -0500'>
+<programme channel='12003' start='20250904184500 -0500' stop='20250904190000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250820190000 -0500' stop='20250820201000 -0500'>
+<programme channel='12003' start='20250904190000 -0500' stop='20250904201000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250820201000 -0500' stop='20250820203500 -0500'>
+<programme channel='12003' start='20250904201000 -0500' stop='20250904203500 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250820203500 -0500' stop='20250820220000 -0500'>
+<programme channel='12003' start='20250904203500 -0500' stop='20250904220000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250820220000 -0500' stop='20250820231000 -0500'>
+<programme channel='12003' start='20250904220000 -0500' stop='20250904231000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250820231000 -0500' stop='20250821010000 -0500'>
+<programme channel='12003' start='20250904231000 -0500' stop='20250905010000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250821010000 -0500' stop='20250821020000 -0500'>
+<programme channel='12003' start='20250905010000 -0500' stop='20250905020000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250821020000 -0500' stop='20250821040000 -0500'>
+<programme channel='12003' start='20250905020000 -0500' stop='20250905040000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250821040000 -0500' stop='20250821050000 -0500'>
+<programme channel='12003' start='20250905040000 -0500' stop='20250905050000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250821050000 -0500' stop='20250821051500 -0500'>
+<programme channel='12003' start='20250905050000 -0500' stop='20250905051500 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250821051500 -0500' stop='20250821061500 -0500'>
+<programme channel='12003' start='20250905051500 -0500' stop='20250905061500 -0500'>
 <title>Santa Misa</title>
 <desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
 <category>Religion</category>
 </programme>
-<programme channel='12003' start='20250821061500 -0500' stop='20250821063000 -0500'>
+<programme channel='12003' start='20250905061500 -0500' stop='20250905063000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250821063000 -0500' stop='20250821081000 -0500'>
+<programme channel='12003' start='20250905063000 -0500' stop='20250905081000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250821081000 -0500' stop='20250821084000 -0500'>
+<programme channel='12003' start='20250905081000 -0500' stop='20250905084000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250821084000 -0500' stop='20250821100000 -0500'>
+<programme channel='12003' start='20250905084000 -0500' stop='20250905100000 -0500'>
 <title>Magazine</title>
 <desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250821100000 -0500' stop='20250821113000 -0500'>
+<programme channel='12003' start='20250905100000 -0500' stop='20250905113000 -0500'>
 <title>Peliculas Infantiles.</title>
 <desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250821113000 -0500' stop='20250821122000 -0500'>
+<programme channel='12003' start='20250905113000 -0500' stop='20250905122000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250821122000 -0500' stop='20250821123000 -0500'>
+<programme channel='12003' start='20250905122000 -0500' stop='20250905123000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250821123000 -0500' stop='20250821133000 -0500'>
+<programme channel='12003' start='20250905123000 -0500' stop='20250905133000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250821133000 -0500' stop='20250821140000 -0500'>
+<programme channel='12003' start='20250905133000 -0500' stop='20250905140000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250821140000 -0500' stop='20250821150000 -0500'>
+<programme channel='12003' start='20250905140000 -0500' stop='20250905150000 -0500'>
 <title>Ríos del mundo</title>
 <desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250821150000 -0500' stop='20250821160000 -0500'>
+<programme channel='12003' start='20250905150000 -0500' stop='20250905160000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250821160000 -0500' stop='20250821180000 -0500'>
+<programme channel='12003' start='20250905160000 -0500' stop='20250905180000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250821180000 -0500' stop='20250821184500 -0500'>
+<programme channel='12003' start='20250905180000 -0500' stop='20250905184500 -0500'>
 <title>Dueños de la calle</title>
 <desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250821184500 -0500' stop='20250821190000 -0500'>
+<programme channel='12003' start='20250905184500 -0500' stop='20250905190000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250821190000 -0500' stop='20250821201000 -0500'>
+<programme channel='12003' start='20250905190000 -0500' stop='20250905201000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250821201000 -0500' stop='20250821203500 -0500'>
+<programme channel='12003' start='20250905201000 -0500' stop='20250905203500 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250821203500 -0500' stop='20250821220000 -0500'>
+<programme channel='12003' start='20250905203500 -0500' stop='20250905220000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250821220000 -0500' stop='20250821231000 -0500'>
+<programme channel='12003' start='20250905220000 -0500' stop='20250905231000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250821231000 -0500' stop='20250822010000 -0500'>
+<programme channel='12003' start='20250905231000 -0500' stop='20250906010000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250822010000 -0500' stop='20250822020000 -0500'>
+<programme channel='12003' start='20250906010000 -0500' stop='20250906020000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250822020000 -0500' stop='20250822040000 -0500'>
+<programme channel='12003' start='20250906020000 -0500' stop='20250906040000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250822040000 -0500' stop='20250822050000 -0500'>
+<programme channel='12003' start='20250906040000 -0500' stop='20250906050000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250822050000 -0500' stop='20250822051500 -0500'>
+<programme channel='12003' start='20250906050000 -0500' stop='20250906051500 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250822051500 -0500' stop='20250822061500 -0500'>
+<programme channel='12003' start='20250906051500 -0500' stop='20250906061500 -0500'>
 <title>Santa Misa</title>
 <desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
 <category>Religion</category>
 </programme>
-<programme channel='12003' start='20250822061500 -0500' stop='20250822063000 -0500'>
+<programme channel='12003' start='20250906061500 -0500' stop='20250906063000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250822063000 -0500' stop='20250822081000 -0500'>
+<programme channel='12003' start='20250906063000 -0500' stop='20250906081000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250822081000 -0500' stop='20250822084000 -0500'>
+<programme channel='12003' start='20250906081000 -0500' stop='20250906084000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250822084000 -0500' stop='20250822100000 -0500'>
+<programme channel='12003' start='20250906084000 -0500' stop='20250906100000 -0500'>
 <title>Magazine</title>
 <desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250822100000 -0500' stop='20250822113000 -0500'>
+<programme channel='12003' start='20250906100000 -0500' stop='20250906113000 -0500'>
 <title>Peliculas Infantiles.</title>
 <desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250822113000 -0500' stop='20250822122000 -0500'>
+<programme channel='12003' start='20250906113000 -0500' stop='20250906122000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250822122000 -0500' stop='20250822123000 -0500'>
+<programme channel='12003' start='20250906122000 -0500' stop='20250906123000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250822123000 -0500' stop='20250822133000 -0500'>
+<programme channel='12003' start='20250906123000 -0500' stop='20250906133000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250822133000 -0500' stop='20250822140000 -0500'>
+<programme channel='12003' start='20250906133000 -0500' stop='20250906140000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250822140000 -0500' stop='20250822150000 -0500'>
+<programme channel='12003' start='20250906140000 -0500' stop='20250906150000 -0500'>
 <title>Ríos del mundo</title>
 <desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250822150000 -0500' stop='20250822160000 -0500'>
+<programme channel='12003' start='20250906150000 -0500' stop='20250906160000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250822160000 -0500' stop='20250822180000 -0500'>
+<programme channel='12003' start='20250906160000 -0500' stop='20250906180000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250822180000 -0500' stop='20250822184500 -0500'>
+<programme channel='12003' start='20250906180000 -0500' stop='20250906184500 -0500'>
 <title>Dueños de la calle</title>
 <desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250822184500 -0500' stop='20250822190000 -0500'>
+<programme channel='12003' start='20250906184500 -0500' stop='20250906190000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250822190000 -0500' stop='20250822201000 -0500'>
+<programme channel='12003' start='20250906190000 -0500' stop='20250906201000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250822201000 -0500' stop='20250822203500 -0500'>
+<programme channel='12003' start='20250906201000 -0500' stop='20250906203500 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250822203500 -0500' stop='20250822220000 -0500'>
+<programme channel='12003' start='20250906203500 -0500' stop='20250906220000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250822220000 -0500' stop='20250822231000 -0500'>
+<programme channel='12003' start='20250906220000 -0500' stop='20250906231000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250822231000 -0500' stop='20250823010000 -0500'>
+<programme channel='12003' start='20250906231000 -0500' stop='20250907010000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250823010000 -0500' stop='20250823020000 -0500'>
+<programme channel='12003' start='20250907010000 -0500' stop='20250907020000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250823020000 -0500' stop='20250823040000 -0500'>
+<programme channel='12003' start='20250907020000 -0500' stop='20250907040000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250823040000 -0500' stop='20250823050000 -0500'>
+<programme channel='12003' start='20250907040000 -0500' stop='20250907050000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250823050000 -0500' stop='20250823051500 -0500'>
+<programme channel='12003' start='20250907050000 -0500' stop='20250907051500 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250823051500 -0500' stop='20250823061500 -0500'>
+<programme channel='12003' start='20250907051500 -0500' stop='20250907061500 -0500'>
 <title>Santa Misa</title>
 <desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
 <category>Religion</category>
 </programme>
-<programme channel='12003' start='20250823061500 -0500' stop='20250823063000 -0500'>
+<programme channel='12003' start='20250907061500 -0500' stop='20250907063000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250823063000 -0500' stop='20250823081000 -0500'>
+<programme channel='12003' start='20250907063000 -0500' stop='20250907081000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250823081000 -0500' stop='20250823084000 -0500'>
+<programme channel='12003' start='20250907081000 -0500' stop='20250907084000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250823084000 -0500' stop='20250823100000 -0500'>
+<programme channel='12003' start='20250907084000 -0500' stop='20250907100000 -0500'>
 <title>Magazine</title>
 <desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250823100000 -0500' stop='20250823113000 -0500'>
+<programme channel='12003' start='20250907100000 -0500' stop='20250907113000 -0500'>
 <title>Peliculas Infantiles.</title>
 <desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250823113000 -0500' stop='20250823122000 -0500'>
+<programme channel='12003' start='20250907113000 -0500' stop='20250907122000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250823122000 -0500' stop='20250823123000 -0500'>
+<programme channel='12003' start='20250907122000 -0500' stop='20250907123000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250823123000 -0500' stop='20250823133000 -0500'>
+<programme channel='12003' start='20250907123000 -0500' stop='20250907133000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250823133000 -0500' stop='20250823140000 -0500'>
+<programme channel='12003' start='20250907133000 -0500' stop='20250907140000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250823140000 -0500' stop='20250823150000 -0500'>
+<programme channel='12003' start='20250907140000 -0500' stop='20250907150000 -0500'>
 <title>Ríos del mundo</title>
 <desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250823150000 -0500' stop='20250823160000 -0500'>
+<programme channel='12003' start='20250907150000 -0500' stop='20250907160000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250823160000 -0500' stop='20250823180000 -0500'>
+<programme channel='12003' start='20250907160000 -0500' stop='20250907180000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250823180000 -0500' stop='20250823184500 -0500'>
+<programme channel='12003' start='20250907180000 -0500' stop='20250907184500 -0500'>
 <title>Dueños de la calle</title>
 <desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250823184500 -0500' stop='20250823190000 -0500'>
+<programme channel='12003' start='20250907184500 -0500' stop='20250907190000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250823190000 -0500' stop='20250823201000 -0500'>
+<programme channel='12003' start='20250907190000 -0500' stop='20250907201000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250823201000 -0500' stop='20250823203500 -0500'>
+<programme channel='12003' start='20250907201000 -0500' stop='20250907203500 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250823203500 -0500' stop='20250823220000 -0500'>
+<programme channel='12003' start='20250907203500 -0500' stop='20250907220000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250823220000 -0500' stop='20250823231000 -0500'>
+<programme channel='12003' start='20250907220000 -0500' stop='20250907231000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250823231000 -0500' stop='20250824010000 -0500'>
+<programme channel='12003' start='20250907231000 -0500' stop='20250908010000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250824010000 -0500' stop='20250824020000 -0500'>
+<programme channel='12003' start='20250908010000 -0500' stop='20250908020000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250824020000 -0500' stop='20250824040000 -0500'>
+<programme channel='12003' start='20250908020000 -0500' stop='20250908040000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250824040000 -0500' stop='20250824050000 -0500'>
+<programme channel='12003' start='20250908040000 -0500' stop='20250908050000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250824050000 -0500' stop='20250824051500 -0500'>
+<programme channel='12003' start='20250908050000 -0500' stop='20250908051500 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250824051500 -0500' stop='20250824061500 -0500'>
+<programme channel='12003' start='20250908051500 -0500' stop='20250908061500 -0500'>
 <title>Santa Misa</title>
 <desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
 <category>Religion</category>
 </programme>
-<programme channel='12003' start='20250824061500 -0500' stop='20250824063000 -0500'>
+<programme channel='12003' start='20250908061500 -0500' stop='20250908063000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250824063000 -0500' stop='20250824081000 -0500'>
+<programme channel='12003' start='20250908063000 -0500' stop='20250908081000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250824081000 -0500' stop='20250824084000 -0500'>
+<programme channel='12003' start='20250908081000 -0500' stop='20250908084000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250824084000 -0500' stop='20250824100000 -0500'>
+<programme channel='12003' start='20250908084000 -0500' stop='20250908100000 -0500'>
 <title>Magazine</title>
 <desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250824100000 -0500' stop='20250824113000 -0500'>
+<programme channel='12003' start='20250908100000 -0500' stop='20250908113000 -0500'>
 <title>Peliculas Infantiles.</title>
 <desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250824113000 -0500' stop='20250824122000 -0500'>
+<programme channel='12003' start='20250908113000 -0500' stop='20250908122000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250824122000 -0500' stop='20250824123000 -0500'>
+<programme channel='12003' start='20250908122000 -0500' stop='20250908123000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250824123000 -0500' stop='20250824133000 -0500'>
+<programme channel='12003' start='20250908123000 -0500' stop='20250908133000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250824133000 -0500' stop='20250824140000 -0500'>
+<programme channel='12003' start='20250908133000 -0500' stop='20250908140000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250824140000 -0500' stop='20250824150000 -0500'>
+<programme channel='12003' start='20250908140000 -0500' stop='20250908150000 -0500'>
 <title>Ríos del mundo</title>
 <desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250824150000 -0500' stop='20250824160000 -0500'>
+<programme channel='12003' start='20250908150000 -0500' stop='20250908160000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250824160000 -0500' stop='20250824180000 -0500'>
+<programme channel='12003' start='20250908160000 -0500' stop='20250908180000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250824180000 -0500' stop='20250824184500 -0500'>
+<programme channel='12003' start='20250908180000 -0500' stop='20250908184500 -0500'>
 <title>Dueños de la calle</title>
 <desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250824184500 -0500' stop='20250824190000 -0500'>
+<programme channel='12003' start='20250908184500 -0500' stop='20250908190000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250824190000 -0500' stop='20250824201000 -0500'>
+<programme channel='12003' start='20250908190000 -0500' stop='20250908201000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250824201000 -0500' stop='20250824203500 -0500'>
+<programme channel='12003' start='20250908201000 -0500' stop='20250908203500 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250824203500 -0500' stop='20250824220000 -0500'>
+<programme channel='12003' start='20250908203500 -0500' stop='20250908220000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250824220000 -0500' stop='20250824231000 -0500'>
+<programme channel='12003' start='20250908220000 -0500' stop='20250908231000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250824231000 -0500' stop='20250825010000 -0500'>
+<programme channel='12003' start='20250908231000 -0500' stop='20250909010000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250825010000 -0500' stop='20250825020000 -0500'>
+<programme channel='12003' start='20250909010000 -0500' stop='20250909020000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250825020000 -0500' stop='20250825040000 -0500'>
+<programme channel='12003' start='20250909020000 -0500' stop='20250909040000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250825040000 -0500' stop='20250825050000 -0500'>
+<programme channel='12003' start='20250909040000 -0500' stop='20250909050000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250825050000 -0500' stop='20250825051500 -0500'>
+<programme channel='12003' start='20250909050000 -0500' stop='20250909051500 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250825051500 -0500' stop='20250825061500 -0500'>
+<programme channel='12003' start='20250909051500 -0500' stop='20250909061500 -0500'>
 <title>Santa Misa</title>
 <desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
 <category>Religion</category>
 </programme>
-<programme channel='12003' start='20250825061500 -0500' stop='20250825063000 -0500'>
+<programme channel='12003' start='20250909061500 -0500' stop='20250909063000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250825063000 -0500' stop='20250825081000 -0500'>
+<programme channel='12003' start='20250909063000 -0500' stop='20250909081000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250825081000 -0500' stop='20250825084000 -0500'>
+<programme channel='12003' start='20250909081000 -0500' stop='20250909084000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250825084000 -0500' stop='20250825100000 -0500'>
+<programme channel='12003' start='20250909084000 -0500' stop='20250909100000 -0500'>
 <title>Magazine</title>
 <desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250825100000 -0500' stop='20250825113000 -0500'>
+<programme channel='12003' start='20250909100000 -0500' stop='20250909113000 -0500'>
 <title>Peliculas Infantiles.</title>
 <desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250825113000 -0500' stop='20250825122000 -0500'>
+<programme channel='12003' start='20250909113000 -0500' stop='20250909122000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250825122000 -0500' stop='20250825123000 -0500'>
+<programme channel='12003' start='20250909122000 -0500' stop='20250909123000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250825123000 -0500' stop='20250825133000 -0500'>
+<programme channel='12003' start='20250909123000 -0500' stop='20250909133000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250825133000 -0500' stop='20250825140000 -0500'>
+<programme channel='12003' start='20250909133000 -0500' stop='20250909140000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250825140000 -0500' stop='20250825150000 -0500'>
+<programme channel='12003' start='20250909140000 -0500' stop='20250909150000 -0500'>
 <title>Ríos del mundo</title>
 <desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250825150000 -0500' stop='20250825160000 -0500'>
+<programme channel='12003' start='20250909150000 -0500' stop='20250909160000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250825160000 -0500' stop='20250825180000 -0500'>
+<programme channel='12003' start='20250909160000 -0500' stop='20250909180000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250825180000 -0500' stop='20250825184500 -0500'>
+<programme channel='12003' start='20250909180000 -0500' stop='20250909184500 -0500'>
 <title>Dueños de la calle</title>
 <desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250825184500 -0500' stop='20250825190000 -0500'>
+<programme channel='12003' start='20250909184500 -0500' stop='20250909190000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250825190000 -0500' stop='20250825201000 -0500'>
+<programme channel='12003' start='20250909190000 -0500' stop='20250909201000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250825201000 -0500' stop='20250825203500 -0500'>
+<programme channel='12003' start='20250909201000 -0500' stop='20250909203500 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250825203500 -0500' stop='20250825220000 -0500'>
+<programme channel='12003' start='20250909203500 -0500' stop='20250909220000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250825220000 -0500' stop='20250825231000 -0500'>
+<programme channel='12003' start='20250909220000 -0500' stop='20250909231000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250825231000 -0500' stop='20250826010000 -0500'>
+<programme channel='12003' start='20250909231000 -0500' stop='20250910010000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250826010000 -0500' stop='20250826020000 -0500'>
+<programme channel='12003' start='20250910010000 -0500' stop='20250910020000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250826020000 -0500' stop='20250826040000 -0500'>
+<programme channel='12003' start='20250910020000 -0500' stop='20250910040000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250826040000 -0500' stop='20250826050000 -0500'>
+<programme channel='12003' start='20250910040000 -0500' stop='20250910050000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250826050000 -0500' stop='20250826051500 -0500'>
+<programme channel='12003' start='20250910050000 -0500' stop='20250910051500 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250826051500 -0500' stop='20250826061500 -0500'>
+<programme channel='12003' start='20250910051500 -0500' stop='20250910061500 -0500'>
 <title>Santa Misa</title>
 <desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
 <category>Religion</category>
 </programme>
-<programme channel='12003' start='20250826061500 -0500' stop='20250826063000 -0500'>
+<programme channel='12003' start='20250910061500 -0500' stop='20250910063000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250826063000 -0500' stop='20250826081000 -0500'>
+<programme channel='12003' start='20250910063000 -0500' stop='20250910081000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250826081000 -0500' stop='20250826084000 -0500'>
+<programme channel='12003' start='20250910081000 -0500' stop='20250910084000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250826084000 -0500' stop='20250826100000 -0500'>
+<programme channel='12003' start='20250910084000 -0500' stop='20250910100000 -0500'>
 <title>Magazine</title>
 <desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250826100000 -0500' stop='20250826113000 -0500'>
+<programme channel='12003' start='20250910100000 -0500' stop='20250910113000 -0500'>
 <title>Peliculas Infantiles.</title>
 <desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250826113000 -0500' stop='20250826122000 -0500'>
+<programme channel='12003' start='20250910113000 -0500' stop='20250910122000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250826122000 -0500' stop='20250826123000 -0500'>
+<programme channel='12003' start='20250910122000 -0500' stop='20250910123000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250826123000 -0500' stop='20250826133000 -0500'>
+<programme channel='12003' start='20250910123000 -0500' stop='20250910133000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250826133000 -0500' stop='20250826140000 -0500'>
+<programme channel='12003' start='20250910133000 -0500' stop='20250910140000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250826140000 -0500' stop='20250826150000 -0500'>
+<programme channel='12003' start='20250910140000 -0500' stop='20250910150000 -0500'>
 <title>Ríos del mundo</title>
 <desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250826150000 -0500' stop='20250826160000 -0500'>
+<programme channel='12003' start='20250910150000 -0500' stop='20250910160000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250826160000 -0500' stop='20250826180000 -0500'>
+<programme channel='12003' start='20250910160000 -0500' stop='20250910180000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250826180000 -0500' stop='20250826184500 -0500'>
+<programme channel='12003' start='20250910180000 -0500' stop='20250910184500 -0500'>
 <title>Dueños de la calle</title>
 <desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250826184500 -0500' stop='20250826190000 -0500'>
+<programme channel='12003' start='20250910184500 -0500' stop='20250910190000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250826190000 -0500' stop='20250826201000 -0500'>
+<programme channel='12003' start='20250910190000 -0500' stop='20250910201000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250826201000 -0500' stop='20250826203500 -0500'>
+<programme channel='12003' start='20250910201000 -0500' stop='20250910203500 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250826203500 -0500' stop='20250826220000 -0500'>
+<programme channel='12003' start='20250910203500 -0500' stop='20250910220000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250826220000 -0500' stop='20250826231000 -0500'>
+<programme channel='12003' start='20250910220000 -0500' stop='20250910231000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250826231000 -0500' stop='20250827010000 -0500'>
+<programme channel='12003' start='20250910231000 -0500' stop='20250911010000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250827010000 -0500' stop='20250827020000 -0500'>
+<programme channel='12003' start='20250911010000 -0500' stop='20250911020000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250827020000 -0500' stop='20250827040000 -0500'>
+<programme channel='12003' start='20250911020000 -0500' stop='20250911040000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250827040000 -0500' stop='20250827050000 -0500'>
+<programme channel='12003' start='20250911040000 -0500' stop='20250911050000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250827050000 -0500' stop='20250827051500 -0500'>
+<programme channel='12003' start='20250911050000 -0500' stop='20250911051500 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250827051500 -0500' stop='20250827061500 -0500'>
+<programme channel='12003' start='20250911051500 -0500' stop='20250911061500 -0500'>
 <title>Santa Misa</title>
 <desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
 <category>Religion</category>
 </programme>
-<programme channel='12003' start='20250827061500 -0500' stop='20250827063000 -0500'>
+<programme channel='12003' start='20250911061500 -0500' stop='20250911063000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250827063000 -0500' stop='20250827081000 -0500'>
+<programme channel='12003' start='20250911063000 -0500' stop='20250911081000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250827081000 -0500' stop='20250827084000 -0500'>
+<programme channel='12003' start='20250911081000 -0500' stop='20250911084000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250827084000 -0500' stop='20250827100000 -0500'>
+<programme channel='12003' start='20250911084000 -0500' stop='20250911100000 -0500'>
 <title>Magazine</title>
 <desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250827100000 -0500' stop='20250827113000 -0500'>
+<programme channel='12003' start='20250911100000 -0500' stop='20250911113000 -0500'>
 <title>Peliculas Infantiles.</title>
 <desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250827113000 -0500' stop='20250827122000 -0500'>
+<programme channel='12003' start='20250911113000 -0500' stop='20250911122000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250827122000 -0500' stop='20250827123000 -0500'>
+<programme channel='12003' start='20250911122000 -0500' stop='20250911123000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250827123000 -0500' stop='20250827133000 -0500'>
+<programme channel='12003' start='20250911123000 -0500' stop='20250911133000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250827133000 -0500' stop='20250827140000 -0500'>
+<programme channel='12003' start='20250911133000 -0500' stop='20250911140000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250827140000 -0500' stop='20250827150000 -0500'>
+<programme channel='12003' start='20250911140000 -0500' stop='20250911150000 -0500'>
 <title>Ríos del mundo</title>
 <desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250827150000 -0500' stop='20250827160000 -0500'>
+<programme channel='12003' start='20250911150000 -0500' stop='20250911160000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250827160000 -0500' stop='20250827180000 -0500'>
+<programme channel='12003' start='20250911160000 -0500' stop='20250911180000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250827180000 -0500' stop='20250827184500 -0500'>
+<programme channel='12003' start='20250911180000 -0500' stop='20250911184500 -0500'>
 <title>Dueños de la calle</title>
 <desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250827184500 -0500' stop='20250827190000 -0500'>
+<programme channel='12003' start='20250911184500 -0500' stop='20250911190000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250827190000 -0500' stop='20250827201000 -0500'>
+<programme channel='12003' start='20250911190000 -0500' stop='20250911201000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250827201000 -0500' stop='20250827203500 -0500'>
+<programme channel='12003' start='20250911201000 -0500' stop='20250911203500 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250827203500 -0500' stop='20250827220000 -0500'>
+<programme channel='12003' start='20250911203500 -0500' stop='20250911220000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250827220000 -0500' stop='20250827231000 -0500'>
+<programme channel='12003' start='20250911220000 -0500' stop='20250911231000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250827231000 -0500' stop='20250828010000 -0500'>
+<programme channel='12003' start='20250911231000 -0500' stop='20250912010000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250828010000 -0500' stop='20250828020000 -0500'>
+<programme channel='12003' start='20250912010000 -0500' stop='20250912020000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250828020000 -0500' stop='20250828040000 -0500'>
+<programme channel='12003' start='20250912020000 -0500' stop='20250912040000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250828040000 -0500' stop='20250828050000 -0500'>
+<programme channel='12003' start='20250912040000 -0500' stop='20250912050000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250828050000 -0500' stop='20250828051500 -0500'>
+<programme channel='12003' start='20250912050000 -0500' stop='20250912051500 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250828051500 -0500' stop='20250828061500 -0500'>
+<programme channel='12003' start='20250912051500 -0500' stop='20250912061500 -0500'>
 <title>Santa Misa</title>
 <desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
 <category>Religion</category>
 </programme>
-<programme channel='12003' start='20250828061500 -0500' stop='20250828063000 -0500'>
+<programme channel='12003' start='20250912061500 -0500' stop='20250912063000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250828063000 -0500' stop='20250828081000 -0500'>
+<programme channel='12003' start='20250912063000 -0500' stop='20250912081000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250828081000 -0500' stop='20250828084000 -0500'>
+<programme channel='12003' start='20250912081000 -0500' stop='20250912084000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250828084000 -0500' stop='20250828100000 -0500'>
+<programme channel='12003' start='20250912084000 -0500' stop='20250912100000 -0500'>
 <title>Magazine</title>
 <desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250828100000 -0500' stop='20250828113000 -0500'>
+<programme channel='12003' start='20250912100000 -0500' stop='20250912113000 -0500'>
 <title>Peliculas Infantiles.</title>
 <desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250828113000 -0500' stop='20250828122000 -0500'>
+<programme channel='12003' start='20250912113000 -0500' stop='20250912122000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250828122000 -0500' stop='20250828123000 -0500'>
+<programme channel='12003' start='20250912122000 -0500' stop='20250912123000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250828123000 -0500' stop='20250828133000 -0500'>
+<programme channel='12003' start='20250912123000 -0500' stop='20250912133000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250828133000 -0500' stop='20250828140000 -0500'>
+<programme channel='12003' start='20250912133000 -0500' stop='20250912140000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250828140000 -0500' stop='20250828150000 -0500'>
+<programme channel='12003' start='20250912140000 -0500' stop='20250912150000 -0500'>
 <title>Ríos del mundo</title>
 <desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250828150000 -0500' stop='20250828160000 -0500'>
+<programme channel='12003' start='20250912150000 -0500' stop='20250912160000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250828160000 -0500' stop='20250828180000 -0500'>
+<programme channel='12003' start='20250912160000 -0500' stop='20250912180000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250828180000 -0500' stop='20250828184500 -0500'>
+<programme channel='12003' start='20250912180000 -0500' stop='20250912184500 -0500'>
 <title>Dueños de la calle</title>
 <desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250828184500 -0500' stop='20250828190000 -0500'>
+<programme channel='12003' start='20250912184500 -0500' stop='20250912190000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250828190000 -0500' stop='20250828201000 -0500'>
+<programme channel='12003' start='20250912190000 -0500' stop='20250912201000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250828201000 -0500' stop='20250828203500 -0500'>
+<programme channel='12003' start='20250912201000 -0500' stop='20250912203500 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250828203500 -0500' stop='20250828220000 -0500'>
+<programme channel='12003' start='20250912203500 -0500' stop='20250912220000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250828220000 -0500' stop='20250828231000 -0500'>
+<programme channel='12003' start='20250912220000 -0500' stop='20250912231000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250828231000 -0500' stop='20250829010000 -0500'>
+<programme channel='12003' start='20250912231000 -0500' stop='20250913010000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250829010000 -0500' stop='20250829020000 -0500'>
+<programme channel='12003' start='20250913010000 -0500' stop='20250913020000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250829020000 -0500' stop='20250829040000 -0500'>
+<programme channel='12003' start='20250913020000 -0500' stop='20250913040000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250829040000 -0500' stop='20250829050000 -0500'>
+<programme channel='12003' start='20250913040000 -0500' stop='20250913050000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250829050000 -0500' stop='20250829051500 -0500'>
+<programme channel='12003' start='20250913050000 -0500' stop='20250913051500 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250829051500 -0500' stop='20250829061500 -0500'>
+<programme channel='12003' start='20250913051500 -0500' stop='20250913061500 -0500'>
 <title>Santa Misa</title>
 <desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
 <category>Religion</category>
 </programme>
-<programme channel='12003' start='20250829061500 -0500' stop='20250829063000 -0500'>
+<programme channel='12003' start='20250913061500 -0500' stop='20250913063000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250829063000 -0500' stop='20250829081000 -0500'>
+<programme channel='12003' start='20250913063000 -0500' stop='20250913081000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250829081000 -0500' stop='20250829084000 -0500'>
+<programme channel='12003' start='20250913081000 -0500' stop='20250913084000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250829084000 -0500' stop='20250829100000 -0500'>
+<programme channel='12003' start='20250913084000 -0500' stop='20250913100000 -0500'>
 <title>Magazine</title>
 <desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250829100000 -0500' stop='20250829113000 -0500'>
+<programme channel='12003' start='20250913100000 -0500' stop='20250913113000 -0500'>
 <title>Peliculas Infantiles.</title>
 <desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250829113000 -0500' stop='20250829122000 -0500'>
+<programme channel='12003' start='20250913113000 -0500' stop='20250913122000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250829122000 -0500' stop='20250829123000 -0500'>
+<programme channel='12003' start='20250913122000 -0500' stop='20250913123000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250829123000 -0500' stop='20250829133000 -0500'>
+<programme channel='12003' start='20250913123000 -0500' stop='20250913133000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250829133000 -0500' stop='20250829140000 -0500'>
+<programme channel='12003' start='20250913133000 -0500' stop='20250913140000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250829140000 -0500' stop='20250829150000 -0500'>
+<programme channel='12003' start='20250913140000 -0500' stop='20250913150000 -0500'>
 <title>Ríos del mundo</title>
 <desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250829150000 -0500' stop='20250829160000 -0500'>
+<programme channel='12003' start='20250913150000 -0500' stop='20250913160000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250829160000 -0500' stop='20250829180000 -0500'>
+<programme channel='12003' start='20250913160000 -0500' stop='20250913180000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250829180000 -0500' stop='20250829184500 -0500'>
+<programme channel='12003' start='20250913180000 -0500' stop='20250913184500 -0500'>
 <title>Dueños de la calle</title>
 <desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250829184500 -0500' stop='20250829190000 -0500'>
+<programme channel='12003' start='20250913184500 -0500' stop='20250913190000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250829190000 -0500' stop='20250829201000 -0500'>
+<programme channel='12003' start='20250913190000 -0500' stop='20250913201000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250829201000 -0500' stop='20250829203500 -0500'>
+<programme channel='12003' start='20250913201000 -0500' stop='20250913203500 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250829203500 -0500' stop='20250829220000 -0500'>
+<programme channel='12003' start='20250913203500 -0500' stop='20250913220000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250829220000 -0500' stop='20250829231000 -0500'>
+<programme channel='12003' start='20250913220000 -0500' stop='20250913231000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250829231000 -0500' stop='20250830010000 -0500'>
+<programme channel='12003' start='20250913231000 -0500' stop='20250914010000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250830010000 -0500' stop='20250830020000 -0500'>
+<programme channel='12003' start='20250914010000 -0500' stop='20250914020000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250830020000 -0500' stop='20250830040000 -0500'>
+<programme channel='12003' start='20250914020000 -0500' stop='20250914040000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250830040000 -0500' stop='20250830050000 -0500'>
+<programme channel='12003' start='20250914040000 -0500' stop='20250914050000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250830050000 -0500' stop='20250830051500 -0500'>
+<programme channel='12003' start='20250914050000 -0500' stop='20250914051500 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250830051500 -0500' stop='20250830061500 -0500'>
+<programme channel='12003' start='20250914051500 -0500' stop='20250914061500 -0500'>
 <title>Santa Misa</title>
 <desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
 <category>Religion</category>
 </programme>
-<programme channel='12003' start='20250830061500 -0500' stop='20250830063000 -0500'>
+<programme channel='12003' start='20250914061500 -0500' stop='20250914063000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250830063000 -0500' stop='20250830081000 -0500'>
+<programme channel='12003' start='20250914063000 -0500' stop='20250914081000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250830081000 -0500' stop='20250830084000 -0500'>
+<programme channel='12003' start='20250914081000 -0500' stop='20250914084000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250830084000 -0500' stop='20250830100000 -0500'>
+<programme channel='12003' start='20250914084000 -0500' stop='20250914100000 -0500'>
 <title>Magazine</title>
 <desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250830100000 -0500' stop='20250830113000 -0500'>
+<programme channel='12003' start='20250914100000 -0500' stop='20250914113000 -0500'>
 <title>Peliculas Infantiles.</title>
 <desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250830113000 -0500' stop='20250830122000 -0500'>
+<programme channel='12003' start='20250914113000 -0500' stop='20250914122000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250830122000 -0500' stop='20250830123000 -0500'>
+<programme channel='12003' start='20250914122000 -0500' stop='20250914123000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250830123000 -0500' stop='20250830133000 -0500'>
+<programme channel='12003' start='20250914123000 -0500' stop='20250914133000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250830133000 -0500' stop='20250830140000 -0500'>
+<programme channel='12003' start='20250914133000 -0500' stop='20250914140000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250830140000 -0500' stop='20250830150000 -0500'>
+<programme channel='12003' start='20250914140000 -0500' stop='20250914150000 -0500'>
 <title>Ríos del mundo</title>
 <desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250830150000 -0500' stop='20250830160000 -0500'>
+<programme channel='12003' start='20250914150000 -0500' stop='20250914160000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250830160000 -0500' stop='20250830180000 -0500'>
+<programme channel='12003' start='20250914160000 -0500' stop='20250914180000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250830180000 -0500' stop='20250830184500 -0500'>
+<programme channel='12003' start='20250914180000 -0500' stop='20250914184500 -0500'>
 <title>Dueños de la calle</title>
 <desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250830184500 -0500' stop='20250830190000 -0500'>
+<programme channel='12003' start='20250914184500 -0500' stop='20250914190000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250830190000 -0500' stop='20250830201000 -0500'>
+<programme channel='12003' start='20250914190000 -0500' stop='20250914201000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250830201000 -0500' stop='20250830203500 -0500'>
+<programme channel='12003' start='20250914201000 -0500' stop='20250914203500 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250830203500 -0500' stop='20250830220000 -0500'>
+<programme channel='12003' start='20250914203500 -0500' stop='20250914220000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250830220000 -0500' stop='20250830231000 -0500'>
+<programme channel='12003' start='20250914220000 -0500' stop='20250914231000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250830231000 -0500' stop='20250831010000 -0500'>
+<programme channel='12003' start='20250914231000 -0500' stop='20250915010000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250831010000 -0500' stop='20250831020000 -0500'>
+<programme channel='12003' start='20250915010000 -0500' stop='20250915020000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250831020000 -0500' stop='20250831040000 -0500'>
+<programme channel='12003' start='20250915020000 -0500' stop='20250915040000 -0500'>
 <title>Peliculas.</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250831040000 -0500' stop='20250831050000 -0500'>
+<programme channel='12003' start='20250915040000 -0500' stop='20250915050000 -0500'>
 <title>Educa TV</title>
 <desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
 <category>Informarivo</category>
 </programme>
-<programme channel='12003' start='20250831050000 -0500' stop='20250831051500 -0500'>
+<programme channel='12003' start='20250915050000 -0500' stop='20250915051500 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250831051500 -0500' stop='20250831061500 -0500'>
+<programme channel='12003' start='20250915051500 -0500' stop='20250915061500 -0500'>
 <title>Santa Misa</title>
 <desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
 <category>Religion</category>
 </programme>
-<programme channel='12003' start='20250831061500 -0500' stop='20250831063000 -0500'>
+<programme channel='12003' start='20250915061500 -0500' stop='20250915063000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250831063000 -0500' stop='20250831081000 -0500'>
+<programme channel='12003' start='20250915063000 -0500' stop='20250915081000 -0500'>
 <title>Noticiero Mundovisión</title>
 <desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250831081000 -0500' stop='20250831084000 -0500'>
+<programme channel='12003' start='20250915081000 -0500' stop='20250915084000 -0500'>
 <title>Eco Deportivo</title>
 <desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250831084000 -0500' stop='20250831100000 -0500'>
+<programme channel='12003' start='20250915084000 -0500' stop='20250915100000 -0500'>
 <title>Magazine</title>
 <desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250831100000 -0500' stop='20250831113000 -0500'>
+<programme channel='12003' start='20250915100000 -0500' stop='20250915113000 -0500'>
 <title>Peliculas Infantiles.</title>
 <desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12003' start='20250831113000 -0500' stop='20250831122000 -0500'>
+<programme channel='12003' start='20250915113000 -0500' stop='20250915122000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12003' start='20250831122000 -0500' stop='20250831123000 -0500'>
-<title>Musica.</title>
-<desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12003' start='20250831123000 -0500' stop='20250831133000 -0500'>
-<title>Noticiero Mundovisión</title>
-<desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12003' start='20250831133000 -0500' stop='20250831140000 -0500'>
-<title>Eco Deportivo</title>
-<desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12003' start='20250831140000 -0500' stop='20250831150000 -0500'>
-<title>Ríos del mundo</title>
-<desc>Tita Ureta descubre lo que ocurre en los ríos más importantes del mundo. Grandes historias, acompañadas de la cultura, costumbres, tradiciones y gentes únicas de cada lugar visitado.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12003' start='20250831150000 -0500' stop='20250831160000 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12003' start='20250831160000 -0500' stop='20250831180000 -0500'>
-<title>Peliculas.</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12003' start='20250831180000 -0500' stop='20250831184500 -0500'>
-<title>Dueños de la calle</title>
-<desc>Tom Ludlow es un veterano policía de Los Ángeles que está pasando el peor momento de su vida tras la muerte de su mujer. Cuando unas pruebas le implican en la ejecución de un compañero, Tom se verá forzado a ir contra todo lo que ha conocido en el cuerpo hasta ahora, cuestionándose la lealtad de todos y cada uno de los que le rodean.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12003' start='20250831184500 -0500' stop='20250831190000 -0500'>
-<title>Musica.</title>
-<desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12003' start='20250831190000 -0500' stop='20250831201000 -0500'>
-<title>Noticiero Mundovisión</title>
-<desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12003' start='20250831201000 -0500' stop='20250831203500 -0500'>
-<title>Eco Deportivo</title>
-<desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12003' start='20250831203500 -0500' stop='20250831220000 -0500'>
-<title>Peliculas.</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12003' start='20250831220000 -0500' stop='20250831231000 -0500'>
-<title>Noticiero Mundovisión</title>
-<desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12003' start='20250831231000 -0500' stop='20250901010000 -0500'>
-<title>Peliculas.</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12003' start='20250901010000 -0500' stop='20250901020000 -0500'>
-<title>Musica.</title>
-<desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12003' start='20250901020000 -0500' stop='20250901040000 -0500'>
-<title>Peliculas.</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12003' start='20250901040000 -0500' stop='20250901050000 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12003' start='20250901050000 -0500' stop='20250901051500 -0500'>
-<title>Musica.</title>
-<desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12003' start='20250901051500 -0500' stop='20250901061500 -0500'>
-<title>Santa Misa</title>
-<desc>Transmisión de la Santa Misa desde distintas iglesias católicas de Loja.</desc>
-<category>Religion</category>
-</programme>
-<programme channel='12003' start='20250901061500 -0500' stop='20250901063000 -0500'>
-<title>Musica.</title>
-<desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12003' start='20250901063000 -0500' stop='20250901081000 -0500'>
-<title>Noticiero Mundovisión</title>
-<desc>Programa informativo de Noticias Locales, Nacionales e Internacionales de la Cadena Ecotel TV.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12003' start='20250901081000 -0500' stop='20250901084000 -0500'>
-<title>Eco Deportivo</title>
-<desc>Programa informativo de las Noticias del Deporte de la Cadena Ecotel TV.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12003' start='20250901084000 -0500' stop='20250901100000 -0500'>
-<title>Magazine</title>
-<desc>Espacio dedicado a entrevistar a diferentes entes politicos y sociales en el cual hay análisis y conclusiones que te permitirán discernir.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12003' start='20250901100000 -0500' stop='20250901113000 -0500'>
-<title>Peliculas Infantiles.</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12003' start='20250901113000 -0500' stop='20250901122000 -0500'>
-<title>Documentales DW</title>
-<desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12003' start='20250901122000 -0500' stop='20250901123000 -0500'>
+<programme channel='12003' start='20250915122000 -0500' stop='20250915123000 -0500'>
 <title>Musica.</title>
 <desc>Espacio dedicado para que disfrutes de musica local, nacional e internacional.</desc>
 <category>Entretenimiento</category>

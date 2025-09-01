@@ -2,1962 +2,1832 @@
 <channel id="12002">
 <display-name>AUSTRAL_TV</display-name>
 </channel>
-<programme channel='12002' start='20250817110000 -0500' stop='20250817114500 -0500'>
+<programme channel='12002' start='20250901130000 -0500' stop='20250901134500 -0500'>
+<title>Teresa</title>
+<desc>Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250901134500 -0500' stop='20250901151500 -0500'>
+<title>Música Nacional</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250901151500 -0500' stop='20250901160000 -0500'>
+<title>MacGyver</title>
+<desc>La serie gira en torno a las misiones que realiza el personaje principal Angus MacGyver para distintas instituciones, sobre todo para la Fundación Phoenix. En la serie, MacGyver resuelve todos los problemas que se le plantean haciendo uso de su gran inteligencia, su conocimiento académico en ciencias e ingeniería y su habilidad para la construcción de herramientas con elementos cotidianos de su entorno.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250901160000 -0500' stop='20250901163000 -0500'>
+<title>Dos hombres y medio</title>
+<desc>Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250901163000 -0500' stop='20250901170000 -0500'>
+<title>La Rosa de Guadalupe</title>
+<desc>La rosa de Guadalupe es una serie de televisión mexicana creado por Carlos Mercado Orduña, alusiva a la religión católica en específico a la Virgen de Guadalupe.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250901170000 -0500' stop='20250901174500 -0500'>
+<title>Porque el Amor Manda</title>
+<desc>Jesús García es un hombre honrado que deja su natal Monterrey para buscar un mejor futuro en Chicago. Después de vivir seis años como inmigrante, decide volver a México para encontrar a Valentina, su hija.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250901174500 -0500' stop='20250901180000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio que promueve la producción independiente.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250901180000 -0500' stop='20250901184500 -0500'>
+<title>La ciencia de lo absurdo</title>
+<desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250901184500 -0500' stop='20250901193000 -0500'>
+<title>Sin Rodeos con Eloy Calle</title>
+<desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250901193000 -0500' stop='20250901200000 -0500'>
+<title>Full Deportes</title>
+<desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250901200000 -0500' stop='20250901210000 -0500'>
+<title>Noticiero Telenoticias</title>
+<desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250901210000 -0500' stop='20250901220000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio que promueve la producción independiente.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250901220000 -0500' stop='20250901221500 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250817114500 -0500' stop='20250817120000 -0500'>
+<programme channel='12002' start='20250901221500 -0500' stop='20250902001500 -0500'>
+<title>Peliculas Varias</title>
+<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250902001500 -0500' stop='20250902020000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250902020000 -0500' stop='20250902040000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250902040000 -0500' stop='20250902060000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250902060000 -0500' stop='20250902063000 -0500'>
+<title>Música Concierto</title>
+<desc>Espacio dedicado para que disfrutes de los mejores conciertos que se vivieron en nueustra provincia.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250902063000 -0500' stop='20250902070000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio que promueve la producción independiente.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250902070000 -0500' stop='20250902080000 -0500'>
+<title>Smallville</title>
+<desc>Serie que narra los inicios de Superman -Clark Kent- en su pueblo natal, Smallville. Allí vivía con sus padres, estudiaba en el instituto local y conoció a su primera novia, Lana Lang, y a su futuro rival, Lex Luthor.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250902080000 -0500' stop='20250902090000 -0500'>
+<title>Documentales DW</title>
+<desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250902090000 -0500' stop='20250902091500 -0500'>
+<title>Animaciones Varias</title>
+<desc>Programa infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250902091500 -0500' stop='20250902093000 -0500'>
+<title>TV Tienda</title>
+<desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250902093000 -0500' stop='20250902101500 -0500'>
+<title>Arrow</title>
+<desc>Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250902101500 -0500' stop='20250902120000 -0500'>
+<title>Cine General</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250902120000 -0500' stop='20250902121500 -0500'>
+<title>Austral Clips</title>
+<desc>Espacio dedicado para que disfrutes de música de todos los tiempos.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250902121500 -0500' stop='20250902130000 -0500'>
+<title>Noticiero Telenoticias</title>
+<desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250902130000 -0500' stop='20250902134500 -0500'>
+<title>Teresa</title>
+<desc>Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250902134500 -0500' stop='20250902151500 -0500'>
+<title>Música Nacional</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250902151500 -0500' stop='20250902160000 -0500'>
+<title>MacGyver</title>
+<desc>La serie gira en torno a las misiones que realiza el personaje principal Angus MacGyver para distintas instituciones, sobre todo para la Fundación Phoenix. En la serie, MacGyver resuelve todos los problemas que se le plantean haciendo uso de su gran inteligencia, su conocimiento académico en ciencias e ingeniería y su habilidad para la construcción de herramientas con elementos cotidianos de su entorno.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250902160000 -0500' stop='20250902163000 -0500'>
+<title>Dos hombres y medio</title>
+<desc>Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250902163000 -0500' stop='20250902170000 -0500'>
+<title>La Rosa de Guadalupe</title>
+<desc>La rosa de Guadalupe es una serie de televisión mexicana creado por Carlos Mercado Orduña, alusiva a la religión católica en específico a la Virgen de Guadalupe.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250902170000 -0500' stop='20250902174500 -0500'>
+<title>Porque el Amor Manda</title>
+<desc>Jesús García es un hombre honrado que deja su natal Monterrey para buscar un mejor futuro en Chicago. Después de vivir seis años como inmigrante, decide volver a México para encontrar a Valentina, su hija.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250902174500 -0500' stop='20250902180000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio que promueve la producción independiente.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250902180000 -0500' stop='20250902184500 -0500'>
+<title>La ciencia de lo absurdo</title>
+<desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250902184500 -0500' stop='20250902193000 -0500'>
+<title>Sin Rodeos con Eloy Calle</title>
+<desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250902193000 -0500' stop='20250902200000 -0500'>
+<title>Full Deportes</title>
+<desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250902200000 -0500' stop='20250902210000 -0500'>
+<title>Noticiero Telenoticias</title>
+<desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250902210000 -0500' stop='20250902220000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio que promueve la producción independiente.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250902220000 -0500' stop='20250902221500 -0500'>
+<title>TV Tienda</title>
+<desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250902221500 -0500' stop='20250903001500 -0500'>
+<title>Peliculas Varias</title>
+<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250903001500 -0500' stop='20250903020000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250903020000 -0500' stop='20250903040000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250903040000 -0500' stop='20250903060000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250903060000 -0500' stop='20250903063000 -0500'>
+<title>Música Concierto</title>
+<desc>Espacio dedicado para que disfrutes de los mejores conciertos que se vivieron en nueustra provincia.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250903063000 -0500' stop='20250903070000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio que promueve la producción independiente.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250903070000 -0500' stop='20250903080000 -0500'>
+<title>Smallville</title>
+<desc>Serie que narra los inicios de Superman -Clark Kent- en su pueblo natal, Smallville. Allí vivía con sus padres, estudiaba en el instituto local y conoció a su primera novia, Lana Lang, y a su futuro rival, Lex Luthor.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250903080000 -0500' stop='20250903090000 -0500'>
+<title>Documentales DW</title>
+<desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250903090000 -0500' stop='20250903091500 -0500'>
+<title>Animaciones Varias</title>
+<desc>Programa infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250903091500 -0500' stop='20250903093000 -0500'>
+<title>TV Tienda</title>
+<desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250903093000 -0500' stop='20250903101500 -0500'>
+<title>Arrow</title>
+<desc>Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250903101500 -0500' stop='20250903120000 -0500'>
+<title>Cine General</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250903120000 -0500' stop='20250903121500 -0500'>
+<title>Austral Clips</title>
+<desc>Espacio dedicado para que disfrutes de música de todos los tiempos.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250903121500 -0500' stop='20250903130000 -0500'>
+<title>Noticiero Telenoticias</title>
+<desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250903130000 -0500' stop='20250903134500 -0500'>
+<title>Teresa</title>
+<desc>Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250903134500 -0500' stop='20250903151500 -0500'>
+<title>Música Nacional</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250903151500 -0500' stop='20250903160000 -0500'>
+<title>MacGyver</title>
+<desc>La serie gira en torno a las misiones que realiza el personaje principal Angus MacGyver para distintas instituciones, sobre todo para la Fundación Phoenix. En la serie, MacGyver resuelve todos los problemas que se le plantean haciendo uso de su gran inteligencia, su conocimiento académico en ciencias e ingeniería y su habilidad para la construcción de herramientas con elementos cotidianos de su entorno.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250903160000 -0500' stop='20250903163000 -0500'>
+<title>Dos hombres y medio</title>
+<desc>Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250903163000 -0500' stop='20250903170000 -0500'>
+<title>La Rosa de Guadalupe</title>
+<desc>La rosa de Guadalupe es una serie de televisión mexicana creado por Carlos Mercado Orduña, alusiva a la religión católica en específico a la Virgen de Guadalupe.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250903170000 -0500' stop='20250903174500 -0500'>
+<title>Porque el Amor Manda</title>
+<desc>Jesús García es un hombre honrado que deja su natal Monterrey para buscar un mejor futuro en Chicago. Después de vivir seis años como inmigrante, decide volver a México para encontrar a Valentina, su hija.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250903174500 -0500' stop='20250903180000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio que promueve la producción independiente.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250903180000 -0500' stop='20250903184500 -0500'>
+<title>La ciencia de lo absurdo</title>
+<desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250903184500 -0500' stop='20250903193000 -0500'>
+<title>Sin Rodeos con Eloy Calle</title>
+<desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250903193000 -0500' stop='20250903200000 -0500'>
+<title>Full Deportes</title>
+<desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250903200000 -0500' stop='20250903210000 -0500'>
+<title>Noticiero Telenoticias</title>
+<desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250903210000 -0500' stop='20250903220000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio que promueve la producción independiente.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250903220000 -0500' stop='20250903221500 -0500'>
+<title>TV Tienda</title>
+<desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250903221500 -0500' stop='20250904001500 -0500'>
+<title>Peliculas Varias</title>
+<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250904001500 -0500' stop='20250904020000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250904020000 -0500' stop='20250904040000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250904040000 -0500' stop='20250904060000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250904060000 -0500' stop='20250904063000 -0500'>
+<title>Música Concierto</title>
+<desc>Espacio dedicado para que disfrutes de los mejores conciertos que se vivieron en nueustra provincia.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250904063000 -0500' stop='20250904070000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio que promueve la producción independiente.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250904070000 -0500' stop='20250904080000 -0500'>
+<title>Smallville</title>
+<desc>Serie que narra los inicios de Superman -Clark Kent- en su pueblo natal, Smallville. Allí vivía con sus padres, estudiaba en el instituto local y conoció a su primera novia, Lana Lang, y a su futuro rival, Lex Luthor.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250904080000 -0500' stop='20250904090000 -0500'>
+<title>Documentales DW</title>
+<desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250904090000 -0500' stop='20250904091500 -0500'>
+<title>Animaciones Varias</title>
+<desc>Programa infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250904091500 -0500' stop='20250904093000 -0500'>
+<title>TV Tienda</title>
+<desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250904093000 -0500' stop='20250904101500 -0500'>
+<title>Arrow</title>
+<desc>Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250904101500 -0500' stop='20250904120000 -0500'>
+<title>Cine General</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250904120000 -0500' stop='20250904121500 -0500'>
+<title>Austral Clips</title>
+<desc>Espacio dedicado para que disfrutes de música de todos los tiempos.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250904121500 -0500' stop='20250904130000 -0500'>
+<title>Noticiero Telenoticias</title>
+<desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250904130000 -0500' stop='20250904134500 -0500'>
+<title>Teresa</title>
+<desc>Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250904134500 -0500' stop='20250904151500 -0500'>
+<title>Música Nacional</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250904151500 -0500' stop='20250904160000 -0500'>
+<title>MacGyver</title>
+<desc>La serie gira en torno a las misiones que realiza el personaje principal Angus MacGyver para distintas instituciones, sobre todo para la Fundación Phoenix. En la serie, MacGyver resuelve todos los problemas que se le plantean haciendo uso de su gran inteligencia, su conocimiento académico en ciencias e ingeniería y su habilidad para la construcción de herramientas con elementos cotidianos de su entorno.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250904160000 -0500' stop='20250904163000 -0500'>
+<title>Dos hombres y medio</title>
+<desc>Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250904163000 -0500' stop='20250904170000 -0500'>
+<title>La Rosa de Guadalupe</title>
+<desc>La rosa de Guadalupe es una serie de televisión mexicana creado por Carlos Mercado Orduña, alusiva a la religión católica en específico a la Virgen de Guadalupe.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250904170000 -0500' stop='20250904174500 -0500'>
+<title>Porque el Amor Manda</title>
+<desc>Jesús García es un hombre honrado que deja su natal Monterrey para buscar un mejor futuro en Chicago. Después de vivir seis años como inmigrante, decide volver a México para encontrar a Valentina, su hija.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250904174500 -0500' stop='20250904180000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio que promueve la producción independiente.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250904180000 -0500' stop='20250904184500 -0500'>
+<title>La ciencia de lo absurdo</title>
+<desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250904184500 -0500' stop='20250904193000 -0500'>
+<title>Sin Rodeos con Eloy Calle</title>
+<desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250904193000 -0500' stop='20250904200000 -0500'>
+<title>Full Deportes</title>
+<desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250904200000 -0500' stop='20250904210000 -0500'>
+<title>Noticiero Telenoticias</title>
+<desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250904210000 -0500' stop='20250904220000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio que promueve la producción independiente.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250904220000 -0500' stop='20250904221500 -0500'>
+<title>TV Tienda</title>
+<desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250904221500 -0500' stop='20250905001500 -0500'>
+<title>Peliculas Varias</title>
+<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250905001500 -0500' stop='20250905020000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250905020000 -0500' stop='20250905040000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250905040000 -0500' stop='20250905060000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250905060000 -0500' stop='20250905063000 -0500'>
+<title>Música Concierto</title>
+<desc>Espacio dedicado para que disfrutes de los mejores conciertos que se vivieron en nueustra provincia.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250905063000 -0500' stop='20250905070000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio que promueve la producción independiente.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250905070000 -0500' stop='20250905080000 -0500'>
+<title>Smallville</title>
+<desc>Serie que narra los inicios de Superman -Clark Kent- en su pueblo natal, Smallville. Allí vivía con sus padres, estudiaba en el instituto local y conoció a su primera novia, Lana Lang, y a su futuro rival, Lex Luthor.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250905080000 -0500' stop='20250905090000 -0500'>
+<title>Documentales DW</title>
+<desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250905090000 -0500' stop='20250905091500 -0500'>
+<title>Animaciones Varias</title>
+<desc>Programa infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250905091500 -0500' stop='20250905093000 -0500'>
+<title>TV Tienda</title>
+<desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250905093000 -0500' stop='20250905101500 -0500'>
+<title>Arrow</title>
+<desc>Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250905101500 -0500' stop='20250905120000 -0500'>
+<title>Cine General</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250905120000 -0500' stop='20250905121500 -0500'>
+<title>Austral Clips</title>
+<desc>Espacio dedicado para que disfrutes de música de todos los tiempos.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250905121500 -0500' stop='20250905130000 -0500'>
+<title>Noticiero Telenoticias</title>
+<desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250905130000 -0500' stop='20250905134500 -0500'>
+<title>Teresa</title>
+<desc>Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250905134500 -0500' stop='20250905151500 -0500'>
+<title>Música Nacional</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250905151500 -0500' stop='20250905160000 -0500'>
+<title>MacGyver</title>
+<desc>La serie gira en torno a las misiones que realiza el personaje principal Angus MacGyver para distintas instituciones, sobre todo para la Fundación Phoenix. En la serie, MacGyver resuelve todos los problemas que se le plantean haciendo uso de su gran inteligencia, su conocimiento académico en ciencias e ingeniería y su habilidad para la construcción de herramientas con elementos cotidianos de su entorno.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250905160000 -0500' stop='20250905163000 -0500'>
+<title>Dos hombres y medio</title>
+<desc>Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250905163000 -0500' stop='20250905170000 -0500'>
+<title>La Rosa de Guadalupe</title>
+<desc>La rosa de Guadalupe es una serie de televisión mexicana creado por Carlos Mercado Orduña, alusiva a la religión católica en específico a la Virgen de Guadalupe.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250905170000 -0500' stop='20250905174500 -0500'>
+<title>Porque el Amor Manda</title>
+<desc>Jesús García es un hombre honrado que deja su natal Monterrey para buscar un mejor futuro en Chicago. Después de vivir seis años como inmigrante, decide volver a México para encontrar a Valentina, su hija.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250905174500 -0500' stop='20250905180000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio que promueve la producción independiente.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250905180000 -0500' stop='20250905184500 -0500'>
+<title>La ciencia de lo absurdo</title>
+<desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250905184500 -0500' stop='20250905193000 -0500'>
+<title>Sin Rodeos con Eloy Calle</title>
+<desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250905193000 -0500' stop='20250905200000 -0500'>
+<title>Full Deportes</title>
+<desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250905200000 -0500' stop='20250905210000 -0500'>
+<title>Noticiero Telenoticias</title>
+<desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250905210000 -0500' stop='20250905220000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio que promueve la producción independiente.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250905220000 -0500' stop='20250905221500 -0500'>
+<title>TV Tienda</title>
+<desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250905221500 -0500' stop='20250906001500 -0500'>
+<title>Peliculas Varias</title>
+<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250906001500 -0500' stop='20250906020000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250906020000 -0500' stop='20250906040000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250906040000 -0500' stop='20250906060000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250906060000 -0500' stop='20250906063000 -0500'>
+<title>Música Concierto</title>
+<desc>Espacio dedicado para que disfrutes de los mejores conciertos que se vivieron en nueustra provincia.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20250906063000 -0500' stop='20250906070000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio que promueve la producción independiente.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20250906070000 -0500' stop='20250906073000 -0500'>
 <title>Bloopers</title>
 <desc>Bloopers es una mirada a las vidas de personas que han tenido contratiempos hilarantes y errores súper graciosos.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250817120000 -0500' stop='20250817140000 -0500'>
-<title>Peliculas Varias</title>
-<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250817140000 -0500' stop='20250817150000 -0500'>
-<title>Night Light</title>
-<desc>Seo Yi Kyung (Lee Yo Won) de manera ambiciosa quiere construir su propio imperio. Ella es calmada y está llena de pasión, además cree que la ambición no es un pecado. Park Gun Woo (Jin Goo) es bien parecido y proviene de una familia adinerada que además posee una de las compañías más grandes. Seo Yi Kyung fue su primer amor y él todavía la ama.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250817150000 -0500' stop='20250817151500 -0500'>
+<programme channel='12002' start='20250906073000 -0500' stop='20250906074500 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250817151500 -0500' stop='20250817163000 -0500'>
-<title>Peliculas Varias</title>
-<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250817163000 -0500' stop='20250817170000 -0500'>
-<title>Victorious</title>
-<desc>El caos empieza a reinar en la vida de Tori Vega, cuando con 16 años es admitida en un nuevo instituto. Pero no en uno cualquiera, sino Hollywood Arts, una escuela de artes escénicas donde locos con talento estudian para convertirse en verdaderos artistas. Hasta ahora, Tori no creía tener mucho talento, y se contentaba con vivir a la sombra de su hermana mayor, Trina.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250817170000 -0500' stop='20250817190000 -0500'>
-<title>Peliculas Varias</title>
-<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250817190000 -0500' stop='20250817193000 -0500'>
-<title>Sin Rodeos con Eloy Calle</title>
-<desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250817193000 -0500' stop='20250817201500 -0500'>
-<title>Bones</title>
-<desc>Una antropóloga forense y un engreído agente del FBI forman equipo para investigar las causas de los homicidios que investigan.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250817201500 -0500' stop='20250817210000 -0500'>
-<title>Austral Clips</title>
-<desc>Espacio dedicado para que disfrutes de música de todos los tiempos.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250817210000 -0500' stop='20250817220000 -0500'>
-<title>Espacio Contratado</title>
-<desc>Espacio que promueve la producción independiente.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250817220000 -0500' stop='20250818001500 -0500'>
-<title>Peliculas Varias</title>
-<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250818001500 -0500' stop='20250818020000 -0500'>
-<title>Peliculas Varias</title>
-<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250818020000 -0500' stop='20250818040000 -0500'>
-<title>Peliculas Varias</title>
-<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250818040000 -0500' stop='20250818060000 -0500'>
-<title>Peliculas Varias</title>
-<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250818060000 -0500' stop='20250818063000 -0500'>
-<title>Música Concierto</title>
-<desc>Espacio dedicado para que disfrutes de los mejores conciertos que se vivieron en nueustra provincia.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250818063000 -0500' stop='20250818070000 -0500'>
-<title>Espacio Contratado</title>
-<desc>Espacio que promueve la producción independiente.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250818070000 -0500' stop='20250818080000 -0500'>
-<title>Smallville</title>
-<desc>Serie que narra los inicios de Superman -Clark Kent- en su pueblo natal, Smallville. Allí vivía con sus padres, estudiaba en el instituto local y conoció a su primera novia, Lana Lang, y a su futuro rival, Lex Luthor.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250818080000 -0500' stop='20250818090000 -0500'>
-<title>Documentales DW</title>
-<desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250818090000 -0500' stop='20250818091500 -0500'>
-<title>Animaciones Varias</title>
-<desc>Programa infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250818091500 -0500' stop='20250818093000 -0500'>
-<title>TV Tienda</title>
-<desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250818093000 -0500' stop='20250818101500 -0500'>
-<title>Arrow</title>
-<desc>Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250818101500 -0500' stop='20250818120000 -0500'>
-<title>Cine General</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250818120000 -0500' stop='20250818121500 -0500'>
-<title>Austral Clips</title>
-<desc>Espacio dedicado para que disfrutes de música de todos los tiempos.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250818121500 -0500' stop='20250818130000 -0500'>
-<title>Noticiero Telenoticias</title>
-<desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250818130000 -0500' stop='20250818134500 -0500'>
-<title>Teresa</title>
-<desc>Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250818134500 -0500' stop='20250818151500 -0500'>
-<title>Música Nacional</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250818151500 -0500' stop='20250818160000 -0500'>
-<title>MacGyver</title>
-<desc>La serie gira en torno a las misiones que realiza el personaje principal Angus MacGyver para distintas instituciones, sobre todo para la Fundación Phoenix. En la serie, MacGyver resuelve todos los problemas que se le plantean haciendo uso de su gran inteligencia, su conocimiento académico en ciencias e ingeniería y su habilidad para la construcción de herramientas con elementos cotidianos de su entorno.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250818160000 -0500' stop='20250818163000 -0500'>
-<title>Dos hombres y medio</title>
-<desc>Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250818163000 -0500' stop='20250818170000 -0500'>
-<title>La Rosa de Guadalupe</title>
-<desc>La rosa de Guadalupe es una serie de televisión mexicana creado por Carlos Mercado Orduña, alusiva a la religión católica en específico a la Virgen de Guadalupe.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250818170000 -0500' stop='20250818174500 -0500'>
-<title>Porque el Amor Manda</title>
-<desc>Jesús García es un hombre honrado que deja su natal Monterrey para buscar un mejor futuro en Chicago. Después de vivir seis años como inmigrante, decide volver a México para encontrar a Valentina, su hija.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250818174500 -0500' stop='20250818180000 -0500'>
-<title>Espacio Contratado</title>
-<desc>Espacio que promueve la producción independiente.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250818180000 -0500' stop='20250818184500 -0500'>
-<title>La ciencia de lo absurdo</title>
-<desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250818184500 -0500' stop='20250818193000 -0500'>
-<title>Sin Rodeos con Eloy Calle</title>
-<desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250818193000 -0500' stop='20250818200000 -0500'>
-<title>Full Deportes</title>
-<desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250818200000 -0500' stop='20250818210000 -0500'>
-<title>Noticiero Telenoticias</title>
-<desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250818210000 -0500' stop='20250818220000 -0500'>
-<title>Espacio Contratado</title>
-<desc>Espacio que promueve la producción independiente.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250818220000 -0500' stop='20250818221500 -0500'>
-<title>TV Tienda</title>
-<desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250818221500 -0500' stop='20250819001500 -0500'>
-<title>Peliculas Varias</title>
-<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250819001500 -0500' stop='20250819020000 -0500'>
-<title>Peliculas Varias</title>
-<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250819020000 -0500' stop='20250819040000 -0500'>
-<title>Peliculas Varias</title>
-<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250819040000 -0500' stop='20250819060000 -0500'>
-<title>Peliculas Varias</title>
-<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250819060000 -0500' stop='20250819063000 -0500'>
-<title>Música Concierto</title>
-<desc>Espacio dedicado para que disfrutes de los mejores conciertos que se vivieron en nueustra provincia.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250819063000 -0500' stop='20250819070000 -0500'>
-<title>Espacio Contratado</title>
-<desc>Espacio que promueve la producción independiente.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250819070000 -0500' stop='20250819080000 -0500'>
-<title>Smallville</title>
-<desc>Serie que narra los inicios de Superman -Clark Kent- en su pueblo natal, Smallville. Allí vivía con sus padres, estudiaba en el instituto local y conoció a su primera novia, Lana Lang, y a su futuro rival, Lex Luthor.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250819080000 -0500' stop='20250819090000 -0500'>
-<title>Documentales DW</title>
-<desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250819090000 -0500' stop='20250819091500 -0500'>
-<title>Animaciones Varias</title>
-<desc>Programa infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250819091500 -0500' stop='20250819093000 -0500'>
-<title>TV Tienda</title>
-<desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250819093000 -0500' stop='20250819101500 -0500'>
-<title>Arrow</title>
-<desc>Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250819101500 -0500' stop='20250819120000 -0500'>
-<title>Cine General</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250819120000 -0500' stop='20250819121500 -0500'>
-<title>Austral Clips</title>
-<desc>Espacio dedicado para que disfrutes de música de todos los tiempos.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250819121500 -0500' stop='20250819130000 -0500'>
-<title>Noticiero Telenoticias</title>
-<desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250819130000 -0500' stop='20250819134500 -0500'>
-<title>Teresa</title>
-<desc>Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250819134500 -0500' stop='20250819151500 -0500'>
-<title>Música Nacional</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250819151500 -0500' stop='20250819160000 -0500'>
-<title>MacGyver</title>
-<desc>La serie gira en torno a las misiones que realiza el personaje principal Angus MacGyver para distintas instituciones, sobre todo para la Fundación Phoenix. En la serie, MacGyver resuelve todos los problemas que se le plantean haciendo uso de su gran inteligencia, su conocimiento académico en ciencias e ingeniería y su habilidad para la construcción de herramientas con elementos cotidianos de su entorno.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250819160000 -0500' stop='20250819163000 -0500'>
-<title>Dos hombres y medio</title>
-<desc>Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250819163000 -0500' stop='20250819170000 -0500'>
-<title>La Rosa de Guadalupe</title>
-<desc>La rosa de Guadalupe es una serie de televisión mexicana creado por Carlos Mercado Orduña, alusiva a la religión católica en específico a la Virgen de Guadalupe.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250819170000 -0500' stop='20250819174500 -0500'>
-<title>Porque el Amor Manda</title>
-<desc>Jesús García es un hombre honrado que deja su natal Monterrey para buscar un mejor futuro en Chicago. Después de vivir seis años como inmigrante, decide volver a México para encontrar a Valentina, su hija.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250819174500 -0500' stop='20250819180000 -0500'>
-<title>Espacio Contratado</title>
-<desc>Espacio que promueve la producción independiente.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250819180000 -0500' stop='20250819184500 -0500'>
-<title>La ciencia de lo absurdo</title>
-<desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250819184500 -0500' stop='20250819193000 -0500'>
-<title>Sin Rodeos con Eloy Calle</title>
-<desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250819193000 -0500' stop='20250819200000 -0500'>
-<title>Full Deportes</title>
-<desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250819200000 -0500' stop='20250819210000 -0500'>
-<title>Noticiero Telenoticias</title>
-<desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250819210000 -0500' stop='20250819220000 -0500'>
-<title>Espacio Contratado</title>
-<desc>Espacio que promueve la producción independiente.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250819220000 -0500' stop='20250819221500 -0500'>
-<title>TV Tienda</title>
-<desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250819221500 -0500' stop='20250820001500 -0500'>
-<title>Peliculas Varias</title>
-<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250820001500 -0500' stop='20250820020000 -0500'>
-<title>Peliculas Varias</title>
-<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250820020000 -0500' stop='20250820040000 -0500'>
-<title>Peliculas Varias</title>
-<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250820040000 -0500' stop='20250820060000 -0500'>
-<title>Peliculas Varias</title>
-<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250820060000 -0500' stop='20250820063000 -0500'>
-<title>Música Concierto</title>
-<desc>Espacio dedicado para que disfrutes de los mejores conciertos que se vivieron en nueustra provincia.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250820063000 -0500' stop='20250820070000 -0500'>
-<title>Espacio Contratado</title>
-<desc>Espacio que promueve la producción independiente.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250820070000 -0500' stop='20250820080000 -0500'>
-<title>Smallville</title>
-<desc>Serie que narra los inicios de Superman -Clark Kent- en su pueblo natal, Smallville. Allí vivía con sus padres, estudiaba en el instituto local y conoció a su primera novia, Lana Lang, y a su futuro rival, Lex Luthor.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250820080000 -0500' stop='20250820090000 -0500'>
-<title>Documentales DW</title>
-<desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250820090000 -0500' stop='20250820091500 -0500'>
-<title>Animaciones Varias</title>
-<desc>Programa infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250820091500 -0500' stop='20250820093000 -0500'>
-<title>TV Tienda</title>
-<desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250820093000 -0500' stop='20250820101500 -0500'>
-<title>Arrow</title>
-<desc>Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250820101500 -0500' stop='20250820120000 -0500'>
-<title>Cine General</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250820120000 -0500' stop='20250820121500 -0500'>
-<title>Austral Clips</title>
-<desc>Espacio dedicado para que disfrutes de música de todos los tiempos.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250820121500 -0500' stop='20250820130000 -0500'>
-<title>Noticiero Telenoticias</title>
-<desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250820130000 -0500' stop='20250820134500 -0500'>
-<title>Teresa</title>
-<desc>Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250820134500 -0500' stop='20250820151500 -0500'>
-<title>Música Nacional</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250820151500 -0500' stop='20250820160000 -0500'>
-<title>MacGyver</title>
-<desc>La serie gira en torno a las misiones que realiza el personaje principal Angus MacGyver para distintas instituciones, sobre todo para la Fundación Phoenix. En la serie, MacGyver resuelve todos los problemas que se le plantean haciendo uso de su gran inteligencia, su conocimiento académico en ciencias e ingeniería y su habilidad para la construcción de herramientas con elementos cotidianos de su entorno.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250820160000 -0500' stop='20250820163000 -0500'>
-<title>Dos hombres y medio</title>
-<desc>Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250820163000 -0500' stop='20250820170000 -0500'>
-<title>La Rosa de Guadalupe</title>
-<desc>La rosa de Guadalupe es una serie de televisión mexicana creado por Carlos Mercado Orduña, alusiva a la religión católica en específico a la Virgen de Guadalupe.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250820170000 -0500' stop='20250820174500 -0500'>
-<title>Porque el Amor Manda</title>
-<desc>Jesús García es un hombre honrado que deja su natal Monterrey para buscar un mejor futuro en Chicago. Después de vivir seis años como inmigrante, decide volver a México para encontrar a Valentina, su hija.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250820174500 -0500' stop='20250820180000 -0500'>
-<title>Espacio Contratado</title>
-<desc>Espacio que promueve la producción independiente.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250820180000 -0500' stop='20250820184500 -0500'>
-<title>La ciencia de lo absurdo</title>
-<desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250820184500 -0500' stop='20250820193000 -0500'>
-<title>Sin Rodeos con Eloy Calle</title>
-<desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250820193000 -0500' stop='20250820200000 -0500'>
-<title>Full Deportes</title>
-<desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250820200000 -0500' stop='20250820210000 -0500'>
-<title>Noticiero Telenoticias</title>
-<desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250820210000 -0500' stop='20250820220000 -0500'>
-<title>Espacio Contratado</title>
-<desc>Espacio que promueve la producción independiente.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250820220000 -0500' stop='20250820221500 -0500'>
-<title>TV Tienda</title>
-<desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250820221500 -0500' stop='20250821001500 -0500'>
-<title>Peliculas Varias</title>
-<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250821001500 -0500' stop='20250821020000 -0500'>
-<title>Peliculas Varias</title>
-<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250821020000 -0500' stop='20250821040000 -0500'>
-<title>Peliculas Varias</title>
-<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250821040000 -0500' stop='20250821060000 -0500'>
-<title>Peliculas Varias</title>
-<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250821060000 -0500' stop='20250821063000 -0500'>
-<title>Música Concierto</title>
-<desc>Espacio dedicado para que disfrutes de los mejores conciertos que se vivieron en nueustra provincia.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250821063000 -0500' stop='20250821070000 -0500'>
-<title>Espacio Contratado</title>
-<desc>Espacio que promueve la producción independiente.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250821070000 -0500' stop='20250821080000 -0500'>
-<title>Smallville</title>
-<desc>Serie que narra los inicios de Superman -Clark Kent- en su pueblo natal, Smallville. Allí vivía con sus padres, estudiaba en el instituto local y conoció a su primera novia, Lana Lang, y a su futuro rival, Lex Luthor.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250821080000 -0500' stop='20250821090000 -0500'>
-<title>Documentales DW</title>
-<desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250821090000 -0500' stop='20250821091500 -0500'>
-<title>Animaciones Varias</title>
-<desc>Programa infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250821091500 -0500' stop='20250821093000 -0500'>
-<title>TV Tienda</title>
-<desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250821093000 -0500' stop='20250821101500 -0500'>
-<title>Arrow</title>
-<desc>Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250821101500 -0500' stop='20250821120000 -0500'>
-<title>Cine General</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250821120000 -0500' stop='20250821121500 -0500'>
-<title>Austral Clips</title>
-<desc>Espacio dedicado para que disfrutes de música de todos los tiempos.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250821121500 -0500' stop='20250821130000 -0500'>
-<title>Noticiero Telenoticias</title>
-<desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250821130000 -0500' stop='20250821134500 -0500'>
-<title>Teresa</title>
-<desc>Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250821134500 -0500' stop='20250821151500 -0500'>
-<title>Música Nacional</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250821151500 -0500' stop='20250821160000 -0500'>
-<title>MacGyver</title>
-<desc>La serie gira en torno a las misiones que realiza el personaje principal Angus MacGyver para distintas instituciones, sobre todo para la Fundación Phoenix. En la serie, MacGyver resuelve todos los problemas que se le plantean haciendo uso de su gran inteligencia, su conocimiento académico en ciencias e ingeniería y su habilidad para la construcción de herramientas con elementos cotidianos de su entorno.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250821160000 -0500' stop='20250821163000 -0500'>
-<title>Dos hombres y medio</title>
-<desc>Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250821163000 -0500' stop='20250821170000 -0500'>
-<title>La Rosa de Guadalupe</title>
-<desc>La rosa de Guadalupe es una serie de televisión mexicana creado por Carlos Mercado Orduña, alusiva a la religión católica en específico a la Virgen de Guadalupe.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250821170000 -0500' stop='20250821174500 -0500'>
-<title>Porque el Amor Manda</title>
-<desc>Jesús García es un hombre honrado que deja su natal Monterrey para buscar un mejor futuro en Chicago. Después de vivir seis años como inmigrante, decide volver a México para encontrar a Valentina, su hija.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250821174500 -0500' stop='20250821180000 -0500'>
-<title>Espacio Contratado</title>
-<desc>Espacio que promueve la producción independiente.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250821180000 -0500' stop='20250821184500 -0500'>
-<title>La ciencia de lo absurdo</title>
-<desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250821184500 -0500' stop='20250821193000 -0500'>
-<title>Sin Rodeos con Eloy Calle</title>
-<desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250821193000 -0500' stop='20250821200000 -0500'>
-<title>Full Deportes</title>
-<desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250821200000 -0500' stop='20250821210000 -0500'>
-<title>Noticiero Telenoticias</title>
-<desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250821210000 -0500' stop='20250821220000 -0500'>
-<title>Espacio Contratado</title>
-<desc>Espacio que promueve la producción independiente.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250821220000 -0500' stop='20250821221500 -0500'>
-<title>TV Tienda</title>
-<desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250821221500 -0500' stop='20250822001500 -0500'>
-<title>Peliculas Varias</title>
-<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250822001500 -0500' stop='20250822020000 -0500'>
-<title>Peliculas Varias</title>
-<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250822020000 -0500' stop='20250822040000 -0500'>
-<title>Peliculas Varias</title>
-<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250822040000 -0500' stop='20250822060000 -0500'>
-<title>Peliculas Varias</title>
-<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250822060000 -0500' stop='20250822063000 -0500'>
-<title>Música Concierto</title>
-<desc>Espacio dedicado para que disfrutes de los mejores conciertos que se vivieron en nueustra provincia.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250822063000 -0500' stop='20250822070000 -0500'>
-<title>Espacio Contratado</title>
-<desc>Espacio que promueve la producción independiente.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250822070000 -0500' stop='20250822080000 -0500'>
-<title>Smallville</title>
-<desc>Serie que narra los inicios de Superman -Clark Kent- en su pueblo natal, Smallville. Allí vivía con sus padres, estudiaba en el instituto local y conoció a su primera novia, Lana Lang, y a su futuro rival, Lex Luthor.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250822080000 -0500' stop='20250822090000 -0500'>
-<title>Documentales DW</title>
-<desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250822090000 -0500' stop='20250822091500 -0500'>
-<title>Animaciones Varias</title>
-<desc>Programa infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250822091500 -0500' stop='20250822093000 -0500'>
-<title>TV Tienda</title>
-<desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250822093000 -0500' stop='20250822101500 -0500'>
-<title>Arrow</title>
-<desc>Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250822101500 -0500' stop='20250822120000 -0500'>
-<title>Cine General</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250822120000 -0500' stop='20250822121500 -0500'>
-<title>Austral Clips</title>
-<desc>Espacio dedicado para que disfrutes de música de todos los tiempos.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250822121500 -0500' stop='20250822130000 -0500'>
-<title>Noticiero Telenoticias</title>
-<desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250822130000 -0500' stop='20250822134500 -0500'>
-<title>Teresa</title>
-<desc>Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250822134500 -0500' stop='20250822151500 -0500'>
-<title>Música Nacional</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250822151500 -0500' stop='20250822160000 -0500'>
-<title>MacGyver</title>
-<desc>La serie gira en torno a las misiones que realiza el personaje principal Angus MacGyver para distintas instituciones, sobre todo para la Fundación Phoenix. En la serie, MacGyver resuelve todos los problemas que se le plantean haciendo uso de su gran inteligencia, su conocimiento académico en ciencias e ingeniería y su habilidad para la construcción de herramientas con elementos cotidianos de su entorno.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250822160000 -0500' stop='20250822163000 -0500'>
-<title>Dos hombres y medio</title>
-<desc>Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250822163000 -0500' stop='20250822170000 -0500'>
-<title>La Rosa de Guadalupe</title>
-<desc>La rosa de Guadalupe es una serie de televisión mexicana creado por Carlos Mercado Orduña, alusiva a la religión católica en específico a la Virgen de Guadalupe.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250822170000 -0500' stop='20250822174500 -0500'>
-<title>Porque el Amor Manda</title>
-<desc>Jesús García es un hombre honrado que deja su natal Monterrey para buscar un mejor futuro en Chicago. Después de vivir seis años como inmigrante, decide volver a México para encontrar a Valentina, su hija.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250822174500 -0500' stop='20250822180000 -0500'>
-<title>Espacio Contratado</title>
-<desc>Espacio que promueve la producción independiente.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250822180000 -0500' stop='20250822184500 -0500'>
-<title>La ciencia de lo absurdo</title>
-<desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250822184500 -0500' stop='20250822193000 -0500'>
-<title>Sin Rodeos con Eloy Calle</title>
-<desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250822193000 -0500' stop='20250822200000 -0500'>
-<title>Full Deportes</title>
-<desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250822200000 -0500' stop='20250822210000 -0500'>
-<title>Noticiero Telenoticias</title>
-<desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250822210000 -0500' stop='20250822220000 -0500'>
-<title>Espacio Contratado</title>
-<desc>Espacio que promueve la producción independiente.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250822220000 -0500' stop='20250822221500 -0500'>
-<title>TV Tienda</title>
-<desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250822221500 -0500' stop='20250823001500 -0500'>
-<title>Peliculas Varias</title>
-<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250823001500 -0500' stop='20250823020000 -0500'>
-<title>Peliculas Varias</title>
-<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250823020000 -0500' stop='20250823040000 -0500'>
-<title>Peliculas Varias</title>
-<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250823040000 -0500' stop='20250823060000 -0500'>
-<title>Peliculas Varias</title>
-<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250823060000 -0500' stop='20250823063000 -0500'>
-<title>Música Concierto</title>
-<desc>Espacio dedicado para que disfrutes de los mejores conciertos que se vivieron en nueustra provincia.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250823063000 -0500' stop='20250823070000 -0500'>
-<title>Espacio Contratado</title>
-<desc>Espacio que promueve la producción independiente.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250823070000 -0500' stop='20250823073000 -0500'>
-<title>Bloopers</title>
-<desc>Bloopers es una mirada a las vidas de personas que han tenido contratiempos hilarantes y errores súper graciosos.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12002' start='20250823073000 -0500' stop='20250823074500 -0500'>
-<title>TV Tienda</title>
-<desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
-<category>Informativo</category>
-</programme>
-<programme channel='12002' start='20250823074500 -0500' stop='20250823080000 -0500'>
+<programme channel='12002' start='20250906074500 -0500' stop='20250906080000 -0500'>
 <title>Ben 10</title>
 <desc>Ben 10 cuenta las aventuras de Ben Tennyson, un niño normal de diez años que descubre en sus vacaciones de verano un extraño reloj extraterrestre dentro de un meteorito que chocó contra la Tierra.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250823080000 -0500' stop='20250823090000 -0500'>
+<programme channel='12002' start='20250906080000 -0500' stop='20250906090000 -0500'>
 <title>Los Picapiedra</title>
 <desc>La acción tiene lugar en la Edad de Piedra,en un pueblo llamado Piedradura ("Bedrock"), pero presenta una sociedad idéntica a la americana de mediados del siglo pasado.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250823090000 -0500' stop='20250823100000 -0500'>
+<programme channel='12002' start='20250906090000 -0500' stop='20250906100000 -0500'>
 <title>Viva Jesús</title>
 <desc>Jesucristo pasa de nacer en un pesebre a ser proclamado Rey de los judíos. Camina por donde Él caminó, ve lo que hizo y párate donde murió. Lo que lo convirtió en algo más que un hombre a los ojos de algunos, pero un impostor para otros.</desc>
 <category>Religioso</category>
 </programme>
-<programme channel='12002' start='20250823100000 -0500' stop='20250823110000 -0500'>
+<programme channel='12002' start='20250906100000 -0500' stop='20250906110000 -0500'>
 <title>Ripley's Believe It or Not!</title>
 <desc>Las aventuras del explorador Michael Ripley quedaron plasmadas en esta serie animada basada en el popular artículo de periódico y en programas de televisión de acción real.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250823110000 -0500' stop='20250823114500 -0500'>
+<programme channel='12002' start='20250906110000 -0500' stop='20250906114500 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250823114500 -0500' stop='20250823120000 -0500'>
+<programme channel='12002' start='20250906114500 -0500' stop='20250906120000 -0500'>
 <title>Bloopers</title>
 <desc>Bloopers es una mirada a las vidas de personas que han tenido contratiempos hilarantes y errores súper graciosos.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250823120000 -0500' stop='20250823140000 -0500'>
+<programme channel='12002' start='20250906120000 -0500' stop='20250906140000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250823140000 -0500' stop='20250823150000 -0500'>
+<programme channel='12002' start='20250906140000 -0500' stop='20250906150000 -0500'>
 <title>Night Light</title>
 <desc>Seo Yi Kyung (Lee Yo Won) de manera ambiciosa quiere construir su propio imperio. Ella es calmada y está llena de pasión, además cree que la ambición no es un pecado. Park Gun Woo (Jin Goo) es bien parecido y proviene de una familia adinerada que además posee una de las compañías más grandes. Seo Yi Kyung fue su primer amor y él todavía la ama.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250823150000 -0500' stop='20250823151500 -0500'>
+<programme channel='12002' start='20250906150000 -0500' stop='20250906151500 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250823151500 -0500' stop='20250823163000 -0500'>
+<programme channel='12002' start='20250906151500 -0500' stop='20250906163000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250823163000 -0500' stop='20250823170000 -0500'>
+<programme channel='12002' start='20250906163000 -0500' stop='20250906170000 -0500'>
 <title>Victorious</title>
 <desc>El caos empieza a reinar en la vida de Tori Vega, cuando con 16 años es admitida en un nuevo instituto. Pero no en uno cualquiera, sino Hollywood Arts, una escuela de artes escénicas donde locos con talento estudian para convertirse en verdaderos artistas. Hasta ahora, Tori no creía tener mucho talento, y se contentaba con vivir a la sombra de su hermana mayor, Trina.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250823170000 -0500' stop='20250823190000 -0500'>
+<programme channel='12002' start='20250906170000 -0500' stop='20250906190000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250823190000 -0500' stop='20250823193000 -0500'>
+<programme channel='12002' start='20250906190000 -0500' stop='20250906193000 -0500'>
 <title>Pasión Tuerca</title>
 <desc>Pasión Tuerca transmite eventos automovilisticos del Austro Ecuatoriano y a nivel Nacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250823193000 -0500' stop='20250823201500 -0500'>
+<programme channel='12002' start='20250906193000 -0500' stop='20250906201500 -0500'>
 <title>Bones</title>
 <desc>Una antropóloga forense y un engreído agente del FBI forman equipo para investigar las causas de los homicidios que investigan.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250823201500 -0500' stop='20250823210000 -0500'>
+<programme channel='12002' start='20250906201500 -0500' stop='20250906210000 -0500'>
 <title>Austral Clips</title>
 <desc>Espacio dedicado para que disfrutes de música de todos los tiempos.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250823210000 -0500' stop='20250823220000 -0500'>
+<programme channel='12002' start='20250906210000 -0500' stop='20250906220000 -0500'>
 <title>Espacio Contratado</title>
 <desc>Espacio que promueve la producción independiente.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250823220000 -0500' stop='20250824001500 -0500'>
+<programme channel='12002' start='20250906220000 -0500' stop='20250907001500 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250824001500 -0500' stop='20250824020000 -0500'>
+<programme channel='12002' start='20250907001500 -0500' stop='20250907020000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250824020000 -0500' stop='20250824040000 -0500'>
+<programme channel='12002' start='20250907020000 -0500' stop='20250907040000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250824040000 -0500' stop='20250824060000 -0500'>
+<programme channel='12002' start='20250907040000 -0500' stop='20250907060000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250824060000 -0500' stop='20250824063000 -0500'>
+<programme channel='12002' start='20250907060000 -0500' stop='20250907063000 -0500'>
 <title>Música Concierto</title>
 <desc>Espacio dedicado para que disfrutes de los mejores conciertos que se vivieron en nueustra provincia.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250824063000 -0500' stop='20250824070000 -0500'>
+<programme channel='12002' start='20250907063000 -0500' stop='20250907070000 -0500'>
 <title>Espacio Contratado</title>
 <desc>Espacio que promueve la producción independiente.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250824070000 -0500' stop='20250824073000 -0500'>
+<programme channel='12002' start='20250907070000 -0500' stop='20250907073000 -0500'>
 <title>Bloopers</title>
 <desc>Bloopers es una mirada a las vidas de personas que han tenido contratiempos hilarantes y errores súper graciosos.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250824073000 -0500' stop='20250824074500 -0500'>
+<programme channel='12002' start='20250907073000 -0500' stop='20250907074500 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250824074500 -0500' stop='20250824080000 -0500'>
+<programme channel='12002' start='20250907074500 -0500' stop='20250907080000 -0500'>
 <title>Ben 10</title>
 <desc>Ben 10 cuenta las aventuras de Ben Tennyson, un niño normal de diez años que descubre en sus vacaciones de verano un extraño reloj extraterrestre dentro de un meteorito que chocó contra la Tierra.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250824080000 -0500' stop='20250824090000 -0500'>
+<programme channel='12002' start='20250907080000 -0500' stop='20250907090000 -0500'>
 <title>Los Picapiedra</title>
 <desc>La acción tiene lugar en la Edad de Piedra,en un pueblo llamado Piedradura ("Bedrock"), pero presenta una sociedad idéntica a la americana de mediados del siglo pasado.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250824090000 -0500' stop='20250824100000 -0500'>
+<programme channel='12002' start='20250907090000 -0500' stop='20250907100000 -0500'>
 <title>Misa Dominical</title>
 <desc>La Eucaristía dominical convoca a la asamblea cristiana para dar gracias a Dios, escuchar la Palabra de Dios y alimentarse de la Eucaristía.</desc>
 <category>Religioso</category>
 </programme>
-<programme channel='12002' start='20250824100000 -0500' stop='20250824110000 -0500'>
+<programme channel='12002' start='20250907100000 -0500' stop='20250907110000 -0500'>
 <title>Ripley's Believe It or Not!</title>
 <desc>Las aventuras del explorador Michael Ripley quedaron plasmadas en esta serie animada basada en el popular artículo de periódico y en programas de televisión de acción real.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250824110000 -0500' stop='20250824114500 -0500'>
+<programme channel='12002' start='20250907110000 -0500' stop='20250907114500 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250824114500 -0500' stop='20250824120000 -0500'>
+<programme channel='12002' start='20250907114500 -0500' stop='20250907120000 -0500'>
 <title>Bloopers</title>
 <desc>Bloopers es una mirada a las vidas de personas que han tenido contratiempos hilarantes y errores súper graciosos.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250824120000 -0500' stop='20250824140000 -0500'>
+<programme channel='12002' start='20250907120000 -0500' stop='20250907140000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250824140000 -0500' stop='20250824150000 -0500'>
+<programme channel='12002' start='20250907140000 -0500' stop='20250907150000 -0500'>
 <title>Night Light</title>
 <desc>Seo Yi Kyung (Lee Yo Won) de manera ambiciosa quiere construir su propio imperio. Ella es calmada y está llena de pasión, además cree que la ambición no es un pecado. Park Gun Woo (Jin Goo) es bien parecido y proviene de una familia adinerada que además posee una de las compañías más grandes. Seo Yi Kyung fue su primer amor y él todavía la ama.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250824150000 -0500' stop='20250824151500 -0500'>
+<programme channel='12002' start='20250907150000 -0500' stop='20250907151500 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250824151500 -0500' stop='20250824163000 -0500'>
+<programme channel='12002' start='20250907151500 -0500' stop='20250907163000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250824163000 -0500' stop='20250824170000 -0500'>
+<programme channel='12002' start='20250907163000 -0500' stop='20250907170000 -0500'>
 <title>Victorious</title>
 <desc>El caos empieza a reinar en la vida de Tori Vega, cuando con 16 años es admitida en un nuevo instituto. Pero no en uno cualquiera, sino Hollywood Arts, una escuela de artes escénicas donde locos con talento estudian para convertirse en verdaderos artistas. Hasta ahora, Tori no creía tener mucho talento, y se contentaba con vivir a la sombra de su hermana mayor, Trina.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250824170000 -0500' stop='20250824190000 -0500'>
+<programme channel='12002' start='20250907170000 -0500' stop='20250907190000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250824190000 -0500' stop='20250824193000 -0500'>
+<programme channel='12002' start='20250907190000 -0500' stop='20250907193000 -0500'>
 <title>Sin Rodeos con Eloy Calle</title>
 <desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250824193000 -0500' stop='20250824201500 -0500'>
+<programme channel='12002' start='20250907193000 -0500' stop='20250907201500 -0500'>
 <title>Bones</title>
 <desc>Una antropóloga forense y un engreído agente del FBI forman equipo para investigar las causas de los homicidios que investigan.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250824201500 -0500' stop='20250824210000 -0500'>
+<programme channel='12002' start='20250907201500 -0500' stop='20250907210000 -0500'>
 <title>Austral Clips</title>
 <desc>Espacio dedicado para que disfrutes de música de todos los tiempos.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250824210000 -0500' stop='20250824220000 -0500'>
+<programme channel='12002' start='20250907210000 -0500' stop='20250907220000 -0500'>
 <title>Espacio Contratado</title>
 <desc>Espacio que promueve la producción independiente.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250824220000 -0500' stop='20250825001500 -0500'>
+<programme channel='12002' start='20250907220000 -0500' stop='20250908001500 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250825001500 -0500' stop='20250825020000 -0500'>
+<programme channel='12002' start='20250908001500 -0500' stop='20250908020000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250825020000 -0500' stop='20250825040000 -0500'>
+<programme channel='12002' start='20250908020000 -0500' stop='20250908040000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250825040000 -0500' stop='20250825060000 -0500'>
+<programme channel='12002' start='20250908040000 -0500' stop='20250908060000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250825060000 -0500' stop='20250825063000 -0500'>
+<programme channel='12002' start='20250908060000 -0500' stop='20250908063000 -0500'>
 <title>Música Concierto</title>
 <desc>Espacio dedicado para que disfrutes de los mejores conciertos que se vivieron en nueustra provincia.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250825063000 -0500' stop='20250825070000 -0500'>
+<programme channel='12002' start='20250908063000 -0500' stop='20250908070000 -0500'>
 <title>Espacio Contratado</title>
 <desc>Espacio que promueve la producción independiente.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250825070000 -0500' stop='20250825080000 -0500'>
+<programme channel='12002' start='20250908070000 -0500' stop='20250908080000 -0500'>
 <title>Smallville</title>
 <desc>Serie que narra los inicios de Superman -Clark Kent- en su pueblo natal, Smallville. Allí vivía con sus padres, estudiaba en el instituto local y conoció a su primera novia, Lana Lang, y a su futuro rival, Lex Luthor.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250825080000 -0500' stop='20250825090000 -0500'>
+<programme channel='12002' start='20250908080000 -0500' stop='20250908090000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250825090000 -0500' stop='20250825091500 -0500'>
+<programme channel='12002' start='20250908090000 -0500' stop='20250908091500 -0500'>
 <title>Animaciones Varias</title>
 <desc>Programa infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250825091500 -0500' stop='20250825093000 -0500'>
+<programme channel='12002' start='20250908091500 -0500' stop='20250908093000 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250825093000 -0500' stop='20250825101500 -0500'>
+<programme channel='12002' start='20250908093000 -0500' stop='20250908101500 -0500'>
 <title>Arrow</title>
 <desc>Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250825101500 -0500' stop='20250825120000 -0500'>
+<programme channel='12002' start='20250908101500 -0500' stop='20250908120000 -0500'>
 <title>Cine General</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250825120000 -0500' stop='20250825121500 -0500'>
+<programme channel='12002' start='20250908120000 -0500' stop='20250908121500 -0500'>
 <title>Austral Clips</title>
 <desc>Espacio dedicado para que disfrutes de música de todos los tiempos.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250825121500 -0500' stop='20250825130000 -0500'>
+<programme channel='12002' start='20250908121500 -0500' stop='20250908130000 -0500'>
 <title>Noticiero Telenoticias</title>
 <desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250825130000 -0500' stop='20250825134500 -0500'>
+<programme channel='12002' start='20250908130000 -0500' stop='20250908134500 -0500'>
 <title>Teresa</title>
 <desc>Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250825134500 -0500' stop='20250825151500 -0500'>
+<programme channel='12002' start='20250908134500 -0500' stop='20250908151500 -0500'>
 <title>Música Nacional</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250825151500 -0500' stop='20250825160000 -0500'>
+<programme channel='12002' start='20250908151500 -0500' stop='20250908160000 -0500'>
 <title>MacGyver</title>
 <desc>La serie gira en torno a las misiones que realiza el personaje principal Angus MacGyver para distintas instituciones, sobre todo para la Fundación Phoenix. En la serie, MacGyver resuelve todos los problemas que se le plantean haciendo uso de su gran inteligencia, su conocimiento académico en ciencias e ingeniería y su habilidad para la construcción de herramientas con elementos cotidianos de su entorno.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250825160000 -0500' stop='20250825163000 -0500'>
+<programme channel='12002' start='20250908160000 -0500' stop='20250908163000 -0500'>
 <title>Dos hombres y medio</title>
 <desc>Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250825163000 -0500' stop='20250825170000 -0500'>
+<programme channel='12002' start='20250908163000 -0500' stop='20250908170000 -0500'>
 <title>La Rosa de Guadalupe</title>
 <desc>La rosa de Guadalupe es una serie de televisión mexicana creado por Carlos Mercado Orduña, alusiva a la religión católica en específico a la Virgen de Guadalupe.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250825170000 -0500' stop='20250825174500 -0500'>
+<programme channel='12002' start='20250908170000 -0500' stop='20250908174500 -0500'>
 <title>Porque el Amor Manda</title>
 <desc>Jesús García es un hombre honrado que deja su natal Monterrey para buscar un mejor futuro en Chicago. Después de vivir seis años como inmigrante, decide volver a México para encontrar a Valentina, su hija.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250825174500 -0500' stop='20250825180000 -0500'>
+<programme channel='12002' start='20250908174500 -0500' stop='20250908180000 -0500'>
 <title>Espacio Contratado</title>
 <desc>Espacio que promueve la producción independiente.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250825180000 -0500' stop='20250825184500 -0500'>
+<programme channel='12002' start='20250908180000 -0500' stop='20250908184500 -0500'>
 <title>La ciencia de lo absurdo</title>
 <desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250825184500 -0500' stop='20250825193000 -0500'>
+<programme channel='12002' start='20250908184500 -0500' stop='20250908193000 -0500'>
 <title>Sin Rodeos con Eloy Calle</title>
 <desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250825193000 -0500' stop='20250825200000 -0500'>
+<programme channel='12002' start='20250908193000 -0500' stop='20250908200000 -0500'>
 <title>Full Deportes</title>
 <desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250825200000 -0500' stop='20250825210000 -0500'>
+<programme channel='12002' start='20250908200000 -0500' stop='20250908210000 -0500'>
 <title>Noticiero Telenoticias</title>
 <desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250825210000 -0500' stop='20250825220000 -0500'>
+<programme channel='12002' start='20250908210000 -0500' stop='20250908220000 -0500'>
 <title>Espacio Contratado</title>
 <desc>Espacio que promueve la producción independiente.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250825220000 -0500' stop='20250825221500 -0500'>
+<programme channel='12002' start='20250908220000 -0500' stop='20250908221500 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250825221500 -0500' stop='20250826001500 -0500'>
+<programme channel='12002' start='20250908221500 -0500' stop='20250909001500 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250826001500 -0500' stop='20250826020000 -0500'>
+<programme channel='12002' start='20250909001500 -0500' stop='20250909020000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250826020000 -0500' stop='20250826040000 -0500'>
+<programme channel='12002' start='20250909020000 -0500' stop='20250909040000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250826040000 -0500' stop='20250826060000 -0500'>
+<programme channel='12002' start='20250909040000 -0500' stop='20250909060000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250826060000 -0500' stop='20250826063000 -0500'>
+<programme channel='12002' start='20250909060000 -0500' stop='20250909063000 -0500'>
 <title>Música Concierto</title>
 <desc>Espacio dedicado para que disfrutes de los mejores conciertos que se vivieron en nueustra provincia.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250826063000 -0500' stop='20250826070000 -0500'>
+<programme channel='12002' start='20250909063000 -0500' stop='20250909070000 -0500'>
 <title>Espacio Contratado</title>
 <desc>Espacio que promueve la producción independiente.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250826070000 -0500' stop='20250826080000 -0500'>
+<programme channel='12002' start='20250909070000 -0500' stop='20250909080000 -0500'>
 <title>Smallville</title>
 <desc>Serie que narra los inicios de Superman -Clark Kent- en su pueblo natal, Smallville. Allí vivía con sus padres, estudiaba en el instituto local y conoció a su primera novia, Lana Lang, y a su futuro rival, Lex Luthor.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250826080000 -0500' stop='20250826090000 -0500'>
+<programme channel='12002' start='20250909080000 -0500' stop='20250909090000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250826090000 -0500' stop='20250826091500 -0500'>
+<programme channel='12002' start='20250909090000 -0500' stop='20250909091500 -0500'>
 <title>Animaciones Varias</title>
 <desc>Programa infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250826091500 -0500' stop='20250826093000 -0500'>
+<programme channel='12002' start='20250909091500 -0500' stop='20250909093000 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250826093000 -0500' stop='20250826101500 -0500'>
+<programme channel='12002' start='20250909093000 -0500' stop='20250909101500 -0500'>
 <title>Arrow</title>
 <desc>Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250826101500 -0500' stop='20250826120000 -0500'>
+<programme channel='12002' start='20250909101500 -0500' stop='20250909120000 -0500'>
 <title>Cine General</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250826120000 -0500' stop='20250826121500 -0500'>
+<programme channel='12002' start='20250909120000 -0500' stop='20250909121500 -0500'>
 <title>Austral Clips</title>
 <desc>Espacio dedicado para que disfrutes de música de todos los tiempos.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250826121500 -0500' stop='20250826130000 -0500'>
+<programme channel='12002' start='20250909121500 -0500' stop='20250909130000 -0500'>
 <title>Noticiero Telenoticias</title>
 <desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250826130000 -0500' stop='20250826134500 -0500'>
+<programme channel='12002' start='20250909130000 -0500' stop='20250909134500 -0500'>
 <title>Teresa</title>
 <desc>Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250826134500 -0500' stop='20250826151500 -0500'>
+<programme channel='12002' start='20250909134500 -0500' stop='20250909151500 -0500'>
 <title>Música Nacional</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250826151500 -0500' stop='20250826160000 -0500'>
+<programme channel='12002' start='20250909151500 -0500' stop='20250909160000 -0500'>
 <title>MacGyver</title>
 <desc>La serie gira en torno a las misiones que realiza el personaje principal Angus MacGyver para distintas instituciones, sobre todo para la Fundación Phoenix. En la serie, MacGyver resuelve todos los problemas que se le plantean haciendo uso de su gran inteligencia, su conocimiento académico en ciencias e ingeniería y su habilidad para la construcción de herramientas con elementos cotidianos de su entorno.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250826160000 -0500' stop='20250826163000 -0500'>
+<programme channel='12002' start='20250909160000 -0500' stop='20250909163000 -0500'>
 <title>Dos hombres y medio</title>
 <desc>Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250826163000 -0500' stop='20250826170000 -0500'>
+<programme channel='12002' start='20250909163000 -0500' stop='20250909170000 -0500'>
 <title>La Rosa de Guadalupe</title>
 <desc>La rosa de Guadalupe es una serie de televisión mexicana creado por Carlos Mercado Orduña, alusiva a la religión católica en específico a la Virgen de Guadalupe.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250826170000 -0500' stop='20250826174500 -0500'>
+<programme channel='12002' start='20250909170000 -0500' stop='20250909174500 -0500'>
 <title>Porque el Amor Manda</title>
 <desc>Jesús García es un hombre honrado que deja su natal Monterrey para buscar un mejor futuro en Chicago. Después de vivir seis años como inmigrante, decide volver a México para encontrar a Valentina, su hija.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250826174500 -0500' stop='20250826180000 -0500'>
+<programme channel='12002' start='20250909174500 -0500' stop='20250909180000 -0500'>
 <title>Espacio Contratado</title>
 <desc>Espacio que promueve la producción independiente.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250826180000 -0500' stop='20250826184500 -0500'>
+<programme channel='12002' start='20250909180000 -0500' stop='20250909184500 -0500'>
 <title>La ciencia de lo absurdo</title>
 <desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250826184500 -0500' stop='20250826193000 -0500'>
+<programme channel='12002' start='20250909184500 -0500' stop='20250909193000 -0500'>
 <title>Sin Rodeos con Eloy Calle</title>
 <desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250826193000 -0500' stop='20250826200000 -0500'>
+<programme channel='12002' start='20250909193000 -0500' stop='20250909200000 -0500'>
 <title>Full Deportes</title>
 <desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250826200000 -0500' stop='20250826210000 -0500'>
+<programme channel='12002' start='20250909200000 -0500' stop='20250909210000 -0500'>
 <title>Noticiero Telenoticias</title>
 <desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250826210000 -0500' stop='20250826220000 -0500'>
+<programme channel='12002' start='20250909210000 -0500' stop='20250909220000 -0500'>
 <title>Espacio Contratado</title>
 <desc>Espacio que promueve la producción independiente.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250826220000 -0500' stop='20250826221500 -0500'>
+<programme channel='12002' start='20250909220000 -0500' stop='20250909221500 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250826221500 -0500' stop='20250827001500 -0500'>
+<programme channel='12002' start='20250909221500 -0500' stop='20250910001500 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250827001500 -0500' stop='20250827020000 -0500'>
+<programme channel='12002' start='20250910001500 -0500' stop='20250910020000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250827020000 -0500' stop='20250827040000 -0500'>
+<programme channel='12002' start='20250910020000 -0500' stop='20250910040000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250827040000 -0500' stop='20250827060000 -0500'>
+<programme channel='12002' start='20250910040000 -0500' stop='20250910060000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250827060000 -0500' stop='20250827063000 -0500'>
+<programme channel='12002' start='20250910060000 -0500' stop='20250910063000 -0500'>
 <title>Música Concierto</title>
 <desc>Espacio dedicado para que disfrutes de los mejores conciertos que se vivieron en nueustra provincia.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250827063000 -0500' stop='20250827070000 -0500'>
+<programme channel='12002' start='20250910063000 -0500' stop='20250910070000 -0500'>
 <title>Espacio Contratado</title>
 <desc>Espacio que promueve la producción independiente.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250827070000 -0500' stop='20250827080000 -0500'>
+<programme channel='12002' start='20250910070000 -0500' stop='20250910080000 -0500'>
 <title>Smallville</title>
 <desc>Serie que narra los inicios de Superman -Clark Kent- en su pueblo natal, Smallville. Allí vivía con sus padres, estudiaba en el instituto local y conoció a su primera novia, Lana Lang, y a su futuro rival, Lex Luthor.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250827080000 -0500' stop='20250827090000 -0500'>
+<programme channel='12002' start='20250910080000 -0500' stop='20250910090000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250827090000 -0500' stop='20250827091500 -0500'>
+<programme channel='12002' start='20250910090000 -0500' stop='20250910091500 -0500'>
 <title>Animaciones Varias</title>
 <desc>Programa infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250827091500 -0500' stop='20250827093000 -0500'>
+<programme channel='12002' start='20250910091500 -0500' stop='20250910093000 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250827093000 -0500' stop='20250827101500 -0500'>
+<programme channel='12002' start='20250910093000 -0500' stop='20250910101500 -0500'>
 <title>Arrow</title>
 <desc>Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250827101500 -0500' stop='20250827120000 -0500'>
+<programme channel='12002' start='20250910101500 -0500' stop='20250910120000 -0500'>
 <title>Cine General</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250827120000 -0500' stop='20250827121500 -0500'>
+<programme channel='12002' start='20250910120000 -0500' stop='20250910121500 -0500'>
 <title>Austral Clips</title>
 <desc>Espacio dedicado para que disfrutes de música de todos los tiempos.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250827121500 -0500' stop='20250827130000 -0500'>
+<programme channel='12002' start='20250910121500 -0500' stop='20250910130000 -0500'>
 <title>Noticiero Telenoticias</title>
 <desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250827130000 -0500' stop='20250827134500 -0500'>
+<programme channel='12002' start='20250910130000 -0500' stop='20250910134500 -0500'>
 <title>Teresa</title>
 <desc>Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250827134500 -0500' stop='20250827151500 -0500'>
+<programme channel='12002' start='20250910134500 -0500' stop='20250910151500 -0500'>
 <title>Música Nacional</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250827151500 -0500' stop='20250827160000 -0500'>
+<programme channel='12002' start='20250910151500 -0500' stop='20250910160000 -0500'>
 <title>MacGyver</title>
 <desc>La serie gira en torno a las misiones que realiza el personaje principal Angus MacGyver para distintas instituciones, sobre todo para la Fundación Phoenix. En la serie, MacGyver resuelve todos los problemas que se le plantean haciendo uso de su gran inteligencia, su conocimiento académico en ciencias e ingeniería y su habilidad para la construcción de herramientas con elementos cotidianos de su entorno.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250827160000 -0500' stop='20250827163000 -0500'>
+<programme channel='12002' start='20250910160000 -0500' stop='20250910163000 -0500'>
 <title>Dos hombres y medio</title>
 <desc>Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250827163000 -0500' stop='20250827170000 -0500'>
+<programme channel='12002' start='20250910163000 -0500' stop='20250910170000 -0500'>
 <title>La Rosa de Guadalupe</title>
 <desc>La rosa de Guadalupe es una serie de televisión mexicana creado por Carlos Mercado Orduña, alusiva a la religión católica en específico a la Virgen de Guadalupe.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250827170000 -0500' stop='20250827174500 -0500'>
+<programme channel='12002' start='20250910170000 -0500' stop='20250910174500 -0500'>
 <title>Porque el Amor Manda</title>
 <desc>Jesús García es un hombre honrado que deja su natal Monterrey para buscar un mejor futuro en Chicago. Después de vivir seis años como inmigrante, decide volver a México para encontrar a Valentina, su hija.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250827174500 -0500' stop='20250827180000 -0500'>
+<programme channel='12002' start='20250910174500 -0500' stop='20250910180000 -0500'>
 <title>Espacio Contratado</title>
 <desc>Espacio que promueve la producción independiente.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250827180000 -0500' stop='20250827184500 -0500'>
+<programme channel='12002' start='20250910180000 -0500' stop='20250910184500 -0500'>
 <title>La ciencia de lo absurdo</title>
 <desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250827184500 -0500' stop='20250827193000 -0500'>
+<programme channel='12002' start='20250910184500 -0500' stop='20250910193000 -0500'>
 <title>Sin Rodeos con Eloy Calle</title>
 <desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250827193000 -0500' stop='20250827200000 -0500'>
+<programme channel='12002' start='20250910193000 -0500' stop='20250910200000 -0500'>
 <title>Full Deportes</title>
 <desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250827200000 -0500' stop='20250827210000 -0500'>
+<programme channel='12002' start='20250910200000 -0500' stop='20250910210000 -0500'>
 <title>Noticiero Telenoticias</title>
 <desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250827210000 -0500' stop='20250827220000 -0500'>
+<programme channel='12002' start='20250910210000 -0500' stop='20250910220000 -0500'>
 <title>Espacio Contratado</title>
 <desc>Espacio que promueve la producción independiente.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250827220000 -0500' stop='20250827221500 -0500'>
+<programme channel='12002' start='20250910220000 -0500' stop='20250910221500 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250827221500 -0500' stop='20250828001500 -0500'>
+<programme channel='12002' start='20250910221500 -0500' stop='20250911001500 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250828001500 -0500' stop='20250828020000 -0500'>
+<programme channel='12002' start='20250911001500 -0500' stop='20250911020000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250828020000 -0500' stop='20250828040000 -0500'>
+<programme channel='12002' start='20250911020000 -0500' stop='20250911040000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250828040000 -0500' stop='20250828060000 -0500'>
+<programme channel='12002' start='20250911040000 -0500' stop='20250911060000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250828060000 -0500' stop='20250828063000 -0500'>
+<programme channel='12002' start='20250911060000 -0500' stop='20250911063000 -0500'>
 <title>Música Concierto</title>
 <desc>Espacio dedicado para que disfrutes de los mejores conciertos que se vivieron en nueustra provincia.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250828063000 -0500' stop='20250828070000 -0500'>
+<programme channel='12002' start='20250911063000 -0500' stop='20250911070000 -0500'>
 <title>Espacio Contratado</title>
 <desc>Espacio que promueve la producción independiente.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250828070000 -0500' stop='20250828080000 -0500'>
+<programme channel='12002' start='20250911070000 -0500' stop='20250911080000 -0500'>
 <title>Smallville</title>
 <desc>Serie que narra los inicios de Superman -Clark Kent- en su pueblo natal, Smallville. Allí vivía con sus padres, estudiaba en el instituto local y conoció a su primera novia, Lana Lang, y a su futuro rival, Lex Luthor.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250828080000 -0500' stop='20250828090000 -0500'>
+<programme channel='12002' start='20250911080000 -0500' stop='20250911090000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250828090000 -0500' stop='20250828091500 -0500'>
+<programme channel='12002' start='20250911090000 -0500' stop='20250911091500 -0500'>
 <title>Animaciones Varias</title>
 <desc>Programa infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250828091500 -0500' stop='20250828093000 -0500'>
+<programme channel='12002' start='20250911091500 -0500' stop='20250911093000 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250828093000 -0500' stop='20250828101500 -0500'>
+<programme channel='12002' start='20250911093000 -0500' stop='20250911101500 -0500'>
 <title>Arrow</title>
 <desc>Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250828101500 -0500' stop='20250828120000 -0500'>
+<programme channel='12002' start='20250911101500 -0500' stop='20250911120000 -0500'>
 <title>Cine General</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250828120000 -0500' stop='20250828121500 -0500'>
+<programme channel='12002' start='20250911120000 -0500' stop='20250911121500 -0500'>
 <title>Austral Clips</title>
 <desc>Espacio dedicado para que disfrutes de música de todos los tiempos.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250828121500 -0500' stop='20250828130000 -0500'>
+<programme channel='12002' start='20250911121500 -0500' stop='20250911130000 -0500'>
 <title>Noticiero Telenoticias</title>
 <desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250828130000 -0500' stop='20250828134500 -0500'>
+<programme channel='12002' start='20250911130000 -0500' stop='20250911134500 -0500'>
 <title>Teresa</title>
 <desc>Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250828134500 -0500' stop='20250828151500 -0500'>
+<programme channel='12002' start='20250911134500 -0500' stop='20250911151500 -0500'>
 <title>Música Nacional</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250828151500 -0500' stop='20250828160000 -0500'>
+<programme channel='12002' start='20250911151500 -0500' stop='20250911160000 -0500'>
 <title>MacGyver</title>
 <desc>La serie gira en torno a las misiones que realiza el personaje principal Angus MacGyver para distintas instituciones, sobre todo para la Fundación Phoenix. En la serie, MacGyver resuelve todos los problemas que se le plantean haciendo uso de su gran inteligencia, su conocimiento académico en ciencias e ingeniería y su habilidad para la construcción de herramientas con elementos cotidianos de su entorno.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250828160000 -0500' stop='20250828163000 -0500'>
+<programme channel='12002' start='20250911160000 -0500' stop='20250911163000 -0500'>
 <title>Dos hombres y medio</title>
 <desc>Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250828163000 -0500' stop='20250828170000 -0500'>
+<programme channel='12002' start='20250911163000 -0500' stop='20250911170000 -0500'>
 <title>La Rosa de Guadalupe</title>
 <desc>La rosa de Guadalupe es una serie de televisión mexicana creado por Carlos Mercado Orduña, alusiva a la religión católica en específico a la Virgen de Guadalupe.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250828170000 -0500' stop='20250828174500 -0500'>
+<programme channel='12002' start='20250911170000 -0500' stop='20250911174500 -0500'>
 <title>Porque el Amor Manda</title>
 <desc>Jesús García es un hombre honrado que deja su natal Monterrey para buscar un mejor futuro en Chicago. Después de vivir seis años como inmigrante, decide volver a México para encontrar a Valentina, su hija.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250828174500 -0500' stop='20250828180000 -0500'>
+<programme channel='12002' start='20250911174500 -0500' stop='20250911180000 -0500'>
 <title>Espacio Contratado</title>
 <desc>Espacio que promueve la producción independiente.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250828180000 -0500' stop='20250828184500 -0500'>
+<programme channel='12002' start='20250911180000 -0500' stop='20250911184500 -0500'>
 <title>La ciencia de lo absurdo</title>
 <desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250828184500 -0500' stop='20250828193000 -0500'>
+<programme channel='12002' start='20250911184500 -0500' stop='20250911193000 -0500'>
 <title>Sin Rodeos con Eloy Calle</title>
 <desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250828193000 -0500' stop='20250828200000 -0500'>
+<programme channel='12002' start='20250911193000 -0500' stop='20250911200000 -0500'>
 <title>Full Deportes</title>
 <desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250828200000 -0500' stop='20250828210000 -0500'>
+<programme channel='12002' start='20250911200000 -0500' stop='20250911210000 -0500'>
 <title>Noticiero Telenoticias</title>
 <desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250828210000 -0500' stop='20250828220000 -0500'>
+<programme channel='12002' start='20250911210000 -0500' stop='20250911220000 -0500'>
 <title>Espacio Contratado</title>
 <desc>Espacio que promueve la producción independiente.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250828220000 -0500' stop='20250828221500 -0500'>
+<programme channel='12002' start='20250911220000 -0500' stop='20250911221500 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250828221500 -0500' stop='20250829001500 -0500'>
+<programme channel='12002' start='20250911221500 -0500' stop='20250912001500 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250829001500 -0500' stop='20250829020000 -0500'>
+<programme channel='12002' start='20250912001500 -0500' stop='20250912020000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250829020000 -0500' stop='20250829040000 -0500'>
+<programme channel='12002' start='20250912020000 -0500' stop='20250912040000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250829040000 -0500' stop='20250829060000 -0500'>
+<programme channel='12002' start='20250912040000 -0500' stop='20250912060000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250829060000 -0500' stop='20250829063000 -0500'>
+<programme channel='12002' start='20250912060000 -0500' stop='20250912063000 -0500'>
 <title>Música Concierto</title>
 <desc>Espacio dedicado para que disfrutes de los mejores conciertos que se vivieron en nueustra provincia.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250829063000 -0500' stop='20250829070000 -0500'>
+<programme channel='12002' start='20250912063000 -0500' stop='20250912070000 -0500'>
 <title>Espacio Contratado</title>
 <desc>Espacio que promueve la producción independiente.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250829070000 -0500' stop='20250829080000 -0500'>
+<programme channel='12002' start='20250912070000 -0500' stop='20250912080000 -0500'>
 <title>Smallville</title>
 <desc>Serie que narra los inicios de Superman -Clark Kent- en su pueblo natal, Smallville. Allí vivía con sus padres, estudiaba en el instituto local y conoció a su primera novia, Lana Lang, y a su futuro rival, Lex Luthor.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250829080000 -0500' stop='20250829090000 -0500'>
+<programme channel='12002' start='20250912080000 -0500' stop='20250912090000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250829090000 -0500' stop='20250829091500 -0500'>
+<programme channel='12002' start='20250912090000 -0500' stop='20250912091500 -0500'>
 <title>Animaciones Varias</title>
 <desc>Programa infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250829091500 -0500' stop='20250829093000 -0500'>
+<programme channel='12002' start='20250912091500 -0500' stop='20250912093000 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250829093000 -0500' stop='20250829101500 -0500'>
+<programme channel='12002' start='20250912093000 -0500' stop='20250912101500 -0500'>
 <title>Arrow</title>
 <desc>Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250829101500 -0500' stop='20250829120000 -0500'>
+<programme channel='12002' start='20250912101500 -0500' stop='20250912120000 -0500'>
 <title>Cine General</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250829120000 -0500' stop='20250829121500 -0500'>
+<programme channel='12002' start='20250912120000 -0500' stop='20250912121500 -0500'>
 <title>Austral Clips</title>
 <desc>Espacio dedicado para que disfrutes de música de todos los tiempos.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250829121500 -0500' stop='20250829130000 -0500'>
+<programme channel='12002' start='20250912121500 -0500' stop='20250912130000 -0500'>
 <title>Noticiero Telenoticias</title>
 <desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250829130000 -0500' stop='20250829134500 -0500'>
+<programme channel='12002' start='20250912130000 -0500' stop='20250912134500 -0500'>
 <title>Teresa</title>
 <desc>Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250829134500 -0500' stop='20250829151500 -0500'>
+<programme channel='12002' start='20250912134500 -0500' stop='20250912151500 -0500'>
 <title>Música Nacional</title>
 <desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250829151500 -0500' stop='20250829160000 -0500'>
+<programme channel='12002' start='20250912151500 -0500' stop='20250912160000 -0500'>
 <title>MacGyver</title>
 <desc>La serie gira en torno a las misiones que realiza el personaje principal Angus MacGyver para distintas instituciones, sobre todo para la Fundación Phoenix. En la serie, MacGyver resuelve todos los problemas que se le plantean haciendo uso de su gran inteligencia, su conocimiento académico en ciencias e ingeniería y su habilidad para la construcción de herramientas con elementos cotidianos de su entorno.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250829160000 -0500' stop='20250829163000 -0500'>
+<programme channel='12002' start='20250912160000 -0500' stop='20250912163000 -0500'>
 <title>Dos hombres y medio</title>
 <desc>Charlie Harper es un soltero con dinero que tiene una casa en la playa y gran éxito con las mujeres. Pero su informal estilo de vida en Malibú se ve bruscamente interrumpido cuando su hermano Alan, muy deprimido por su divorcio, y su hijo Jake, llegan para quedarse a vivir con él.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250829163000 -0500' stop='20250829170000 -0500'>
+<programme channel='12002' start='20250912163000 -0500' stop='20250912170000 -0500'>
 <title>La Rosa de Guadalupe</title>
 <desc>La rosa de Guadalupe es una serie de televisión mexicana creado por Carlos Mercado Orduña, alusiva a la religión católica en específico a la Virgen de Guadalupe.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250829170000 -0500' stop='20250829174500 -0500'>
+<programme channel='12002' start='20250912170000 -0500' stop='20250912174500 -0500'>
 <title>Porque el Amor Manda</title>
 <desc>Jesús García es un hombre honrado que deja su natal Monterrey para buscar un mejor futuro en Chicago. Después de vivir seis años como inmigrante, decide volver a México para encontrar a Valentina, su hija.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250829174500 -0500' stop='20250829180000 -0500'>
+<programme channel='12002' start='20250912174500 -0500' stop='20250912180000 -0500'>
 <title>Espacio Contratado</title>
 <desc>Espacio que promueve la producción independiente.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250829180000 -0500' stop='20250829184500 -0500'>
+<programme channel='12002' start='20250912180000 -0500' stop='20250912184500 -0500'>
 <title>La ciencia de lo absurdo</title>
 <desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250829184500 -0500' stop='20250829193000 -0500'>
+<programme channel='12002' start='20250912184500 -0500' stop='20250912193000 -0500'>
 <title>Sin Rodeos con Eloy Calle</title>
 <desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250829193000 -0500' stop='20250829200000 -0500'>
+<programme channel='12002' start='20250912193000 -0500' stop='20250912200000 -0500'>
 <title>Full Deportes</title>
 <desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250829200000 -0500' stop='20250829210000 -0500'>
+<programme channel='12002' start='20250912200000 -0500' stop='20250912210000 -0500'>
 <title>Noticiero Telenoticias</title>
 <desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250829210000 -0500' stop='20250829220000 -0500'>
+<programme channel='12002' start='20250912210000 -0500' stop='20250912220000 -0500'>
 <title>Espacio Contratado</title>
 <desc>Espacio que promueve la producción independiente.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250829220000 -0500' stop='20250829221500 -0500'>
+<programme channel='12002' start='20250912220000 -0500' stop='20250912221500 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250829221500 -0500' stop='20250830001500 -0500'>
+<programme channel='12002' start='20250912221500 -0500' stop='20250913001500 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250830001500 -0500' stop='20250830020000 -0500'>
+<programme channel='12002' start='20250913001500 -0500' stop='20250913020000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250830020000 -0500' stop='20250830040000 -0500'>
+<programme channel='12002' start='20250913020000 -0500' stop='20250913040000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250830040000 -0500' stop='20250830060000 -0500'>
+<programme channel='12002' start='20250913040000 -0500' stop='20250913060000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250830060000 -0500' stop='20250830063000 -0500'>
+<programme channel='12002' start='20250913060000 -0500' stop='20250913063000 -0500'>
 <title>Música Concierto</title>
 <desc>Espacio dedicado para que disfrutes de los mejores conciertos que se vivieron en nueustra provincia.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250830063000 -0500' stop='20250830070000 -0500'>
+<programme channel='12002' start='20250913063000 -0500' stop='20250913070000 -0500'>
 <title>Espacio Contratado</title>
 <desc>Espacio que promueve la producción independiente.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250830070000 -0500' stop='20250830073000 -0500'>
+<programme channel='12002' start='20250913070000 -0500' stop='20250913073000 -0500'>
 <title>Bloopers</title>
 <desc>Bloopers es una mirada a las vidas de personas que han tenido contratiempos hilarantes y errores súper graciosos.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250830073000 -0500' stop='20250830074500 -0500'>
+<programme channel='12002' start='20250913073000 -0500' stop='20250913074500 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250830074500 -0500' stop='20250830080000 -0500'>
+<programme channel='12002' start='20250913074500 -0500' stop='20250913080000 -0500'>
 <title>Ben 10</title>
 <desc>Ben 10 cuenta las aventuras de Ben Tennyson, un niño normal de diez años que descubre en sus vacaciones de verano un extraño reloj extraterrestre dentro de un meteorito que chocó contra la Tierra.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250830080000 -0500' stop='20250830090000 -0500'>
+<programme channel='12002' start='20250913080000 -0500' stop='20250913090000 -0500'>
 <title>Los Picapiedra</title>
 <desc>La acción tiene lugar en la Edad de Piedra,en un pueblo llamado Piedradura ("Bedrock"), pero presenta una sociedad idéntica a la americana de mediados del siglo pasado.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250830090000 -0500' stop='20250830100000 -0500'>
+<programme channel='12002' start='20250913090000 -0500' stop='20250913100000 -0500'>
 <title>Viva Jesús</title>
 <desc>Jesucristo pasa de nacer en un pesebre a ser proclamado Rey de los judíos. Camina por donde Él caminó, ve lo que hizo y párate donde murió. Lo que lo convirtió en algo más que un hombre a los ojos de algunos, pero un impostor para otros.</desc>
 <category>Religioso</category>
 </programme>
-<programme channel='12002' start='20250830100000 -0500' stop='20250830110000 -0500'>
+<programme channel='12002' start='20250913100000 -0500' stop='20250913110000 -0500'>
 <title>Ripley's Believe It or Not!</title>
 <desc>Las aventuras del explorador Michael Ripley quedaron plasmadas en esta serie animada basada en el popular artículo de periódico y en programas de televisión de acción real.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250830110000 -0500' stop='20250830114500 -0500'>
+<programme channel='12002' start='20250913110000 -0500' stop='20250913114500 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250830114500 -0500' stop='20250830120000 -0500'>
+<programme channel='12002' start='20250913114500 -0500' stop='20250913120000 -0500'>
 <title>Bloopers</title>
 <desc>Bloopers es una mirada a las vidas de personas que han tenido contratiempos hilarantes y errores súper graciosos.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250830120000 -0500' stop='20250830140000 -0500'>
+<programme channel='12002' start='20250913120000 -0500' stop='20250913140000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250830140000 -0500' stop='20250830150000 -0500'>
+<programme channel='12002' start='20250913140000 -0500' stop='20250913150000 -0500'>
 <title>Night Light</title>
 <desc>Seo Yi Kyung (Lee Yo Won) de manera ambiciosa quiere construir su propio imperio. Ella es calmada y está llena de pasión, además cree que la ambición no es un pecado. Park Gun Woo (Jin Goo) es bien parecido y proviene de una familia adinerada que además posee una de las compañías más grandes. Seo Yi Kyung fue su primer amor y él todavía la ama.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250830150000 -0500' stop='20250830151500 -0500'>
+<programme channel='12002' start='20250913150000 -0500' stop='20250913151500 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250830151500 -0500' stop='20250830163000 -0500'>
+<programme channel='12002' start='20250913151500 -0500' stop='20250913163000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250830163000 -0500' stop='20250830170000 -0500'>
+<programme channel='12002' start='20250913163000 -0500' stop='20250913170000 -0500'>
 <title>Victorious</title>
 <desc>El caos empieza a reinar en la vida de Tori Vega, cuando con 16 años es admitida en un nuevo instituto. Pero no en uno cualquiera, sino Hollywood Arts, una escuela de artes escénicas donde locos con talento estudian para convertirse en verdaderos artistas. Hasta ahora, Tori no creía tener mucho talento, y se contentaba con vivir a la sombra de su hermana mayor, Trina.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250830170000 -0500' stop='20250830190000 -0500'>
+<programme channel='12002' start='20250913170000 -0500' stop='20250913190000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250830190000 -0500' stop='20250830193000 -0500'>
+<programme channel='12002' start='20250913190000 -0500' stop='20250913193000 -0500'>
 <title>Pasión Tuerca</title>
 <desc>Pasión Tuerca transmite eventos automovilisticos del Austro Ecuatoriano y a nivel Nacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250830193000 -0500' stop='20250830201500 -0500'>
+<programme channel='12002' start='20250913193000 -0500' stop='20250913201500 -0500'>
 <title>Bones</title>
 <desc>Una antropóloga forense y un engreído agente del FBI forman equipo para investigar las causas de los homicidios que investigan.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250830201500 -0500' stop='20250830210000 -0500'>
+<programme channel='12002' start='20250913201500 -0500' stop='20250913210000 -0500'>
 <title>Austral Clips</title>
 <desc>Espacio dedicado para que disfrutes de música de todos los tiempos.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250830210000 -0500' stop='20250830220000 -0500'>
+<programme channel='12002' start='20250913210000 -0500' stop='20250913220000 -0500'>
 <title>Espacio Contratado</title>
 <desc>Espacio que promueve la producción independiente.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250830220000 -0500' stop='20250831001500 -0500'>
+<programme channel='12002' start='20250913220000 -0500' stop='20250914001500 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250831001500 -0500' stop='20250831020000 -0500'>
+<programme channel='12002' start='20250914001500 -0500' stop='20250914020000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250831020000 -0500' stop='20250831040000 -0500'>
+<programme channel='12002' start='20250914020000 -0500' stop='20250914040000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250831040000 -0500' stop='20250831060000 -0500'>
+<programme channel='12002' start='20250914040000 -0500' stop='20250914060000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250831060000 -0500' stop='20250831063000 -0500'>
+<programme channel='12002' start='20250914060000 -0500' stop='20250914063000 -0500'>
 <title>Música Concierto</title>
 <desc>Espacio dedicado para que disfrutes de los mejores conciertos que se vivieron en nueustra provincia.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250831063000 -0500' stop='20250831070000 -0500'>
+<programme channel='12002' start='20250914063000 -0500' stop='20250914070000 -0500'>
 <title>Espacio Contratado</title>
 <desc>Espacio que promueve la producción independiente.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250831070000 -0500' stop='20250831073000 -0500'>
+<programme channel='12002' start='20250914070000 -0500' stop='20250914073000 -0500'>
 <title>Bloopers</title>
 <desc>Bloopers es una mirada a las vidas de personas que han tenido contratiempos hilarantes y errores súper graciosos.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250831073000 -0500' stop='20250831074500 -0500'>
+<programme channel='12002' start='20250914073000 -0500' stop='20250914074500 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250831074500 -0500' stop='20250831080000 -0500'>
+<programme channel='12002' start='20250914074500 -0500' stop='20250914080000 -0500'>
 <title>Ben 10</title>
 <desc>Ben 10 cuenta las aventuras de Ben Tennyson, un niño normal de diez años que descubre en sus vacaciones de verano un extraño reloj extraterrestre dentro de un meteorito que chocó contra la Tierra.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250831080000 -0500' stop='20250831090000 -0500'>
+<programme channel='12002' start='20250914080000 -0500' stop='20250914090000 -0500'>
 <title>Los Picapiedra</title>
 <desc>La acción tiene lugar en la Edad de Piedra,en un pueblo llamado Piedradura ("Bedrock"), pero presenta una sociedad idéntica a la americana de mediados del siglo pasado.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250831090000 -0500' stop='20250831100000 -0500'>
+<programme channel='12002' start='20250914090000 -0500' stop='20250914100000 -0500'>
 <title>Misa Dominical</title>
 <desc>La Eucaristía dominical convoca a la asamblea cristiana para dar gracias a Dios, escuchar la Palabra de Dios y alimentarse de la Eucaristía.</desc>
 <category>Religioso</category>
 </programme>
-<programme channel='12002' start='20250831100000 -0500' stop='20250831110000 -0500'>
+<programme channel='12002' start='20250914100000 -0500' stop='20250914110000 -0500'>
 <title>Ripley's Believe It or Not!</title>
 <desc>Las aventuras del explorador Michael Ripley quedaron plasmadas en esta serie animada basada en el popular artículo de periódico y en programas de televisión de acción real.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250831110000 -0500' stop='20250831114500 -0500'>
+<programme channel='12002' start='20250914110000 -0500' stop='20250914114500 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250831114500 -0500' stop='20250831120000 -0500'>
+<programme channel='12002' start='20250914114500 -0500' stop='20250914120000 -0500'>
 <title>Bloopers</title>
 <desc>Bloopers es una mirada a las vidas de personas que han tenido contratiempos hilarantes y errores súper graciosos.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250831120000 -0500' stop='20250831140000 -0500'>
+<programme channel='12002' start='20250914120000 -0500' stop='20250914140000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250831140000 -0500' stop='20250831150000 -0500'>
+<programme channel='12002' start='20250914140000 -0500' stop='20250914150000 -0500'>
 <title>Night Light</title>
 <desc>Seo Yi Kyung (Lee Yo Won) de manera ambiciosa quiere construir su propio imperio. Ella es calmada y está llena de pasión, además cree que la ambición no es un pecado. Park Gun Woo (Jin Goo) es bien parecido y proviene de una familia adinerada que además posee una de las compañías más grandes. Seo Yi Kyung fue su primer amor y él todavía la ama.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250831150000 -0500' stop='20250831151500 -0500'>
+<programme channel='12002' start='20250914150000 -0500' stop='20250914151500 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250831151500 -0500' stop='20250831163000 -0500'>
+<programme channel='12002' start='20250914151500 -0500' stop='20250914163000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250831163000 -0500' stop='20250831170000 -0500'>
+<programme channel='12002' start='20250914163000 -0500' stop='20250914170000 -0500'>
 <title>Victorious</title>
 <desc>El caos empieza a reinar en la vida de Tori Vega, cuando con 16 años es admitida en un nuevo instituto. Pero no en uno cualquiera, sino Hollywood Arts, una escuela de artes escénicas donde locos con talento estudian para convertirse en verdaderos artistas. Hasta ahora, Tori no creía tener mucho talento, y se contentaba con vivir a la sombra de su hermana mayor, Trina.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250831170000 -0500' stop='20250831190000 -0500'>
+<programme channel='12002' start='20250914170000 -0500' stop='20250914190000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250831190000 -0500' stop='20250831193000 -0500'>
+<programme channel='12002' start='20250914190000 -0500' stop='20250914193000 -0500'>
 <title>Sin Rodeos con Eloy Calle</title>
 <desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250831193000 -0500' stop='20250831201500 -0500'>
+<programme channel='12002' start='20250914193000 -0500' stop='20250914201500 -0500'>
 <title>Bones</title>
 <desc>Una antropóloga forense y un engreído agente del FBI forman equipo para investigar las causas de los homicidios que investigan.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250831201500 -0500' stop='20250831210000 -0500'>
+<programme channel='12002' start='20250914201500 -0500' stop='20250914210000 -0500'>
 <title>Austral Clips</title>
 <desc>Espacio dedicado para que disfrutes de música de todos los tiempos.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250831210000 -0500' stop='20250831220000 -0500'>
+<programme channel='12002' start='20250914210000 -0500' stop='20250914220000 -0500'>
 <title>Espacio Contratado</title>
 <desc>Espacio que promueve la producción independiente.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250831220000 -0500' stop='20250901001500 -0500'>
+<programme channel='12002' start='20250914220000 -0500' stop='20250915001500 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250901001500 -0500' stop='20250901020000 -0500'>
+<programme channel='12002' start='20250915001500 -0500' stop='20250915020000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250901020000 -0500' stop='20250901040000 -0500'>
+<programme channel='12002' start='20250915020000 -0500' stop='20250915040000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250901040000 -0500' stop='20250901060000 -0500'>
+<programme channel='12002' start='20250915040000 -0500' stop='20250915060000 -0500'>
 <title>Peliculas Varias</title>
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250901060000 -0500' stop='20250901063000 -0500'>
+<programme channel='12002' start='20250915060000 -0500' stop='20250915063000 -0500'>
 <title>Música Concierto</title>
 <desc>Espacio dedicado para que disfrutes de los mejores conciertos que se vivieron en nueustra provincia.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250901063000 -0500' stop='20250901070000 -0500'>
+<programme channel='12002' start='20250915063000 -0500' stop='20250915070000 -0500'>
 <title>Espacio Contratado</title>
 <desc>Espacio que promueve la producción independiente.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250901070000 -0500' stop='20250901080000 -0500'>
+<programme channel='12002' start='20250915070000 -0500' stop='20250915080000 -0500'>
 <title>Smallville</title>
 <desc>Serie que narra los inicios de Superman -Clark Kent- en su pueblo natal, Smallville. Allí vivía con sus padres, estudiaba en el instituto local y conoció a su primera novia, Lana Lang, y a su futuro rival, Lex Luthor.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250901080000 -0500' stop='20250901090000 -0500'>
+<programme channel='12002' start='20250915080000 -0500' stop='20250915090000 -0500'>
 <title>Documentales DW</title>
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250901090000 -0500' stop='20250901091500 -0500'>
+<programme channel='12002' start='20250915090000 -0500' stop='20250915091500 -0500'>
 <title>Animaciones Varias</title>
 <desc>Programa infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250901091500 -0500' stop='20250901093000 -0500'>
+<programme channel='12002' start='20250915091500 -0500' stop='20250915093000 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20250901093000 -0500' stop='20250901101500 -0500'>
+<programme channel='12002' start='20250915093000 -0500' stop='20250915101500 -0500'>
 <title>Arrow</title>
 <desc>Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250901101500 -0500' stop='20250901120000 -0500'>
+<programme channel='12002' start='20250915101500 -0500' stop='20250915120000 -0500'>
 <title>Cine General</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250901120000 -0500' stop='20250901121500 -0500'>
+<programme channel='12002' start='20250915120000 -0500' stop='20250915121500 -0500'>
 <title>Austral Clips</title>
 <desc>Espacio dedicado para que disfrutes de música de todos los tiempos.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20250901121500 -0500' stop='20250901130000 -0500'>
+<programme channel='12002' start='20250915121500 -0500' stop='20250915130000 -0500'>
 <title>Noticiero Telenoticias</title>
 <desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
 <category>Informativo</category>

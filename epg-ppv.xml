@@ -662,12 +662,17 @@
 <desc>Vive la previa del Juego 5 de la Final de la Liga Basquet Pro 2025 que se jugará en la Ciudad de Loja.</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12008' start='20250920200000 -0500' stop='20250920113000 -0500'>
+<programme channel='12008' start='20250920200000 -0500' stop='20250920213000 -0500'>
 <title>Jorge Guzman - Cuenca Basket - Game 5 (Loja)</title>
 <desc>Vive el Juego 5 de la Final de la Liga Basquet Pro 2025 que se jugará en la Ciudad de Loja.</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12008' start='20250920113000 -0500' stop='20250920223000 -0500'>
+<programme channel='12008' start='20250920213000 -0500' stop='20250920220000 -0500'>
+<title>Basquet Pass</title>
+<desc>Transmisión de los emocionantes partidos Finales de la Liga Basquet Pro (2025)</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12008' start='20250920220000 -0500' stop='20250920223000 -0500'>
 <title>Basquet Pass</title>
 <desc>Transmisión de los emocionantes partidos Finales de la Liga Basquet Pro (2025)</desc>
 <category>Deportivo</category>
@@ -677,22 +682,17 @@
 <desc>Transmisión de los emocionantes partidos Finales de la Liga Basquet Pro (2025)</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12008' start='20250920230000 -0500' stop='20250920231500 -0500'>
+<programme channel='12008' start='20250920230000 -0500' stop='20250920233000 -0500'>
 <title>Basquet Pass</title>
 <desc>Transmisión de los emocionantes partidos Finales de la Liga Basquet Pro (2025)</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12008' start='20250920231500 -0500' stop='20250920233000 -0500'>
+<programme channel='12008' start='20250920233000 -0500' stop='20250921003000 -0500'>
 <title>Basquet Pass</title>
 <desc>Transmisión de los emocionantes partidos Finales de la Liga Basquet Pro (2025)</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12008' start='20250920233000 -0500' stop='20250921001500 -0500'>
-<title>Basquet Pass</title>
-<desc>Transmisión de los emocionantes partidos Finales de la Liga Basquet Pro (2025)</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20250921001500 -0500' stop='20250921040000 -0500'>
+<programme channel='12008' start='20250921003000 -0500' stop='20250921040000 -0500'>
 <title>Basquet Pass</title>
 <desc>Transmisión de los emocionantes partidos Finales de la Liga Basquet Pro (2025)</desc>
 <category>Deportivo</category>

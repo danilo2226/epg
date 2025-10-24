@@ -603,14 +603,14 @@
 <category>Deportivo</category>
 </programme>
 <programme channel='12008' start='20251023190000 -0500' stop='20251023201500 -0500'>
-<title>POR DEFINIR, SEMIFINAL</title>
-<desc>#N/D</desc>
-<category>#N/D</category>
+<title>EL VALLE vs. DON BOSCO, SEMIFINAL</title>
+<desc>¡El Mundialito de los Pobres New York 2025, Segunda Edición! Vive el emocionante partido entre EL VALLE vs. DON BOSCO, SEMIFINAL.</desc>
+<category>Deportivo</category>
 </programme>
 <programme channel='12008' start='20251023201500 -0500' stop='20251023213000 -0500'>
-<title>POR DEFINIR, SEMIFINAL</title>
-<desc>#N/D</desc>
-<category>#N/D</category>
+<title>EL VECINO vs. MUTUALISTA AZUAY, SEMIFINAL</title>
+<desc>¡El Mundialito de los Pobres New York 2025, Segunda Edición! Vive el emocionante partido entre EL VECINO vs. MUTUALISTA AZUAY, SEMIFINAL.</desc>
+<category>Deportivo</category>
 </programme>
 <programme channel='12008' start='20251023213000 -0500' stop='20251023220000 -0500'>
 <title>GOMAX SPORTS</title>
@@ -773,6 +773,21 @@
 <category>Deportivo</category>
 </programme>
 <programme channel='12008' start='20251027194500 -0500' stop='20251027210000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>Canal de la programación referente al Mundialito de los Pobres New York 2025.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12008' start='20251027210000 -0500' stop='20251027213000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>Canal de la programación referente al Mundialito de los Pobres New York 2025.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12008' start='20251027213000 -0500' stop='20251027223000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>Canal de la programación referente al Mundialito de los Pobres New York 2025.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12008' start='20251027223000 -0500' stop='20251028003000 -0500'>
 <title>GOMAX SPORTS</title>
 <desc>Canal de la programación referente al Mundialito de los Pobres New York 2025.</desc>
 <category>Deportivo</category>

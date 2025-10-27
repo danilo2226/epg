@@ -2,1286 +2,6 @@
 <channel id="12001">
 <display-name>MULTICANAL</display-name>
 </channel>
-<programme channel='12001' start='20251013131500 -0500' stop='20251013140000 -0500'>
-<title>Serie-Al Borde de la Muerte 99%</title>
-<desc>La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251013140000 -0500' stop='20251013154500 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251013154500 -0500' stop='20251013171500 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251013171500 -0500' stop='20251013180000 -0500'>
-<title>Música</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251013180000 -0500' stop='20251013183000 -0500'>
-<title>Santa Misa</title>
-<desc>La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
-<category>Religion</category>
-</programme>
-<programme channel='12001' start='20251013183000 -0500' stop='20251013190000 -0500'>
-<title>Prey</title>
-<desc>El protagonista es Marcus Farrow (John Simm) un policía detective que trabaja en el área de Manchester. Está bien valorado en el trabajo, y en su casa tiene ciertos problemas pero de todos modos una vida bastante normal con su familia, compuesta por su ex mujer Abi y sus hijos.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251013190000 -0500' stop='20251013200000 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251013200000 -0500' stop='20251013210000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251013210000 -0500' stop='20251013223000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251013223000 -0500' stop='20251014010000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251014010000 -0500' stop='20251014023000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251014023000 -0500' stop='20251014040000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251014040000 -0500' stop='20251014060000 -0500'>
-<title>Armonia Musical</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251014060000 -0500' stop='20251014070000 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251014070000 -0500' stop='20251014074500 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251014074500 -0500' stop='20251014091500 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251014091500 -0500' stop='20251014113000 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251014113000 -0500' stop='20251014123000 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251014123000 -0500' stop='20251014131500 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251014131500 -0500' stop='20251014140000 -0500'>
-<title>Serie-Al Borde de la Muerte 99%</title>
-<desc>La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251014140000 -0500' stop='20251014154500 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251014154500 -0500' stop='20251014171500 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251014171500 -0500' stop='20251014180000 -0500'>
-<title>Música</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251014180000 -0500' stop='20251014183000 -0500'>
-<title>Santa Misa</title>
-<desc>La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
-<category>Religion</category>
-</programme>
-<programme channel='12001' start='20251014183000 -0500' stop='20251014190000 -0500'>
-<title>Prey</title>
-<desc>El protagonista es Marcus Farrow (John Simm) un policía detective que trabaja en el área de Manchester. Está bien valorado en el trabajo, y en su casa tiene ciertos problemas pero de todos modos una vida bastante normal con su familia, compuesta por su ex mujer Abi y sus hijos.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251014190000 -0500' stop='20251014200000 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251014200000 -0500' stop='20251014210000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251014210000 -0500' stop='20251014223000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251014223000 -0500' stop='20251015010000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251015010000 -0500' stop='20251015023000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251015023000 -0500' stop='20251015040000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251015040000 -0500' stop='20251015060000 -0500'>
-<title>Armonia Musical</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251015060000 -0500' stop='20251015070000 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251015070000 -0500' stop='20251015074500 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251015074500 -0500' stop='20251015091500 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251015091500 -0500' stop='20251015113000 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251015113000 -0500' stop='20251015123000 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251015123000 -0500' stop='20251015131500 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251015131500 -0500' stop='20251015140000 -0500'>
-<title>Serie-Al Borde de la Muerte 99%</title>
-<desc>La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251015140000 -0500' stop='20251015154500 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251015154500 -0500' stop='20251015171500 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251015171500 -0500' stop='20251015180000 -0500'>
-<title>Música</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251015180000 -0500' stop='20251015183000 -0500'>
-<title>Santa Misa</title>
-<desc>La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
-<category>Religion</category>
-</programme>
-<programme channel='12001' start='20251015183000 -0500' stop='20251015190000 -0500'>
-<title>Prey</title>
-<desc>El protagonista es Marcus Farrow (John Simm) un policía detective que trabaja en el área de Manchester. Está bien valorado en el trabajo, y en su casa tiene ciertos problemas pero de todos modos una vida bastante normal con su familia, compuesta por su ex mujer Abi y sus hijos.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251015190000 -0500' stop='20251015200000 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251015200000 -0500' stop='20251015210000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251015210000 -0500' stop='20251015223000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251015223000 -0500' stop='20251016010000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251016010000 -0500' stop='20251016023000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251016023000 -0500' stop='20251016040000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251016040000 -0500' stop='20251016060000 -0500'>
-<title>Armonia Musical</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251016060000 -0500' stop='20251016070000 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251016070000 -0500' stop='20251016074500 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251016074500 -0500' stop='20251016091500 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251016091500 -0500' stop='20251016113000 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251016113000 -0500' stop='20251016123000 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251016123000 -0500' stop='20251016131500 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251016131500 -0500' stop='20251016140000 -0500'>
-<title>Serie-Al Borde de la Muerte 99%</title>
-<desc>La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251016140000 -0500' stop='20251016154500 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251016154500 -0500' stop='20251016171500 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251016171500 -0500' stop='20251016180000 -0500'>
-<title>Música</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251016180000 -0500' stop='20251016183000 -0500'>
-<title>Santa Misa</title>
-<desc>La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
-<category>Religion</category>
-</programme>
-<programme channel='12001' start='20251016183000 -0500' stop='20251016190000 -0500'>
-<title>Prey</title>
-<desc>El protagonista es Marcus Farrow (John Simm) un policía detective que trabaja en el área de Manchester. Está bien valorado en el trabajo, y en su casa tiene ciertos problemas pero de todos modos una vida bastante normal con su familia, compuesta por su ex mujer Abi y sus hijos.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251016190000 -0500' stop='20251016200000 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251016200000 -0500' stop='20251016210000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251016210000 -0500' stop='20251016223000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251016223000 -0500' stop='20251017010000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251017010000 -0500' stop='20251017023000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251017023000 -0500' stop='20251017040000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251017040000 -0500' stop='20251017060000 -0500'>
-<title>Armonia Musical</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251017060000 -0500' stop='20251017070000 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251017070000 -0500' stop='20251017074500 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251017074500 -0500' stop='20251017091500 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251017091500 -0500' stop='20251017113000 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251017113000 -0500' stop='20251017123000 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251017123000 -0500' stop='20251017131500 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251017131500 -0500' stop='20251017140000 -0500'>
-<title>Serie-Al Borde de la Muerte 99%</title>
-<desc>La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251017140000 -0500' stop='20251017154500 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251017154500 -0500' stop='20251017171500 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251017171500 -0500' stop='20251017180000 -0500'>
-<title>Música</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251017180000 -0500' stop='20251017183000 -0500'>
-<title>Santa Misa</title>
-<desc>La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
-<category>Religion</category>
-</programme>
-<programme channel='12001' start='20251017183000 -0500' stop='20251017190000 -0500'>
-<title>Prey</title>
-<desc>El protagonista es Marcus Farrow (John Simm) un policía detective que trabaja en el área de Manchester. Está bien valorado en el trabajo, y en su casa tiene ciertos problemas pero de todos modos una vida bastante normal con su familia, compuesta por su ex mujer Abi y sus hijos.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251017190000 -0500' stop='20251017200000 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251017200000 -0500' stop='20251017210000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251017210000 -0500' stop='20251017223000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251017223000 -0500' stop='20251018010000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251018010000 -0500' stop='20251018023000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251018023000 -0500' stop='20251018040000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251018040000 -0500' stop='20251018060000 -0500'>
-<title>Armonia Musical</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251018060000 -0500' stop='20251018070000 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251018070000 -0500' stop='20251018074500 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251018074500 -0500' stop='20251018091500 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251018091500 -0500' stop='20251018113000 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251018113000 -0500' stop='20251018123000 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251018123000 -0500' stop='20251018131500 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251018131500 -0500' stop='20251018140000 -0500'>
-<title>Serie-Al Borde de la Muerte 99%</title>
-<desc>La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251018140000 -0500' stop='20251018154500 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251018154500 -0500' stop='20251018171500 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251018171500 -0500' stop='20251018180000 -0500'>
-<title>Música</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251018180000 -0500' stop='20251018183000 -0500'>
-<title>Santa Misa</title>
-<desc>La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
-<category>Religion</category>
-</programme>
-<programme channel='12001' start='20251018183000 -0500' stop='20251018190000 -0500'>
-<title>Prey</title>
-<desc>El protagonista es Marcus Farrow (John Simm) un policía detective que trabaja en el área de Manchester. Está bien valorado en el trabajo, y en su casa tiene ciertos problemas pero de todos modos una vida bastante normal con su familia, compuesta por su ex mujer Abi y sus hijos.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251018190000 -0500' stop='20251018200000 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251018200000 -0500' stop='20251018210000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251018210000 -0500' stop='20251018223000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251018223000 -0500' stop='20251019010000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251019010000 -0500' stop='20251019023000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251019023000 -0500' stop='20251019040000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251019040000 -0500' stop='20251019060000 -0500'>
-<title>Armonia Musical</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251019060000 -0500' stop='20251019070000 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251019070000 -0500' stop='20251019074500 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251019074500 -0500' stop='20251019091500 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251019091500 -0500' stop='20251019113000 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251019113000 -0500' stop='20251019123000 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251019123000 -0500' stop='20251019131500 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251019131500 -0500' stop='20251019140000 -0500'>
-<title>Serie-Al Borde de la Muerte 99%</title>
-<desc>La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251019140000 -0500' stop='20251019154500 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251019154500 -0500' stop='20251019171500 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251019171500 -0500' stop='20251019180000 -0500'>
-<title>Música</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251019180000 -0500' stop='20251019183000 -0500'>
-<title>Santa Misa</title>
-<desc>La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
-<category>Religion</category>
-</programme>
-<programme channel='12001' start='20251019183000 -0500' stop='20251019190000 -0500'>
-<title>Prey</title>
-<desc>El protagonista es Marcus Farrow (John Simm) un policía detective que trabaja en el área de Manchester. Está bien valorado en el trabajo, y en su casa tiene ciertos problemas pero de todos modos una vida bastante normal con su familia, compuesta por su ex mujer Abi y sus hijos.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251019190000 -0500' stop='20251019200000 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251019200000 -0500' stop='20251019210000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251019210000 -0500' stop='20251019223000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251019223000 -0500' stop='20251020010000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251020010000 -0500' stop='20251020023000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251020023000 -0500' stop='20251020040000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251020040000 -0500' stop='20251020060000 -0500'>
-<title>Armonia Musical</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251020060000 -0500' stop='20251020070000 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251020070000 -0500' stop='20251020074500 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251020074500 -0500' stop='20251020091500 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251020091500 -0500' stop='20251020113000 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251020113000 -0500' stop='20251020123000 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251020123000 -0500' stop='20251020131500 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251020131500 -0500' stop='20251020140000 -0500'>
-<title>Serie-Al Borde de la Muerte 99%</title>
-<desc>La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251020140000 -0500' stop='20251020154500 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251020154500 -0500' stop='20251020171500 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251020171500 -0500' stop='20251020180000 -0500'>
-<title>Música</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251020180000 -0500' stop='20251020183000 -0500'>
-<title>Santa Misa</title>
-<desc>La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
-<category>Religion</category>
-</programme>
-<programme channel='12001' start='20251020183000 -0500' stop='20251020190000 -0500'>
-<title>Prey</title>
-<desc>El protagonista es Marcus Farrow (John Simm) un policía detective que trabaja en el área de Manchester. Está bien valorado en el trabajo, y en su casa tiene ciertos problemas pero de todos modos una vida bastante normal con su familia, compuesta por su ex mujer Abi y sus hijos.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251020190000 -0500' stop='20251020200000 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251020200000 -0500' stop='20251020210000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251020210000 -0500' stop='20251020223000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251020223000 -0500' stop='20251021010000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251021010000 -0500' stop='20251021023000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251021023000 -0500' stop='20251021040000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251021040000 -0500' stop='20251021060000 -0500'>
-<title>Armonia Musical</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251021060000 -0500' stop='20251021070000 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251021070000 -0500' stop='20251021074500 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251021074500 -0500' stop='20251021091500 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251021091500 -0500' stop='20251021113000 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251021113000 -0500' stop='20251021123000 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251021123000 -0500' stop='20251021131500 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251021131500 -0500' stop='20251021140000 -0500'>
-<title>Serie-Al Borde de la Muerte 99%</title>
-<desc>La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251021140000 -0500' stop='20251021154500 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251021154500 -0500' stop='20251021171500 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251021171500 -0500' stop='20251021180000 -0500'>
-<title>Música</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251021180000 -0500' stop='20251021183000 -0500'>
-<title>Santa Misa</title>
-<desc>La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
-<category>Religion</category>
-</programme>
-<programme channel='12001' start='20251021183000 -0500' stop='20251021190000 -0500'>
-<title>Prey</title>
-<desc>El protagonista es Marcus Farrow (John Simm) un policía detective que trabaja en el área de Manchester. Está bien valorado en el trabajo, y en su casa tiene ciertos problemas pero de todos modos una vida bastante normal con su familia, compuesta por su ex mujer Abi y sus hijos.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251021190000 -0500' stop='20251021200000 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251021200000 -0500' stop='20251021210000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251021210000 -0500' stop='20251021223000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251021223000 -0500' stop='20251022010000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251022010000 -0500' stop='20251022023000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251022023000 -0500' stop='20251022040000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251022040000 -0500' stop='20251022060000 -0500'>
-<title>Armonia Musical</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251022060000 -0500' stop='20251022070000 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251022070000 -0500' stop='20251022074500 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251022074500 -0500' stop='20251022091500 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251022091500 -0500' stop='20251022113000 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251022113000 -0500' stop='20251022123000 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251022123000 -0500' stop='20251022131500 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251022131500 -0500' stop='20251022140000 -0500'>
-<title>Serie-Al Borde de la Muerte 99%</title>
-<desc>La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251022140000 -0500' stop='20251022154500 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251022154500 -0500' stop='20251022171500 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251022171500 -0500' stop='20251022180000 -0500'>
-<title>Música</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251022180000 -0500' stop='20251022183000 -0500'>
-<title>Santa Misa</title>
-<desc>La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
-<category>Religion</category>
-</programme>
-<programme channel='12001' start='20251022183000 -0500' stop='20251022190000 -0500'>
-<title>Prey</title>
-<desc>El protagonista es Marcus Farrow (John Simm) un policía detective que trabaja en el área de Manchester. Está bien valorado en el trabajo, y en su casa tiene ciertos problemas pero de todos modos una vida bastante normal con su familia, compuesta por su ex mujer Abi y sus hijos.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251022190000 -0500' stop='20251022200000 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251022200000 -0500' stop='20251022210000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251022210000 -0500' stop='20251022223000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251022223000 -0500' stop='20251023010000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251023010000 -0500' stop='20251023023000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251023023000 -0500' stop='20251023040000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251023040000 -0500' stop='20251023060000 -0500'>
-<title>Armonia Musical</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251023060000 -0500' stop='20251023070000 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251023070000 -0500' stop='20251023074500 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251023074500 -0500' stop='20251023091500 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251023091500 -0500' stop='20251023113000 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251023113000 -0500' stop='20251023123000 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251023123000 -0500' stop='20251023131500 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251023131500 -0500' stop='20251023140000 -0500'>
-<title>Serie-Al Borde de la Muerte 99%</title>
-<desc>La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251023140000 -0500' stop='20251023154500 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251023154500 -0500' stop='20251023171500 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251023171500 -0500' stop='20251023180000 -0500'>
-<title>Música</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251023180000 -0500' stop='20251023183000 -0500'>
-<title>Santa Misa</title>
-<desc>La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
-<category>Religion</category>
-</programme>
-<programme channel='12001' start='20251023183000 -0500' stop='20251023190000 -0500'>
-<title>Prey</title>
-<desc>El protagonista es Marcus Farrow (John Simm) un policía detective que trabaja en el área de Manchester. Está bien valorado en el trabajo, y en su casa tiene ciertos problemas pero de todos modos una vida bastante normal con su familia, compuesta por su ex mujer Abi y sus hijos.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251023190000 -0500' stop='20251023200000 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251023200000 -0500' stop='20251023210000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251023210000 -0500' stop='20251023223000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251023223000 -0500' stop='20251024010000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251024010000 -0500' stop='20251024023000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251024023000 -0500' stop='20251024040000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251024040000 -0500' stop='20251024060000 -0500'>
-<title>Armonia Musical</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251024060000 -0500' stop='20251024070000 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251024070000 -0500' stop='20251024074500 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251024074500 -0500' stop='20251024091500 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251024091500 -0500' stop='20251024113000 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251024113000 -0500' stop='20251024123000 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251024123000 -0500' stop='20251024131500 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251024131500 -0500' stop='20251024140000 -0500'>
-<title>Serie-Al Borde de la Muerte 99%</title>
-<desc>La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251024140000 -0500' stop='20251024154500 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251024154500 -0500' stop='20251024171500 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251024171500 -0500' stop='20251024180000 -0500'>
-<title>Música</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251024180000 -0500' stop='20251024183000 -0500'>
-<title>Santa Misa</title>
-<desc>La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
-<category>Religion</category>
-</programme>
-<programme channel='12001' start='20251024183000 -0500' stop='20251024190000 -0500'>
-<title>Prey</title>
-<desc>El protagonista es Marcus Farrow (John Simm) un policía detective que trabaja en el área de Manchester. Está bien valorado en el trabajo, y en su casa tiene ciertos problemas pero de todos modos una vida bastante normal con su familia, compuesta por su ex mujer Abi y sus hijos.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251024190000 -0500' stop='20251024200000 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251024200000 -0500' stop='20251024210000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251024210000 -0500' stop='20251024223000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251024223000 -0500' stop='20251025010000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251025010000 -0500' stop='20251025023000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251025023000 -0500' stop='20251025040000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251025040000 -0500' stop='20251025060000 -0500'>
-<title>Armonia Musical</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251025060000 -0500' stop='20251025070000 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251025070000 -0500' stop='20251025074500 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251025074500 -0500' stop='20251025091500 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251025091500 -0500' stop='20251025113000 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251025113000 -0500' stop='20251025123000 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251025123000 -0500' stop='20251025131500 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251025131500 -0500' stop='20251025140000 -0500'>
-<title>Serie-Al Borde de la Muerte 99%</title>
-<desc>La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251025140000 -0500' stop='20251025154500 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251025154500 -0500' stop='20251025171500 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251025171500 -0500' stop='20251025180000 -0500'>
-<title>Música</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251025180000 -0500' stop='20251025183000 -0500'>
-<title>Santa Misa</title>
-<desc>La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
-<category>Religion</category>
-</programme>
-<programme channel='12001' start='20251025183000 -0500' stop='20251025190000 -0500'>
-<title>Prey</title>
-<desc>El protagonista es Marcus Farrow (John Simm) un policía detective que trabaja en el área de Manchester. Está bien valorado en el trabajo, y en su casa tiene ciertos problemas pero de todos modos una vida bastante normal con su familia, compuesta por su ex mujer Abi y sus hijos.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251025190000 -0500' stop='20251025200000 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251025200000 -0500' stop='20251025210000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251025210000 -0500' stop='20251025223000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251025223000 -0500' stop='20251026010000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251026010000 -0500' stop='20251026023000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251026023000 -0500' stop='20251026040000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251026040000 -0500' stop='20251026060000 -0500'>
-<title>Armonia Musical</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251026060000 -0500' stop='20251026070000 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251026070000 -0500' stop='20251026074500 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251026074500 -0500' stop='20251026091500 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251026091500 -0500' stop='20251026113000 -0500'>
-<title>Peliculas Infantiles</title>
-<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251026113000 -0500' stop='20251026123000 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251026123000 -0500' stop='20251026131500 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251026131500 -0500' stop='20251026140000 -0500'>
-<title>Serie-Al Borde de la Muerte 99%</title>
-<desc>La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251026140000 -0500' stop='20251026154500 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251026154500 -0500' stop='20251026171500 -0500'>
-<title>Educa TV</title>
-<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251026171500 -0500' stop='20251026180000 -0500'>
-<title>Música</title>
-<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251026180000 -0500' stop='20251026183000 -0500'>
-<title>Santa Misa</title>
-<desc>La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
-<category>Religion</category>
-</programme>
-<programme channel='12001' start='20251026183000 -0500' stop='20251026190000 -0500'>
-<title>Prey</title>
-<desc>El protagonista es Marcus Farrow (John Simm) un policía detective que trabaja en el área de Manchester. Está bien valorado en el trabajo, y en su casa tiene ciertos problemas pero de todos modos una vida bastante normal con su familia, compuesta por su ex mujer Abi y sus hijos.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251026190000 -0500' stop='20251026200000 -0500'>
-<title>Noticieros de Multicanal</title>
-<desc>Programa informativo noticiero Multivision Catamayo.</desc>
-<category>Informarivo</category>
-</programme>
-<programme channel='12001' start='20251026200000 -0500' stop='20251026210000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12001' start='20251026210000 -0500' stop='20251026223000 -0500'>
-<title>Peliculas</title>
-<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
-<category>Entretenimiento</category>
-</programme>
 <programme channel='12001' start='20251026223000 -0500' stop='20251027010000 -0500'>
 <title>Peliculas</title>
 <desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
@@ -1328,6 +48,1336 @@
 <category>Informarivo</category>
 </programme>
 <programme channel='12001' start='20251027123000 -0500' stop='20251027131500 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251027131500 -0500' stop='20251027140000 -0500'>
+<title>Serie-Al Borde de la Muerte 99%</title>
+<desc>La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251027140000 -0500' stop='20251027154500 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251027154500 -0500' stop='20251027171500 -0500'>
+<title>Educa TV</title>
+<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251027171500 -0500' stop='20251027180000 -0500'>
+<title>Música</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251027180000 -0500' stop='20251027183000 -0500'>
+<title>Santa Misa</title>
+<desc>La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
+<category>Religion</category>
+</programme>
+<programme channel='12001' start='20251027183000 -0500' stop='20251027190000 -0500'>
+<title>Prey</title>
+<desc>El protagonista es Marcus Farrow (John Simm) un policía detective que trabaja en el área de Manchester. Está bien valorado en el trabajo, y en su casa tiene ciertos problemas pero de todos modos una vida bastante normal con su familia, compuesta por su ex mujer Abi y sus hijos.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251027190000 -0500' stop='20251027200000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251027200000 -0500' stop='20251027210000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251027210000 -0500' stop='20251027223000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251027223000 -0500' stop='20251028010000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251028010000 -0500' stop='20251028023000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251028023000 -0500' stop='20251028040000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251028040000 -0500' stop='20251028060000 -0500'>
+<title>Armonia Musical</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251028060000 -0500' stop='20251028070000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251028070000 -0500' stop='20251028074500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251028074500 -0500' stop='20251028091500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251028091500 -0500' stop='20251028113000 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251028113000 -0500' stop='20251028123000 -0500'>
+<title>Educa TV</title>
+<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251028123000 -0500' stop='20251028131500 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251028131500 -0500' stop='20251028140000 -0500'>
+<title>Serie-Al Borde de la Muerte 99%</title>
+<desc>La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251028140000 -0500' stop='20251028154500 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251028154500 -0500' stop='20251028171500 -0500'>
+<title>Educa TV</title>
+<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251028171500 -0500' stop='20251028180000 -0500'>
+<title>Música</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251028180000 -0500' stop='20251028183000 -0500'>
+<title>Santa Misa</title>
+<desc>La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
+<category>Religion</category>
+</programme>
+<programme channel='12001' start='20251028183000 -0500' stop='20251028190000 -0500'>
+<title>Prey</title>
+<desc>El protagonista es Marcus Farrow (John Simm) un policía detective que trabaja en el área de Manchester. Está bien valorado en el trabajo, y en su casa tiene ciertos problemas pero de todos modos una vida bastante normal con su familia, compuesta por su ex mujer Abi y sus hijos.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251028190000 -0500' stop='20251028200000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251028200000 -0500' stop='20251028210000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251028210000 -0500' stop='20251028223000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251028223000 -0500' stop='20251029010000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251029010000 -0500' stop='20251029023000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251029023000 -0500' stop='20251029040000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251029040000 -0500' stop='20251029060000 -0500'>
+<title>Armonia Musical</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251029060000 -0500' stop='20251029070000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251029070000 -0500' stop='20251029074500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251029074500 -0500' stop='20251029091500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251029091500 -0500' stop='20251029113000 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251029113000 -0500' stop='20251029123000 -0500'>
+<title>Educa TV</title>
+<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251029123000 -0500' stop='20251029131500 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251029131500 -0500' stop='20251029140000 -0500'>
+<title>Serie-Al Borde de la Muerte 99%</title>
+<desc>La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251029140000 -0500' stop='20251029154500 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251029154500 -0500' stop='20251029171500 -0500'>
+<title>Educa TV</title>
+<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251029171500 -0500' stop='20251029180000 -0500'>
+<title>Música</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251029180000 -0500' stop='20251029183000 -0500'>
+<title>Santa Misa</title>
+<desc>La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
+<category>Religion</category>
+</programme>
+<programme channel='12001' start='20251029183000 -0500' stop='20251029190000 -0500'>
+<title>Prey</title>
+<desc>El protagonista es Marcus Farrow (John Simm) un policía detective que trabaja en el área de Manchester. Está bien valorado en el trabajo, y en su casa tiene ciertos problemas pero de todos modos una vida bastante normal con su familia, compuesta por su ex mujer Abi y sus hijos.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251029190000 -0500' stop='20251029200000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251029200000 -0500' stop='20251029210000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251029210000 -0500' stop='20251029223000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251029223000 -0500' stop='20251030010000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251030010000 -0500' stop='20251030023000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251030023000 -0500' stop='20251030040000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251030040000 -0500' stop='20251030060000 -0500'>
+<title>Armonia Musical</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251030060000 -0500' stop='20251030070000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251030070000 -0500' stop='20251030074500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251030074500 -0500' stop='20251030091500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251030091500 -0500' stop='20251030113000 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251030113000 -0500' stop='20251030123000 -0500'>
+<title>Educa TV</title>
+<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251030123000 -0500' stop='20251030131500 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251030131500 -0500' stop='20251030140000 -0500'>
+<title>Serie-Al Borde de la Muerte 99%</title>
+<desc>La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251030140000 -0500' stop='20251030154500 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251030154500 -0500' stop='20251030171500 -0500'>
+<title>Educa TV</title>
+<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251030171500 -0500' stop='20251030180000 -0500'>
+<title>Música</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251030180000 -0500' stop='20251030183000 -0500'>
+<title>Santa Misa</title>
+<desc>La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
+<category>Religion</category>
+</programme>
+<programme channel='12001' start='20251030183000 -0500' stop='20251030190000 -0500'>
+<title>Prey</title>
+<desc>El protagonista es Marcus Farrow (John Simm) un policía detective que trabaja en el área de Manchester. Está bien valorado en el trabajo, y en su casa tiene ciertos problemas pero de todos modos una vida bastante normal con su familia, compuesta por su ex mujer Abi y sus hijos.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251030190000 -0500' stop='20251030200000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251030200000 -0500' stop='20251030210000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251030210000 -0500' stop='20251030223000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251030223000 -0500' stop='20251031010000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251031010000 -0500' stop='20251031023000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251031023000 -0500' stop='20251031040000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251031040000 -0500' stop='20251031060000 -0500'>
+<title>Armonia Musical</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251031060000 -0500' stop='20251031070000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251031070000 -0500' stop='20251031074500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251031074500 -0500' stop='20251031091500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251031091500 -0500' stop='20251031113000 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251031113000 -0500' stop='20251031123000 -0500'>
+<title>Educa TV</title>
+<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251031123000 -0500' stop='20251031131500 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251031131500 -0500' stop='20251031140000 -0500'>
+<title>Serie-Al Borde de la Muerte 99%</title>
+<desc>La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251031140000 -0500' stop='20251031154500 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251031154500 -0500' stop='20251031171500 -0500'>
+<title>Educa TV</title>
+<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251031171500 -0500' stop='20251031180000 -0500'>
+<title>Música</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251031180000 -0500' stop='20251031183000 -0500'>
+<title>Santa Misa</title>
+<desc>La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
+<category>Religion</category>
+</programme>
+<programme channel='12001' start='20251031183000 -0500' stop='20251031190000 -0500'>
+<title>Prey</title>
+<desc>El protagonista es Marcus Farrow (John Simm) un policía detective que trabaja en el área de Manchester. Está bien valorado en el trabajo, y en su casa tiene ciertos problemas pero de todos modos una vida bastante normal con su familia, compuesta por su ex mujer Abi y sus hijos.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251031190000 -0500' stop='20251031200000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251031200000 -0500' stop='20251031210000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251031210000 -0500' stop='20251031223000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251031223000 -0500' stop='20251101010000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251101010000 -0500' stop='20251101023000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251101023000 -0500' stop='20251101040000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251101040000 -0500' stop='20251101060000 -0500'>
+<title>Armonia Musical</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251101060000 -0500' stop='20251101070000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251101070000 -0500' stop='20251101074500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251101074500 -0500' stop='20251101091500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251101091500 -0500' stop='20251101113000 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251101113000 -0500' stop='20251101123000 -0500'>
+<title>Educa TV</title>
+<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251101123000 -0500' stop='20251101131500 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251101131500 -0500' stop='20251101140000 -0500'>
+<title>Serie-Al Borde de la Muerte 99%</title>
+<desc>La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251101140000 -0500' stop='20251101154500 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251101154500 -0500' stop='20251101171500 -0500'>
+<title>Educa TV</title>
+<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251101171500 -0500' stop='20251101180000 -0500'>
+<title>Música</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251101180000 -0500' stop='20251101183000 -0500'>
+<title>Santa Misa</title>
+<desc>La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
+<category>Religion</category>
+</programme>
+<programme channel='12001' start='20251101183000 -0500' stop='20251101190000 -0500'>
+<title>Prey</title>
+<desc>El protagonista es Marcus Farrow (John Simm) un policía detective que trabaja en el área de Manchester. Está bien valorado en el trabajo, y en su casa tiene ciertos problemas pero de todos modos una vida bastante normal con su familia, compuesta por su ex mujer Abi y sus hijos.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251101190000 -0500' stop='20251101200000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251101200000 -0500' stop='20251101210000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251101210000 -0500' stop='20251101223000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251101223000 -0500' stop='20251102010000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251102010000 -0500' stop='20251102023000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251102023000 -0500' stop='20251102040000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251102040000 -0500' stop='20251102060000 -0500'>
+<title>Armonia Musical</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251102060000 -0500' stop='20251102070000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251102070000 -0500' stop='20251102074500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251102074500 -0500' stop='20251102091500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251102091500 -0500' stop='20251102113000 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251102113000 -0500' stop='20251102123000 -0500'>
+<title>Educa TV</title>
+<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251102123000 -0500' stop='20251102131500 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251102131500 -0500' stop='20251102140000 -0500'>
+<title>Serie-Al Borde de la Muerte 99%</title>
+<desc>La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251102140000 -0500' stop='20251102154500 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251102154500 -0500' stop='20251102171500 -0500'>
+<title>Educa TV</title>
+<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251102171500 -0500' stop='20251102180000 -0500'>
+<title>Música</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251102180000 -0500' stop='20251102183000 -0500'>
+<title>Santa Misa</title>
+<desc>La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
+<category>Religion</category>
+</programme>
+<programme channel='12001' start='20251102183000 -0500' stop='20251102190000 -0500'>
+<title>Prey</title>
+<desc>El protagonista es Marcus Farrow (John Simm) un policía detective que trabaja en el área de Manchester. Está bien valorado en el trabajo, y en su casa tiene ciertos problemas pero de todos modos una vida bastante normal con su familia, compuesta por su ex mujer Abi y sus hijos.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251102190000 -0500' stop='20251102200000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251102200000 -0500' stop='20251102210000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251102210000 -0500' stop='20251102223000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251102223000 -0500' stop='20251103010000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251103010000 -0500' stop='20251103023000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251103023000 -0500' stop='20251103040000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251103040000 -0500' stop='20251103060000 -0500'>
+<title>Armonia Musical</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251103060000 -0500' stop='20251103070000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251103070000 -0500' stop='20251103074500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251103074500 -0500' stop='20251103091500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251103091500 -0500' stop='20251103113000 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251103113000 -0500' stop='20251103123000 -0500'>
+<title>Educa TV</title>
+<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251103123000 -0500' stop='20251103131500 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251103131500 -0500' stop='20251103140000 -0500'>
+<title>Serie-Al Borde de la Muerte 99%</title>
+<desc>La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251103140000 -0500' stop='20251103154500 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251103154500 -0500' stop='20251103171500 -0500'>
+<title>Educa TV</title>
+<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251103171500 -0500' stop='20251103180000 -0500'>
+<title>Música</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251103180000 -0500' stop='20251103183000 -0500'>
+<title>Santa Misa</title>
+<desc>La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
+<category>Religion</category>
+</programme>
+<programme channel='12001' start='20251103183000 -0500' stop='20251103190000 -0500'>
+<title>Prey</title>
+<desc>El protagonista es Marcus Farrow (John Simm) un policía detective que trabaja en el área de Manchester. Está bien valorado en el trabajo, y en su casa tiene ciertos problemas pero de todos modos una vida bastante normal con su familia, compuesta por su ex mujer Abi y sus hijos.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251103190000 -0500' stop='20251103200000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251103200000 -0500' stop='20251103210000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251103210000 -0500' stop='20251103223000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251103223000 -0500' stop='20251104010000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251104010000 -0500' stop='20251104023000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251104023000 -0500' stop='20251104040000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251104040000 -0500' stop='20251104060000 -0500'>
+<title>Armonia Musical</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251104060000 -0500' stop='20251104070000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251104070000 -0500' stop='20251104074500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251104074500 -0500' stop='20251104091500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251104091500 -0500' stop='20251104113000 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251104113000 -0500' stop='20251104123000 -0500'>
+<title>Educa TV</title>
+<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251104123000 -0500' stop='20251104131500 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251104131500 -0500' stop='20251104140000 -0500'>
+<title>Serie-Al Borde de la Muerte 99%</title>
+<desc>La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251104140000 -0500' stop='20251104154500 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251104154500 -0500' stop='20251104171500 -0500'>
+<title>Educa TV</title>
+<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251104171500 -0500' stop='20251104180000 -0500'>
+<title>Música</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251104180000 -0500' stop='20251104183000 -0500'>
+<title>Santa Misa</title>
+<desc>La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
+<category>Religion</category>
+</programme>
+<programme channel='12001' start='20251104183000 -0500' stop='20251104190000 -0500'>
+<title>Prey</title>
+<desc>El protagonista es Marcus Farrow (John Simm) un policía detective que trabaja en el área de Manchester. Está bien valorado en el trabajo, y en su casa tiene ciertos problemas pero de todos modos una vida bastante normal con su familia, compuesta por su ex mujer Abi y sus hijos.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251104190000 -0500' stop='20251104200000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251104200000 -0500' stop='20251104210000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251104210000 -0500' stop='20251104223000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251104223000 -0500' stop='20251105010000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251105010000 -0500' stop='20251105023000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251105023000 -0500' stop='20251105040000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251105040000 -0500' stop='20251105060000 -0500'>
+<title>Armonia Musical</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251105060000 -0500' stop='20251105070000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251105070000 -0500' stop='20251105074500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251105074500 -0500' stop='20251105091500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251105091500 -0500' stop='20251105113000 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251105113000 -0500' stop='20251105123000 -0500'>
+<title>Educa TV</title>
+<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251105123000 -0500' stop='20251105131500 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251105131500 -0500' stop='20251105140000 -0500'>
+<title>Serie-Al Borde de la Muerte 99%</title>
+<desc>La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251105140000 -0500' stop='20251105154500 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251105154500 -0500' stop='20251105171500 -0500'>
+<title>Educa TV</title>
+<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251105171500 -0500' stop='20251105180000 -0500'>
+<title>Música</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251105180000 -0500' stop='20251105183000 -0500'>
+<title>Santa Misa</title>
+<desc>La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
+<category>Religion</category>
+</programme>
+<programme channel='12001' start='20251105183000 -0500' stop='20251105190000 -0500'>
+<title>Prey</title>
+<desc>El protagonista es Marcus Farrow (John Simm) un policía detective que trabaja en el área de Manchester. Está bien valorado en el trabajo, y en su casa tiene ciertos problemas pero de todos modos una vida bastante normal con su familia, compuesta por su ex mujer Abi y sus hijos.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251105190000 -0500' stop='20251105200000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251105200000 -0500' stop='20251105210000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251105210000 -0500' stop='20251105223000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251105223000 -0500' stop='20251106010000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251106010000 -0500' stop='20251106023000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251106023000 -0500' stop='20251106040000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251106040000 -0500' stop='20251106060000 -0500'>
+<title>Armonia Musical</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251106060000 -0500' stop='20251106070000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251106070000 -0500' stop='20251106074500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251106074500 -0500' stop='20251106091500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251106091500 -0500' stop='20251106113000 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251106113000 -0500' stop='20251106123000 -0500'>
+<title>Educa TV</title>
+<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251106123000 -0500' stop='20251106131500 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251106131500 -0500' stop='20251106140000 -0500'>
+<title>Serie-Al Borde de la Muerte 99%</title>
+<desc>La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251106140000 -0500' stop='20251106154500 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251106154500 -0500' stop='20251106171500 -0500'>
+<title>Educa TV</title>
+<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251106171500 -0500' stop='20251106180000 -0500'>
+<title>Música</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251106180000 -0500' stop='20251106183000 -0500'>
+<title>Santa Misa</title>
+<desc>La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
+<category>Religion</category>
+</programme>
+<programme channel='12001' start='20251106183000 -0500' stop='20251106190000 -0500'>
+<title>Prey</title>
+<desc>El protagonista es Marcus Farrow (John Simm) un policía detective que trabaja en el área de Manchester. Está bien valorado en el trabajo, y en su casa tiene ciertos problemas pero de todos modos una vida bastante normal con su familia, compuesta por su ex mujer Abi y sus hijos.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251106190000 -0500' stop='20251106200000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251106200000 -0500' stop='20251106210000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251106210000 -0500' stop='20251106223000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251106223000 -0500' stop='20251107010000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251107010000 -0500' stop='20251107023000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251107023000 -0500' stop='20251107040000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251107040000 -0500' stop='20251107060000 -0500'>
+<title>Armonia Musical</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251107060000 -0500' stop='20251107070000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251107070000 -0500' stop='20251107074500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251107074500 -0500' stop='20251107091500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251107091500 -0500' stop='20251107113000 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251107113000 -0500' stop='20251107123000 -0500'>
+<title>Educa TV</title>
+<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251107123000 -0500' stop='20251107131500 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251107131500 -0500' stop='20251107140000 -0500'>
+<title>Serie-Al Borde de la Muerte 99%</title>
+<desc>La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251107140000 -0500' stop='20251107154500 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251107154500 -0500' stop='20251107171500 -0500'>
+<title>Educa TV</title>
+<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251107171500 -0500' stop='20251107180000 -0500'>
+<title>Música</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251107180000 -0500' stop='20251107183000 -0500'>
+<title>Santa Misa</title>
+<desc>La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
+<category>Religion</category>
+</programme>
+<programme channel='12001' start='20251107183000 -0500' stop='20251107190000 -0500'>
+<title>Prey</title>
+<desc>El protagonista es Marcus Farrow (John Simm) un policía detective que trabaja en el área de Manchester. Está bien valorado en el trabajo, y en su casa tiene ciertos problemas pero de todos modos una vida bastante normal con su familia, compuesta por su ex mujer Abi y sus hijos.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251107190000 -0500' stop='20251107200000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251107200000 -0500' stop='20251107210000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251107210000 -0500' stop='20251107223000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251107223000 -0500' stop='20251108010000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251108010000 -0500' stop='20251108023000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251108023000 -0500' stop='20251108040000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251108040000 -0500' stop='20251108060000 -0500'>
+<title>Armonia Musical</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251108060000 -0500' stop='20251108070000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251108070000 -0500' stop='20251108074500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251108074500 -0500' stop='20251108091500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251108091500 -0500' stop='20251108113000 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251108113000 -0500' stop='20251108123000 -0500'>
+<title>Educa TV</title>
+<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251108123000 -0500' stop='20251108131500 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251108131500 -0500' stop='20251108140000 -0500'>
+<title>Serie-Al Borde de la Muerte 99%</title>
+<desc>La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251108140000 -0500' stop='20251108154500 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251108154500 -0500' stop='20251108171500 -0500'>
+<title>Educa TV</title>
+<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251108171500 -0500' stop='20251108180000 -0500'>
+<title>Música</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251108180000 -0500' stop='20251108183000 -0500'>
+<title>Santa Misa</title>
+<desc>La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
+<category>Religion</category>
+</programme>
+<programme channel='12001' start='20251108183000 -0500' stop='20251108190000 -0500'>
+<title>Prey</title>
+<desc>El protagonista es Marcus Farrow (John Simm) un policía detective que trabaja en el área de Manchester. Está bien valorado en el trabajo, y en su casa tiene ciertos problemas pero de todos modos una vida bastante normal con su familia, compuesta por su ex mujer Abi y sus hijos.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251108190000 -0500' stop='20251108200000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251108200000 -0500' stop='20251108210000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251108210000 -0500' stop='20251108223000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251108223000 -0500' stop='20251109010000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251109010000 -0500' stop='20251109023000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251109023000 -0500' stop='20251109040000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251109040000 -0500' stop='20251109060000 -0500'>
+<title>Armonia Musical</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251109060000 -0500' stop='20251109070000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251109070000 -0500' stop='20251109074500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251109074500 -0500' stop='20251109091500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251109091500 -0500' stop='20251109113000 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251109113000 -0500' stop='20251109123000 -0500'>
+<title>Educa TV</title>
+<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251109123000 -0500' stop='20251109131500 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251109131500 -0500' stop='20251109140000 -0500'>
+<title>Serie-Al Borde de la Muerte 99%</title>
+<desc>La vida de un prestigioso arquitecto da un vuelco sorpresivo cuando es confundido con un peligroso criminal.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251109140000 -0500' stop='20251109154500 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251109154500 -0500' stop='20251109171500 -0500'>
+<title>Educa TV</title>
+<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251109171500 -0500' stop='20251109180000 -0500'>
+<title>Música</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251109180000 -0500' stop='20251109183000 -0500'>
+<title>Santa Misa</title>
+<desc>La misa dominical transmitida desde distintas iglesias católicas de nuestro país.</desc>
+<category>Religion</category>
+</programme>
+<programme channel='12001' start='20251109183000 -0500' stop='20251109190000 -0500'>
+<title>Prey</title>
+<desc>El protagonista es Marcus Farrow (John Simm) un policía detective que trabaja en el área de Manchester. Está bien valorado en el trabajo, y en su casa tiene ciertos problemas pero de todos modos una vida bastante normal con su familia, compuesta por su ex mujer Abi y sus hijos.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251109190000 -0500' stop='20251109200000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251109200000 -0500' stop='20251109210000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251109210000 -0500' stop='20251109223000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251109223000 -0500' stop='20251110010000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251110010000 -0500' stop='20251110023000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251110023000 -0500' stop='20251110040000 -0500'>
+<title>Peliculas</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251110040000 -0500' stop='20251110060000 -0500'>
+<title>Armonia Musical</title>
+<desc>Espacio dedicado para que disfrutes de musica local y nacional.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251110060000 -0500' stop='20251110070000 -0500'>
+<title>Noticieros de Multicanal</title>
+<desc>Programa informativo noticiero Multivision Catamayo.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251110070000 -0500' stop='20251110074500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251110074500 -0500' stop='20251110091500 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251110091500 -0500' stop='20251110113000 -0500'>
+<title>Peliculas Infantiles</title>
+<desc>Espacio dedicado a la transmisión de Películas para los mas pequeños del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12001' start='20251110113000 -0500' stop='20251110123000 -0500'>
+<title>Educa TV</title>
+<desc>EDUCA, televisión para aprender produce y difunde mensajes educativos innovadores, ingeniosos, entretenidos y de calidad, que fortalecen la formación integral de niños, niñas, adolescentes y comunidad en general.</desc>
+<category>Informarivo</category>
+</programme>
+<programme channel='12001' start='20251110123000 -0500' stop='20251110131500 -0500'>
 <title>Noticieros de Multicanal</title>
 <desc>Programa informativo noticiero Multivision Catamayo.</desc>
 <category>Informarivo</category>

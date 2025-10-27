@@ -2,9 +2,84 @@
 <channel id="12002">
 <display-name>AUSTRAL_TV</display-name>
 </channel>
+<programme channel='12002' start='20251026210000 -0500' stop='20251026220000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio que promueve la producción independiente.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20251026220000 -0500' stop='20251027001500 -0500'>
+<title>Peliculas Varias</title>
+<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20251027001500 -0500' stop='20251027020000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20251027020000 -0500' stop='20251027040000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20251027040000 -0500' stop='20251027060000 -0500'>
+<title>Peliculas Varias</title>
+<desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20251027060000 -0500' stop='20251027063000 -0500'>
+<title>Música Concierto</title>
+<desc>Espacio dedicado para que disfrutes de los mejores conciertos que se vivieron en nueustra provincia.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20251027063000 -0500' stop='20251027070000 -0500'>
+<title>Espacio Contratado</title>
+<desc>Espacio que promueve la producción independiente.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20251027070000 -0500' stop='20251027080000 -0500'>
+<title>Smallville</title>
+<desc>Serie que narra los inicios de Superman -Clark Kent- en su pueblo natal, Smallville. Allí vivía con sus padres, estudiaba en el instituto local y conoció a su primera novia, Lana Lang, y a su futuro rival, Lex Luthor.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20251027080000 -0500' stop='20251027090000 -0500'>
+<title>Documentales DW</title>
+<desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20251027090000 -0500' stop='20251027091500 -0500'>
+<title>Animaciones Varias</title>
+<desc>Programa infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20251027091500 -0500' stop='20251027093000 -0500'>
+<title>TV Tienda</title>
+<desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
+<category>Informativo</category>
+</programme>
+<programme channel='12002' start='20251027093000 -0500' stop='20251027101500 -0500'>
+<title>Arrow</title>
+<desc>Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20251027101500 -0500' stop='20251027120000 -0500'>
+<title>Cine General</title>
+<desc>Espacio dedicado para la transmisión de las mejores Películas.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20251027120000 -0500' stop='20251027121500 -0500'>
+<title>Austral Clips</title>
+<desc>Espacio dedicado para que disfrutes de música de todos los tiempos.</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12002' start='20251027121500 -0500' stop='20251027130000 -0500'>
+<title>Noticiero Telenoticias</title>
+<desc>Nuestro noticiero te presenta las noticias mas recientes del Austro Ecuatoriano, Nacionales e Internacionales.</desc>
+<category>Informativo</category>
+</programme>
 <programme channel='12002' start='20251013130000 -0500' stop='20251013134500 -0500'>
-<title>Teresa</title>
-<desc>Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
+<title>The Good Doctor</title>
+<desc>Shaun Murphy un joven cirujano con autismo es reclutado por la unidad de cirugía de un prestigioso hospital.</desc>
 <category>Entretenimiento</category>
 </programme>
 <programme channel='12002' start='20251013134500 -0500' stop='20251013151500 -0500'>
@@ -42,12 +117,12 @@
 <desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20251013184500 -0500' stop='20251013193000 -0500'>
+<programme channel='12002' start='20251013184500 -0500' stop='20251013192000 -0500'>
 <title>Sin Rodeos con Eloy Calle</title>
 <desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251013193000 -0500' stop='20251013200000 -0500'>
+<programme channel='12002' start='20251013192000 -0500' stop='20251013200000 -0500'>
 <title>Full Deportes</title>
 <desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
 <category>Informativo</category>
@@ -107,19 +182,19 @@
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251014090000 -0500' stop='20251014091500 -0500'>
+<programme channel='12002' start='20251014090000 -0500' stop='20251014091000 -0500'>
 <title>Animaciones Varias</title>
 <desc>Programa infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20251014091500 -0500' stop='20251014093000 -0500'>
+<programme channel='12002' start='20251014091000 -0500' stop='20251014092000 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251014093000 -0500' stop='20251014101500 -0500'>
-<title>Arrow</title>
-<desc>Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado.</desc>
+<programme channel='12002' start='20251014092000 -0500' stop='20251014101500 -0500'>
+<title>Batwoman</title>
+<desc>Luego de la misteriosa desaparición de Batman, Kate Kane, prima de Bruce Wayne, vigila las calles de Ciudad Gótica como Batwoman.</desc>
 <category>Entretenimiento</category>
 </programme>
 <programme channel='12002' start='20251014101500 -0500' stop='20251014120000 -0500'>
@@ -138,8 +213,8 @@
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20251014130000 -0500' stop='20251014134500 -0500'>
-<title>Teresa</title>
-<desc>Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
+<title>The Good Doctor</title>
+<desc>Shaun Murphy un joven cirujano con autismo es reclutado por la unidad de cirugía de un prestigioso hospital.</desc>
 <category>Entretenimiento</category>
 </programme>
 <programme channel='12002' start='20251014134500 -0500' stop='20251014151500 -0500'>
@@ -177,12 +252,12 @@
 <desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20251014184500 -0500' stop='20251014193000 -0500'>
+<programme channel='12002' start='20251014184500 -0500' stop='20251014192000 -0500'>
 <title>Sin Rodeos con Eloy Calle</title>
 <desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251014193000 -0500' stop='20251014200000 -0500'>
+<programme channel='12002' start='20251014192000 -0500' stop='20251014200000 -0500'>
 <title>Full Deportes</title>
 <desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
 <category>Informativo</category>
@@ -242,19 +317,19 @@
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251015090000 -0500' stop='20251015091500 -0500'>
+<programme channel='12002' start='20251015090000 -0500' stop='20251015091000 -0500'>
 <title>Animaciones Varias</title>
 <desc>Programa infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20251015091500 -0500' stop='20251015093000 -0500'>
+<programme channel='12002' start='20251015091000 -0500' stop='20251015092000 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251015093000 -0500' stop='20251015101500 -0500'>
-<title>Arrow</title>
-<desc>Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado.</desc>
+<programme channel='12002' start='20251015092000 -0500' stop='20251015101500 -0500'>
+<title>Batwoman</title>
+<desc>Luego de la misteriosa desaparición de Batman, Kate Kane, prima de Bruce Wayne, vigila las calles de Ciudad Gótica como Batwoman.</desc>
 <category>Entretenimiento</category>
 </programme>
 <programme channel='12002' start='20251015101500 -0500' stop='20251015120000 -0500'>
@@ -273,8 +348,8 @@
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20251015130000 -0500' stop='20251015134500 -0500'>
-<title>Teresa</title>
-<desc>Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
+<title>The Good Doctor</title>
+<desc>Shaun Murphy un joven cirujano con autismo es reclutado por la unidad de cirugía de un prestigioso hospital.</desc>
 <category>Entretenimiento</category>
 </programme>
 <programme channel='12002' start='20251015134500 -0500' stop='20251015151500 -0500'>
@@ -312,12 +387,12 @@
 <desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20251015184500 -0500' stop='20251015193000 -0500'>
+<programme channel='12002' start='20251015184500 -0500' stop='20251015192000 -0500'>
 <title>Sin Rodeos con Eloy Calle</title>
 <desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251015193000 -0500' stop='20251015200000 -0500'>
+<programme channel='12002' start='20251015192000 -0500' stop='20251015200000 -0500'>
 <title>Full Deportes</title>
 <desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
 <category>Informativo</category>
@@ -377,19 +452,19 @@
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251016090000 -0500' stop='20251016091500 -0500'>
+<programme channel='12002' start='20251016090000 -0500' stop='20251016091000 -0500'>
 <title>Animaciones Varias</title>
 <desc>Programa infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20251016091500 -0500' stop='20251016093000 -0500'>
+<programme channel='12002' start='20251016091000 -0500' stop='20251016092000 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251016093000 -0500' stop='20251016101500 -0500'>
-<title>Arrow</title>
-<desc>Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado.</desc>
+<programme channel='12002' start='20251016092000 -0500' stop='20251016101500 -0500'>
+<title>Batwoman</title>
+<desc>Luego de la misteriosa desaparición de Batman, Kate Kane, prima de Bruce Wayne, vigila las calles de Ciudad Gótica como Batwoman.</desc>
 <category>Entretenimiento</category>
 </programme>
 <programme channel='12002' start='20251016101500 -0500' stop='20251016120000 -0500'>
@@ -408,8 +483,8 @@
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20251016130000 -0500' stop='20251016134500 -0500'>
-<title>Teresa</title>
-<desc>Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
+<title>The Good Doctor</title>
+<desc>Shaun Murphy un joven cirujano con autismo es reclutado por la unidad de cirugía de un prestigioso hospital.</desc>
 <category>Entretenimiento</category>
 </programme>
 <programme channel='12002' start='20251016134500 -0500' stop='20251016151500 -0500'>
@@ -447,12 +522,12 @@
 <desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20251016184500 -0500' stop='20251016193000 -0500'>
+<programme channel='12002' start='20251016184500 -0500' stop='20251016192000 -0500'>
 <title>Sin Rodeos con Eloy Calle</title>
 <desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251016193000 -0500' stop='20251016200000 -0500'>
+<programme channel='12002' start='20251016192000 -0500' stop='20251016200000 -0500'>
 <title>Full Deportes</title>
 <desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
 <category>Informativo</category>
@@ -512,19 +587,19 @@
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251017090000 -0500' stop='20251017091500 -0500'>
+<programme channel='12002' start='20251017090000 -0500' stop='20251017091000 -0500'>
 <title>Animaciones Varias</title>
 <desc>Programa infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20251017091500 -0500' stop='20251017093000 -0500'>
+<programme channel='12002' start='20251017091000 -0500' stop='20251017092000 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251017093000 -0500' stop='20251017101500 -0500'>
-<title>Arrow</title>
-<desc>Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado.</desc>
+<programme channel='12002' start='20251017092000 -0500' stop='20251017101500 -0500'>
+<title>Batwoman</title>
+<desc>Luego de la misteriosa desaparición de Batman, Kate Kane, prima de Bruce Wayne, vigila las calles de Ciudad Gótica como Batwoman.</desc>
 <category>Entretenimiento</category>
 </programme>
 <programme channel='12002' start='20251017101500 -0500' stop='20251017120000 -0500'>
@@ -543,8 +618,8 @@
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20251017130000 -0500' stop='20251017134500 -0500'>
-<title>Teresa</title>
-<desc>Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
+<title>The Good Doctor</title>
+<desc>Shaun Murphy un joven cirujano con autismo es reclutado por la unidad de cirugía de un prestigioso hospital.</desc>
 <category>Entretenimiento</category>
 </programme>
 <programme channel='12002' start='20251017134500 -0500' stop='20251017151500 -0500'>
@@ -582,12 +657,12 @@
 <desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20251017184500 -0500' stop='20251017193000 -0500'>
+<programme channel='12002' start='20251017184500 -0500' stop='20251017192000 -0500'>
 <title>Sin Rodeos con Eloy Calle</title>
 <desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251017193000 -0500' stop='20251017200000 -0500'>
+<programme channel='12002' start='20251017192000 -0500' stop='20251017200000 -0500'>
 <title>Full Deportes</title>
 <desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
 <category>Informativo</category>
@@ -707,12 +782,12 @@
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20251018190000 -0500' stop='20251018193000 -0500'>
+<programme channel='12002' start='20251018190000 -0500' stop='20251018192000 -0500'>
 <title>Pasión Tuerca</title>
 <desc>Pasión Tuerca transmite eventos automovilisticos del Austro Ecuatoriano y a nivel Nacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20251018193000 -0500' stop='20251018201500 -0500'>
+<programme channel='12002' start='20251018192000 -0500' stop='20251018201500 -0500'>
 <title>Bones</title>
 <desc>Una antropóloga forense y un engreído agente del FBI forman equipo para investigar las causas de los homicidios que investigan.</desc>
 <category>Entretenimiento</category>
@@ -827,12 +902,12 @@
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20251019190000 -0500' stop='20251019193000 -0500'>
+<programme channel='12002' start='20251019190000 -0500' stop='20251019192000 -0500'>
 <title>Sin Rodeos con Eloy Calle</title>
 <desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251019193000 -0500' stop='20251019201500 -0500'>
+<programme channel='12002' start='20251019192000 -0500' stop='20251019201500 -0500'>
 <title>Bones</title>
 <desc>Una antropóloga forense y un engreído agente del FBI forman equipo para investigar las causas de los homicidios que investigan.</desc>
 <category>Entretenimiento</category>
@@ -887,19 +962,19 @@
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251020090000 -0500' stop='20251020091500 -0500'>
+<programme channel='12002' start='20251020090000 -0500' stop='20251020091000 -0500'>
 <title>Animaciones Varias</title>
 <desc>Programa infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20251020091500 -0500' stop='20251020093000 -0500'>
+<programme channel='12002' start='20251020091000 -0500' stop='20251020092000 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251020093000 -0500' stop='20251020101500 -0500'>
-<title>Arrow</title>
-<desc>Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado.</desc>
+<programme channel='12002' start='20251020092000 -0500' stop='20251020101500 -0500'>
+<title>Batwoman</title>
+<desc>Luego de la misteriosa desaparición de Batman, Kate Kane, prima de Bruce Wayne, vigila las calles de Ciudad Gótica como Batwoman.</desc>
 <category>Entretenimiento</category>
 </programme>
 <programme channel='12002' start='20251020101500 -0500' stop='20251020120000 -0500'>
@@ -918,8 +993,8 @@
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20251020130000 -0500' stop='20251020134500 -0500'>
-<title>Teresa</title>
-<desc>Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
+<title>The Good Doctor</title>
+<desc>Shaun Murphy un joven cirujano con autismo es reclutado por la unidad de cirugía de un prestigioso hospital.</desc>
 <category>Entretenimiento</category>
 </programme>
 <programme channel='12002' start='20251020134500 -0500' stop='20251020151500 -0500'>
@@ -957,12 +1032,12 @@
 <desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20251020184500 -0500' stop='20251020193000 -0500'>
+<programme channel='12002' start='20251020184500 -0500' stop='20251020192000 -0500'>
 <title>Sin Rodeos con Eloy Calle</title>
 <desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251020193000 -0500' stop='20251020200000 -0500'>
+<programme channel='12002' start='20251020192000 -0500' stop='20251020200000 -0500'>
 <title>Full Deportes</title>
 <desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
 <category>Informativo</category>
@@ -1022,19 +1097,19 @@
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251021090000 -0500' stop='20251021091500 -0500'>
+<programme channel='12002' start='20251021090000 -0500' stop='20251021091000 -0500'>
 <title>Animaciones Varias</title>
 <desc>Programa infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20251021091500 -0500' stop='20251021093000 -0500'>
+<programme channel='12002' start='20251021091000 -0500' stop='20251021092000 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251021093000 -0500' stop='20251021101500 -0500'>
-<title>Arrow</title>
-<desc>Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado.</desc>
+<programme channel='12002' start='20251021092000 -0500' stop='20251021101500 -0500'>
+<title>Batwoman</title>
+<desc>Luego de la misteriosa desaparición de Batman, Kate Kane, prima de Bruce Wayne, vigila las calles de Ciudad Gótica como Batwoman.</desc>
 <category>Entretenimiento</category>
 </programme>
 <programme channel='12002' start='20251021101500 -0500' stop='20251021120000 -0500'>
@@ -1053,8 +1128,8 @@
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20251021130000 -0500' stop='20251021134500 -0500'>
-<title>Teresa</title>
-<desc>Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
+<title>The Good Doctor</title>
+<desc>Shaun Murphy un joven cirujano con autismo es reclutado por la unidad de cirugía de un prestigioso hospital.</desc>
 <category>Entretenimiento</category>
 </programme>
 <programme channel='12002' start='20251021134500 -0500' stop='20251021151500 -0500'>
@@ -1092,12 +1167,12 @@
 <desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20251021184500 -0500' stop='20251021193000 -0500'>
+<programme channel='12002' start='20251021184500 -0500' stop='20251021192000 -0500'>
 <title>Sin Rodeos con Eloy Calle</title>
 <desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251021193000 -0500' stop='20251021200000 -0500'>
+<programme channel='12002' start='20251021192000 -0500' stop='20251021200000 -0500'>
 <title>Full Deportes</title>
 <desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
 <category>Informativo</category>
@@ -1157,19 +1232,19 @@
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251022090000 -0500' stop='20251022091500 -0500'>
+<programme channel='12002' start='20251022090000 -0500' stop='20251022091000 -0500'>
 <title>Animaciones Varias</title>
 <desc>Programa infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20251022091500 -0500' stop='20251022093000 -0500'>
+<programme channel='12002' start='20251022091000 -0500' stop='20251022092000 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251022093000 -0500' stop='20251022101500 -0500'>
-<title>Arrow</title>
-<desc>Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado.</desc>
+<programme channel='12002' start='20251022092000 -0500' stop='20251022101500 -0500'>
+<title>Batwoman</title>
+<desc>Luego de la misteriosa desaparición de Batman, Kate Kane, prima de Bruce Wayne, vigila las calles de Ciudad Gótica como Batwoman.</desc>
 <category>Entretenimiento</category>
 </programme>
 <programme channel='12002' start='20251022101500 -0500' stop='20251022120000 -0500'>
@@ -1188,8 +1263,8 @@
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20251022130000 -0500' stop='20251022134500 -0500'>
-<title>Teresa</title>
-<desc>Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
+<title>The Good Doctor</title>
+<desc>Shaun Murphy un joven cirujano con autismo es reclutado por la unidad de cirugía de un prestigioso hospital.</desc>
 <category>Entretenimiento</category>
 </programme>
 <programme channel='12002' start='20251022134500 -0500' stop='20251022151500 -0500'>
@@ -1227,12 +1302,12 @@
 <desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20251022184500 -0500' stop='20251022193000 -0500'>
+<programme channel='12002' start='20251022184500 -0500' stop='20251022192000 -0500'>
 <title>Sin Rodeos con Eloy Calle</title>
 <desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251022193000 -0500' stop='20251022200000 -0500'>
+<programme channel='12002' start='20251022192000 -0500' stop='20251022200000 -0500'>
 <title>Full Deportes</title>
 <desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
 <category>Informativo</category>
@@ -1292,19 +1367,19 @@
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251023090000 -0500' stop='20251023091500 -0500'>
+<programme channel='12002' start='20251023090000 -0500' stop='20251023091000 -0500'>
 <title>Animaciones Varias</title>
 <desc>Programa infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20251023091500 -0500' stop='20251023093000 -0500'>
+<programme channel='12002' start='20251023091000 -0500' stop='20251023092000 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251023093000 -0500' stop='20251023101500 -0500'>
-<title>Arrow</title>
-<desc>Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado.</desc>
+<programme channel='12002' start='20251023092000 -0500' stop='20251023101500 -0500'>
+<title>Batwoman</title>
+<desc>Luego de la misteriosa desaparición de Batman, Kate Kane, prima de Bruce Wayne, vigila las calles de Ciudad Gótica como Batwoman.</desc>
 <category>Entretenimiento</category>
 </programme>
 <programme channel='12002' start='20251023101500 -0500' stop='20251023120000 -0500'>
@@ -1323,8 +1398,8 @@
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20251023130000 -0500' stop='20251023134500 -0500'>
-<title>Teresa</title>
-<desc>Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
+<title>The Good Doctor</title>
+<desc>Shaun Murphy un joven cirujano con autismo es reclutado por la unidad de cirugía de un prestigioso hospital.</desc>
 <category>Entretenimiento</category>
 </programme>
 <programme channel='12002' start='20251023134500 -0500' stop='20251023151500 -0500'>
@@ -1362,12 +1437,12 @@
 <desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20251023184500 -0500' stop='20251023193000 -0500'>
+<programme channel='12002' start='20251023184500 -0500' stop='20251023192000 -0500'>
 <title>Sin Rodeos con Eloy Calle</title>
 <desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251023193000 -0500' stop='20251023200000 -0500'>
+<programme channel='12002' start='20251023192000 -0500' stop='20251023200000 -0500'>
 <title>Full Deportes</title>
 <desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
 <category>Informativo</category>
@@ -1427,19 +1502,19 @@
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251024090000 -0500' stop='20251024091500 -0500'>
+<programme channel='12002' start='20251024090000 -0500' stop='20251024091000 -0500'>
 <title>Animaciones Varias</title>
 <desc>Programa infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20251024091500 -0500' stop='20251024093000 -0500'>
+<programme channel='12002' start='20251024091000 -0500' stop='20251024092000 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251024093000 -0500' stop='20251024101500 -0500'>
-<title>Arrow</title>
-<desc>Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado.</desc>
+<programme channel='12002' start='20251024092000 -0500' stop='20251024101500 -0500'>
+<title>Batwoman</title>
+<desc>Luego de la misteriosa desaparición de Batman, Kate Kane, prima de Bruce Wayne, vigila las calles de Ciudad Gótica como Batwoman.</desc>
 <category>Entretenimiento</category>
 </programme>
 <programme channel='12002' start='20251024101500 -0500' stop='20251024120000 -0500'>
@@ -1458,8 +1533,8 @@
 <category>Informativo</category>
 </programme>
 <programme channel='12002' start='20251024130000 -0500' stop='20251024134500 -0500'>
-<title>Teresa</title>
-<desc>Teresa Chávez es una joven obsesionada por el dinero y la ambición. A pesar de su belleza y de haber crecido en el seno de una familia cariñosa, vive resentida, y su único deseo es abandonar el barrio humilde en el que vive.</desc>
+<title>The Good Doctor</title>
+<desc>Shaun Murphy un joven cirujano con autismo es reclutado por la unidad de cirugía de un prestigioso hospital.</desc>
 <category>Entretenimiento</category>
 </programme>
 <programme channel='12002' start='20251024134500 -0500' stop='20251024151500 -0500'>
@@ -1497,12 +1572,12 @@
 <desc>Hosted by Mexican TV personality Alfonso "Poncho" Herrera, this series combines hard data and scientific observations with some of the most outrageous, hilarious and spectacularly painful bloopers ever recorded on video.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20251024184500 -0500' stop='20251024193000 -0500'>
+<programme channel='12002' start='20251024184500 -0500' stop='20251024192000 -0500'>
 <title>Sin Rodeos con Eloy Calle</title>
 <desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251024193000 -0500' stop='20251024200000 -0500'>
+<programme channel='12002' start='20251024192000 -0500' stop='20251024200000 -0500'>
 <title>Full Deportes</title>
 <desc>Disfruta de la mas reciente información sobre el Deporte Local, Nacional e Internacional.</desc>
 <category>Informativo</category>
@@ -1622,12 +1697,12 @@
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20251025190000 -0500' stop='20251025193000 -0500'>
+<programme channel='12002' start='20251025190000 -0500' stop='20251025192000 -0500'>
 <title>Pasión Tuerca</title>
 <desc>Pasión Tuerca transmite eventos automovilisticos del Austro Ecuatoriano y a nivel Nacional.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20251025193000 -0500' stop='20251025201500 -0500'>
+<programme channel='12002' start='20251025192000 -0500' stop='20251025201500 -0500'>
 <title>Bones</title>
 <desc>Una antropóloga forense y un engreído agente del FBI forman equipo para investigar las causas de los homicidios que investigan.</desc>
 <category>Entretenimiento</category>
@@ -1742,12 +1817,12 @@
 <desc>Espacio dedicado a la transmisión de Películas para todas las personas del hogar.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20251026190000 -0500' stop='20251026193000 -0500'>
+<programme channel='12002' start='20251026190000 -0500' stop='20251026192000 -0500'>
 <title>Sin Rodeos con Eloy Calle</title>
 <desc>En este espacio se realiza entrevistas a diferentes actores ya sean politicos, religiosos, culturales, etc.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251026193000 -0500' stop='20251026201500 -0500'>
+<programme channel='12002' start='20251026192000 -0500' stop='20251026201500 -0500'>
 <title>Bones</title>
 <desc>Una antropóloga forense y un engreído agente del FBI forman equipo para investigar las causas de los homicidios que investigan.</desc>
 <category>Entretenimiento</category>
@@ -1802,19 +1877,19 @@
 <desc>Palpitantes historias, realidades diversas e imágenes fascinantes: media hora o tres cuartos de hora diarios con temas investigados en profundidad, de muy distintos campos: política, economía, ciencia, cultura, naturaleza, historia contemporánea, estilo de vida y deporte.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251027090000 -0500' stop='20251027091500 -0500'>
+<programme channel='12002' start='20251027090000 -0500' stop='20251027091000 -0500'>
 <title>Animaciones Varias</title>
 <desc>Programa infantil en donde seleccionamos las mejores animaciones para que los pequeños del hogar disfruten.</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12002' start='20251027091500 -0500' stop='20251027093000 -0500'>
+<programme channel='12002' start='20251027091000 -0500' stop='20251027092000 -0500'>
 <title>TV Tienda</title>
 <desc>TV Tienda te transmite las mejores promociones y con muchos descuentos en articulos que facilitaran su vida.</desc>
 <category>Informativo</category>
 </programme>
-<programme channel='12002' start='20251027093000 -0500' stop='20251027101500 -0500'>
-<title>Arrow</title>
-<desc>Después de un violento naufragio y tras haber desaparecido y creído muerto durante cinco años, el multimillonario playboy Oliver Queen es rescatado con vida en una isla del Pacífico. De vuelta en casa en Starling City, es recibido por su madre, su hermana y su mejor amigo, quienes rápidamente notan que la terrible experiencia sufrida lo ha cambiado.</desc>
+<programme channel='12002' start='20251027092000 -0500' stop='20251027101500 -0500'>
+<title>Batwoman</title>
+<desc>Luego de la misteriosa desaparición de Batman, Kate Kane, prima de Bruce Wayne, vigila las calles de Ciudad Gótica como Batwoman.</desc>
 <category>Entretenimiento</category>
 </programme>
 <programme channel='12002' start='20251027101500 -0500' stop='20251027120000 -0500'>

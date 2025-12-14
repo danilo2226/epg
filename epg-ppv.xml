@@ -279,22 +279,22 @@
 </programme>
 <programme channel='12008' start='20251212190000 -0500' stop='20251212200000 -0500'>
 <title>SANTOS FC. vs. TIFOZZI</title>
-<desc>¡Vuelven las emociones del torneo CLANES DEPORTIVOS en su 3era Edición! Disfruta de este emocionante encuentro entre:  SANTOS FC. vs. TIFOZZI.</desc>
+<desc>¡Copa de Campeones Cuenca 2025! Vive el emocionante partido entre SANTOS FC. vs. TIFOZZI.</desc>
 <category>Deportivo</category>
 </programme>
 <programme channel='12008' start='20251212200000 -0500' stop='20251212210000 -0500'>
 <title>DON BOSCO vs. SAN ROQUE</title>
-<desc>¡Vuelven las emociones del torneo CLANES DEPORTIVOS en su 3era Edición! Disfruta de este emocionante encuentro entre:  DON BOSCO vs. SAN ROQUE.</desc>
+<desc>¡Copa de Campeones Cuenca 2025! Vive el emocionante partido entre DON BOSCO vs. SAN ROQUE.</desc>
 <category>Deportivo</category>
 </programme>
 <programme channel='12008' start='20251212210000 -0500' stop='20251212220000 -0500'>
 <title>SAN ROQUE vs. SANTOS FC.</title>
-<desc>¡El Mundialito de los Pobres New York 2025, Segunda Edición! Vive el emocionante partido entre SAN ROQUE vs. SANTOS FC..</desc>
+<desc>¡Copa de Campeones Cuenca 2025! Vive el emocionante partido entre SAN ROQUE vs. SANTOS FC..</desc>
 <category>Deportivo</category>
 </programme>
 <programme channel='12008' start='20251212220000 -0500' stop='20251212233000 -0500'>
 <title>TIFOZZI vs. DON BOSCO</title>
-<desc>¡El Mundialito de los Pobres New York 2025, Segunda Edición! Vive el emocionante partido entre TIFOZZI vs. DON BOSCO.</desc>
+<desc>¡Copa de Campeones Cuenca 2025! Vive el emocionante partido entre TIFOZZI vs. DON BOSCO.</desc>
 <category>Deportivo</category>
 </programme>
 <programme channel='12008' start='20251212233000 -0500' stop='20251213001500 -0500'>
@@ -312,17 +312,22 @@
 <desc>Canal oficial de transmisión de los mejores eventos de la provincia de Azuay.</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12008' start='20251213080000 -0500' stop='20251213103000 -0500'>
+<programme channel='12008' start='20251213080000 -0500' stop='20251213100000 -0500'>
 <title>GOMAX SPORTS</title>
 <desc>Canal oficial de transmisión de los mejores eventos de la provincia de Azuay.</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12008' start='20251213103000 -0500' stop='20251213113000 -0500'>
+<programme channel='12008' start='20251213100000 -0500' stop='20251213120000 -0500'>
 <title>GOMAX SPORTS</title>
 <desc>Canal oficial de transmisión de los mejores eventos de la provincia de Azuay.</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12008' start='20251213113000 -0500' stop='20251213180000 -0500'>
+<programme channel='12008' start='20251213120000 -0500' stop='20251213160000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>Canal oficial de transmisión de los mejores eventos de la provincia de Azuay.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12008' start='20251213160000 -0500' stop='20251213180000 -0500'>
 <title>GOMAX SPORTS</title>
 <desc>Canal oficial de transmisión de los mejores eventos de la provincia de Azuay.</desc>
 <category>Deportivo</category>
@@ -332,32 +337,27 @@
 <desc>Canal oficial de transmisión de los mejores eventos de la provincia de Azuay.</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12008' start='20251213190000 -0500' stop='20251213193000 -0500'>
-<title>GOMAX SPORTS</title>
-<desc>Canal oficial de transmisión de los mejores eventos de la provincia de Azuay.</desc>
+<programme channel='12008' start='20251213190000 -0500' stop='20251213200000 -0500'>
+<title>DON BOSCO vs. SANTOS FC</title>
+<desc>¡Copa de Campeones Cuenca 2025! Vive el emocionante partido entre DON BOSCO vs. SANTOS FC.</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12008' start='20251213193000 -0500' stop='20251213200000 -0500'>
-<title>GOMAX SPORTS</title>
-<desc>Canal oficial de transmisión de los mejores eventos de la provincia de Azuay.</desc>
+<programme channel='12008' start='20251213200000 -0500' stop='20251213211000 -0500'>
+<title>SAN ROQUE vs. TIFOZZI</title>
+<desc>¡Copa de Campeones Cuenca 2025! Vive el emocionante partido entre SAN ROQUE vs. TIFOZZI.</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12008' start='20251213200000 -0500' stop='20251213210000 -0500'>
-<title>GOMAX SPORTS</title>
-<desc>Canal oficial de transmisión de los mejores eventos de la provincia de Azuay.</desc>
+<programme channel='12008' start='20251213211000 -0500' stop='20251213212000 -0500'>
+<title>DON BOSCO vs. TIFOZZI - 3ER PUERTO</title>
+<desc>¡Copa de Campeones Cuenca 2025! Vive el emocionante partido entre DON BOSCO vs. TIFOZZI - 3ER PUERTO.</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12008' start='20251213210000 -0500' stop='20251213220000 -0500'>
-<title>GOMAX SPORTS</title>
-<desc>Canal oficial de transmisión de los mejores eventos de la provincia de Azuay.</desc>
+<programme channel='12008' start='20251213212000 -0500' stop='20251213223000 -0500'>
+<title>SAN ROQUE vs. SANTOS FC. - FINAL</title>
+<desc>¡Copa de Campeones Cuenca 2025! Vive el emocionante partido entre SAN ROQUE vs. SANTOS FC. - FINAL.</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12008' start='20251213220000 -0500' stop='20251213230000 -0500'>
-<title>GOMAX SPORTS</title>
-<desc>Canal oficial de transmisión de los mejores eventos de la provincia de Azuay.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20251213230000 -0500' stop='20251214003000 -0500'>
+<programme channel='12008' start='20251213223000 -0500' stop='20251214003000 -0500'>
 <title>GOMAX SPORTS</title>
 <desc>Canal oficial de transmisión de los mejores eventos de la provincia de Azuay.</desc>
 <category>Deportivo</category>

@@ -1,7 +1,13 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="LigaProEC-OP1" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-LigaProEC.png" group-title="General",LigaProEC-1
+rtes#EXTM3U
+#EXTINF:-1 tvg-id="LigaProEC-OP1" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-LigaProEC.png" group-title="Deportes",LigaProEC-1
 http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/143255
-#EXTINF:-1 tvg-id="LigaProEC-OP2" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-LigaProEC.png" group-title="General",LigaProEC-2
+#EXTINF:-1 tvg-id="LigaProEC-OP2" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-LigaProEC.png" group-title="Deportes",LigaProEC-2
 http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/174447
-#EXTINF:-1 tvg-id="LigaProEC-OP3" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-LigaProEC.png" group-title="General",LigaProEC-3
+#EXTINF:-1 tvg-id="LigaProEC-OP3" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-LigaProEC.png" group-title="Deportes",LigaProEC-3
 http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/174448
+#EXTINF:-1 tvg-id="Ecuavisa" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-Ecuavisa.png" group-title="Ecuador",Ecuavisa
+http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/8627
+#EXTINF:-1 tvg-id="Teleamazonas" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-Teleamazonas.png" group-title="Ecuador",Teleamazonas
+http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/8648
+#EXTINF:-1 tvg-id="TC Television" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-TCTV.png" group-title="Ecuador",TC-Television
+http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/8639

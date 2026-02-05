@@ -1,33 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="General",Azteca Guate
-https://ch1-tva.duin.dev/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Entertainment",Azteca Internacional
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Sports",BeIN SPORTS XTRA En Espanol
-https://lnc-bein-espanol.tubi.video/playlist.m3u8
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Sports",DeporTV
-https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-#EXTINF:-1 tvg-id="EducaTV.ec" tvg-logo="https://i.imgur.com/lY9Bx2u.png" group-title="Education",EducaTV
-https://vid2.ecuamedia.net/educatv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="LaRedondaTV.ec" tvg-logo="https://i.imgur.com/a5SxXvJ.jpg" group-title="Sports",La Redonda TV
-https://ythls.armelin.one/channel/UCG_S--F4wcdre2-8PG9YlhA.m3u8
-#EXTINF:-1 tvg-id="MarioPintoTV.ec" tvg-logo="https://i.imgur.com/9rU6yWo.jpg" group-title="News",Mario Pinto TV
-https://eu1.servers10.com:8081/8028/index.m3u8
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Undefined",TUDN
-https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="General",TV Publica
-https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
-#EXTINF:-1 tvg-id="TVMax.pa" tvg-logo="https://i.imgur.com/XcrkfGh.png" group-title="Sports",TVMAX
-https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Undefined",Ecuavisa
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
-#EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="Undefined",Teleamazonas
-https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12bf264e/live.isml/43953caa-53ff-4525-9f9e-202a12bf264e.m3u8
-#EXTINF:-1 tvg-id="TCTV.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TC_logo2020.webp" group-title="Undefined",TC TV
-https://live-b.cf.dmcdn.net/sec2(2Iz75WhTJUVZ8v8sVcxDWYS7doeykSFO4ChfXk_PSMyD_QtJVP9WDwsC0-ZTcQY6hFkQ-EsRwHALw-AGbILe4gRDZRtpnzicHSnzWQxGgcs)/dm/3/x7wijay/d/live-3.m3u8
-#EXTINF:-1 tvg-id="RTS.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="Undefined",RTS
-https://alba-ec-rts-rts.stream.mediatiquestream.com/live2/alba-ec-rts-rts_480p/chunks.m3u8
-#EXTINF:-1 tvg-id="EcuadorTV.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/EcuadorTV_logo.png" group-title="Undefined",Ecuador TV
-https://samson.streamerr.co:8081/shogun/index.m3u8
-#EXTINF:-1 tvg-id="TVC.ec" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/TVCEcuador2023.png/revision/latest/scale-to-width-down/250?cb=20230215230242&path-prefix=es" group-title="Undefined",TVC
-https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="General",Barcelona
+http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/143255

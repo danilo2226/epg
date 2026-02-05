@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="LigaProEC-OP1" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-LigaProEC.png" group-title="General",LigaProEC-1
 http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/143255
+#EXTINF:-1 tvg-id="LigaProEC-OP2" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-LigaProEC.png" group-title="General",LigaProEC-2
+http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/174447
+#EXTINF:-1 tvg-id="LigaProEC-OP3" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-LigaProEC.png" group-title="General",LigaProEC-3
+http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/174448

@@ -2,327 +2,77 @@
 <channel id="12004">
 <display-name>ECDF3</display-name>
 </channel>
-<programme channel='12004' start='20260131000000 -0500' stop='20260131040000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260131040000 -0500' stop='20260131080000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260131080000 -0500' stop='20260131120000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260131120000 -0500' stop='20260131170000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260131170000 -0500' stop='20260131180000 -0500'>
-<title>PRESENTACION PLANTILLA BSC FEMENINO</title>
-<desc>DISFRUTA DE LA NOCHE AMARILLA 2026</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12004' start='20260131180000 -0500' stop='20260131184500 -0500'>
-<title>CONCIERTO "GRUPO GALÉ"</title>
-<desc>DISFRUTA DE LA NOCHE AMARILLA 2026</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12004' start='20260131184500 -0500' stop='20260131194500 -0500'>
-<title>PRESENTACIÓN PLANTILLA "BARCELONA SC. 2026"</title>
-<desc>DISFRUTA DE LA NOCHE AMARILLA 2026</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12004' start='20260131194500 -0500' stop='20260131200000 -0500'>
-<title>SHOW DE PIROTÉCNIA</title>
-<desc>DISFRUTA DE LA NOCHE AMARILLA 2026</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12004' start='20260131200000 -0500' stop='20260131210000 -0500'>
-<title>CONCIERTO ARTISTA INVITADO "ZION"</title>
-<desc>DISFRUTA DE LA NOCHE AMARILLA 2026</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12004' start='20260131210000 -0500' stop='20260131214500 -0500'>
-<title>AMISTOSO 1T: BARCELONA SC. vs. GUAYAQUIL CITY</title>
-<desc>DISFRUTA DE LA NOCHE AMARILLA 2026</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12004' start='20260131214500 -0500' stop='20260131220000 -0500'>
-<title>EXIBICION DE EQUIPO BSC FEMENINO</title>
-<desc>DISFRUTA DE LA NOCHE AMARILLA 2026</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12004' start='20260131220000 -0500' stop='20260201000000 -0500'>
-<title>AMISTOSO 2T: BARCELONA SC. vs. GUAYAQUIL CITY</title>
-<desc>DISFRUTA DE LA NOCHE AMARILLA 2026</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12004' start='20260201000000 -0500' stop='20260201040000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260201040000 -0500' stop='20260201080000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260201080000 -0500' stop='20260201120000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260201120000 -0500' stop='20260201160000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260201160000 -0500' stop='20260201200000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260201200000 -0500' stop='20260202000000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260202000000 -0500' stop='20260202040000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260202040000 -0500' stop='20260202080000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260202080000 -0500' stop='20260202120000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260202120000 -0500' stop='20260202160000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260202160000 -0500' stop='20260202180000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260202180000 -0500' stop='20260202183000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260202183000 -0500' stop='20260202210000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260202210000 -0500' stop='20260203000000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260203000000 -0500' stop='20260203040000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260203040000 -0500' stop='20260203080000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260203080000 -0500' stop='20260203120000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260203120000 -0500' stop='20260203163000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260203163000 -0500' stop='20260203170000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260203170000 -0500' stop='20260203191000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260203191000 -0500' stop='20260203200000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260203200000 -0500' stop='20260204000000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260204000000 -0500' stop='20260204040000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260204040000 -0500' stop='20260204080000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260204080000 -0500' stop='20260204120000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260204120000 -0500' stop='20260204160000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260204160000 -0500' stop='20260204200000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260204200000 -0500' stop='20260205000000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260205000000 -0500' stop='20260205040000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260205040000 -0500' stop='20260205080000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260205080000 -0500' stop='20260205120000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260205120000 -0500' stop='20260205160000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260205160000 -0500' stop='20260205200000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260205200000 -0500' stop='20260206000000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260206000000 -0500' stop='20260206040000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260206040000 -0500' stop='20260206080000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260206080000 -0500' stop='20260206120000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260206120000 -0500' stop='20260206160000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260206160000 -0500' stop='20260206200000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260206200000 -0500' stop='20260207000000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
 <programme channel='12004' start='20260207000000 -0500' stop='20260207040000 -0500'>
 <title>ECDF 3</title>
 <desc>ECDF 3</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12004' start='20260207040000 -0500' stop='20260207084500 -0500'>
+<programme channel='12004' start='20260207040000 -0500' stop='20260207080000 -0500'>
 <title>ECDF 3</title>
 <desc>ECDF 3</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12004' start='20260207084500 -0500' stop='20260207120000 -0500'>
+<programme channel='12004' start='20260207080000 -0500' stop='20260207120000 -0500'>
 <title>ECDF 3</title>
 <desc>ECDF 3</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12004' start='20260207120000 -0500' stop='20260207143000 -0500'>
+<programme channel='12004' start='20260207120000 -0500' stop='20260207150000 -0500'>
+<title>PREVIA - EL PARTIDO DE LA HISTORIA</title>
+<desc>Prepárate para una noche donde la música, la pasión y el espectáculo se unen para crear una experiencia que solo se vive una vez en la vida.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12004' start='20260207150000 -0500' stop='20260207170000 -0500'>
+<title>PREVIA - BARCELONA SC. vs. INTER MIAMI CF.</title>
+<desc>Las estrellas del Inter Miami CF llegan para enfrentar al poderoso Barcelona SC en un choque que hará vibrar a todo un país. Prepárate para una noche donde la música, la pasión y el espectáculo se unen para crear una experiencia que solo se vive una vez en la vida.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12004' start='20260207170000 -0500' stop='20260207190000 -0500'>
+<title>PREVIA - BARCELONA SC. vs. INTER MIAMI CF.</title>
+<desc>Las estrellas del Inter Miami CF llegan para enfrentar al poderoso Barcelona SC en un choque que hará vibrar a todo un país. Prepárate para una noche donde la música, la pasión y el espectáculo se unen para crear una experiencia que solo se vive una vez en la vida.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12004' start='20260207190000 -0500' stop='20260207220000 -0500'>
+<title>AMISTOSO - BARCELONA SC. vs. INTER MIAMI CF.</title>
+<desc>No es solo un partido… es el evento que marcará la historia del fútbol en nuestro país. Las estrellas del Inter Miami CF llegan para enfrentar al poderoso Barcelona SC en un choque que hará vibrar a todo un país. Prepárate para una noche donde la música, la pasión y el espectáculo se unen para crear una experiencia que solo se vive una vez en la vida.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12004' start='20260207220000 -0500' stop='20260207230000 -0500'>
+<title>POST PARTIDO - BARCELONA SC. vs. INTER MIAMI CF.</title>
+<desc>El evento que marcará la historia del fútbol en nuestro país. Las estrellas del Inter Miami CF llegan para enfrentar al poderoso Barcelona SC en un choque que hará vibrar a todo un país. Prepárate para una noche donde la música, la pasión y el espectáculo se unen para crear una experiencia que solo se vive una vez en la vida.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12004' start='20260207230000 -0500' stop='20260208000000 -0500'>
 <title>ECDF 3</title>
 <desc>ECDF 3</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12004' start='20260207143000 -0500' stop='20260207150000 -0500'>
+<programme channel='12004' start='20260208000000 -0500' stop='20260208020000 -0500'>
 <title>ECDF 3</title>
 <desc>ECDF 3</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12004' start='20260207150000 -0500' stop='20260207171000 -0500'>
+<programme channel='12004' start='20260208020000 -0500' stop='20260208040000 -0500'>
 <title>ECDF 3</title>
 <desc>ECDF 3</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12004' start='20260207171000 -0500' stop='20260207180000 -0500'>
+<programme channel='12004' start='20260208040000 -0500' stop='20260208060000 -0500'>
 <title>ECDF 3</title>
 <desc>ECDF 3</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12004' start='20260207180000 -0500' stop='20260207183000 -0500'>
+<programme channel='12004' start='20260208060000 -0500' stop='20260208080000 -0500'>
 <title>ECDF 3</title>
 <desc>ECDF 3</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12004' start='20260207183000 -0500' stop='20260207210000 -0500'>
+<programme channel='12004' start='20260208080000 -0500' stop='20260208100000 -0500'>
 <title>ECDF 3</title>
 <desc>ECDF 3</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12004' start='20260207210000 -0500' stop='20260208000000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260208000000 -0500' stop='20260208040000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260208040000 -0500' stop='20260208080000 -0500'>
-<title>ECDF 3</title>
-<desc>ECDF 3</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12004' start='20260208080000 -0500' stop='20260208120000 -0500'>
+<programme channel='12004' start='20260208100000 -0500' stop='20260208120000 -0500'>
 <title>ECDF 3</title>
 <desc>ECDF 3</desc>
 <category>Entretenimiento</category>
@@ -362,12 +112,22 @@
 <desc>ECDF 3</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12004' start='20260209160000 -0500' stop='20260209200000 -0500'>
+<programme channel='12004' start='20260209160000 -0500' stop='20260209180000 -0500'>
 <title>ECDF 3</title>
 <desc>ECDF 3</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12004' start='20260209200000 -0500' stop='20260210000000 -0500'>
+<programme channel='12004' start='20260209180000 -0500' stop='20260209183000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260209183000 -0500' stop='20260209210000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260209210000 -0500' stop='20260210000000 -0500'>
 <title>ECDF 3</title>
 <desc>ECDF 3</desc>
 <category>Entretenimiento</category>
@@ -387,12 +147,22 @@
 <desc>ECDF 3</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12004' start='20260210120000 -0500' stop='20260210160000 -0500'>
+<programme channel='12004' start='20260210120000 -0500' stop='20260210163000 -0500'>
 <title>ECDF 3</title>
 <desc>ECDF 3</desc>
 <category>Entretenimiento</category>
 </programme>
-<programme channel='12004' start='20260210160000 -0500' stop='20260210200000 -0500'>
+<programme channel='12004' start='20260210163000 -0500' stop='20260210170000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260210170000 -0500' stop='20260210191000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260210191000 -0500' stop='20260210200000 -0500'>
 <title>ECDF 3</title>
 <desc>ECDF 3</desc>
 <category>Entretenimiento</category>
@@ -428,6 +198,236 @@
 <category>Entretenimiento</category>
 </programme>
 <programme channel='12004' start='20260211200000 -0500' stop='20260212000000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260212000000 -0500' stop='20260212040000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260212040000 -0500' stop='20260212080000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260212080000 -0500' stop='20260212120000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260212120000 -0500' stop='20260212160000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260212160000 -0500' stop='20260212200000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260212200000 -0500' stop='20260213000000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260213000000 -0500' stop='20260213040000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260213040000 -0500' stop='20260213080000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260213080000 -0500' stop='20260213120000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260213120000 -0500' stop='20260213160000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260213160000 -0500' stop='20260213200000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260213200000 -0500' stop='20260214000000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260214000000 -0500' stop='20260214040000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260214040000 -0500' stop='20260214084500 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260214084500 -0500' stop='20260214120000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260214120000 -0500' stop='20260214143000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260214143000 -0500' stop='20260214150000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260214150000 -0500' stop='20260214171000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260214171000 -0500' stop='20260214180000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260214180000 -0500' stop='20260214183000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260214183000 -0500' stop='20260214210000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260214210000 -0500' stop='20260215000000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260215000000 -0500' stop='20260215040000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260215040000 -0500' stop='20260215080000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260215080000 -0500' stop='20260215120000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260215120000 -0500' stop='20260215160000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260215160000 -0500' stop='20260215200000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260215200000 -0500' stop='20260216000000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260216000000 -0500' stop='20260216040000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260216040000 -0500' stop='20260216080000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260216080000 -0500' stop='20260216120000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260216120000 -0500' stop='20260216160000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260216160000 -0500' stop='20260216200000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260216200000 -0500' stop='20260217000000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260217000000 -0500' stop='20260217040000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260217040000 -0500' stop='20260217080000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260217080000 -0500' stop='20260217120000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260217120000 -0500' stop='20260217160000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260217160000 -0500' stop='20260217200000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260217200000 -0500' stop='20260218000000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260218000000 -0500' stop='20260218040000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260218040000 -0500' stop='20260218080000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260218080000 -0500' stop='20260218120000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260218120000 -0500' stop='20260218160000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260218160000 -0500' stop='20260218200000 -0500'>
+<title>ECDF 3</title>
+<desc>ECDF 3</desc>
+<category>Entretenimiento</category>
+</programme>
+<programme channel='12004' start='20260218200000 -0500' stop='20260219000000 -0500'>
 <title>ECDF 3</title>
 <desc>ECDF 3</desc>
 <category>Entretenimiento</category>

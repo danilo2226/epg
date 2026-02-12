@@ -1,10 +1,18 @@
 rtes#EXTM3U
 #EXTINF:-1 tvg-id="LigaProEC-OP1" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-LigaProEC.png" group-title="Deportes",LigaProEC-1
-http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/143255
+http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/175754
 #EXTINF:-1 tvg-id="LigaProEC-OP2" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-LigaProEC.png" group-title="Deportes",LigaProEC-2
-http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/174447
+http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/175753
 #EXTINF:-1 tvg-id="LigaProEC-OP3" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-LigaProEC.png" group-title="Deportes",LigaProEC-3
-http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/174448
+http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/175752
+#EXTINF:-1 tvg-id="LigaProEC-OP3" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-LigaProEC.png" group-title="Deportes",LigaProEC-4
+http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/175755
+#EXTINF:-1 tvg-id="LigaProEC-OP3" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-LigaProEC.png" group-title="Deportes",LigaPeru
+http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/8456
+#EXTINF:-1 tvg-id="LigaProEC-OP3" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-LigaProEC.png" group-title="Deportes",LigaPeru_OP2
+http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/8457
+#EXTINF:-1 tvg-id="LigaProEC-OP3" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-LigaProEC.png" group-title="Deportes",LigaPeru_OP3
+http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/8460
 #EXTINF:-1 tvg-id="ESPN-ARG" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-Ecuavisa.png" group-title="Argentina",ESPN-Arg
 http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/9521
 #EXTINF:-1 tvg-id="ESPN-Premium-Arg" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-Teleamazonas.png" group-title="Argentina",ESPN-Premium-Arg
@@ -13,3 +21,7 @@ http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/9549
 http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/9549
 #EXTINF:-1 tvg-id="ESPN-Premium-Mex" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-TCTV.png" group-title="Argentina",ESPN-Premium-Mex
 http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/8639
+#EXTINF:-1 tvg-id="ESPN-Premium-Mex" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-TCTV.png" group-title="Argentina",Directv_ECU
+http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/9562
+#EXTINF:-1 tvg-id="ESPN-Premium-Mex" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-TCTV.png" group-title="Argentina",Directv_ECU_OP2
+http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/9563

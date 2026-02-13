@@ -15,8 +15,12 @@ http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/8457
 http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/8460
 #EXTINF:-1 tvg-id="ESPN-ARG" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-Ecuavisa.png" group-title="Argentina",ESPN-Arg
 http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/9521
+#EXTINF:-1 tvg-id="ESPN-ARG" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-Ecuavisa.png" group-title="Argentina",ESPN-Arg-OP2
+http://tecnotv.club/f1002/phpcode/ssiptv.php?c=ch29&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN-Premium-Arg" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-Teleamazonas.png" group-title="Argentina",ESPN-Premium-Arg
 http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/9549
+#EXTINF:-1 tvg-id="ESPN-Premium-Arg" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-Teleamazonas.png" group-title="Argentina",ESPN-Premium-Arg-OP2
+http://tecnotv.club/f1002/phpcode/ssiptv.php?c=ch42&token=tecnotokenplustv&f=.m3u8
 #EXTINF:-1 tvg-id="ESPN-Extra-Arg" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-Teleamazonas.png" group-title="Argentina",ESPN-Extra-Arg
 http://tv.zapping.life:8080/asdsdIlLasOOoWsdsdaw/cK9ceDN2tC/9549
 #EXTINF:-1 tvg-id="ESPN-Premium-Mex" tvg-logo="https://raw.githubusercontent.com/danilo2226/epg/refs/heads/main/logos/Logo-TCTV.png" group-title="Argentina",ESPN-Premium-Mex

@@ -1,3 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="rts" tvg-name="RTS",RTS
 https://alba-ec-rts-rts.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="rts-2" tvg-name="RTS",RTS
+https://d27a7brtx3v90o.cloudfront.net:443/original.m3u8
+#EXTINF:-1 tvg-id="rts-3" tvg-name="RTS",RTS
+https://d2qsan2ut81n2k.cloudfront.net/live/72a3661e-1019-45f8-af10-af59f6ef6222/medialist_4276517416086298479_hls.m3u8
+#EXTINF:-1 tvg-id="rts-4" tvg-name="RTS",RTS
+https://cdn1.speedy.cdn.moderntv.eu:7909/speedy/stream/RTS/40-hls/live-media.m3u8?_cdn_attrs=account%3Dspeedy%2Cresource%3Drts_stream_tw&_cdn_session=62806091&_cdn_token=e23d877a0379d9f76850157bd118e89689ebc80c

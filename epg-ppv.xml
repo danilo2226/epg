@@ -977,30 +977,30 @@
 <desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
 <category>0</category>
 </programme>
-<programme channel='12008' start='20260626163000 -0500' stop='20260626170000 -0500'>
+<programme channel='12008' start='20260626163000 -0500' stop='20260626183000 -0500'>
+<title>DEPORTES</title>
+<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12008' start='20260626183000 -0500' stop='20260626190000 -0500'>
 <title>Previa - Copa Mundial de la FIFA</title>
 <desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
 <category>0</category>
 </programme>
-<programme channel='12008' start='20260626170000 -0500' stop='20260626193000 -0500'>
+<programme channel='12008' start='20260626190000 -0500' stop='20260626213000 -0500'>
 <title>Copa Mundial de la FIFA 2026 - Cabo Verde vs. Arabia Saudí – Grupo H </title>
 <desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
 <category>0</category>
 </programme>
-<programme channel='12008' start='20260626193000 -0500' stop='20260626200000 -0500'>
+<programme channel='12008' start='20260626213000 -0500' stop='20260626220000 -0500'>
 <title>Previa - Copa Mundial de la FIFA</title>
 <desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
 <category>0</category>
 </programme>
-<programme channel='12008' start='20260626200000 -0500' stop='20260626223000 -0500'>
+<programme channel='12008' start='20260626220000 -0500' stop='20260627000000 -0500'>
 <title>Copa Mundial de la FIFA 2026 - Egipto vs. Irán – Grupo G </title>
 <desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
 <category>0</category>
-</programme>
-<programme channel='12008' start='20260626223000 -0500' stop='20260627000000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
 </programme>
 <programme channel='12008' start='20260627000000 -0500' stop='20260627040000 -0500'>
 <title>DEPORTES</title>

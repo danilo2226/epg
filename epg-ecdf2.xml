@@ -213,7 +213,7 @@
 <category>0</category>
 </programme>
 <programme channel='12004' start='20260627160000 -0500' stop='20260627180000 -0500'>
-<title>Copa Mundial de la FIFA 2026 - Panamá vs. Inglaterra – Grupo L </title>
+<title>Copa Mundial de la FIFA 2026 - Croacia vs. Ghana – Grupo L </title>
 <desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
 <category>0</category>
 </programme>
@@ -223,7 +223,7 @@
 <category>0</category>
 </programme>
 <programme channel='12004' start='20260627183000 -0500' stop='20260627203000 -0500'>
-<title>Copa Mundial de la FIFA 2026 - Colombia vs. Portugal – Grupo K </title>
+<title>Copa Mundial de la FIFA 2026 - RD Congo vs. Uzbekistán – Grupo K </title>
 <desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
 <category>0</category>
 </programme>
@@ -258,6 +258,11 @@
 <category>Deportivo</category>
 </programme>
 <programme channel='12004' start='20260628080000 -0500' stop='20260628120000 -0500'>
+<title>DEPORTES</title>
+<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12004' start='20260628120000 -0500' stop='20260628150000 -0500'>
 <title>DEPORTES</title>
 <desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
 <category>Deportivo</category>

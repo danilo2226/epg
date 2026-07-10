@@ -2,423 +2,478 @@
 <channel id="12005">
 <display-name>ECDF4</display-name>
 </channel>
-<programme channel='12005' start='20250901000000 -0500' stop='20250901040000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250901040000 -0500' stop='20250901080000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250901080000 -0500' stop='20250901120000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250901120000 -0500' stop='20250901160000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250901160000 -0500' stop='20250901200000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250901200000 -0500' stop='20250902000000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250902000000 -0500' stop='20250902040000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250902040000 -0500' stop='20250902080000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250902080000 -0500' stop='20250902120000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250902120000 -0500' stop='20250902160000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250902160000 -0500' stop='20250902200000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250902200000 -0500' stop='20250903000000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250903000000 -0500' stop='20250903040000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250903040000 -0500' stop='20250903080000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250903080000 -0500' stop='20250903120000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250903120000 -0500' stop='20250903160000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250903160000 -0500' stop='20250903200000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250903200000 -0500' stop='20250904000000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250904000000 -0500' stop='20250904040000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250904040000 -0500' stop='20250904080000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250904080000 -0500' stop='20250904120000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250904120000 -0500' stop='20250904160000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250904160000 -0500' stop='20250904180000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250904180000 -0500' stop='20250904183000 -0500'>
-<title>Previa - Eliminatorias Sudamericanas - Colombia  vs. Bolivia, Estadio Metropolitano(Barranquilla)</title>
-<desc>Vive la previa del emocionante partido entre las selecciones de Colombia  vs. Bolivia en el Estadio Metropolitano de la ciudad de Barranquilla valido por Eliminatorias Sudamericanas rumbo a la Copa Mundial de la FIFA México-Estados Unidos-Canadá 2026[.</desc>
+<programme channel='12005' start='20260709000000 -0500' stop='20260709040000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12005' start='20250904183000 -0500' stop='20250904210000 -0500'>
-<title>Eliminatorias Sudamericanas - Colombia  vs. Bolivia, Estadio Metropolitano(Barranquilla)</title>
-<desc>Vive el emocionante partido entre las selecciones de Colombia  vs. Bolivia en el Estadio Metropolitano de la ciudad de Barranquilla valido por Eliminatorias Sudamericanas rumbo a la Copa Mundial de la FIFA México-Estados Unidos-Canadá 2026[.</desc>
+<programme channel='12005' start='20260709040000 -0500' stop='20260709080000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12005' start='20250904210000 -0500' stop='20250905000000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250905000000 -0500' stop='20250905040000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250905040000 -0500' stop='20250905080000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250905080000 -0500' stop='20250905120000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250905120000 -0500' stop='20250905180000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250905180000 -0500' stop='20250905183000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250905183000 -0500' stop='20250905203000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250905203000 -0500' stop='20250905200000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250905200000 -0500' stop='20250906000000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250906000000 -0500' stop='20250906040000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250906040000 -0500' stop='20250906080000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250906080000 -0500' stop='20250906120000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250906120000 -0500' stop='20250906160000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250906160000 -0500' stop='20250906200000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250906200000 -0500' stop='20250907000000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250907000000 -0500' stop='20250907040000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250907040000 -0500' stop='20250907080000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250907080000 -0500' stop='20250907120000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250907120000 -0500' stop='20250907160000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250907160000 -0500' stop='20250907200000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250907200000 -0500' stop='20250908000000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250908000000 -0500' stop='20250908040000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250908040000 -0500' stop='20250908080000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250908080000 -0500' stop='20250908120000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250908120000 -0500' stop='20250908160000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250908160000 -0500' stop='20250908200000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250908200000 -0500' stop='20250909000000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250909000000 -0500' stop='20250909040000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250909040000 -0500' stop='20250909084500 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250909084500 -0500' stop='20250909120000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250909120000 -0500' stop='20250909160000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250909160000 -0500' stop='20250909180000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
-</programme>
-<programme channel='12005' start='20250909180000 -0500' stop='20250909183000 -0500'>
-<title>Previa - Eliminatorias Sudamericanas - Bolivia vs. Brasil, Municipal El Alto(El Alto)</title>
-<desc>Vive la previa del emocionante partido entre las selecciones de Bolivia vs. Brasil en el Municipal El Alto de la ciudad de El Alto valido por Eliminatorias Sudamericanas rumbo a la Copa Mundial de la FIFA México-Estados Unidos-Canadá 2026[.</desc>
+<programme channel='12005' start='20260709080000 -0500' stop='20260709120000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12005' start='20250909183000 -0500' stop='20250909210000 -0500'>
-<title>Eliminatorias Sudamericanas - Bolivia vs. Brasil, Municipal El Alto(El Alto)</title>
-<desc>Vive el emocionante partido entre las selecciones de Bolivia vs. Brasil en el Municipal El Alto de la ciudad de El Alto valido por Eliminatorias Sudamericanas rumbo a la Copa Mundial de la FIFA México-Estados Unidos-Canadá 2026[.</desc>
+<programme channel='12005' start='20260709120000 -0500' stop='20260709160000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
 <category>Deportivo</category>
 </programme>
-<programme channel='12005' start='20250909210000 -0500' stop='20250910000000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
+<programme channel='12005' start='20260709160000 -0500' stop='20260709200000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
 </programme>
-<programme channel='12005' start='20250910000000 -0500' stop='20250910040000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
+<programme channel='12005' start='20260709200000 -0500' stop='20260710000000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
 </programme>
-<programme channel='12005' start='20250910040000 -0500' stop='20250910080000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
+<programme channel='12005' start='20260710000000 -0500' stop='20260710040000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
 </programme>
-<programme channel='12005' start='20250910080000 -0500' stop='20250910120000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
+<programme channel='12005' start='20260710040000 -0500' stop='20260710080000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
 </programme>
-<programme channel='12005' start='20250910120000 -0500' stop='20250910160000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
+<programme channel='12005' start='20260710080000 -0500' stop='20260710120000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
 </programme>
-<programme channel='12005' start='20250910160000 -0500' stop='20250910200000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
+<programme channel='12005' start='20260710120000 -0500' stop='20260710160000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
 </programme>
-<programme channel='12005' start='20250910200000 -0500' stop='20250911000000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
+<programme channel='12005' start='20260710160000 -0500' stop='20260710190000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
 </programme>
-<programme channel='12005' start='20250911000000 -0500' stop='20250911040000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
+<programme channel='12005' start='20260710190000 -0500' stop='20260710200000 -0500'>
+<title>CEREMONIA DE INAUGURACIÓN - MUNDIALITO DE LOS POBRES 2026</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
 </programme>
-<programme channel='12005' start='20250911040000 -0500' stop='20250911080000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
+<programme channel='12005' start='20260710200000 -0500' stop='20260710211500 -0500'>
+<title>UCUBAMBA vs. SAN FRANCISCO - MUNDIALITO DE LOS POBRES 2026</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
 </programme>
-<programme channel='12005' start='20250911080000 -0500' stop='20250911120000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
+<programme channel='12005' start='20260710211500 -0500' stop='20260710223000 -0500'>
+<title>PEREZPATA vs. SAN BLAS - MUNDIALITO DE LOS POBRES 2026</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
 </programme>
-<programme channel='12005' start='20250911120000 -0500' stop='20250911160000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
+<programme channel='12005' start='20260710223000 -0500' stop='20260711000000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
 </programme>
-<programme channel='12005' start='20250911160000 -0500' stop='20250911200000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
+<programme channel='12005' start='20260711000000 -0500' stop='20260711040000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
 </programme>
-<programme channel='12005' start='20250911200000 -0500' stop='20250912000000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
+<programme channel='12005' start='20260711040000 -0500' stop='20260711080000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
 </programme>
-<programme channel='12005' start='20250912000000 -0500' stop='20250912040000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
+<programme channel='12005' start='20260711080000 -0500' stop='20260711120000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
 </programme>
-<programme channel='12005' start='20250912040000 -0500' stop='20250912080000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
+<programme channel='12005' start='20260711120000 -0500' stop='20260711160000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
 </programme>
-<programme channel='12005' start='20250912080000 -0500' stop='20250912120000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
+<programme channel='12005' start='20260711160000 -0500' stop='20260711200000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
 </programme>
-<programme channel='12005' start='20250912120000 -0500' stop='20250912160000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
+<programme channel='12005' start='20260711200000 -0500' stop='20260712000000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
 </programme>
-<programme channel='12005' start='20250912160000 -0500' stop='20250912200000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
+<programme channel='12005' start='20260712000000 -0500' stop='20260712040000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
 </programme>
-<programme channel='12005' start='20250912200000 -0500' stop='20250913000000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
+<programme channel='12005' start='20260712040000 -0500' stop='20260712080000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
 </programme>
-<programme channel='12005' start='20250913000000 -0500' stop='20250913040000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
+<programme channel='12005' start='20260712080000 -0500' stop='20260712120000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
 </programme>
-<programme channel='12005' start='20250913040000 -0500' stop='20250913080000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
+<programme channel='12005' start='20260712120000 -0500' stop='20260712160000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
 </programme>
-<programme channel='12005' start='20250913080000 -0500' stop='20250913120000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
+<programme channel='12005' start='20260712160000 -0500' stop='20260712200000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
 </programme>
-<programme channel='12005' start='20250913120000 -0500' stop='20250913160000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
+<programme channel='12005' start='20260712200000 -0500' stop='20260713000000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
 </programme>
-<programme channel='12005' start='20250913160000 -0500' stop='20250913200000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
+<programme channel='12005' start='20260713000000 -0500' stop='20260713040000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
 </programme>
-<programme channel='12005' start='20250913200000 -0500' stop='20250914000000 -0500'>
-<title>ECDF 4</title>
-<desc>ECDF 4</desc>
-<category>Entretenimiento</category>
+<programme channel='12005' start='20260713040000 -0500' stop='20260713080000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260713080000 -0500' stop='20260713120000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260713120000 -0500' stop='20260713160000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260713160000 -0500' stop='20260713190000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260713190000 -0500' stop='20260713193000 -0500'>
+<title>PREVIA-MUNDIALITO</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260713193000 -0500' stop='20260713204500 -0500'>
+<title>CRISTO DEL CONSUELO vs. 5 ESQUINAS - MUNDIALITO DE LOS POBRES 2026</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260713204500 -0500' stop='20260713220000 -0500'>
+<title>MEDIO EJIDO vs. DEPORTIVO CUENCA - MUNDIALITO DE LOS POBRES 2026</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260713220000 -0500' stop='20260713231500 -0500'>
+<title>CDLA. SAN ROQUE vs. CDLA. CALDERÓN - MUNDIALITO DE LOS POBRES 2026</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260713231500 -0500' stop='20260714000000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260714000000 -0500' stop='20260714040000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260714040000 -0500' stop='20260714080000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260714080000 -0500' stop='20260714120000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260714120000 -0500' stop='20260714160000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260714160000 -0500' stop='20260714190000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260714190000 -0500' stop='20260714193000 -0500'>
+<title>PREVIA-MUNDIALITO</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260714193000 -0500' stop='20260714204500 -0500'>
+<title>BARRIO SAN ROQUE vs. CRISTO SALVADOR - MUNDIALITO DE LOS POBRES 2026</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260714204500 -0500' stop='20260714220000 -0500'>
+<title>SIMÓN BOLÍVAR vs. JUAN JARAMILLO - MUNDIALITO DE LOS POBRES 2026</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260714220000 -0500' stop='20260714231500 -0500'>
+<title>DON BOSCO vs. 9 DE OCTUBRE - MUNDIALITO DE LOS POBRES 2026</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260714231500 -0500' stop='20260715000000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260714000000 -0500' stop='20260714040000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260715040000 -0500' stop='20260715080000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260715080000 -0500' stop='20260715120000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260715120000 -0500' stop='20260715160000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260715160000 -0500' stop='20260715200000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260715200000 -0500' stop='20260716000000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260716000000 -0500' stop='20260716040000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260716040000 -0500' stop='20260716080000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260716080000 -0500' stop='20260716120000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260716120000 -0500' stop='20260716160000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260716160000 -0500' stop='20260716190000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260716190000 -0500' stop='20260716193000 -0500'>
+<title>PREVIA-MUNDIALITO</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260716193000 -0500' stop='20260716204500 -0500'>
+<title>MISICATA vs. PARQUE IBERIA - MUNDIALITO DE LOS POBRES 2026</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260716204500 -0500' stop='20260716220000 -0500'>
+<title>BCO. DE LA VIVIENDA vs. REMIGIO CRESPO - MUNDIALITO DE LOS POBRES 2026</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260716220000 -0500' stop='20260716231500 -0500'>
+<title>CDLA. UNE vs. LOS ARUPOS - MUNDIALITO DE LOS POBRES 2026</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260716231500 -0500' stop='20260717000000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260717000000 -0500' stop='20260717040000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260717040000 -0500' stop='20260717080000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260717080000 -0500' stop='20260717120000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260717120000 -0500' stop='20260717160000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260717160000 -0500' stop='20260717190000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260717190000 -0500' stop='20260717193000 -0500'>
+<title>PREVIA-MUNDIALITO</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260717193000 -0500' stop='20260717204500 -0500'>
+<title>TRES TIENDAS vs. EL CUARTEL - MUNDIALITO DE LOS POBRES 2026</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260717204500 -0500' stop='20260717220000 -0500'>
+<title>CDLA. ÁLVAREZ vs. JAIME ROLDÓS - MUNDIALITO DE LOS POBRES 2026</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260717220000 -0500' stop='20260717231500 -0500'>
+<title>VICTOR J. CUESTA vs. B. TU ERES PEDRO - MUNDIALITO DE LOS POBRES 2026</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260717231500 -0500' stop='20260718000000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260718000000 -0500' stop='20260718040000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260718040000 -0500' stop='20260718080000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260718080000 -0500' stop='20260718120000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260718120000 -0500' stop='20260718160000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260718160000 -0500' stop='20260718200000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260718200000 -0500' stop='20260719000000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260719000000 -0500' stop='20260719040000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260719040000 -0500' stop='20260719080000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260719080000 -0500' stop='20260719120000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260719120000 -0500' stop='20260719160000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260719160000 -0500' stop='20260719200000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260719200000 -0500' stop='20260720000000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260720000000 -0500' stop='20260720040000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260720040000 -0500' stop='20260720080000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260720080000 -0500' stop='20260720120000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260720120000 -0500' stop='20260720160000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260720160000 -0500' stop='20260720190000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260720190000 -0500' stop='20260720193000 -0500'>
+<title>PREVIA-MUNDIALITO</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260720193000 -0500' stop='20260720204500 -0500'>
+<title>EL VERGEL vs. GRAN COVE - MUNDIALITO DE LOS POBRES 2026</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260720204500 -0500' stop='20260720220000 -0500'>
+<title>CENTRAL TARQUI vs. BOSQUE II DE MONAY - MUNDIALITO DE LOS POBRES 2026</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260720220000 -0500' stop='20260720231500 -0500'>
+<title>JACARANDA vs. CARLOS CRESPI - MUNDIALITO DE LOS POBRES 2026</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
+</programme>
+<programme channel='12005' start='20260720231500 -0500' stop='20260721000000 -0500'>
+<title>GOMAX SPORTS</title>
+<desc>¡El Mundialito de los Pobres, edición 51! Llega a la Ciudad de Cuenca y la emoción se vive desde ya. Cada equipo llegará con todo el corazón y entrega para dejarlo TODO en la cancha.</desc>
+<category>Deportivo</category>
 </programme>

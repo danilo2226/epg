@@ -1,519 +1,1284 @@
 <tv>
 <channel id="12008">
-<display-name>DEPORTES</display-name>
+<display-name>RADIO HIT TV</display-name>
 </channel>
-<programme channel='12008' start='20260710000000 -0500' stop='20260710040000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260710040000 -0500' stop='20260710080000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260710080000 -0500' stop='20260710120000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260710120000 -0500' stop='20260710133000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260710133000 -0500' stop='20260710140000 -0500'>
-<title>Previa - Copa Mundial de la FIFA</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260710140000 -0500' stop='20260710170000 -0500'>
-<title>España vs Bélgica - 4tos de Final Copa Mundial de la FIFA 2026</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260710170000 -0500' stop='20260710200000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260710200000 -0500' stop='20260710220000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260710220000 -0500' stop='20260711000000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260711000000 -0500' stop='20260711040000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260711040000 -0500' stop='20260711080000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260711080000 -0500' stop='20260711120000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260711120000 -0500' stop='20260711153000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260711153000 -0500' stop='20260711160000 -0500'>
-<title>Previa - Copa Mundial de la FIFA</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260711160000 -0500' stop='20260711193000 -0500'>
-<title>Noruega vs Inglaterra - 4tos de Final Copa Mundial de la FIFA 2026</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260711193000 -0500' stop='20260711200000 -0500'>
-<title>Previa - Copa Mundial de la FIFA</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260711200000 -0500' stop='20260711230000 -0500'>
-<title>Argentina vs Suiza  - 4tos de Final Copa Mundial de la FIFA 2026</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260711230000 -0500' stop='20260712000000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260712000000 -0500' stop='20260712040000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260712040000 -0500' stop='20260712080000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260712080000 -0500' stop='20260712120000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260712120000 -0500' stop='20260712160000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260712160000 -0500' stop='20260712200000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260712200000 -0500' stop='20260713000000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260713000000 -0500' stop='20260713040000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260713040000 -0500' stop='20260713080000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260713080000 -0500' stop='20260713120000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260713120000 -0500' stop='20260713160000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260713160000 -0500' stop='20260713200000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260713200000 -0500' stop='20260714000000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260714000000 -0500' stop='20260714040000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260714040000 -0500' stop='20260714080000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260714080000 -0500' stop='20260714120000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260714120000 -0500' stop='20260714130000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260714130000 -0500' stop='20260714140000 -0500'>
-<title>Previa - Copa Mundial de la FIFA</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260714140000 -0500' stop='20260714170000 -0500'>
-<title>Francia vs. España - Semifinal Copa Mundial de la FIFA 2026</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260714170000 -0500' stop='20260714200000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260714200000 -0500' stop='20260714220000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260714220000 -0500' stop='20260715000000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260715000000 -0500' stop='20260715040000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260715040000 -0500' stop='20260715080000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260715080000 -0500' stop='20260715120000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260715120000 -0500' stop='20260715130000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260715130000 -0500' stop='20260715140000 -0500'>
-<title>Previa - Copa Mundial de la FIFA</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260715140000 -0500' stop='20260715170000 -0500'>
-<title>Inglaterra vs. Argentina - Semifinal Copa Mundial de la FIFA 2026</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260715170000 -0500' stop='20260715200000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260715200000 -0500' stop='20260715220000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260715220000 -0500' stop='20260716000000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260716000000 -0500' stop='20260716040000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260716040000 -0500' stop='20260716080000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260716080000 -0500' stop='20260716120000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260716120000 -0500' stop='20260716160000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260716160000 -0500' stop='20260716200000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260716200000 -0500' stop='20260717000000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260717000000 -0500' stop='20260717040000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260717040000 -0500' stop='20260717080000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260717080000 -0500' stop='20260717120000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260717120000 -0500' stop='20260717160000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260717160000 -0500' stop='20260717200000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260717200000 -0500' stop='20260718000000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260718000000 -0500' stop='20260718040000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260718040000 -0500' stop='20260718080000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260718080000 -0500' stop='20260718120000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260718120000 -0500' stop='20260718150000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260718150000 -0500' stop='20260718160000 -0500'>
-<title>Previa - Copa Mundial de la FIFA</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260718160000 -0500' stop='20260718190000 -0500'>
-<title>Francia vs. Inglaterra - 3er Puesto Copa Mundial de la FIFA 2026</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260718190000 -0500' stop='20260718220000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260718220000 -0500' stop='20260719000000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260719000000 -0500' stop='20260719040000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260719040000 -0500' stop='20260719080000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260719080000 -0500' stop='20260719120000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260719120000 -0500' stop='20260719130000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260719130000 -0500' stop='20260719140000 -0500'>
-<title>Previa - Copa Mundial de la FIFA</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260719140000 -0500' stop='20260719170000 -0500'>
-<title>España vs. Argentina - Final Copa Mundial de la FIFA 2026</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260719170000 -0500' stop='20260719200000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260719200000 -0500' stop='20260720000000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260720000000 -0500' stop='20260720040000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260720040000 -0500' stop='20260720080000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260720080000 -0500' stop='20260720120000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260720120000 -0500' stop='20260720160000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260720160000 -0500' stop='20260720200000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260720200000 -0500' stop='20260721000000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260721000000 -0500' stop='20260721040000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260721040000 -0500' stop='20260721080000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260721080000 -0500' stop='20260721120000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260721120000 -0500' stop='20260721160000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260721160000 -0500' stop='20260721200000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260721200000 -0500' stop='20260722000000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260722000000 -0500' stop='20260722040000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260722040000 -0500' stop='20260722080000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260722080000 -0500' stop='20260722120000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260722120000 -0500' stop='20260722160000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260722160000 -0500' stop='20260722200000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260722200000 -0500' stop='20260723000000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260723000000 -0500' stop='20260723040000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260723040000 -0500' stop='20260723080000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260723080000 -0500' stop='20260723120000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260723120000 -0500' stop='20260723160000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260723160000 -0500' stop='20260723200000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260723200000 -0500' stop='20260724000000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260724000000 -0500' stop='20260724040000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260724040000 -0500' stop='20260724080000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
-</programme>
-<programme channel='12008' start='20260724080000 -0500' stop='20260724120000 -0500'>
-<title>DEPORTES</title>
-<desc>Vive los partidos de la 23º edición de la Copa Mundial de la FIFA, que se desarrollará del 11 de junio al 19 de julio de 2026 en Canadá, México y Estados Unidos. La final se jugará el domingo 19 de julio de 2026 en el MetLife Stadium.</desc>
-<category>Deportivo</category>
+<programme channel='12008' start='20260928233000 -0500' stop='20260929000000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20260929000000 -0500' stop='20260929020000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20260929020000 -0500' stop='20260929040000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20260929040000 -0500' stop='20260929060000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20260929060000 -0500' stop='20260929080000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20260929080000 -0500' stop='20260929100000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20260929100000 -0500' stop='20260929120000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20260929120000 -0500' stop='20260929133000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20260929133000 -0500' stop='20260929140000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20260929140000 -0500' stop='20260929163000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20260929163000 -0500' stop='20260929180000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20260929180000 -0500' stop='20260929200000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20260929200000 -0500' stop='20260929220000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20260929220000 -0500' stop='20260930000000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20260930000000 -0500' stop='20260930020000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20260930020000 -0500' stop='20260930040000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20260930040000 -0500' stop='20260930060000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20260930060000 -0500' stop='20260930080000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20260930080000 -0500' stop='20260930100000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20260930100000 -0500' stop='20260930113000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20260930113000 -0500' stop='20260930120000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20260930120000 -0500' stop='20260930143000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20260930143000 -0500' stop='20260930150000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20260930150000 -0500' stop='20260930153000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20260930153000 -0500' stop='20260930183000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20260930183000 -0500' stop='20260930193000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20260930193000 -0500' stop='20260930200000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20260930200000 -0500' stop='20260930230000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20260930230000 -0500' stop='20261001000000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261001000000 -0500' stop='20261001020000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261001020000 -0500' stop='20261001040000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261001040000 -0500' stop='20261001060000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261001060000 -0500' stop='20261001080000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261001080000 -0500' stop='20261001100000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261001100000 -0500' stop='20261001110000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261001110000 -0500' stop='20261001120000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261001120000 -0500' stop='20261001150000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261001150000 -0500' stop='20261001160000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261001160000 -0500' stop='20261001190000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261001190000 -0500' stop='20261001230000 -0500'>
+<title>Presentación Oficial de las Candidatas a Reina de Cuenca 2026–2027</title>
+<desc>Cuenca conocerá a las mujeres que decidieron ser parte de Reina de Cuenca 2026–2027. Una noche para descubrir sus historias, sus sueños, sus voces y todo lo que tienen para aportar a nuestra ciudad.</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261001230000 -0500' stop='20261001233000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261001233000 -0500' stop='20261002000000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261002000000 -0500' stop='20261002020000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261002020000 -0500' stop='20261002040000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261002040000 -0500' stop='20261002060000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261002060000 -0500' stop='20261002080000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261002080000 -0500' stop='20261002100000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261002100000 -0500' stop='20261002110000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261002110000 -0500' stop='20261002140000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261002140000 -0500' stop='20261002150000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261002150000 -0500' stop='20261002180000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261002180000 -0500' stop='20261002190000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261002190000 -0500' stop='20261002220000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261002220000 -0500' stop='20261003000000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261003000000 -0500' stop='20261003020000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261003020000 -0500' stop='20261003040000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261003040000 -0500' stop='20261003060000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261003060000 -0500' stop='20261003080000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261003080000 -0500' stop='20261003100000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261003100000 -0500' stop='20261003120000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261003120000 -0500' stop='20261003130000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261003130000 -0500' stop='20261003140000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261003140000 -0500' stop='20261003170000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261003170000 -0500' stop='20261003180000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261003180000 -0500' stop='20261003210000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261003210000 -0500' stop='20261003220000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261003220000 -0500' stop='20261004010000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261004010000 -0500' stop='20261004020000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261004020000 -0500' stop='20261004040000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261004040000 -0500' stop='20261004060000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261004060000 -0500' stop='20261004080000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261004080000 -0500' stop='20261004100000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261004100000 -0500' stop='20261004120000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261004120000 -0500' stop='20261004130000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261004130000 -0500' stop='20261004160000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261004160000 -0500' stop='20261004170000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261004170000 -0500' stop='20261004200000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261004200000 -0500' stop='20261004203000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261004203000 -0500' stop='20261004233000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261004233000 -0500' stop='20261005000000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261005000000 -0500' stop='20261005020000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261005020000 -0500' stop='20261005040000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261005040000 -0500' stop='20261005060000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261005060000 -0500' stop='20261005080000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261005080000 -0500' stop='20261005100000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261005100000 -0500' stop='20261005110000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261005110000 -0500' stop='20261005120000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261005120000 -0500' stop='20261005150000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261005150000 -0500' stop='20261005160000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261005160000 -0500' stop='20261005190000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261005190000 -0500' stop='20261005200000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261005200000 -0500' stop='20261005220000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261005220000 -0500' stop='20261006000000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261006000000 -0500' stop='20261006020000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261006020000 -0500' stop='20261006040000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261006040000 -0500' stop='20261006060000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261006060000 -0500' stop='20261006080000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261006080000 -0500' stop='20261006100000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261006100000 -0500' stop='20261006120000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261006120000 -0500' stop='20261006140000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261006140000 -0500' stop='20261006150000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261006150000 -0500' stop='20261006180000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261006180000 -0500' stop='20261006190000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261006190000 -0500' stop='20261006220000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261006220000 -0500' stop='20261007000000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261007000000 -0500' stop='20261007020000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261007020000 -0500' stop='20261007040000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261007040000 -0500' stop='20261007060000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261007060000 -0500' stop='20261007080000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261007080000 -0500' stop='20261007100000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261007100000 -0500' stop='20261007120000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261007120000 -0500' stop='20261007130000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261007130000 -0500' stop='20261007140000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261007140000 -0500' stop='20261007180000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261007180000 -0500' stop='20261007190000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261007190000 -0500' stop='20261007220000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261007220000 -0500' stop='20261008000000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261008000000 -0500' stop='20261008020000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261008020000 -0500' stop='20261008040000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261008040000 -0500' stop='20261008060000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261008060000 -0500' stop='20261008080000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261008080000 -0500' stop='20261008100000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261008100000 -0500' stop='20261008110000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261008110000 -0500' stop='20261008140000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261008140000 -0500' stop='20261008150000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261008150000 -0500' stop='20261008180000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261008180000 -0500' stop='20261008200000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261008200000 -0500' stop='20261008220000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261008220000 -0500' stop='20261009000000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261009000000 -0500' stop='20261009020000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261009020000 -0500' stop='20261009040000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261009040000 -0500' stop='20261009060000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261009060000 -0500' stop='20261009080000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261009080000 -0500' stop='20261009100000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261009100000 -0500' stop='20261009120000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261009120000 -0500' stop='20261009140000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261009140000 -0500' stop='20261009160000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261009160000 -0500' stop='20261009180000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261009180000 -0500' stop='20261009200000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261009200000 -0500' stop='20261009220000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261009220000 -0500' stop='20261009000000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261009000000 -0500' stop='20261010020000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261010020000 -0500' stop='20261010040000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261010040000 -0500' stop='20261010060000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261010060000 -0500' stop='20261010080000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261010080000 -0500' stop='20261010100000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261010100000 -0500' stop='20261010120000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261010120000 -0500' stop='20261010143000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261010143000 -0500' stop='20261010150000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261010150000 -0500' stop='20261010180000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261010180000 -0500' stop='20261010200000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261010200000 -0500' stop='20261010220000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261010220000 -0500' stop='20261011000000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261011000000 -0500' stop='20261011040000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261011040000 -0500' stop='20261011080000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261011080000 -0500' stop='20261011120000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261011120000 -0500' stop='20261011133000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261011133000 -0500' stop='20261011140000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261011140000 -0500' stop='20261011170000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261011170000 -0500' stop='20261011200000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261011200000 -0500' stop='20261011220000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261011220000 -0500' stop='20261012000000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261012000000 -0500' stop='20261012040000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261012040000 -0500' stop='20261012080000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261012080000 -0500' stop='20261012120000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261012120000 -0500' stop='20261012153000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261012153000 -0500' stop='20261012160000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261012160000 -0500' stop='20261012193000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261012193000 -0500' stop='20261012200000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261012200000 -0500' stop='20261012230000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261012230000 -0500' stop='20261013000000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261013000000 -0500' stop='20261013040000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261013040000 -0500' stop='20261013080000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261013080000 -0500' stop='20261013120000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261013120000 -0500' stop='20261013160000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261013160000 -0500' stop='20261013200000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261013200000 -0500' stop='20261014000000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261014000000 -0500' stop='20261014040000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261014040000 -0500' stop='20261014080000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261014080000 -0500' stop='20261014120000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261014120000 -0500' stop='20261014160000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261014160000 -0500' stop='20261014200000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261014200000 -0500' stop='20261015000000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261015000000 -0500' stop='20261015040000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261015040000 -0500' stop='20261015080000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261015080000 -0500' stop='20261015120000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261015120000 -0500' stop='20261015130000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261015130000 -0500' stop='20261015140000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261015140000 -0500' stop='20261015170000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261015170000 -0500' stop='20261015200000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261015200000 -0500' stop='20261015220000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261015220000 -0500' stop='20261016000000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261016000000 -0500' stop='20261016040000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261016040000 -0500' stop='20261016080000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261016080000 -0500' stop='20261016120000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261016120000 -0500' stop='20261016130000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261016130000 -0500' stop='20261016140000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261016140000 -0500' stop='20261016170000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261016170000 -0500' stop='20261016200000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261016200000 -0500' stop='20261016220000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261016220000 -0500' stop='20261017000000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261017000000 -0500' stop='20261017040000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261017040000 -0500' stop='20261017080000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261017080000 -0500' stop='20261017120000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261017120000 -0500' stop='20261017160000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261017160000 -0500' stop='20261017200000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261017200000 -0500' stop='20261018000000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261018000000 -0500' stop='20261018040000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261018040000 -0500' stop='20261018080000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261018080000 -0500' stop='20261018120000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261018120000 -0500' stop='20261018160000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261018160000 -0500' stop='20261018200000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261018200000 -0500' stop='20261019000000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261019000000 -0500' stop='20261019040000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261019040000 -0500' stop='20261019080000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261019080000 -0500' stop='20261019120000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261019120000 -0500' stop='20261019150000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261019150000 -0500' stop='20261019160000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261019160000 -0500' stop='20261019190000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261019190000 -0500' stop='20261019220000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261019220000 -0500' stop='20261020000000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261020000000 -0500' stop='20261020040000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261020040000 -0500' stop='20261020080000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261020080000 -0500' stop='20261020120000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261020120000 -0500' stop='20261020130000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261020130000 -0500' stop='20261020140000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261020140000 -0500' stop='20261020170000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261020170000 -0500' stop='20261020200000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261020200000 -0500' stop='20261021000000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261021000000 -0500' stop='20261021040000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261021040000 -0500' stop='20261021080000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261021080000 -0500' stop='20261021120000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261021120000 -0500' stop='20261021160000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261021160000 -0500' stop='20261021200000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261021200000 -0500' stop='20261022000000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261022000000 -0500' stop='20261022040000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261022040000 -0500' stop='20261022080000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261022080000 -0500' stop='20261022120000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261022120000 -0500' stop='20261022160000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261022160000 -0500' stop='20261022200000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261022200000 -0500' stop='20261023000000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261023000000 -0500' stop='20261023040000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261023040000 -0500' stop='20261023080000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261023080000 -0500' stop='20261023120000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261023120000 -0500' stop='20261023160000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261023160000 -0500' stop='20261023200000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261023200000 -0500' stop='20261024000000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261024000000 -0500' stop='20261024040000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261024040000 -0500' stop='20261024080000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261024080000 -0500' stop='20261024120000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261024120000 -0500' stop='20261024160000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261024160000 -0500' stop='20261024200000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261024200000 -0500' stop='20261025000000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261025000000 -0500' stop='20261025040000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261025040000 -0500' stop='20261025080000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
+</programme>
+<programme channel='12008' start='20261025080000 -0500' stop='20261025120000 -0500'>
+<title>RADIO HIT TV</title>
+<desc>Canal oficial de la Elección de la Reina de Cuenca 2026-2027</desc>
+<category>0</category>
 </programme>
